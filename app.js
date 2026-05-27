@@ -161,6 +161,8 @@ function renderScreen(screenKey) {
 
   app.innerHTML = "";
 
+  window.scrollTo(0, 0);
+
   const card =
     document.createElement("div");
 
