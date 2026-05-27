@@ -1,0 +1,308 @@
+/*
+  全体
+*/
+body {
+
+  margin: 0;
+
+  padding: 0;
+
+  background:
+    #f3f5f7;
+
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  color:
+    #333;
+
+}
+
+/*
+  レイアウト
+*/
+.container {
+
+  max-width:
+    640px;
+
+  margin:
+    0 auto;
+
+  padding:
+    24px 16px 80px;
+
+}
+
+/*
+  タイトル
+*/
+h1 {
+
+  margin-top:
+    12px;
+
+  margin-bottom:
+    20px;
+
+  font-size:
+    32px;
+
+  line-height:
+    1.4;
+
+  text-align:
+    center;
+
+  color:
+    #37474f;
+
+}
+
+/*
+  説明文
+*/
+.notice {
+
+  margin-bottom:
+    28px;
+
+  padding:
+    18px;
+
+  background:
+    #ffffff;
+
+  border-radius:
+    16px;
+
+  line-height:
+    1.9;
+
+  font-size:
+    15px;
+
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.05);
+
+}
+
+/*
+  カード
+*/
+.card {
+
+  background:
+    #ffffff;
+
+  border-radius:
+    20px;
+
+  padding:
+    24px;
+
+  box-shadow:
+    0 4px 12px rgba(0,0,0,0.06);
+
+}
+
+/*
+  質問タイトル
+*/
+.question {
+
+  font-size:
+    24px;
+
+  font-weight:
+    bold;
+
+  line-height:
+    1.6;
+
+  margin-bottom:
+    24px;
+
+  color:
+    #37474f;
+
+}
+
+/*
+  ボタン
+*/
+.button {
+
+  width:
+    100%;
+
+  border:
+    none;
+
+  border-radius:
+    16px;
+
+  padding:
+    18px;
+
+  margin-bottom:
+    16px;
+
+  color:
+    white;
+
+  font-size:
+    16px;
+
+  font-weight:
+    bold;
+
+  cursor:
+    pointer;
+
+  transition:
+    0.2s;
+
+}
+
+/*
+  ボタン hover
+*/
+.button:hover {
+
+  opacity:
+    0.9;
+
+  transform:
+    translateY(-1px);
+
+}
+
+/*
+  戻るボタン
+*/
+.back-button {
+
+  background:
+    #b0bec5;
+
+  color:
+    #263238;
+
+  margin-top:
+    12px;
+
+}
+
+/*
+  プルダウン
+*/
+.select {
+
+  width:
+    100%;
+
+  padding:
+    14px;
+
+  margin-bottom:
+    16px;
+
+  border:
+    1px solid #cfd8dc;
+
+  border-radius:
+    12px;
+
+  font-size:
+    16px;
+
+  background:
+    white;
+
+  box-sizing:
+    border-box;
+
+}
+
+/*
+  リンク
+*/
+a {
+
+  color:
+    #1565c0;
+
+  text-decoration:
+    none;
+
+  line-height:
+    1.8;
+
+}
+
+a:hover {
+
+  text-decoration:
+    underline;
+
+}
+
+/*
+  フッター注意書き
+*/
+.footer-note {
+
+  margin-top:
+    48px;
+
+  padding:
+    20px;
+
+  font-size:
+    12px;
+
+  line-height:
+    1.9;
+
+  color:
+    #666;
+
+  text-align:
+    center;
+
+}
+
+/*
+  スマホ対応
+*/
+@media (max-width: 480px) {
+
+  h1 {
+
+    font-size:
+      26px;
+
+  }
+
+  .question {
+
+    font-size:
+      21px;
+
+  }
+
+  .button {
+
+    font-size:
+      15px;
+
+    padding:
+      16px;
+
+  }
+
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>支援センターはどこ？｜地域包括支援センター検索（東京都）</title>
+
+  <meta
+    name="description"
+    content="世田谷区・練馬区・板橋区・北区・杉並区・中野区・豊島区・新宿区・足立区・荒川区・文京区・墨田区・江東区・台東区・品川区・大田区・江戸川区の地域包括支援センターを地域で検索。高齢者の介護相談・認知症の相談はお近くのセンターへ。"
+  >
+  <meta name="keywords" content="地域包括支援センター,高齢者相談,介護相談,認知症,地域検索,世田谷区,練馬区,板橋区,北区,杉並区,中野区,豊島区,新宿区,足立区,荒川区,文京区,墨田区,江東区,台東区,品川区,大田区,江戸川区">
+
+  <!-- OGP -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="支援センターはどこ？｜地域包括支援センター検索（東京都）">
+  <meta property="og:description" content="世田谷区・練馬区・板橋区・北区・杉並区・中野区・豊島区・新宿区・足立区・荒川区・文京区・墨田区・江東区・台東区・品川区・大田区・江戸川区の地域包括支援センターを地域で検索。高齢者の介護相談・認知症の相談はお近くのセンターへ。">
+  <meta property="og:locale" content="ja_JP">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="支援センターはどこ？｜地域包括支援センター検索（東京都）">
+  <meta name="twitter:description" content="世田谷区・練馬区・板橋区・北区・杉並区・中野区・豊島区・新宿区・足立区・荒川区・文京区・墨田区・江東区・台東区・品川区・大田区・江戸川区の地域包括支援センターを地域で検索。高齢者の介護相談・認知症の相談はお近くのセンターへ。">
+
+  <!-- PWA -->
+  <link
+    rel="manifest"
+    href="manifest.json"
+  >
+
+  <!-- テーマカラー -->
+  <meta
+    name="theme-color"
+    content="#8bc34a"
+  >
+
+  <!-- iPhone アイコン -->
+  <link
+    rel="apple-touch-icon"
+    href="icons/icon-192.png"
+  >
+
+  <!-- CSS -->
+  <link
+    rel="stylesheet"
+    href="style.css"
+  >
+
+</head>
+
+<body>
+
+  <main class="container">
+
+    <!-- タイトル -->
+    <h1>
+      親の相談サポート
+    </h1>
+
+    <!-- 説明 -->
+    <p class="notice">
+
+      「まだ相談するほどか分からない」<br>
+      「何を聞けばいいか分からない」<br>
+      そんな段階でも利用できます。
+
+    </p>
+
+    <!-- アプリ本体 -->
+    <div id="app"></div>
+
+    <!-- 注意書き -->
+    <footer class="footer-note">
+
+      このアプリは個人作成の支援ツールです。<br>
+
+      実際の相談先・電話番号・受付情報などは、<br>
+      必ず各自治体の公式情報をご確認ください。
+
+    </footer>
+
+  </main>
+
+  <!-- データ -->
+  <script src="data.js"></script>
+
+  <!-- アプリ -->
+  <script src="app.js"></script>
+
+  <!-- Service Worker -->
+  <script>
+
+    if ("serviceWorker" in navigator) {
+
+      window.addEventListener(
+        "load",
+        () => {
+
+          navigator.serviceWorker
+            .register("./service-worker.js")
+            .then(() => {
+
+              console.log(
+                "Service Worker 登録成功"
+              );
+
+            })
+            .catch(error => {
+
+              console.log(
+                "Service Worker 登録失敗",
+                error
+              );
+
+            });
+
+        }
+      );
+
+    }
+
+  </script>
+
+</body>
+</html>
