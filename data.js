@@ -2413,7 +2413,7 @@ const centers = [
     city: "江戸川区",
     area: "平井",
     name: "平井熟年相談室",
-    tel: "03-3618-0324"
+    tel: "03-3618-0324",
     url: "http://wel-edogawa.jp/"
   },
 
@@ -2423,7 +2423,7 @@ const centers = [
     city: "江戸川区",
     area: "平井・小松川",
     name: "平井小松川熟年相談室",
-    tel: "03-5627-1190"
+    tel: "03-5627-1190",
     url: "https://shirohige.clinic/"
   },
 
