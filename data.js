@@ -2575,6 +2575,146 @@ const centers = [
     name: "南葛西熟年相談室",
     tel: "03-5659-5353",
     url: "http://e-houseikai.or.jp/midorinosato-fukurakuen.html"
+  },
+
+  {
+    id: 264,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "水元",
+    name: "高齢者総合相談センター水元",
+    tel: "03-3826-2419",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006843.html"
+  },
+
+  {
+    id: 265,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "水元公園",
+    name: "高齢者総合相談センター水元公園",
+    tel: "03-6231-3567",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1018194.html"
+  },
+
+  {
+    id: 266,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "新宿",
+    name: "高齢者総合相談センター新宿",
+    tel: "03-3826-8726",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006846.html"
+  },
+
+  {
+    id: 267,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "金町",
+    name: "高齢者総合相談センター金町",
+    tel: "03-3826-5031",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006847.html"
+  },
+
+  {
+    id: 268,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "高砂",
+    name: "高齢者総合相談センター高砂",
+    tel: "03-5889-8600",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006848.html"
+  },
+
+  {
+    id: 269,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "柴又",
+    name: "高齢者総合相談センター柴又",
+    tel: "03-5876-9531",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006849.html"
+  },
+
+  {
+    id: 270,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "青戸",
+    name: "高齢者総合相談センター青戸",
+    tel: "03-5629-5719",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006850.html"
+  },
+
+  {
+    id: 271,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "亀有",
+    name: "高齢者総合相談センター亀有",
+    tel: "03-6240-7630",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006851.html"
+  },
+
+  {
+    id: 272,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "堀切",
+    name: "高齢者総合相談センター堀切",
+    tel: "03-3697-7815",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006852.html"
+  },
+
+  {
+    id: 273,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "お花茶屋",
+    name: "高齢者総合相談センターお花茶屋",
+    tel: "03-6662-7907",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006853.html"
+  },
+
+  {
+    id: 274,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "東四つ木",
+    name: "高齢者総合相談センター東四つ木",
+    tel: "03-5698-2204",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006854.html"
+  },
+
+  {
+    id: 275,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "立石",
+    name: "高齢者総合相談センター立石",
+    tel: "03-6657-6140",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006855.html"
+  },
+
+  {
+    id: 276,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "奥戸",
+    name: "高齢者総合相談センター奥戸",
+    tel: "03-5670-5212",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006856.html"
+  },
+
+  {
+    id: 277,
+    prefecture: "東京都",
+    city: "葛飾区",
+    area: "新小岩",
+    name: "高齢者総合相談センター新小岩",
+    tel: "03-5879-9328",
+    url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006857.html"
   }
 
 ];

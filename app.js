@@ -147,7 +147,10 @@ const cityLinks = {
 "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/index.html",
 
   "江戸川区":
-"https://www.city.edogawa.tokyo.jp/e040/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/jukunensha/shiencenter.html"
+"https://www.city.edogawa.tokyo.jp/e040/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/jukunensha/shiencenter.html",
+
+  "葛飾区":
+"https://www.city.katsushika.lg.jp/institution/1030223/1006835/index.html"
 
 };
 
