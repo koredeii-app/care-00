@@ -159,7 +159,10 @@ const cityLinks = {
 "https://www.city.meguro.tokyo.jp/shisetsu/genre/hokenfukushi/hokenfukushi/index.html",
 
   "千代田区":
-"https://www.city.chiyoda.lg.jp/koho/kurashi/hoken/kaigo/hokatsu.html"
+"https://www.city.chiyoda.lg.jp/koho/kurashi/hoken/kaigo/hokatsu.html",
+
+  "中央区":
+"https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
 
 };
 

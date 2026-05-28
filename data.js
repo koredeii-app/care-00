@@ -2835,6 +2835,66 @@ const centers = [
     name: "高齢者あんしんセンター神田",
     tel: "03-5297-2255",
     url: "https://www.city.chiyoda.lg.jp/shisetsu/koresha/anshincenter-kanda.html"
+  },
+
+  {
+    id: 290,
+    prefecture: "東京都",
+    city: "中央区",
+    area: "京橋",
+    name: "京橋おとしより相談センター",
+    tel: "03-3545-1107",
+    url: "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+
+  {
+    id: 291,
+    prefecture: "東京都",
+    city: "中央区",
+    area: "日本橋",
+    name: "日本橋おとしより相談センター",
+    tel: "03-3665-3547",
+    url: "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+
+  {
+    id: 292,
+    prefecture: "東京都",
+    city: "中央区",
+    area: "人形町",
+    name: "人形町おとしより相談センター",
+    tel: "03-5847-5580",
+    url: "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+
+  {
+    id: 293,
+    prefecture: "東京都",
+    city: "中央区",
+    area: "月島",
+    name: "月島おとしより相談センター",
+    tel: "03-3531-1005",
+    url: "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+
+  {
+    id: 294,
+    prefecture: "東京都",
+    city: "中央区",
+    area: "勝どき",
+    name: "勝どきおとしより相談センター",
+    tel: "03-6228-2205",
+    url: "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+
+  {
+    id: 295,
+    prefecture: "東京都",
+    city: "中央区",
+    area: "晴海",
+    name: "晴海おとしより相談センター",
+    tel: "03-5547-4871",
+    url: "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
   }
 
 ];
