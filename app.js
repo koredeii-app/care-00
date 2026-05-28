@@ -156,7 +156,10 @@ const cityLinks = {
 "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/index.html",
 
   "目黒区":
-"https://www.city.meguro.tokyo.jp/shisetsu/genre/hokenfukushi/hokenfukushi/index.html"
+"https://www.city.meguro.tokyo.jp/shisetsu/genre/hokenfukushi/hokenfukushi/index.html",
+
+  "千代田区":
+"https://www.city.chiyoda.lg.jp/koho/kurashi/hoken/kaigo/hokatsu.html"
 
 };
 

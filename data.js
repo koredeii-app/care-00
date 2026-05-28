@@ -2815,6 +2815,26 @@ const centers = [
     name: "西部包括支援センター",
     tel: "03-5701-7244",
     url: "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/hokenfukushi/seishien.html"
+  },
+
+  {
+    id: 288,
+    prefecture: "東京都",
+    city: "千代田区",
+    area: "麹町地区",
+    name: "高齢者あんしんセンター麹町",
+    tel: "03-3265-6141",
+    url: "https://www.city.chiyoda.lg.jp/shisetsu/koresha/anshincenter-kojimachi.html"
+  },
+
+  {
+    id: 289,
+    prefecture: "東京都",
+    city: "千代田区",
+    area: "神田地区",
+    name: "高齢者あんしんセンター神田",
+    tel: "03-5297-2255",
+    url: "https://www.city.chiyoda.lg.jp/shisetsu/koresha/anshincenter-kanda.html"
   }
 
 ];
