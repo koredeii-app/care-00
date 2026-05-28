@@ -150,7 +150,10 @@ const cityLinks = {
 "https://www.city.edogawa.tokyo.jp/e040/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/jukunensha/shiencenter.html",
 
   "葛飾区":
-"https://www.city.katsushika.lg.jp/institution/1030223/1006835/index.html"
+"https://www.city.katsushika.lg.jp/institution/1030223/1006835/index.html",
+
+  "港区":
+"https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/index.html"
 
 };
 

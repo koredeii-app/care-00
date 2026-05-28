@@ -2715,6 +2715,56 @@ const centers = [
     name: "高齢者総合相談センター新小岩",
     tel: "03-5879-9328",
     url: "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006857.html"
+  },
+
+  {
+    id: 278,
+    prefecture: "東京都",
+    city: "港区",
+    area: "芝地区",
+    name: "芝地区高齢者相談センター",
+    tel: "03-5232-0840",
+    url: "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/01.html"
+  },
+
+  {
+    id: 279,
+    prefecture: "東京都",
+    city: "港区",
+    area: "麻布地区",
+    name: "麻布地区高齢者相談センター",
+    tel: "03-3453-8032",
+    url: "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/02.html"
+  },
+
+  {
+    id: 280,
+    prefecture: "東京都",
+    city: "港区",
+    area: "赤坂地区",
+    name: "赤坂地区高齢者相談センター",
+    tel: "03-5410-3415",
+    url: "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/03.html"
+  },
+
+  {
+    id: 281,
+    prefecture: "東京都",
+    city: "港区",
+    area: "高輪地区",
+    name: "高輪地区高齢者相談センター",
+    tel: "03-3449-9669",
+    url: "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/04.html"
+  },
+
+  {
+    id: 282,
+    prefecture: "東京都",
+    city: "港区",
+    area: "芝浦港南地区",
+    name: "芝浦港南地区高齢者相談センター",
+    tel: "03-3450-5905",
+    url: "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/05.html"
   }
 
 ];
