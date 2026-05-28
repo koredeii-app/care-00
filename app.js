@@ -165,7 +165,79 @@ const cityLinks = {
 "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html",
 
   "渋谷区":
-"https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/"
+"https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/",
+
+  "大阪市北区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市都島区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市福島区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市此花区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市中央区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市西区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市港区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市大正区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市天王寺区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市浪速区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市西淀川区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市淀川区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市東淀川区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市東成区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市生野区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市旭区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市城東区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市鶴見区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市阿倍野区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市住之江区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市住吉区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市東住吉区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市平野区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "大阪市西成区":
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html"
 
 };
 
