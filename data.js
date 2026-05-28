@@ -2765,6 +2765,56 @@ const centers = [
     name: "芝浦港南地区高齢者相談センター",
     tel: "03-3450-5905",
     url: "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/05.html"
+  },
+
+  {
+    id: 283,
+    prefecture: "東京都",
+    city: "目黒区",
+    area: "北部",
+    name: "北部包括支援センター",
+    tel: "03-5428-6891",
+    url: "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/hokushien.html"
+  },
+
+  {
+    id: 284,
+    prefecture: "東京都",
+    city: "目黒区",
+    area: "東部",
+    name: "東部包括支援センター",
+    tel: "03-5724-8030",
+    url: "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/toshien.html"
+  },
+
+  {
+    id: 285,
+    prefecture: "東京都",
+    city: "目黒区",
+    area: "中央",
+    name: "中央包括支援センター",
+    tel: "03-5724-8066",
+    url: "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/chushien.html"
+  },
+
+  {
+    id: 286,
+    prefecture: "東京都",
+    city: "目黒区",
+    area: "南部",
+    name: "南部包括支援センター",
+    tel: "03-5724-8033",
+    url: "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/nanshien.html"
+  },
+
+  {
+    id: 287,
+    prefecture: "東京都",
+    city: "目黒区",
+    area: "西部",
+    name: "西部包括支援センター",
+    tel: "03-5701-7244",
+    url: "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/hokenfukushi/seishien.html"
   }
 
 ];

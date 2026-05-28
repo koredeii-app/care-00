@@ -153,7 +153,10 @@ const cityLinks = {
 "https://www.city.katsushika.lg.jp/institution/1030223/1006835/index.html",
 
   "港区":
-"https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/index.html"
+"https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/index.html",
+
+  "目黒区":
+"https://www.city.meguro.tokyo.jp/shisetsu/genre/hokenfukushi/hokenfukushi/index.html"
 
 };
 
