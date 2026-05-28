@@ -2895,6 +2895,116 @@ const centers = [
     name: "晴海おとしより相談センター",
     tel: "03-5547-4871",
     url: "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+
+  {
+    id: 296,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "恵比寿・広尾",
+    name: "豊沢・新橋地域包括支援センター",
+    tel: "03-3440-1671",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/toyosawa_sinbasi_sien.html"
+  },
+
+  {
+    id: 297,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "代官山・恵比寿西",
+    name: "恵比寿西二丁目地域包括支援センター",
+    tel: "03-6427-0273",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/ebisunisi_nityome_sien.html"
+  },
+
+  {
+    id: 298,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "氷川",
+    name: "ひがし健康プラザ地域包括支援センター",
+    tel: "03-5468-5901",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/higasi_puraza_sien.html"
+  },
+
+  {
+    id: 299,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "大向",
+    name: "かんなみの杜・渋谷地域包括支援センター",
+    tel: "03-6433-7535",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/kannami_siensenta-.html"
+  },
+
+  {
+    id: 300,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "富ヶ谷・上原",
+    name: "富ヶ谷・上原地域包括支援センター",
+    tel: "03-3467-2371",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/tomi_ue_sien.html"
+  },
+
+  {
+    id: 301,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "西原",
+    name: "総合ケアコミュニティ・せせらぎ地域包括支援センター",
+    tel: "03-5790-0881",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/seseragi_00009.html"
+  },
+
+  {
+    id: 302,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "初台",
+    name: "あやめの苑・代々木地域包括支援センター",
+    tel: "03-3372-1038",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/ayame_yoyogi_youkatu.html"
+  },
+
+  {
+    id: 303,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "本町",
+    name: "つばめの里・本町東地域包括支援センター",
+    tel: "03-5334-9977",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/tubame_honmati_sien.html"
+  },
+
+  {
+    id: 304,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "笹幡",
+    name: "笹幡地域包括支援センター",
+    tel: "03-5365-1611",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/sasahata_sien.html"
+  },
+
+  {
+    id: 305,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "千駄ヶ谷",
+    name: "千駄ヶ谷・北参道地域包括支援センター",
+    tel: "03-3475-1461",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/sendagaya_kisan_sien.html"
+  },
+
+  {
+    id: 306,
+    prefecture: "東京都",
+    city: "渋谷区",
+    area: "神宮前",
+    name: "障害者福祉センターはぁとぴあ原宿地域包括支援センター",
+    tel: "03-3423-2112",
+    url: "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/kea_harazyuku_sien.html"
   }
 
 ];
