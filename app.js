@@ -781,6 +781,16 @@ function renderCenterInfo(card) {
     ["家族", "知人", "近隣者"]
   );
 
+  const livingSelect = createSelect(
+    "住まい",
+    ["同居", "一人暮らし"]
+  );
+
+  const careManagerSelect = createSelect(
+    "ケアマネージャー",
+    ["無し", "担当者がいる"]
+  );
+
   /*
     症状チェック項目
   */
@@ -796,6 +806,14 @@ function renderCenterInfo(card) {
     {
       label: "食事が不定期になっている。",
       sentence: "食事が不定期になっている"
+    },
+    {
+      label: "暴言・暴行がある。",
+      sentence: "暴言・暴行がある"
+    },
+    {
+      label: "お金の管理ができていない。",
+      sentence: "お金の管理ができていない"
     }
   ];
 
@@ -905,6 +923,8 @@ function renderCenterInfo(card) {
     const gender = genderSelect.value;
     const since = sinceSelect.value;
     const relationship = relationshipSelect.value;
+    const living = livingSelect.value;
+    const careManager = careManagerSelect.value;
 
     const symptoms =
       checkboxRefs
@@ -912,8 +932,8 @@ function renderCenterInfo(card) {
         .map(r => r.sentence);
 
     if (
-      !age && !gender && !since &&
-      !relationship && symptoms.length === 0
+      !age && !gender && !since && !relationship &&
+      !living && !careManager && symptoms.length === 0
     ) {
       return "（情報を選択すると、ここに文章が表示されます）";
     }
@@ -933,6 +953,16 @@ function renderCenterInfo(card) {
     }
 
     s += "、状態です。";
+
+    if (living) {
+      s += "住まいは" + living + "です。";
+    }
+
+    if (careManager === "無し") {
+      s += "ケアマネージャーはいません。";
+    } else if (careManager === "担当者がいる") {
+      s += "ケアマネージャーの担当者がいます。";
+    }
 
     if (relationship) {
       s += "私は対象者の" + relationship + "です。";
@@ -955,7 +985,7 @@ function renderCenterInfo(card) {
     callButton.disabled = !hasSymptom;
 
     callButton.style.background =
-      hasSymptom ? "#546e7a" : "#b0bec5";
+      hasSymptom ? "#2e7d32" : "#b0bec5";
 
     callButton.style.cursor =
       hasSymptom ? "pointer" : "not-allowed";
@@ -969,6 +999,8 @@ function renderCenterInfo(card) {
   genderSelect.onchange = update;
   sinceSelect.onchange = update;
   relationshipSelect.onchange = update;
+  livingSelect.onchange = update;
+  careManagerSelect.onchange = update;
   checkboxRefs.forEach(r => {
     r.checkbox.onchange = update;
   });
@@ -1042,6 +1074,8 @@ function renderCenterInfo(card) {
   card.appendChild(genderSelect);
   card.appendChild(sinceSelect);
   card.appendChild(relationshipSelect);
+  card.appendChild(livingSelect);
+  card.appendChild(careManagerSelect);
   card.appendChild(checkContainer);
   card.appendChild(sentenceBox);
   card.appendChild(callButton);
