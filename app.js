@@ -250,7 +250,10 @@ const cityLinks = {
 "https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
 
   "大阪市西成区":
-"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html"
+"https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
+
+  "八王子市":
+"https://www.city.hachioji.tokyo.jp/kurashi/welfare/004/005/chikihoukatsushien/p018114.html"
 
 };
 
