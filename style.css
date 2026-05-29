@@ -277,6 +277,16 @@ a:hover {
 }
 
 /*
+  電話ボタン（無効状態）
+*/
+.button:disabled {
+
+  opacity:
+    0.6;
+
+}
+
+/*
   スマホ対応
 */
 @media (max-width: 480px) {

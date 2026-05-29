@@ -3,6 +3,8 @@ const app =
 
 const historyStack = [];
 
+let selectedCenter = null;
+
 /*
   画面データ
 */
@@ -88,6 +90,15 @@ const screens = {
 
     description:
       "何を聞けばいいか分からなくても大丈夫です。\n本人がいなくても相談できます。"
+
+  },
+
+  /*
+    センター情報・確認チェック
+  */
+  centerInfo: {
+
+    question: ""
 
   }
 
@@ -269,7 +280,9 @@ function renderScreen(screenKey) {
     "question";
 
   question.textContent =
-    screen.question;
+    screenKey === "centerInfo" && selectedCenter
+      ? selectedCenter.name
+      : screen.question;
 
   card.appendChild(question);
 
@@ -303,6 +316,12 @@ function renderScreen(screenKey) {
   if (screenKey === "regionSelect") {
 
     renderRegionSelect(card);
+
+  }
+
+  if (screenKey === "centerInfo") {
+
+    renderCenterInfo(card);
 
   }
 
@@ -460,15 +479,6 @@ function renderRegionSelect(card) {
     "select";
 
   /*
-    結果表示（ハンドラより先に宣言）
-  */
-  const result =
-    document.createElement("div");
-
-  result.style.marginTop =
-    "28px";
-
-  /*
     初期表示
   */
   prefectureSelect.innerHTML =
@@ -515,8 +525,6 @@ function renderRegionSelect(card) {
     areaSelect.innerHTML =
       `<option value="">地域を選択</option>`;
 
-    result.innerHTML = "";
-
     const cities = [
       ...new Set(
         centers
@@ -552,8 +560,6 @@ function renderRegionSelect(card) {
     areaSelect.innerHTML =
       `<option value="">地域を選択</option>`;
 
-    result.innerHTML = "";
-
     const areas = [
       ...new Set(
         centers
@@ -583,196 +589,24 @@ function renderRegionSelect(card) {
   };
 
   /*
-    地域変更
+    地域変更 → センター情報画面へ遷移
   */
   areaSelect.onchange = () => {
 
-    result.innerHTML = "";
-
-    const selected =
+    const found =
       centers.find(c =>
         c.prefecture === prefectureSelect.value &&
         c.city === citySelect.value &&
         c.area === areaSelect.value
       );
 
-    if (!selected) return;
+    if (!found) return;
 
-    /*
-      センター名
-    */
-    const centerName =
-      document.createElement("div");
+    selectedCenter = found;
 
-    centerName.textContent =
-      selected.name;
+    historyStack.push("regionSelect");
 
-    centerName.style.fontSize =
-      "24px";
-
-    centerName.style.fontWeight =
-      "bold";
-
-    centerName.style.lineHeight =
-      "1.5";
-
-    centerName.style.marginBottom =
-      "18px";
-
-    /*
-      電話番号
-    */
-    const tel =
-      document.createElement("div");
-
-    tel.textContent =
-      "電話番号 : " + selected.tel;
-
-    tel.style.fontSize =
-      "18px";
-
-    tel.style.marginBottom =
-      "24px";
-
-    /*
-      説明
-    */
-    const support =
-      document.createElement("div");
-
-    support.innerHTML = `
-      <p style="line-height:1.9;">
-      ・「まだ早いかも」という段階でも相談されています。
-      </p>
-    `;
-
-    support.style.marginBottom =
-      "24px";
-
-    /*
-      電話ボタン
-    */
-    const callButton =
-      document.createElement("button");
-
-    callButton.className =
-      "button";
-
-    callButton.style.background =
-      "#546e7a";
-
-    callButton.textContent =
-      "電話をかける";
-
-    callButton.onclick = () => {
-
-      const ok = confirm(
-        selected.tel + " に電話しますか？"
-      );
-
-      if (ok) {
-
-        window.location.href =
-          "tel:" + selected.tel;
-
-      }
-
-    };
-
-    /*
-      リンク
-    */
-    const link =
-      document.createElement("a");
-
-    link.href =
-      selected.url;
-
-    link.target =
-      "_blank";
-
-    link.textContent =
-      selected.name + " について確認してみる";
-
-    link.className =
-      "button";
-
-    link.style.display =
-      "block";
-
-    link.style.width =
-      "100%";
-
-    link.style.boxSizing =
-      "border-box";
-
-    link.style.textAlign =
-      "center";
-
-    link.style.textDecoration =
-      "none";
-
-    link.style.color =
-      "white";
-
-    link.style.background =
-      "#78909c";
-
-    link.style.marginTop =
-      "16px";
-
-    /*
-      補足案内
-    */
-    const fallbackNotice =
-      document.createElement("p");
-
-    fallbackNotice.textContent =
-      "※ページが見つからない場合は、公式の一覧をご確認ください。";
-
-    fallbackNotice.style.fontSize =
-      "13px";
-
-    fallbackNotice.style.lineHeight =
-      "1.7";
-
-    fallbackNotice.style.marginTop =
-      "20px";
-
-    fallbackNotice.style.color =
-      "#666";
-
-    /*
-      一覧ページリンク
-    */
-    const fallbackLink =
-      document.createElement("a");
-
-    fallbackLink.href =
-      cityLinks[citySelect.value];
-
-    fallbackLink.target =
-      "_blank";
-
-    fallbackLink.textContent =
-      "公式の一覧を確認する";
-
-    fallbackLink.style.display =
-      "block";
-
-    fallbackLink.style.marginTop =
-      "10px";
-
-    /*
-      追加
-    */
-    result.appendChild(centerName);
-    result.appendChild(tel);
-    result.appendChild(support);
-    result.appendChild(callButton);
-    result.appendChild(link);
-    result.appendChild(fallbackNotice);
-    result.appendChild(fallbackLink);
+    renderScreen("centerInfo");
 
   };
 
@@ -816,9 +650,285 @@ function renderRegionSelect(card) {
 
   card.appendChild(areaSelect);
 
-  card.appendChild(result);
+}
+/*
+  センター情報・確認チェック表示
+*/
+function renderCenterInfo(card) {
+
+  if (!selectedCenter) return;
+
+  /*
+    電話番号
+  */
+  const tel =
+    document.createElement("div");
+
+  tel.textContent =
+    "電話番号 : " + selectedCenter.tel;
+
+  tel.style.fontSize =
+    "18px";
+
+  tel.style.color =
+    "#546e7a";
+
+  tel.style.marginBottom =
+    "28px";
+
+  card.appendChild(tel);
+
+  /*
+    チェックリスト見出し
+  */
+  const checkHeader =
+    document.createElement("div");
+
+  checkHeader.textContent =
+    "電話前に確認しましょう";
+
+  checkHeader.style.fontSize =
+    "16px";
+
+  checkHeader.style.fontWeight =
+    "bold";
+
+  checkHeader.style.marginBottom =
+    "16px";
+
+  checkHeader.style.color =
+    "#37474f";
+
+  card.appendChild(checkHeader);
+
+  /*
+    チェック項目
+  */
+  const checkItems = [
+    "相談したい内容がある（物忘れ・介護の疲れ・一人暮らしの心配など）",
+    "対象者の名前・年齢を把握している",
+    "対象者の生活の様子がわかる（一人暮らし・同居など）",
+    "自分の名前・折り返し先の連絡先を用意した"
+  ];
+
+  const checkboxes = [];
+
+  const checkList =
+    document.createElement("div");
+
+  checkList.style.marginBottom =
+    "28px";
+
+  /*
+    電話ボタン（先に作成してチェック変化時に参照）
+  */
+  const callButton =
+    document.createElement("button");
+
+  callButton.className =
+    "button";
+
+  callButton.textContent =
+    "電話をかける";
+
+  callButton.disabled = true;
+
+  callButton.style.background =
+    "#b0bec5";
+
+  callButton.style.cursor =
+    "not-allowed";
+
+  checkItems.forEach(item => {
+
+    const label =
+      document.createElement("label");
+
+    label.style.display =
+      "flex";
+
+    label.style.alignItems =
+      "flex-start";
+
+    label.style.gap =
+      "12px";
+
+    label.style.marginBottom =
+      "16px";
+
+    label.style.cursor =
+      "pointer";
+
+    label.style.fontSize =
+      "15px";
+
+    label.style.lineHeight =
+      "1.6";
+
+    const checkbox =
+      document.createElement("input");
+
+    checkbox.type =
+      "checkbox";
+
+    checkbox.style.marginTop =
+      "3px";
+
+    checkbox.style.width =
+      "20px";
+
+    checkbox.style.height =
+      "20px";
+
+    checkbox.style.flexShrink =
+      "0";
+
+    checkbox.style.cursor =
+      "pointer";
+
+    checkbox.style.accentColor =
+      "#546e7a";
+
+    checkbox.onchange = () => {
+
+      const allChecked =
+        checkboxes.every(cb => cb.checked);
+
+      callButton.disabled = !allChecked;
+
+      callButton.style.background =
+        allChecked ? "#546e7a" : "#b0bec5";
+
+      callButton.style.cursor =
+        allChecked ? "pointer" : "not-allowed";
+
+    };
+
+    checkboxes.push(checkbox);
+
+    const text =
+      document.createElement("span");
+
+    text.textContent = item;
+
+    label.appendChild(checkbox);
+    label.appendChild(text);
+    checkList.appendChild(label);
+
+  });
+
+  card.appendChild(checkList);
+
+  /*
+    電話ボタン動作
+  */
+  callButton.onclick = () => {
+
+    if (callButton.disabled) return;
+
+    const ok = confirm(
+      selectedCenter.tel + " に電話しますか？"
+    );
+
+    if (ok) {
+
+      window.location.href =
+        "tel:" + selectedCenter.tel;
+
+    }
+
+  };
+
+  card.appendChild(callButton);
+
+  /*
+    リンク
+  */
+  const link =
+    document.createElement("a");
+
+  link.href =
+    selectedCenter.url;
+
+  link.target =
+    "_blank";
+
+  link.textContent =
+    selectedCenter.name + " について確認してみる";
+
+  link.className =
+    "button";
+
+  link.style.display =
+    "block";
+
+  link.style.width =
+    "100%";
+
+  link.style.boxSizing =
+    "border-box";
+
+  link.style.textAlign =
+    "center";
+
+  link.style.textDecoration =
+    "none";
+
+  link.style.color =
+    "white";
+
+  link.style.background =
+    "#78909c";
+
+  link.style.marginTop =
+    "16px";
+
+  card.appendChild(link);
+
+  /*
+    補足案内
+  */
+  const fallbackNotice =
+    document.createElement("p");
+
+  fallbackNotice.textContent =
+    "※ページが見つからない場合は、公式の一覧をご確認ください。";
+
+  fallbackNotice.style.fontSize =
+    "13px";
+
+  fallbackNotice.style.lineHeight =
+    "1.7";
+
+  fallbackNotice.style.marginTop =
+    "20px";
+
+  fallbackNotice.style.color =
+    "#666";
+
+  const fallbackLink =
+    document.createElement("a");
+
+  fallbackLink.href =
+    cityLinks[selectedCenter.city] || "#";
+
+  fallbackLink.target =
+    "_blank";
+
+  fallbackLink.textContent =
+    "公式の一覧を確認する";
+
+  fallbackLink.style.display =
+    "block";
+
+  fallbackLink.style.marginTop =
+    "10px";
+
+  card.appendChild(fallbackNotice);
+  card.appendChild(fallbackLink);
 
 }
+
 /*
   初期表示
 */
