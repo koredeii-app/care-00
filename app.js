@@ -264,11 +264,23 @@ function renderScreen(screenKey) {
 
   window.scrollTo(0, 0);
 
+  /*
+    センター情報画面ではnoticeを非表示
+  */
+  const notice =
+    document.querySelector(".notice");
+
+  if (notice) {
+    notice.style.display =
+      screenKey === "centerInfo" ? "none" : "";
+  }
+
   const card =
     document.createElement("div");
 
-  card.className =
-    "card";
+  if (screenKey !== "centerInfo") {
+    card.className = "card";
+  }
 
   /*
     タイトル
