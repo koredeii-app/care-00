@@ -745,6 +745,26 @@ function renderCenterInfo(card) {
   }
 
   /*
+    担当地域
+  */
+  const areaLabel =
+    document.createElement("div");
+
+  areaLabel.textContent =
+    selectedCenter.area;
+
+  areaLabel.style.fontSize =
+    "15px";
+
+  areaLabel.style.color =
+    "#78909c";
+
+  areaLabel.style.marginBottom =
+    "12px";
+
+  card.appendChild(areaLabel);
+
+  /*
     電話番号
   */
   const tel =
