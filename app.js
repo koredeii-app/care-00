@@ -5,6 +5,8 @@ const historyStack = [];
 
 let selectedCenter = null;
 
+let savedRegion = {};
+
 /*
   画面データ
 */
@@ -627,6 +629,11 @@ function renderRegionSelect(card) {
 
     selectedCenter = found;
 
+    savedRegion = {
+      prefecture: prefectureSelect.value,
+      city: citySelect.value
+    };
+
     historyStack.push("regionSelect");
 
     renderScreen("centerInfo");
@@ -661,6 +668,27 @@ function renderRegionSelect(card) {
       citySelect.appendChild(option);
 
     });
+
+  }
+
+  /*
+    前回の選択状態を復元
+  */
+  if (savedRegion.prefecture) {
+
+    prefectureSelect.value =
+      savedRegion.prefecture;
+
+    prefectureSelect.onchange();
+
+    if (savedRegion.city) {
+
+      citySelect.value =
+        savedRegion.city;
+
+      citySelect.onchange();
+
+    }
 
   }
 
