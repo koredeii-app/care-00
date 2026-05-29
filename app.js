@@ -659,6 +659,38 @@ function renderCenterInfo(card) {
   if (!selectedCenter) return;
 
   /*
+    プルダウン生成ヘルパー
+  */
+  function createSelect(placeholder, options) {
+
+    const sel =
+      document.createElement("select");
+
+    sel.className = "select";
+
+    const ph =
+      document.createElement("option");
+
+    ph.value = "";
+    ph.textContent = placeholder;
+    sel.appendChild(ph);
+
+    options.forEach(opt => {
+
+      const o =
+        document.createElement("option");
+
+      o.value = opt;
+      o.textContent = opt;
+      sel.appendChild(o);
+
+    });
+
+    return sel;
+
+  }
+
+  /*
     電話番号
   */
   const tel =
@@ -676,152 +708,248 @@ function renderCenterInfo(card) {
   tel.style.marginBottom =
     "28px";
 
-  card.appendChild(tel);
-
   /*
-    チェックリスト見出し
+    準備ヘッダー
   */
-  const checkHeader =
+  const prepHeader =
     document.createElement("div");
 
-  checkHeader.textContent =
-    "電話前に確認しましょう";
+  prepHeader.textContent =
+    "電話で伝える内容を準備しましょう";
 
-  checkHeader.style.fontSize =
+  prepHeader.style.fontSize =
     "16px";
 
-  checkHeader.style.fontWeight =
+  prepHeader.style.fontWeight =
     "bold";
 
-  checkHeader.style.marginBottom =
+  prepHeader.style.marginBottom =
     "16px";
 
-  checkHeader.style.color =
+  prepHeader.style.color =
     "#37474f";
 
-  card.appendChild(checkHeader);
+  /*
+    プルダウン
+  */
+  const ageSelect = createSelect(
+    "年齢を選択",
+    ["50代", "60代", "70代", "80代", "90代以上"]
+  );
+
+  const genderSelect = createSelect(
+    "性別を選択",
+    ["男性", "女性"]
+  );
+
+  const sinceSelect = createSelect(
+    "いつ頃から",
+    [
+      "数日位前から",
+      "1〜2カ月位前から",
+      "半年位前から",
+      "1年位前から",
+      "1年以上前から"
+    ]
+  );
+
+  const relationshipSelect = createSelect(
+    "対象者との関係",
+    ["家族", "知人", "近隣者"]
+  );
 
   /*
-    チェック項目
+    症状チェック項目
   */
   const checkItems = [
-    "相談したい内容がある（物忘れ・介護の疲れ・一人暮らしの心配など）",
-    "対象者の名前・年齢を把握している",
-    "対象者の生活の様子がわかる（一人暮らし・同居など）",
-    "自分の名前・折り返し先の連絡先を用意した"
+    {
+      label: "会話がかみ合わない。言動がおかしい。",
+      sentence: "会話がかみ合わない・言動がおかしい"
+    },
+    {
+      label: "物忘れが多い。",
+      sentence: "物忘れが多い"
+    },
+    {
+      label: "食事が不定期になっている。",
+      sentence: "食事が不定期になっている"
+    }
   ];
 
-  const checkboxes = [];
+  const checkboxRefs = [];
 
-  const checkList =
+  const checkContainer =
     document.createElement("div");
 
-  checkList.style.marginBottom =
-    "28px";
+  checkContainer.style.marginBottom =
+    "20px";
 
-  /*
-    電話ボタン（先に作成してチェック変化時に参照）
-  */
-  const callButton =
-    document.createElement("button");
+  const checkLabel =
+    document.createElement("div");
 
-  callButton.className =
-    "button";
+  checkLabel.textContent =
+    "気になる症状（複数選択可）";
 
-  callButton.textContent =
-    "電話をかける";
+  checkLabel.style.fontSize =
+    "15px";
 
-  callButton.disabled = true;
+  checkLabel.style.fontWeight =
+    "bold";
 
-  callButton.style.background =
-    "#b0bec5";
+  checkLabel.style.marginBottom =
+    "12px";
 
-  callButton.style.cursor =
-    "not-allowed";
+  checkLabel.style.color =
+    "#37474f";
+
+  checkContainer.appendChild(checkLabel);
 
   checkItems.forEach(item => {
 
     const label =
       document.createElement("label");
 
-    label.style.display =
-      "flex";
-
-    label.style.alignItems =
-      "flex-start";
-
-    label.style.gap =
-      "12px";
-
-    label.style.marginBottom =
-      "16px";
-
-    label.style.cursor =
-      "pointer";
-
-    label.style.fontSize =
-      "15px";
-
-    label.style.lineHeight =
-      "1.6";
+    label.style.display = "flex";
+    label.style.alignItems = "flex-start";
+    label.style.gap = "12px";
+    label.style.marginBottom = "14px";
+    label.style.cursor = "pointer";
+    label.style.fontSize = "15px";
+    label.style.lineHeight = "1.6";
 
     const checkbox =
       document.createElement("input");
 
-    checkbox.type =
-      "checkbox";
+    checkbox.type = "checkbox";
+    checkbox.style.marginTop = "3px";
+    checkbox.style.width = "20px";
+    checkbox.style.height = "20px";
+    checkbox.style.flexShrink = "0";
+    checkbox.style.cursor = "pointer";
+    checkbox.style.accentColor = "#546e7a";
 
-    checkbox.style.marginTop =
-      "3px";
-
-    checkbox.style.width =
-      "20px";
-
-    checkbox.style.height =
-      "20px";
-
-    checkbox.style.flexShrink =
-      "0";
-
-    checkbox.style.cursor =
-      "pointer";
-
-    checkbox.style.accentColor =
-      "#546e7a";
-
-    checkbox.onchange = () => {
-
-      const allChecked =
-        checkboxes.every(cb => cb.checked);
-
-      callButton.disabled = !allChecked;
-
-      callButton.style.background =
-        allChecked ? "#546e7a" : "#b0bec5";
-
-      callButton.style.cursor =
-        allChecked ? "pointer" : "not-allowed";
-
-    };
-
-    checkboxes.push(checkbox);
+    checkboxRefs.push({
+      checkbox,
+      sentence: item.sentence
+    });
 
     const text =
       document.createElement("span");
 
-    text.textContent = item;
+    text.textContent = item.label;
 
     label.appendChild(checkbox);
     label.appendChild(text);
-    checkList.appendChild(label);
+    checkContainer.appendChild(label);
 
   });
 
-  card.appendChild(checkList);
+  /*
+    文章表示ボックス
+  */
+  const sentenceBox =
+    document.createElement("div");
+
+  sentenceBox.style.background = "#f5f7f8";
+  sentenceBox.style.border = "1px solid #cfd8dc";
+  sentenceBox.style.borderRadius = "12px";
+  sentenceBox.style.padding = "16px";
+  sentenceBox.style.fontSize = "15px";
+  sentenceBox.style.lineHeight = "1.9";
+  sentenceBox.style.marginBottom = "24px";
+  sentenceBox.style.color = "#37474f";
+  sentenceBox.textContent =
+    "（情報を選択すると、ここに文章が表示されます）";
 
   /*
-    電話ボタン動作
+    電話ボタン
   */
+  const callButton =
+    document.createElement("button");
+
+  callButton.className = "button";
+  callButton.textContent = "電話をかける";
+  callButton.disabled = true;
+  callButton.style.background = "#b0bec5";
+  callButton.style.cursor = "not-allowed";
+
+  /*
+    文章生成
+  */
+  function buildSentence() {
+
+    const age = ageSelect.value;
+    const gender = genderSelect.value;
+    const since = sinceSelect.value;
+    const relationship = relationshipSelect.value;
+
+    const symptoms =
+      checkboxRefs
+        .filter(r => r.checkbox.checked)
+        .map(r => r.sentence);
+
+    if (
+      !age && !gender && !since &&
+      !relationship && symptoms.length === 0
+    ) {
+      return "（情報を選択すると、ここに文章が表示されます）";
+    }
+
+    let s = "対象者は";
+
+    if (age || gender) {
+      s += "、" + age + gender + "で";
+    }
+
+    if (since || symptoms.length > 0) {
+      s += "、";
+      if (since) s += since;
+      if (symptoms.length > 0) {
+        s += symptoms.join("、");
+      }
+    }
+
+    s += "、状態です。";
+
+    if (relationship) {
+      s += "私は対象者の" + relationship + "です。";
+    }
+
+    return s;
+
+  }
+
+  /*
+    更新処理
+  */
+  function update() {
+
+    sentenceBox.textContent = buildSentence();
+
+    const hasSymptom =
+      checkboxRefs.some(r => r.checkbox.checked);
+
+    callButton.disabled = !hasSymptom;
+
+    callButton.style.background =
+      hasSymptom ? "#546e7a" : "#b0bec5";
+
+    callButton.style.cursor =
+      hasSymptom ? "pointer" : "not-allowed";
+
+  }
+
+  /*
+    イベント設定
+  */
+  ageSelect.onchange = update;
+  genderSelect.onchange = update;
+  sinceSelect.onchange = update;
+  relationshipSelect.onchange = update;
+  checkboxRefs.forEach(r => {
+    r.checkbox.onchange = update;
+  });
+
   callButton.onclick = () => {
 
     if (callButton.disabled) return;
@@ -831,15 +959,11 @@ function renderCenterInfo(card) {
     );
 
     if (ok) {
-
       window.location.href =
         "tel:" + selectedCenter.tel;
-
     }
 
   };
-
-  card.appendChild(callButton);
 
   /*
     リンク
@@ -847,43 +971,19 @@ function renderCenterInfo(card) {
   const link =
     document.createElement("a");
 
-  link.href =
-    selectedCenter.url;
-
-  link.target =
-    "_blank";
-
+  link.href = selectedCenter.url;
+  link.target = "_blank";
   link.textContent =
     selectedCenter.name + " について確認してみる";
-
-  link.className =
-    "button";
-
-  link.style.display =
-    "block";
-
-  link.style.width =
-    "100%";
-
-  link.style.boxSizing =
-    "border-box";
-
-  link.style.textAlign =
-    "center";
-
-  link.style.textDecoration =
-    "none";
-
-  link.style.color =
-    "white";
-
-  link.style.background =
-    "#78909c";
-
-  link.style.marginTop =
-    "16px";
-
-  card.appendChild(link);
+  link.className = "button";
+  link.style.display = "block";
+  link.style.width = "100%";
+  link.style.boxSizing = "border-box";
+  link.style.textAlign = "center";
+  link.style.textDecoration = "none";
+  link.style.color = "white";
+  link.style.background = "#78909c";
+  link.style.marginTop = "16px";
 
   /*
     補足案内
@@ -894,17 +994,10 @@ function renderCenterInfo(card) {
   fallbackNotice.textContent =
     "※ページが見つからない場合は、公式の一覧をご確認ください。";
 
-  fallbackNotice.style.fontSize =
-    "13px";
-
-  fallbackNotice.style.lineHeight =
-    "1.7";
-
-  fallbackNotice.style.marginTop =
-    "20px";
-
-  fallbackNotice.style.color =
-    "#666";
+  fallbackNotice.style.fontSize = "13px";
+  fallbackNotice.style.lineHeight = "1.7";
+  fallbackNotice.style.marginTop = "20px";
+  fallbackNotice.style.color = "#666";
 
   const fallbackLink =
     document.createElement("a");
@@ -912,18 +1005,24 @@ function renderCenterInfo(card) {
   fallbackLink.href =
     cityLinks[selectedCenter.city] || "#";
 
-  fallbackLink.target =
-    "_blank";
+  fallbackLink.target = "_blank";
+  fallbackLink.textContent = "公式の一覧を確認する";
+  fallbackLink.style.display = "block";
+  fallbackLink.style.marginTop = "10px";
 
-  fallbackLink.textContent =
-    "公式の一覧を確認する";
-
-  fallbackLink.style.display =
-    "block";
-
-  fallbackLink.style.marginTop =
-    "10px";
-
+  /*
+    配置
+  */
+  card.appendChild(tel);
+  card.appendChild(prepHeader);
+  card.appendChild(ageSelect);
+  card.appendChild(genderSelect);
+  card.appendChild(sinceSelect);
+  card.appendChild(relationshipSelect);
+  card.appendChild(checkContainer);
+  card.appendChild(sentenceBox);
+  card.appendChild(callButton);
+  card.appendChild(link);
   card.appendChild(fallbackNotice);
   card.appendChild(fallbackLink);
 
