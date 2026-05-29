@@ -3673,7 +3673,7 @@ const centers = [
     id: 373,
     prefecture: "東京都",
     city: "八王子市",
-    area: "旭町",
+    area: "横山・八日・本町・元横山他",
     name: "高齢者あんしん相談センター旭町",
     tel: "042-648-8331",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018115.html"
@@ -3683,7 +3683,7 @@ const centers = [
     id: 374,
     prefecture: "東京都",
     city: "八王子市",
-    area: "高尾",
+    area: "高尾・東浅川・狭間・廿里他",
     name: "高齢者あんしん相談センター高尾",
     tel: "042-668-2288",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018116.html"
@@ -3693,7 +3693,7 @@ const centers = [
     id: 375,
     prefecture: "東京都",
     city: "八王子市",
-    area: "加住",
+    area: "滝山・加住・丹木・高月他",
     name: "高齢者あんしん相談センター加住",
     tel: "042-692-3211",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018117.html"
@@ -3703,7 +3703,7 @@ const centers = [
     id: 376,
     prefecture: "東京都",
     city: "八王子市",
-    area: "中野",
+    area: "暁・中野・中野山王・清川",
     name: "高齢者あんしん相談センター中野",
     tel: "042-620-0860",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018118.html"
@@ -3713,7 +3713,7 @@ const centers = [
     id: 377,
     prefecture: "東京都",
     city: "八王子市",
-    area: "南大沢",
+    area: "南大沢・鑓水・松木・別所",
     name: "高齢者あんしん相談センター南大沢",
     tel: "042-678-1880",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018119.html"
@@ -3723,7 +3723,7 @@ const centers = [
     id: 378,
     prefecture: "東京都",
     city: "八王子市",
-    area: "めじろ",
+    area: "散田・山田・めじろ台",
     name: "高齢者あんしん相談センターめじろ",
     tel: "042-669-3070",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018120.html"
@@ -3733,7 +3733,7 @@ const centers = [
     id: 379,
     prefecture: "東京都",
     city: "八王子市",
-    area: "長沼",
+    area: "北野・長沼・絹ヶ丘・北野台",
     name: "高齢者あんしん相談センター長沼",
     tel: "042-648-4340",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018121.html"
@@ -3743,7 +3743,7 @@ const centers = [
     id: 380,
     prefecture: "東京都",
     city: "八王子市",
-    area: "川口",
+    area: "川口・上川・犬目・楢原",
     name: "高齢者あんしん相談センター川口",
     tel: "042-654-5475",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018122.html"
@@ -3753,7 +3753,7 @@ const centers = [
     id: 381,
     prefecture: "東京都",
     city: "八王子市",
-    area: "元八王子",
+    area: "諏訪・上壱分方・大楽寺他",
     name: "高齢者あんしん相談センター元八王子",
     tel: "042-623-1021",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018123.html"
@@ -3763,7 +3763,7 @@ const centers = [
     id: 382,
     prefecture: "東京都",
     city: "八王子市",
-    area: "由井",
+    area: "片倉・みなみ野・七国他",
     name: "高齢者あんしん相談センター由井",
     tel: "042-632-6331",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018124.html"
@@ -3773,7 +3773,7 @@ const centers = [
     id: 383,
     prefecture: "東京都",
     city: "八王子市",
-    area: "由木",
+    area: "柚木・中山・越野・堀之内",
     name: "高齢者あんしん相談センター由木",
     tel: "042-679-1114",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018125.html"
@@ -3783,7 +3783,7 @@ const centers = [
     id: 384,
     prefecture: "東京都",
     city: "八王子市",
-    area: "長房",
+    area: "長房・並木・城山手",
     name: "高齢者あんしん相談センター長房",
     tel: "042-629-2530",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018126.html"
@@ -3793,7 +3793,7 @@ const centers = [
     id: 385,
     prefecture: "東京都",
     city: "八王子市",
-    area: "子安",
+    area: "子安・台・寺町・天神他",
     name: "高齢者あんしん相談センター子安",
     tel: "042-649-6020",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018127.html"
@@ -3803,7 +3803,7 @@ const centers = [
     id: 386,
     prefecture: "東京都",
     city: "八王子市",
-    area: "もとはち南",
+    area: "叶谷・泉・横川・元八王子他",
     name: "高齢者あんしん相談センターもとはち南",
     tel: "042-673-6241",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018128.html"
@@ -3813,7 +3813,7 @@ const centers = [
     id: 387,
     prefecture: "東京都",
     city: "八王子市",
-    area: "館",
+    area: "館・椚田・寺田・大船",
     name: "高齢者あんしん相談センター館",
     tel: "042-673-6425",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018129.html"
@@ -3823,7 +3823,7 @@ const centers = [
     id: 388,
     prefecture: "東京都",
     city: "八王子市",
-    area: "大横",
+    area: "大横・八幡・本郷・平岡他",
     name: "高齢者あんしん相談センター大横",
     tel: "042-634-8666",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018130.html"
@@ -3833,7 +3833,7 @@ const centers = [
     id: 389,
     prefecture: "東京都",
     city: "八王子市",
-    area: "恩方",
+    area: "下恩方・上恩方・西寺方他",
     name: "高齢者あんしん相談センター恩方",
     tel: "042-659-0314",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018133.html"
@@ -3843,7 +3843,7 @@ const centers = [
     id: 390,
     prefecture: "東京都",
     city: "八王子市",
-    area: "由木東",
+    area: "東中野・大塚・鹿島・松が谷",
     name: "高齢者あんしん相談センター由木東",
     tel: "042-689-6070",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p024905.html"
@@ -3853,7 +3853,7 @@ const centers = [
     id: 391,
     prefecture: "東京都",
     city: "八王子市",
-    area: "石川",
+    area: "石川・小宮・高倉・宇津木他",
     name: "高齢者あんしん相談センター石川",
     tel: "042-631-0071",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p025404.html"
@@ -3863,7 +3863,7 @@ const centers = [
     id: 392,
     prefecture: "東京都",
     city: "八王子市",
-    area: "大和田",
+    area: "大和田・富士見・大谷",
     name: "高齢者あんしん相談センター大和田",
     tel: "042-649-3280",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p026529.html"
@@ -3873,7 +3873,7 @@ const centers = [
     id: 393,
     prefecture: "東京都",
     city: "八王子市",
-    area: "追分",
+    area: "追分・千人・日吉・元本郷",
     name: "高齢者あんしん相談センター追分",
     tel: "042-686-1713",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p027305.html"
