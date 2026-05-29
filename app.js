@@ -264,17 +264,6 @@ function renderScreen(screenKey) {
 
   window.scrollTo(0, 0);
 
-  /*
-    センター情報画面ではnoticeを非表示
-  */
-  const notice =
-    document.querySelector(".notice");
-
-  if (notice) {
-    notice.style.display =
-      screenKey === "centerInfo" ? "none" : "";
-  }
-
   const card =
     document.createElement("div");
 
@@ -297,6 +286,28 @@ function renderScreen(screenKey) {
       : screen.question;
 
   card.appendChild(question);
+
+  /*
+    トップ画面のみ説明文を表示
+  */
+  if (screenKey === "start") {
+
+    const notice =
+      document.createElement("p");
+
+    notice.className = "notice";
+
+    notice.innerHTML =
+      "「まだ相談するほどか分からない」<br>" +
+      "「何を聞けばいいか分からない」<br>" +
+      "そんな段階でも利用できます。";
+
+    notice.style.marginBottom =
+      "24px";
+
+    card.appendChild(notice);
+
+  }
 
   /*
     説明
