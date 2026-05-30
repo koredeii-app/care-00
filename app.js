@@ -292,7 +292,10 @@ const cityLinks = {
 "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/index.html",
 
   "青梅市":
-"https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+"https://www.city.ome.tokyo.jp/soshiki/30/587.html",
+
+  "清瀬市":
+"http://city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
 
 };
 
