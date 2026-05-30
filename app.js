@@ -939,7 +939,7 @@ function renderCenterInfo(card) {
 
   const relationshipSelect = createSelect(
     "対象者との関係",
-    ["家族", "知人", "近隣者"]
+    ["娘", "息子", "きょうだい", "親", "親戚", "知人", "近隣者"]
   );
 
   const livingSelect = createSelect(
