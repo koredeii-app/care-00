@@ -4536,7 +4536,7 @@ const centers = [
     area: "秋津・青葉",
     name: "東村山市東部地域包括支援センター",
     tel: "042-392-6388",
-    url: "https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html"
+    url: "https://www.city.higashimurayama.tokyo.jp/shisetsu/korei/chiiki/tobu.html"
   },
 
   {
@@ -4556,7 +4556,7 @@ const centers = [
     area: "萩山・栄",
     name: "東村山市南部地域包括支援センター",
     tel: "042-390-2211",
-    url: "https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html"
+    url: "https://www.city.higashimurayama.tokyo.jp/shisetsu/korei/chiiki/nanbu.html"
   },
 
   {
