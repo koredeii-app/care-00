@@ -295,7 +295,10 @@ const cityLinks = {
 "https://www.city.ome.tokyo.jp/soshiki/30/587.html",
 
   "清瀬市":
-"http://city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
+"https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html",
+
+  "東久留米市":
+"https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
 
 };
 
