@@ -4507,6 +4507,56 @@ const centers = [
     name: "地域包括支援センターかわきた",
     tel: "042-589-1710",
     url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005824.html"
+  },
+
+  {
+    id: 457,
+    prefecture: "東京都",
+    city: "東村山市",
+    area: "本町・久米川・恩多",
+    name: "東村山市中部地域包括支援センター",
+    tel: "042-394-6662",
+    url: "https://hm-shakyo.or.jp/service/consul/consul_senior/20210512_12.html"
+  },
+
+  {
+    id: 458,
+    prefecture: "東京都",
+    city: "東村山市",
+    area: "廻田・多摩湖・諏訪・野口",
+    name: "東村山市北部地域包括支援センター",
+    tel: "042-397-5123",
+    url: "https://www.t-bannan.jp/pages/36/"
+  },
+
+  {
+    id: 459,
+    prefecture: "東京都",
+    city: "東村山市",
+    area: "秋津・青葉",
+    name: "東村山市東部地域包括支援センター",
+    tel: "042-392-6388",
+    url: "https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html"
+  },
+
+  {
+    id: 460,
+    prefecture: "東京都",
+    city: "東村山市",
+    area: "美住・富士見",
+    name: "東村山市西部地域包括支援センター",
+    tel: "042-397-1091",
+    url: "https://www.t-souseikai.or.jp/higashimurayama2/service04.html"
+  },
+
+  {
+    id: 461,
+    prefecture: "東京都",
+    city: "東村山市",
+    area: "萩山・栄",
+    name: "東村山市南部地域包括支援センター",
+    tel: "042-390-2211",
+    url: "https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html"
   }
 
 ];
