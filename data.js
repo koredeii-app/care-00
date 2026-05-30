@@ -4927,6 +4927,56 @@ const centers = [
     name: "在宅介護支援センター（地域包括支援センターブランチ）",
     tel: "042-479-0803",
     url: "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+
+  {
+    id: 499,
+    prefecture: "東京都",
+    city: "昭島市",
+    area: "築地町・福島町・郷地町・玉川町・東町・もくせいの杜",
+    name: "東部地域包括支援センター 竹口病院",
+    tel: "042-545-9204",
+    url: "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+
+  {
+    id: 500,
+    prefecture: "東京都",
+    city: "昭島市",
+    area: "拝島町・松原町・緑町",
+    name: "西部地域包括支援センター 愛全園",
+    tel: "042-519-5830",
+    url: "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+
+  {
+    id: 501,
+    prefecture: "東京都",
+    city: "昭島市",
+    area: "朝日町・昭和町・中神町（丁目外）",
+    name: "中部地域包括支援センター あいぽっく",
+    tel: "042-505-7681",
+    url: "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+
+  {
+    id: 502,
+    prefecture: "東京都",
+    city: "昭島市",
+    area: "大神町・上川原町・田中町・中神町・宮沢町",
+    name: "南部地域包括支援センター 愛全園",
+    tel: "042-513-7651",
+    url: "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+
+  {
+    id: 503,
+    prefecture: "東京都",
+    city: "昭島市",
+    area: "大神町（番地地区）・つつじが丘・美堀町・宮沢町（番地地区）・武蔵野・代官山",
+    name: "北部地域包括支援センター ハピネス昭和の森",
+    tel: "042-519-6967",
+    url: "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
   }
 
 ];
