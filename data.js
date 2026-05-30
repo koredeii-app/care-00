@@ -4807,6 +4807,56 @@ const centers = [
     name: "吉祥寺本町在宅介護・地域包括支援センター",
     tel: "0422-23-1213",
     url: "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000512.html"
+  },
+
+  {
+    id: 487,
+    prefecture: "東京都",
+    city: "青梅市",
+    area: "東青梅・師岡・根ヶ布・住江・本町他",
+    name: "青梅市地域包括支援センターすみえ",
+    tel: "0428-78-3442",
+    url: "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+
+  {
+    id: 488,
+    prefecture: "東京都",
+    city: "青梅市",
+    area: "長淵・友田・千ヶ瀬・梅郷・二俣尾他",
+    name: "青梅市地域包括支援センターうめぞの",
+    tel: "0428-24-2882",
+    url: "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+
+  {
+    id: 489,
+    prefecture: "東京都",
+    city: "青梅市",
+    area: "河辺・和田・畑中・柚木・駒木他",
+    name: "青梅市地域包括支援センターうめぞの 河辺支所",
+    tel: "0428-84-2627",
+    url: "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+
+  {
+    id: 490,
+    prefecture: "東京都",
+    city: "青梅市",
+    area: "末広・新町・今井・富岡・小曾木他",
+    name: "青梅市地域包括支援センターすえひろ",
+    tel: "0428-33-4477",
+    url: "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+
+  {
+    id: 491,
+    prefecture: "東京都",
+    city: "青梅市",
+    area: "野上・大門・塩船・谷野・吹上他",
+    name: "青梅市地域包括支援センターすえひろ 野上支所",
+    tel: "0428-78-4800",
+    url: "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
   }
 
 ];

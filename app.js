@@ -289,7 +289,10 @@ const cityLinks = {
 "https://www.city.kokubunji.tokyo.jp/kurashi/1011604/1011688/1026548.html",
 
   "武蔵野市":
-"https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/index.html"
+"https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/index.html",
+
+  "青梅市":
+"https://www.city.ome.tokyo.jp/soshiki/30/587.html"
 
 };
 
