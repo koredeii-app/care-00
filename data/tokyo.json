@@ -1,0 +1,3989 @@
+[
+  {
+    "id": 1,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "池尻",
+    "name": "池尻あんしんすこやかセンター",
+    "tel": "03-5433-2512",
+    "url": "https://www.city.setagaya.lg.jp/02087/2430.html"
+  },
+  {
+    "id": 2,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "太子堂",
+    "name": "太子堂あんしんすこやかセンター",
+    "tel": "03-5486-9726",
+    "url": "https://www.city.setagaya.lg.jp/02087/2431.html"
+  },
+  {
+    "id": 3,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "若林",
+    "name": "若林あんしんすこやかセンター",
+    "tel": "03-5431-3527",
+    "url": "https://www.city.setagaya.lg.jp/02087/2432.html"
+  },
+  {
+    "id": 4,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "上町",
+    "name": "上町あんしんすこやかセンター",
+    "tel": "03-5450-3481",
+    "url": "https://www.city.setagaya.lg.jp/02087/2433.html"
+  },
+  {
+    "id": 5,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "経堂",
+    "name": "経堂あんしんすこやかセンター",
+    "tel": "03-5451-5580",
+    "url": "https://www.city.setagaya.lg.jp/02087/2434.html"
+  },
+  {
+    "id": 6,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "下馬",
+    "name": "下馬あんしんすこやかセンター",
+    "tel": "03-3422-7218",
+    "url": "https://www.city.setagaya.lg.jp/02087/2435.html"
+  },
+  {
+    "id": 7,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "上馬",
+    "name": "上馬あんしんすこやかセンター",
+    "tel": "03-5430-8059",
+    "url": "https://www.city.setagaya.lg.jp/02087/2436.html"
+  },
+  {
+    "id": 8,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "梅丘",
+    "name": "梅丘あんしんすこやかセンター",
+    "tel": "03-5426-1957",
+    "url": "https://www.city.setagaya.lg.jp/02087/2437.html"
+  },
+  {
+    "id": 9,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "代沢",
+    "name": "代沢あんしんすこやかセンター",
+    "tel": "03-5432-0533",
+    "url": "https://www.city.setagaya.lg.jp/02087/2438.html"
+  },
+  {
+    "id": 10,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "新代田",
+    "name": "新代田あんしんすこやかセンター",
+    "tel": "03-5355-3402",
+    "url": "https://www.city.setagaya.lg.jp/02087/2439.html"
+  },
+  {
+    "id": 11,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "北沢",
+    "name": "北沢あんしんすこやかセンター",
+    "tel": "03-5478-9101",
+    "url": "https://www.city.setagaya.lg.jp/02087/2440.html"
+  },
+  {
+    "id": 12,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "松原",
+    "name": "松原あんしんすこやかセンター",
+    "tel": "03-3323-2511",
+    "url": "https://www.city.setagaya.lg.jp/02087/2441.html"
+  },
+  {
+    "id": 13,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "松沢",
+    "name": "松沢あんしんすこやかセンター",
+    "tel": "03-3325-2352",
+    "url": "https://www.city.setagaya.lg.jp/02087/2442.html"
+  },
+  {
+    "id": 14,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "奥沢",
+    "name": "奥沢あんしんすこやかセンター",
+    "tel": "03-6421-9131",
+    "url": "https://www.city.setagaya.lg.jp/02087/2443.html"
+  },
+  {
+    "id": 15,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "九品仏",
+    "name": "九品仏あんしんすこやかセンター",
+    "tel": "03-6411-6047",
+    "url": "https://www.city.setagaya.lg.jp/02087/2444.html"
+  },
+  {
+    "id": 16,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "等々力",
+    "name": "等々力あんしんすこやかセンター",
+    "tel": "03-3705-6528",
+    "url": "https://www.city.setagaya.lg.jp/02087/2445.html"
+  },
+  {
+    "id": 17,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "上野毛",
+    "name": "上野毛あんしんすこやかセンター",
+    "tel": "03-3703-8956",
+    "url": "https://www.city.setagaya.lg.jp/02087/2446.html"
+  },
+  {
+    "id": 18,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "用賀",
+    "name": "用賀あんしんすこやかセンター",
+    "tel": "03-3708-4457",
+    "url": "https://www.city.setagaya.lg.jp/02087/2447.html"
+  },
+  {
+    "id": 19,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "二子玉川",
+    "name": "二子玉川あんしんすこやかセンター",
+    "tel": "03-5797-5516",
+    "url": "https://www.city.setagaya.lg.jp/02087/2448.html"
+  },
+  {
+    "id": 20,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "深沢",
+    "name": "深沢あんしんすこやかセンター",
+    "tel": "03-5779-6670",
+    "url": "https://www.city.setagaya.lg.jp/02087/2449.html"
+  },
+  {
+    "id": 21,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "祖師谷",
+    "name": "祖師谷あんしんすこやかセンター",
+    "tel": "03-3789-4589",
+    "url": "https://www.city.setagaya.lg.jp/02087/2450.html"
+  },
+  {
+    "id": 22,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "成城",
+    "name": "成城あんしんすこやかセンター",
+    "tel": "03-3483-8600",
+    "url": "https://www.city.setagaya.lg.jp/02087/2451.html"
+  },
+  {
+    "id": 23,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "船橋",
+    "name": "船橋あんしんすこやかセンター",
+    "tel": "03-3482-3276",
+    "url": "https://www.city.setagaya.lg.jp/02087/2452.html"
+  },
+  {
+    "id": 24,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "喜多見",
+    "name": "喜多見あんしんすこやかセンター",
+    "tel": "03-3415-2313",
+    "url": "https://www.city.setagaya.lg.jp/02087/2453.html"
+  },
+  {
+    "id": 25,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "砧",
+    "name": "砧あんしんすこやかセンター",
+    "tel": "03-3416-3217",
+    "url": "https://www.city.setagaya.lg.jp/02087/2454.html"
+  },
+  {
+    "id": 26,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "上北沢",
+    "name": "上北沢あんしんすこやかセンター",
+    "tel": "03-3306-1511",
+    "url": "https://www.city.setagaya.lg.jp/02087/2455.html"
+  },
+  {
+    "id": 27,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "上祖師谷",
+    "name": "上祖師谷あんしんすこやかセンター",
+    "tel": "03-5315-5577",
+    "url": "https://www.city.setagaya.lg.jp/02087/2456.html"
+  },
+  {
+    "id": 28,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "烏山",
+    "name": "烏山あんしんすこやかセンター",
+    "tel": "03-3307-1198",
+    "url": "https://www.city.setagaya.lg.jp/02087/2457.html"
+  },
+  {
+    "id": 29,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "旭丘、小竹町、羽沢、栄町",
+    "name": "みらい青空地域包括支援センター",
+    "tel": "03-5912-0523",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/miraiaozora_shisho.html"
+  },
+  {
+    "id": 30,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "桜台",
+    "name": "桜台地域包括支援センター",
+    "tel": "03-5946-2311",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/sakuradai_shisho.html"
+  },
+  {
+    "id": 31,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "豊玉、豊玉南",
+    "name": "豊玉地域包括支援センター",
+    "tel": "03-3993-1450",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/toyotama_shisho.html"
+  },
+  {
+    "id": 32,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "練馬",
+    "name": "練馬地域包括支援センター",
+    "tel": "03-5984-1706",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/nerima_shisho.html"
+  },
+  {
+    "id": 33,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "豊玉上、豊玉北",
+    "name": "練馬区役所地域包括支援センター",
+    "tel": "03-5946-2544",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/kuyakusho_shisho.html"
+  },
+  {
+    "id": 34,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "貫井、向山",
+    "name": "中村橋地域包括支援センター",
+    "tel": "03-3577-8815",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/nakamurabashi_shisho.html"
+  },
+  {
+    "id": 35,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "中村、中村南、中村北",
+    "name": "中村かしわ地域包括支援センター",
+    "tel": "03-5848-6177",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/nakamura-kasiwa.html"
+  },
+  {
+    "id": 36,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "錦、北町1〜5・8、平和台",
+    "name": "北町地域包括支援センター",
+    "tel": "03-3937-5577",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/nishiki_shisho.html"
+  },
+  {
+    "id": 37,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "氷川台、早宮、北町6・7",
+    "name": "北町はるのひ地域包括支援センター",
+    "tel": "03-5399-5347",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/kingsgarden_shisho.html"
+  },
+  {
+    "id": 38,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "田柄1〜4、光が丘1",
+    "name": "田柄地域包括支援センター",
+    "tel": "03-3825-2590",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/tagara_shisho.html"
+  },
+  {
+    "id": 39,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "春日町、高松1〜3",
+    "name": "練馬高松園地域包括支援センター",
+    "tel": "03-3926-7871",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/takamatsuen_shisho.html"
+  },
+  {
+    "id": 40,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "光が丘2・4〜6、旭町、高松5丁目13〜24",
+    "name": "光が丘地域包括支援センター",
+    "tel": "03-5968-4035",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/index.html"
+  },
+  {
+    "id": 41,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "高松4・5丁目1〜12、田柄5、光が丘3・7",
+    "name": "光が丘南地域包括支援センター",
+    "tel": "03-6904-0312",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/takamatsu_shisho.html"
+  },
+  {
+    "id": 42,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "土支田、高松6",
+    "name": "第3育秀苑地域包括支援センター",
+    "tel": "03-6904-0192",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/dai3ikushuuen_shisho.html"
+  },
+  {
+    "id": 43,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "谷原、高野台2〜5",
+    "name": "高野台西地域包括支援センター",
+    "tel": "03-6913-1515",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/takanodainishishisho.html"
+  },
+  {
+    "id": 44,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "富士見台、高野台1、南田中1〜3",
+    "name": "高野台地域包括支援センター",
+    "tel": "03-5372-6300",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/fujimidai_shisho.html"
+  },
+  {
+    "id": 45,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "三原台、石神井町、石神井台1・3",
+    "name": "石神井地域包括支援センター",
+    "tel": "03-5923-1250",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/shakujii_shisho.html"
+  },
+  {
+    "id": 46,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "下石神井、南田中4・5",
+    "name": "moi（モア）地域包括支援センター",
+    "tel": "03-3996-0330",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/moi_shisho.html"
+  },
+  {
+    "id": 47,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "石神井台2・5〜8、関町東2、関町北4・5",
+    "name": "第二光陽苑地域包括支援センター",
+    "tel": "03-5991-9919",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/dai2kouyouen_shisho.html"
+  },
+  {
+    "id": 48,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "関町北1〜3、関町南2〜4、立野町",
+    "name": "関町地域包括支援センター",
+    "tel": "03-3928-5222",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/sekimachi_shisho.html"
+  },
+  {
+    "id": 49,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "上石神井、関町東1、関町南1、上石神井南町、石神井台4",
+    "name": "上石神井地域包括支援センター",
+    "tel": "03-3928-8621",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/kamisyakujii.html"
+  },
+  {
+    "id": 50,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "大泉町1〜4",
+    "name": "やすらぎミラージュ地域包括支援センター",
+    "tel": "03-5905-1190",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/mirage_shisho.html"
+  },
+  {
+    "id": 51,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "大泉学園町4〜9",
+    "name": "大泉北地域包括支援センター",
+    "tel": "03-3924-2006",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/fukinotou_shisho.html"
+  },
+  {
+    "id": 52,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "大泉学園町1〜3、大泉町5・6、東大泉3-52〜55・58〜66",
+    "name": "大泉学園通り地域包括支援センター",
+    "tel": "03-5933-0156",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/gakuen_shisho.html"
+  },
+  {
+    "id": 53,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "西大泉、西大泉町、南大泉5・6",
+    "name": "南大泉地域包括支援センター",
+    "tel": "03-3923-5556",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/kouyouen_shisho.html"
+  },
+  {
+    "id": 54,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "東大泉1・2、東大泉3-1〜51・3-56〜57、東大泉4〜6",
+    "name": "大泉地域包括支援センター",
+    "tel": "03-5387-2751",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/ooizumi_shisho.html"
+  },
+  {
+    "id": 55,
+    "prefecture": "東京都",
+    "city": "練馬区",
+    "area": "東大泉7、南大泉1〜4",
+    "name": "やすらぎシティ地域包括支援センター",
+    "tel": "03-5935-8321",
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/koreikaigo/chiikihokatsushisho/yasuragi-city.html"
+  },
+  {
+    "id": 56,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "板橋・加賀・大山東町の一部",
+    "name": "板橋おとしより相談センター",
+    "tel": "03-5248-2892",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003585.html"
+  },
+  {
+    "id": 57,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "熊野町・中丸町・南町など",
+    "name": "熊野おとしより相談センター",
+    "tel": "03-5926-6566",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003587.html"
+  },
+  {
+    "id": 58,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "仲宿・氷川町・栄町など",
+    "name": "仲宿おとしより相談センター",
+    "tel": "03-5944-4611",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003588.html"
+  },
+  {
+    "id": 59,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "大山町・仲町・弥生町など",
+    "name": "仲町おとしより相談センター",
+    "tel": "03-5917-5201",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003589.html"
+  },
+  {
+    "id": 60,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "本町・大和町・双葉町・富士見町",
+    "name": "富士見おとしより相談センター",
+    "tel": "03-6905-6425",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003590.html"
+  },
+  {
+    "id": 61,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "大谷口・向原・小茂根など",
+    "name": "大谷口おとしより相談センター",
+    "tel": "03-5964-5620",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003586.html"
+  },
+  {
+    "id": 62,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "常盤台・上板橋・南常盤台など",
+    "name": "常盤台おとしより相談センター",
+    "tel": "03-5398-8651",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003591.html"
+  },
+  {
+    "id": 63,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "清水町・泉町・宮本町など",
+    "name": "清水おとしより相談センター",
+    "tel": "03-3558-6500",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003592.html"
+  },
+  {
+    "id": 64,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "志村・小豆沢・東坂下1など",
+    "name": "志村坂上おとしより相談センター",
+    "tel": "03-3967-2131",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003593.html"
+  },
+  {
+    "id": 65,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "中台・若木・西台の一部",
+    "name": "中台おとしより相談センター",
+    "tel": "03-3933-8875",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003594.html"
+  },
+  {
+    "id": 66,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "蓮根・坂下・東坂下2",
+    "name": "蓮根おとしより相談センター",
+    "tel": "03-5970-9106",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003595.html"
+  },
+  {
+    "id": 67,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "舟渡・新河岸・高島平7〜9",
+    "name": "舟渡おとしより相談センター",
+    "tel": "03-3969-3136",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003596.html"
+  },
+  {
+    "id": 68,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "前野町",
+    "name": "前野おとしより相談センター",
+    "tel": "03-5915-2636",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003597.html"
+  },
+  {
+    "id": 69,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "桜川・東山町・東新町2",
+    "name": "桜川おとしより相談センター",
+    "tel": "03-3959-7485",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003598.html"
+  },
+  {
+    "id": 70,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "赤塚・赤塚新町・四葉など",
+    "name": "下赤塚おとしより相談センター",
+    "tel": "03-3930-1821",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003599.html"
+  },
+  {
+    "id": 71,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "成増1〜4",
+    "name": "成増おとしより相談センター",
+    "tel": "03-3939-0678",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003600.html"
+  },
+  {
+    "id": 72,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "三園・成増5・高島平4〜6",
+    "name": "三園おとしより相談センター",
+    "tel": "03-3939-1101",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003601.html"
+  },
+  {
+    "id": 73,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "徳丸・西台の一部・四葉1の一部",
+    "name": "徳丸おとしより相談センター",
+    "tel": "03-5921-1060",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003602.html"
+  },
+  {
+    "id": 74,
+    "prefecture": "東京都",
+    "city": "板橋区",
+    "area": "高島平1〜3",
+    "name": "高島平おとしより相談センター",
+    "tel": "03-5922-5661",
+    "url": "https://www.city.itabashi.tokyo.jp/kenko/kourei/soudan/1016108/1003603.html"
+  },
+  {
+    "id": 75,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "王子本町1〜3丁目、中十条1〜4丁目、岸町1〜2丁目、十条台1丁目、上十条1丁目",
+    "name": "十条台高齢者あんしんセンター",
+    "tel": "03-5948-5630",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015913.html"
+  },
+  {
+    "id": 76,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "豊島2〜8丁目",
+    "name": "豊島高齢者あんしんセンター",
+    "tel": "03-6903-2712",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015914.html"
+  },
+  {
+    "id": 77,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "上十条2〜5丁目、十条仲原1〜4丁目",
+    "name": "十条高齢者あんしんセンター",
+    "tel": "03-5948-9981",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015915.html"
+  },
+  {
+    "id": 78,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "滝野川3〜7丁目",
+    "name": "滝野川西高齢者あんしんセンター",
+    "tel": "03-6903-4015",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015917.html"
+  },
+  {
+    "id": 79,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "西ケ原1丁目、上中里1丁目、中里1〜3丁目、田端1〜6丁目",
+    "name": "滝野川はくちょう高齢者あんしんセンター",
+    "tel": "03-3822-6080",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015918.html"
+  },
+  {
+    "id": 80,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "堀船1〜4丁目、上中里2〜3丁目、昭和町1〜3丁目、栄町",
+    "name": "昭和町・堀船高齢者あんしんセンター",
+    "tel": "03-6807-6961",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015919.html"
+  },
+  {
+    "id": 81,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "志茂1〜5丁目、岩淵町",
+    "name": "みずべの苑高齢者あんしんセンター",
+    "tel": "03-5941-6722",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015920.html"
+  },
+  {
+    "id": 82,
+    "prefecture": "東京都",
+    "city": "北区",
+    "area": "赤羽1〜3丁目、神谷2〜3丁目",
+    "name": "赤羽高齢者あんしんセンター",
+    "tel": "03-3903-4167",
+    "url": "https://www.city.kita.lg.jp/city-information/facilities/1015898/1018422/1015921.html"
+  },
+  {
+    "id": 83,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "阿佐谷北1〜6丁目、阿佐谷南2丁目、下井草1丁目、本天沼1丁目",
+    "name": "ケア24阿佐谷",
+    "tel": "03-3339-1588",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13976.html"
+  },
+  {
+    "id": 84,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "梅里1〜2丁目、堀ノ内2〜3丁目、高円寺南2丁目",
+    "name": "ケア24梅里",
+    "tel": "03-5929-1924",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13975.html"
+  },
+  {
+    "id": 85,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "永福1〜4丁目、和泉3丁目",
+    "name": "ケア24永福",
+    "tel": "03-5355-5124",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13974.html"
+  },
+  {
+    "id": 86,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "天沼1〜3丁目、上荻1丁目、荻窪3〜5丁目",
+    "name": "ケア24荻窪",
+    "tel": "03-3391-0888",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13973.html"
+  },
+  {
+    "id": 87,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "上井草1〜4丁目、井草3〜5丁目",
+    "name": "ケア24上井草",
+    "tel": "03-3396-0024",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13972.html"
+  },
+  {
+    "id": 88,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "今川3〜4丁目、桃井3〜4丁目、上荻2〜4丁目、西荻北1〜2丁目",
+    "name": "ケア24上荻",
+    "tel": "03-5303-6851",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13971.html"
+  },
+  {
+    "id": 89,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "久我山1〜5丁目、宮前4〜5丁目",
+    "name": "ケア24久我山",
+    "tel": "03-5346-3348",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13970.html"
+  },
+  {
+    "id": 90,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "高円寺北1〜4丁目、高円寺南3〜4丁目",
+    "name": "ケア24高円寺",
+    "tel": "03-5305-6151",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13969.html"
+  },
+  {
+    "id": 91,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "清水1〜3丁目、本天沼2〜3丁目、桃井1〜2丁目、今川1〜2丁目",
+    "name": "ケア24清水",
+    "tel": "03-5303-5823",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13968.html"
+  },
+  {
+    "id": 92,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "井草1〜2丁目、下井草2〜5丁目",
+    "name": "ケア24下井草",
+    "tel": "03-5303-5341",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13967.html"
+  },
+  {
+    "id": 93,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "善福寺1〜4丁目、西荻北3〜5丁目",
+    "name": "ケア24善福寺",
+    "tel": "03-5311-1024",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13966.html"
+  },
+  {
+    "id": 94,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "高井戸西1〜2丁目、高井戸東1丁目",
+    "name": "ケア24高井戸",
+    "tel": "03-3334-2495",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13965.html"
+  },
+  {
+    "id": 95,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "成田東2・5丁目、成田西1〜4丁目、阿佐谷南3丁目、浜田山4丁目",
+    "name": "ケア24成田",
+    "tel": "03-5307-3822",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13964.html"
+  },
+  {
+    "id": 96,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "松庵2〜3丁目、西荻南1〜4丁目、宮前3丁目",
+    "name": "ケア24西荻",
+    "tel": "03-3333-4668",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13963.html"
+  },
+  {
+    "id": 97,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "浜田山1〜3丁目、成田西5丁目",
+    "name": "ケア24浜田山",
+    "tel": "03-5357-4944",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13962.html"
+  },
+  {
+    "id": 98,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "方南1〜2丁目、和泉4丁目",
+    "name": "ケア24方南",
+    "tel": "03-5929-2751",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13961.html"
+  },
+  {
+    "id": 99,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "堀ノ内1丁目、和田4丁目",
+    "name": "ケア24堀ノ内",
+    "tel": "03-5305-7328",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13960.html"
+  },
+  {
+    "id": 100,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "松ノ木1〜3丁目、成田東1・3・4丁目、大宮2丁目、阿佐谷南1丁目",
+    "name": "ケア24松ノ木",
+    "tel": "03-3318-8530",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13959.html"
+  },
+  {
+    "id": 101,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "荻窪1〜2丁目、南荻窪1〜4丁目、宮前2丁目、高井戸東4丁目",
+    "name": "ケア24南荻窪",
+    "tel": "03-5336-3724",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13958.html"
+  },
+  {
+    "id": 102,
+    "prefecture": "東京都",
+    "city": "杉並区",
+    "area": "和田1〜3丁目、高円寺南1・5丁目",
+    "name": "ケア24和田",
+    "tel": "03-5305-6024",
+    "url": "https://www.city.suginami.tokyo.jp/s039/shisetsu/13957.html"
+  },
+  {
+    "id": 103,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "本町1〜4丁目、中央1〜3丁目、東中野1・2・4・5丁目、中野1丁目",
+    "name": "東中野地域包括支援センター",
+    "tel": "03-3366-3318",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/higashinakano.html"
+  },
+  {
+    "id": 104,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "南台1〜5丁目、弥生町1〜6丁目",
+    "name": "南中野地域包括支援センター",
+    "tel": "03-5340-7885",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/minaminakano.html"
+  },
+  {
+    "id": 105,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "弥生町1〜2丁目、本町1〜6丁目、中央3〜5丁目",
+    "name": "本町地域包括支援センター",
+    "tel": "03-5385-3733",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/honmachi.html"
+  },
+  {
+    "id": 106,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "東中野3丁目、中野1〜6丁目、上高田1〜5丁目、中央3〜5丁目、新井1丁目",
+    "name": "中野地域包括支援センター",
+    "tel": "03-3367-7802",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/nakano.html"
+  },
+  {
+    "id": 107,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "新井1〜5丁目、松が丘1〜2丁目、江原町1〜3丁目、江古田1丁目、野方1〜2丁目、大和町1〜2丁目",
+    "name": "中野北地域包括支援センター",
+    "tel": "03-5380-6005",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/nakanokita.html"
+  },
+  {
+    "id": 108,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "沼袋、江古田1〜4丁目、丸山1〜2丁目、野方3〜6丁目、若宮1丁目",
+    "name": "江古田地域包括支援センター",
+    "tel": "03-3387-5550",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/ekoda.html"
+  },
+  {
+    "id": 109,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "野方1・5丁目、大和町1〜4丁目、若宮1〜3丁目、白鷺1丁目",
+    "name": "鷺宮地域包括支援センター",
+    "tel": "03-3310-2553",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/saginomiya.html"
+  },
+  {
+    "id": 110,
+    "prefecture": "東京都",
+    "city": "中野区",
+    "area": "野方6丁目、白鷺2〜3丁目、鷺宮、上鷺宮",
+    "name": "上鷺宮地域包括支援センター",
+    "tel": "03-3577-8123",
+    "url": "https://www.city.tokyo-nakano.lg.jp/shisetsu/kenko/chiikihoukatsusien/kamisaginomiya.html"
+  },
+  {
+    "id": 111,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "巣鴨3〜5丁目、西巣鴨1〜4丁目、北大塚1〜2丁目",
+    "name": "菊かおる園高齢者総合相談センター",
+    "tel": "03-3576-2245",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/008.html"
+  },
+  {
+    "id": 112,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "駒込1〜7丁目、巣鴨1〜2丁目、南大塚1〜3丁目",
+    "name": "東部高齢者総合相談センター",
+    "tel": "03-5319-8703",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/009.html"
+  },
+  {
+    "id": 113,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "北大塚3丁目、上池袋1〜4丁目、東池袋1〜5丁目",
+    "name": "中央高齢者総合相談センター",
+    "tel": "03-5985-2850",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/010.html"
+  },
+  {
+    "id": 114,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "南池袋1〜4丁目、雑司が谷1〜3丁目、高田1〜3丁目、目白1〜2丁目",
+    "name": "ふくろうの杜高齢者総合相談センター",
+    "tel": "03-5958-1208",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/011.html"
+  },
+  {
+    "id": 115,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "西池袋1〜5丁目、池袋3丁目、目白3〜5丁目",
+    "name": "豊島区医師会高齢者総合相談センター",
+    "tel": "03-3986-3993",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/012.html"
+  },
+  {
+    "id": 116,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "池袋1・2・4丁目、池袋本町1〜4丁目",
+    "name": "いけよんの郷高齢者総合相談センター",
+    "tel": "03-3986-0917",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/013.html"
+  },
+  {
+    "id": 117,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "南長崎1〜6丁目、長崎2〜6丁目",
+    "name": "アトリエ村高齢者総合相談センター",
+    "tel": "03-5965-3415",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/014.html"
+  },
+  {
+    "id": 118,
+    "prefecture": "東京都",
+    "city": "豊島区",
+    "area": "長崎1丁目、千早1〜4丁目、要町1〜3丁目、高松1〜3丁目、千川1〜2丁目",
+    "name": "西部高齢者総合相談センター",
+    "tel": "03-3974-0065",
+    "url": "https://www.city.toshima.lg.jp/378/shisetsu/fukushi/015.html"
+  },
+  {
+    "id": 119,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "四谷1〜4丁目、若葉1〜3丁目、信濃町、新宿1〜4丁目、歌舞伎町1丁目",
+    "name": "四谷高齢者総合相談センター",
+    "tel": "03-5367-6770",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000114.html"
+  },
+  {
+    "id": 120,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "市谷、箪笥町、矢来町、北山伏町",
+    "name": "箪笥町高齢者総合相談センター",
+    "tel": "03-3266-0753",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000115.html"
+  },
+  {
+    "id": 121,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "榎町、早稲田町、原町1〜3丁目、天神町",
+    "name": "榎町高齢者総合相談センター",
+    "tel": "03-5227-1757",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000116.html"
+  },
+  {
+    "id": 122,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "若松町、河田町、住吉町",
+    "name": "若松町高齢者総合相談センター",
+    "tel": "03-5292-0710",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000117.html"
+  },
+  {
+    "id": 123,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "大久保1〜3丁目",
+    "name": "大久保高齢者総合相談センター",
+    "tel": "03-5332-5585",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000118.html"
+  },
+  {
+    "id": 124,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "高田馬場1〜4丁目、戸塚町、西早稲田1〜3丁目",
+    "name": "戸塚高齢者総合相談センター",
+    "tel": "03-3203-3143",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000119.html"
+  },
+  {
+    "id": 125,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "上落合1〜3丁目、中落合1〜4丁目、下落合1〜4丁目",
+    "name": "落合第一高齢者総合相談センター",
+    "tel": "03-3953-4080",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000120.html"
+  },
+  {
+    "id": 126,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "中井1〜2丁目、西落合1〜4丁目、南長崎1〜5丁目",
+    "name": "落合第二高齢者総合相談センター",
+    "tel": "03-5348-8871",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000121.html"
+  },
+  {
+    "id": 127,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "西新宿1〜8丁目",
+    "name": "角筈高齢者総合相談センター",
+    "tel": "03-5309-2136",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000122.html"
+  },
+  {
+    "id": 128,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "新宿5〜7丁目、歌舞伎町2丁目、百人町1〜2丁目",
+    "name": "新宿区役所高齢者総合相談センター",
+    "tel": "03-5273-4593",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000123.html"
+  },
+  {
+    "id": 129,
+    "prefecture": "東京都",
+    "city": "新宿区",
+    "area": "北新宿1〜4丁目",
+    "name": "柏木高齢者総合相談センター",
+    "tel": "03-5348-9555",
+    "url": "https://www.city.shinjuku.lg.jp/fukushi/kaigo01_000124.html"
+  },
+  {
+    "id": 130,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "梅田2〜8丁目",
+    "name": "地域包括支援センター「梅田」",
+    "tel": "03-3889-1487",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/037.html"
+  },
+  {
+    "id": 131,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "梅島、中央本町1丁目、島根",
+    "name": "地域包括支援センター「基幹」",
+    "tel": "03-5681-3373",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/038.html"
+  },
+  {
+    "id": 132,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "新田、宮城、小台",
+    "name": "地域包括支援センター「新田」",
+    "tel": "03-3927-7288",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/039.html"
+  },
+  {
+    "id": 133,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "足立、中央本町2丁目、梅田1丁目",
+    "name": "地域包括支援センター「あだち」",
+    "tel": "03-3880-8155",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/040.html"
+  },
+  {
+    "id": 134,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "伊興、東伊興、伊興本町、西伊興、西竹の塚",
+    "name": "地域包括支援センター「伊興」",
+    "tel": "03-5837-1280",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/041.html"
+  },
+  {
+    "id": 135,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "入谷、舎人、古千谷、古千谷本町",
+    "name": "地域包括支援センター「入谷」",
+    "tel": "03-3855-6362",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/042.html"
+  },
+  {
+    "id": 136,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "扇、興野、本木東町、本木西町、本木南町、本木北町",
+    "name": "地域包括支援センター「扇」",
+    "tel": "03-6692-7771",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/043.html"
+  },
+  {
+    "id": 137,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "江北、堀之内",
+    "name": "地域包括支援センター「江北」",
+    "tel": "03-5839-3640",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/044.html"
+  },
+  {
+    "id": 138,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "加平、北加平町、神明、神明南、辰沼、六木、佐野、大谷田2〜5丁目",
+    "name": "地域包括支援センター「さの」",
+    "tel": "03-5682-0157",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/045.html"
+  },
+  {
+    "id": 139,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "鹿浜、加賀、皿沼、谷在家、椿",
+    "name": "地域包括支援センター「鹿浜」",
+    "tel": "03-5838-0825",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/046.html"
+  },
+  {
+    "id": 140,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "千住桜木、千住緑町、千住龍田町、千住中居町、千住宮元町、千住仲町、千住河原町、千住橋戸町",
+    "name": "地域包括支援センター「千住西」",
+    "tel": "03-5244-0248",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/047.html"
+  },
+  {
+    "id": 141,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "柳原、千住関屋町、千住曙町、千住東1丁目",
+    "name": "地域包括支援センター「千寿の郷」",
+    "tel": "03-3881-1691",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/048.html"
+  },
+  {
+    "id": 142,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "千住、千住元町、千住大川町、千住寿町、千住柳町",
+    "name": "地域包括支援センター「千住本町」",
+    "tel": "03-3888-1510",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/049.html"
+  },
+  {
+    "id": 143,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "中央本町3〜5丁目、青井1・3〜6丁目、西加平",
+    "name": "地域包括支援センター「中央本町」",
+    "tel": "03-3852-0006",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/050.html"
+  },
+  {
+    "id": 144,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "綾瀬、東綾瀬、谷中、東和1・3丁目",
+    "name": "地域包括支援センター「東和」",
+    "tel": "03-5613-1200",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/051.html"
+  },
+  {
+    "id": 145,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "東和2・4・5丁目、中川、大谷田1丁目",
+    "name": "地域包括支援センター「中川」",
+    "tel": "03-3605-4985",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/052.html"
+  },
+  {
+    "id": 146,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "西綾瀬、弘道、青井2丁目",
+    "name": "地域包括支援センター「西綾瀬」",
+    "tel": "03-5681-7650",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/053.html"
+  },
+  {
+    "id": 147,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "西新井、栗原",
+    "name": "地域包括支援センター「西新井」",
+    "tel": "03-3898-8391",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/054.html"
+  },
+  {
+    "id": 148,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "西新井本町、西新井栄町",
+    "name": "地域包括支援センター「西新井本町」",
+    "tel": "03-3856-6511",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/055.html"
+  },
+  {
+    "id": 149,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "花畑、南花畑5丁目",
+    "name": "地域包括支援センター「はなはた」",
+    "tel": "03-3883-0048",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/056.html"
+  },
+  {
+    "id": 150,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "平野、一ツ家、保塚町、六町、南花畑1〜4丁目",
+    "name": "地域包括支援センター「一ツ家」",
+    "tel": "03-3850-0300",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/057.html"
+  },
+  {
+    "id": 151,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "日ノ出町、千住旭町、千住東2丁目",
+    "name": "地域包括支援センター「日の出」",
+    "tel": "03-3870-1184",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/058.html"
+  },
+  {
+    "id": 152,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "西保木間、保木間、東保木間",
+    "name": "地域包括支援センター「保木間」",
+    "tel": "03-3859-3965",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/059.html"
+  },
+  {
+    "id": 153,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "関原1〜3丁目、本木1・2丁目",
+    "name": "地域包括支援センター「本木関原」",
+    "tel": "03-5845-3330",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/060.html"
+  },
+  {
+    "id": 154,
+    "prefecture": "東京都",
+    "city": "足立区",
+    "area": "六月、東六月町、竹の塚",
+    "name": "地域包括支援センター「六月」",
+    "tel": "03-5242-0302",
+    "url": "https://www.city.adachi.tokyo.jp/care-s/shisetsu/fukushi/061.html"
+  },
+  {
+    "id": 155,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "南千住2〜4・8丁目",
+    "name": "南千住東部地域包括支援センター",
+    "tel": "03-3805-5702",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien001.html"
+  },
+  {
+    "id": 156,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "南千住1・5〜7丁目",
+    "name": "南千住西部地域包括支援センター",
+    "tel": "03-5604-5710",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien002.html"
+  },
+  {
+    "id": 157,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "荒川1〜8丁目",
+    "name": "荒川地域包括支援センター",
+    "tel": "03-5855-3323",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien003.html"
+  },
+  {
+    "id": 158,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "町屋1〜8丁目",
+    "name": "町屋地域包括支援センター",
+    "tel": "03-3894-3568",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien004.html"
+  },
+  {
+    "id": 159,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "東尾久1〜8丁目",
+    "name": "東尾久地域包括支援センター",
+    "tel": "03-5855-8513",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien005.html"
+  },
+  {
+    "id": 160,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "西尾久1〜8丁目",
+    "name": "西尾久地域包括支援センター",
+    "tel": "03-3893-3555",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien006.html"
+  },
+  {
+    "id": 161,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "東日暮里1〜6丁目",
+    "name": "東日暮里地域包括支援センター",
+    "tel": "03-5615-3171",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien007.html"
+  },
+  {
+    "id": 162,
+    "prefecture": "東京都",
+    "city": "荒川区",
+    "area": "西日暮里1〜6丁目",
+    "name": "西日暮里地域包括支援センター",
+    "tel": "03-3807-3828",
+    "url": "https://www.city.arakawa.tokyo.jp/a028/shisetsuannai/fukushikanren/chiikihoukatsushien008.html"
+  },
+  {
+    "id": 163,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "area": "春日、水道、小石川",
+    "name": "高齢者あんしん相談センター富坂",
+    "tel": "03-3942-8128",
+    "url": "https://www.city.bunkyo.lg.jp/hoken/koresha/soudan/anshinsoudancenter/tomisaka.html"
+  },
+  {
+    "id": 164,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "area": "大塚、千石、白山、音羽、関口、目白台",
+    "name": "高齢者あんしん相談センター大塚",
+    "tel": "03-3941-9678",
+    "url": "https://www.city.bunkyo.lg.jp/hoken/koresha/soudan/anshinsoudancenter/ootuka.html"
+  },
+  {
+    "id": 165,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "area": "本郷、弥生、湯島、西片、根津、向丘",
+    "name": "高齢者あんしん相談センター本富士",
+    "tel": "03-3811-8088",
+    "url": "https://www.city.bunkyo.lg.jp/hoken/koresha/soudan/anshinsoudancenter/motofuji.html"
+  },
+  {
+    "id": 166,
+    "prefecture": "東京都",
+    "city": "文京区",
+    "area": "本駒込、千駄木",
+    "name": "高齢者あんしん相談センター駒込",
+    "tel": "03-3827-5422",
+    "url": "https://www.city.bunkyo.lg.jp/hoken/koresha/soudan/anshinsoudancenter/komagome.html"
+  },
+  {
+    "id": 167,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "両国、千歳、緑、立川、菊川、江東橋",
+    "name": "みどり高齢者支援総合センター",
+    "tel": "03-5625-6541",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/midori_houkatsu.html"
+  },
+  {
+    "id": 168,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "横網、亀沢、石原、本所、東駒形、吾妻橋",
+    "name": "同愛高齢者支援総合センター",
+    "tel": "03-3624-6541",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/douai_houkatsu.html"
+  },
+  {
+    "id": 169,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "錦糸、太平、横川、業平",
+    "name": "なりひら高齢者支援総合センター",
+    "tel": "03-5819-0541",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/narihira_houkatsu.html"
+  },
+  {
+    "id": 170,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "押上1〜3丁目、向島1〜5丁目",
+    "name": "こうめ高齢者支援総合センター",
+    "tel": "03-3625-6541",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/koume_houkatsu.html"
+  },
+  {
+    "id": 171,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "東向島1〜3・5・6丁目、京島",
+    "name": "むこうじま高齢者支援総合センター",
+    "tel": "03-3618-6541",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/mukoujima_houkatsu.html"
+  },
+  {
+    "id": 172,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "墨田、白鬚、堤通",
+    "name": "うめわか高齢者支援総合センター",
+    "tel": "03-5630-6541",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/umewaka_houkatsu.html"
+  },
+  {
+    "id": 173,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "文花、立花",
+    "name": "ぶんか高齢者支援総合センター",
+    "tel": "03-3617-6511",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/bunka_houkatsu.html"
+  },
+  {
+    "id": 174,
+    "prefecture": "東京都",
+    "city": "墨田区",
+    "area": "八広、東墨田",
+    "name": "八広はなみずき高齢者支援総合センター",
+    "tel": "03-3610-6541",
+    "url": "https://www.city.sumida.lg.jp/sisetu_info/hukusisisetu/zaitakukaigosien/hanamizuki_houkatsu.html"
+  },
+  {
+    "id": 175,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "清澄、平野、三好1・2丁目、佐賀、福住、深川、冬木、門前仲町、木場3丁目",
+    "name": "平野長寿サポートセンター",
+    "tel": "03-5639-9121",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/koreshashisetsu/chiikihokatsu/hirano.html"
+  },
+  {
+    "id": 176,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "永代、富岡、牡丹、古石場、越中島、木場2丁目",
+    "name": "古石場長寿サポートセンター",
+    "tel": "03-3641-2801",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/furuisiba.html"
+  },
+  {
+    "id": 177,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "木場4・5丁目、東陽",
+    "name": "東陽長寿サポートセンター",
+    "tel": "03-5665-4547",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/17158.html"
+  },
+  {
+    "id": 178,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "塩浜、潮見、木場1・6丁目",
+    "name": "塩浜長寿サポートセンター",
+    "tel": "03-5617-6213",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/siohama.html"
+  },
+  {
+    "id": 179,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "東砂8丁目、南砂3・6・7丁目、新砂、新木場、夢の島、若洲",
+    "name": "新砂長寿サポートセンター",
+    "tel": "03-5653-1735",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/sinusna.html"
+  },
+  {
+    "id": 180,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "常盤、新大橋、森下1・2丁目、三好3・4丁目、白河、高橋",
+    "name": "白河長寿サポートセンター",
+    "tel": "03-5646-1541",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/17157.html"
+  },
+  {
+    "id": 181,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "千石、石島、千田、海辺、扇橋",
+    "name": "海辺長寿サポートセンター",
+    "tel": "03-3645-6761",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/102271.html"
+  },
+  {
+    "id": 182,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "森下3〜5丁目、猿江、住吉、毛利",
+    "name": "住吉長寿サポートセンター",
+    "tel": "03-3635-0646",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/102273.html"
+  },
+  {
+    "id": 183,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "北砂4・7丁目、南砂4・5丁目",
+    "name": "北砂東長寿サポートセンター",
+    "tel": "03-5606-1744",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/13878.html"
+  },
+  {
+    "id": 184,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "東砂3〜7丁目",
+    "name": "東砂長寿サポートセンター",
+    "tel": "03-5857-8243",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/47592.html"
+  },
+  {
+    "id": 185,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "南砂1・2丁目",
+    "name": "南砂長寿サポートセンター",
+    "tel": "03-3640-9851",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/17160.html"
+  },
+  {
+    "id": 186,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "豊洲、東雲、有明、青海、海の森",
+    "name": "豊洲長寿サポートセンター",
+    "tel": "03-5859-0566",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/73325.html"
+  },
+  {
+    "id": 187,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "亀戸1・2・6丁目",
+    "name": "亀戸長寿サポートセンター",
+    "tel": "03-5627-2525",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/59653.html"
+  },
+  {
+    "id": 188,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "亀戸3〜5丁目",
+    "name": "亀戸北長寿サポートセンター",
+    "tel": "03-5626-0671",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/kameidokita.html"
+  },
+  {
+    "id": 189,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "亀戸7〜9丁目",
+    "name": "亀戸東長寿サポートセンター",
+    "tel": "03-5875-3451",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/kameidohigasi.html"
+  },
+  {
+    "id": 190,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "大島3・5・6丁目",
+    "name": "大島長寿サポートセンター",
+    "tel": "03-5628-0541",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/chiikihokatsu/17159.html"
+  },
+  {
+    "id": 191,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "大島1・2・4丁目",
+    "name": "大島東長寿サポートセンター",
+    "tel": "03-5836-5301",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/oojimahigasi.html"
+  },
+  {
+    "id": 192,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "大島7〜9丁目",
+    "name": "大島西長寿サポートセンター",
+    "tel": "03-3636-9857",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/oojimanisi.html"
+  },
+  {
+    "id": 193,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "枝川、辰巳",
+    "name": "枝川長寿サポートセンター",
+    "tel": "03-5634-0158",
+    "url": "https://www.city.koto.lg.jp/211501/shisetsuannai/kenkou/koreshashisetsu/kaigoshien/13879.html"
+  },
+  {
+    "id": 194,
+    "prefecture": "東京都",
+    "city": "江東区",
+    "area": "北砂1〜3・5丁目",
+    "name": "北砂西長寿サポートセンター",
+    "tel": "03-3615-4860",
+    "url": "https://www.city.koto.lg.jp/211501/fukushi/chousapo/kitasunanisi.html"
+  },
+  {
+    "id": 195,
+    "prefecture": "東京都",
+    "city": "台東区",
+    "area": "浅草、千束、花川戸",
+    "name": "あさくさ地域包括支援センター",
+    "tel": "03-3873-8088",
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/korei/koreishasodan/chiikihokatsujien.html"
+  },
+  {
+    "id": 196,
+    "prefecture": "東京都",
+    "city": "台東区",
+    "area": "谷中、上野桜木、上野公園、池之端",
+    "name": "やなか地域包括支援センター",
+    "tel": "03-3822-1556",
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/korei/koreishasodan/chiikihokatsujien.html"
+  },
+  {
+    "id": 197,
+    "prefecture": "東京都",
+    "city": "台東区",
+    "area": "下谷3丁目、根岸4・5丁目、三ノ輪、竜泉、日本堤",
+    "name": "りゅうせん地域包括支援センター",
+    "tel": "03-6458-1507",
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/korei/koreishasodan/chiikihokatsujien.html"
+  },
+  {
+    "id": 198,
+    "prefecture": "東京都",
+    "city": "台東区",
+    "area": "雷門、駒形、寿、蔵前、三筋、小島、鳥越、浅草橋、柳橋",
+    "name": "くらまえ地域包括支援センター",
+    "tel": "03-3862-2175",
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/korei/koreishasodan/chiikihokatsujien.html"
+  },
+  {
+    "id": 199,
+    "prefecture": "東京都",
+    "city": "台東区",
+    "area": "根岸1〜3丁目、下谷1・2丁目、入谷、北上野、松が谷、西浅草",
+    "name": "まつがや地域包括支援センター",
+    "tel": "03-3845-6505",
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/korei/koreishasodan/chiikihokatsujien.html"
+  },
+  {
+    "id": 200,
+    "prefecture": "東京都",
+    "city": "台東区",
+    "area": "東上野、上野、元浅草、台東、秋葉原",
+    "name": "たいとう地域包括支援センター",
+    "tel": "03-5846-4510",
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/korei/koreishasodan/chiikihokatsujien.html"
+  },
+  {
+    "id": 201,
+    "prefecture": "東京都",
+    "city": "台東区",
+    "area": "今戸、東浅草、清川、橋場",
+    "name": "ほうらい地域包括支援センター",
+    "tel": "03-5824-5626",
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/korei/koreishasodan/chiikihokatsujien.html"
+  },
+  {
+    "id": 202,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "北品川、東品川1・2・5丁目",
+    "name": "台場在宅介護支援センター",
+    "tel": "03-5479-8593",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 203,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "東品川3丁目（1〜9番）、南品川1・2・4・5丁目（1〜9番）・6丁目",
+    "name": "東品川在宅介護支援センター",
+    "tel": "03-5479-2793",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 204,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "東品川3丁目（10〜32番）・4丁目、南品川3・5丁目（10〜16番）",
+    "name": "東品川第二在宅介護支援センター",
+    "tel": "03-5783-2656",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 205,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "上大崎、東五反田",
+    "name": "上大崎在宅介護支援センター",
+    "tel": "03-3473-1831",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 206,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "西五反田",
+    "name": "西五反田在宅介護支援センター",
+    "tel": "03-5740-6115",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 207,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "西品川、大崎",
+    "name": "大崎在宅介護支援センター",
+    "tel": "03-3779-2981",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 208,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "南大井",
+    "name": "南大井在宅介護支援センター",
+    "tel": "03-5753-3902",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 209,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "東大井、勝島",
+    "name": "南大井第二在宅介護支援センター",
+    "tel": "03-5495-7083",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 210,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "大井1・4・6丁目、広町",
+    "name": "大井在宅介護支援センター",
+    "tel": "03-5742-2723",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 212,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "西大井",
+    "name": "西大井在宅介護支援センター",
+    "tel": "03-5743-6120",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 213,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "中延、東中延、西中延、戸越5丁目、平塚",
+    "name": "中延在宅介護支援センター",
+    "tel": "03-3787-2137",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 214,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "小山4・5丁目、荏原1〜4丁目",
+    "name": "荏原在宅介護支援センター",
+    "tel": "03-5750-3704",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 215,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "小山6・7丁目、荏原5〜7丁目、旗の台1・2・5・6丁目",
+    "name": "小山在宅介護支援センター",
+    "tel": "03-5749-7288",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 216,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "中延1・2丁目、東中延1丁目、西中延1・2丁目、戸越5丁目、平塚1〜3丁目",
+    "name": "成幸在宅介護支援センター",
+    "tel": "03-3787-3616",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 217,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "豊町1丁目、戸越1〜4丁目",
+    "name": "戸越台在宅介護支援センター",
+    "tel": "03-5750-1053",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 218,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "二葉1〜3丁目、豊町2〜5丁目",
+    "name": "杜松在宅介護支援センター",
+    "tel": "03-5750-7707",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 219,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "小山台、小山1〜3丁目",
+    "name": "小山台在宅介護支援センター",
+    "tel": "03-5794-8511",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 220,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "戸越6丁目、豊町6丁目、二葉4丁目",
+    "name": "大原在宅介護支援センター",
+    "tel": "03-5749-2531",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 221,
+    "prefecture": "東京都",
+    "city": "品川区",
+    "area": "八潮",
+    "name": "八潮在宅介護支援センター",
+    "tel": "03-3790-0470",
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/shisetsu/shisetsu-kenkouhukushi/shisetsu-kenkouhukushi-koureisya/hpg000000166.html"
+  },
+  {
+    "id": 222,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "大森西",
+    "name": "地域包括支援センター大森",
+    "tel": "03-5753-6331",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/oomori.html"
+  },
+  {
+    "id": 223,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "大森東",
+    "name": "地域包括支援センター大森東",
+    "tel": "03-6423-8300",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/oomorihigashi.html"
+  },
+  {
+    "id": 224,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "大森東、平和島",
+    "name": "地域包括支援センター平和島",
+    "tel": "03-5767-1875",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/heiwajima.html"
+  },
+  {
+    "id": 225,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "大森北、入新井",
+    "name": "地域包括支援センター入新井",
+    "tel": "03-3762-4689",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/iriarai.html"
+  },
+  {
+    "id": 226,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "南大井、新井宿",
+    "name": "地域包括支援センター新井宿",
+    "tel": "03-3772-2415",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/oomoriishikai.html"
+  },
+  {
+    "id": 227,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "馬込",
+    "name": "地域包括支援センター馬込",
+    "tel": "03-5709-8011",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/magome.html"
+  },
+  {
+    "id": 228,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "馬込南部",
+    "name": "地域包括支援センター南馬込",
+    "tel": "03-6429-7651",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/minami-magome.html"
+  },
+  {
+    "id": 229,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "池上、徳持",
+    "name": "地域包括支援センター徳持",
+    "tel": "03-5748-7202",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/tokumochi.html"
+  },
+  {
+    "id": 230,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "嶺町",
+    "name": "地域包括支援センター嶺町",
+    "tel": "03-5483-7477",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/minemachi.html"
+  },
+  {
+    "id": 231,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "田園調布",
+    "name": "地域包括支援センター田園調布",
+    "tel": "03-3721-1572",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/denenchofu.html"
+  },
+  {
+    "id": 232,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "田園調布、千束",
+    "name": "地域包括支援センター千束",
+    "tel": "03-3728-6673",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/denenchoufuishikai.html"
+  },
+  {
+    "id": 233,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "多摩川",
+    "name": "地域包括支援センターたまがわ",
+    "tel": "03-5732-1026",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/tamagawa.html"
+  },
+  {
+    "id": 234,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "上池台",
+    "name": "地域包括支援センター上池台",
+    "tel": "03-3748-6138",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/kamiikedai.html"
+  },
+  {
+    "id": 235,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "南六郷、東六郷、仲六郷、南蒲田",
+    "name": "地域包括支援センター六郷",
+    "tel": "03-5744-7770",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/rokugounaka.html"
+  },
+  {
+    "id": 236,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "西六郷",
+    "name": "地域包括支援センター西六郷",
+    "tel": "03-6424-9711",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/rokugounishi.html"
+  },
+  {
+    "id": 237,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "矢口",
+    "name": "地域包括支援センターやぐち",
+    "tel": "03-5741-3388",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/yaguchi.html"
+  },
+  {
+    "id": 238,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "西蒲田",
+    "name": "地域包括支援センター西蒲田",
+    "tel": "03-5480-2502",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/nishikamata.html"
+  },
+  {
+    "id": 239,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "新蒲田1〜3丁目",
+    "name": "地域包括支援センター新蒲田",
+    "tel": "03-6715-9731",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/houkatusinkamata.html"
+  },
+  {
+    "id": 240,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "蒲田",
+    "name": "地域包括支援センター蒲田",
+    "tel": "03-5710-0951",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/kamata.html"
+  },
+  {
+    "id": 241,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "蒲田東部",
+    "name": "地域包括支援センター蒲田東",
+    "tel": "03-5714-0888",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/kamataishikai.html"
+  },
+  {
+    "id": 242,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "羽田",
+    "name": "地域包括支援センター羽田",
+    "tel": "03-3745-7855",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/haneda.html"
+  },
+  {
+    "id": 243,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "羽田",
+    "name": "地域包括支援センター久が原",
+    "tel": "03-5700-5861",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/ikegami.html"
+  },
+  {
+    "id": 244,
+    "prefecture": "東京都",
+    "city": "大田区",
+    "area": "羽田",
+    "name": "地域包括支援センター糀谷",
+    "tel": "03-3741-8861",
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/fukushi/kourei/houkatsu_c/koujiya.html"
+  },
+  {
+    "id": 245,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "中央",
+    "name": "中央熟年相談室",
+    "tel": "03-5607-5591",
+    "url": "https://www.edogawa-med.jp/"
+  },
+  {
+    "id": 246,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "江戸川",
+    "name": "江戸川熟年相談室",
+    "tel": "03-3677-4631",
+    "url": "http://www.kotoen.or.jp/"
+  },
+  {
+    "id": 247,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "平井",
+    "name": "平井熟年相談室",
+    "tel": "03-3618-0324",
+    "url": "http://wel-edogawa.jp/"
+  },
+  {
+    "id": 248,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "平井・小松川",
+    "name": "平井小松川熟年相談室",
+    "tel": "03-5627-1190",
+    "url": "https://shirohige.clinic/"
+  },
+  {
+    "id": 249,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "本一色",
+    "name": "本一色熟年相談室",
+    "tel": "03-5607-7600",
+    "url": "http://koujukai.azalee.or.jp/"
+  },
+  {
+    "id": 250,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "東小岩",
+    "name": "東小岩熟年相談室",
+    "tel": "03-5889-1165",
+    "url": "https://hakusyuu.jimusho.jp/"
+  },
+  {
+    "id": 251,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "北小岩、小岩",
+    "name": "北小岩熟年相談室",
+    "tel": "03-5612-7193",
+    "url": "http://www.e-kousyoen.or.jp/"
+  },
+  {
+    "id": 252,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "南小岩",
+    "name": "南小岩熟年相談室",
+    "tel": "03-5694-0111",
+    "url": "https://www.koiwahome.com/"
+  },
+  {
+    "id": 253,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "船堀",
+    "name": "船堀熟年相談室",
+    "tel": "03-5878-1521",
+    "url": "https://www.city.edogawa.tokyo.jp/e040/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/jukunensha/shiencenter.html"
+  },
+  {
+    "id": 254,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "一之江",
+    "name": "一之江熟年相談室",
+    "tel": "03-5879-5613",
+    "url": "http://kenshukai.kir.jp/seishinen/"
+  },
+  {
+    "id": 255,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "松江",
+    "name": "松江熟年相談室",
+    "tel": "03-5879-2185",
+    "url": "https://www.city.edogawa.tokyo.jp/e040/kuseijoho/gaiyo/shisetsuguide/bunya/kenkofukushi/jukunensha/shiencenter.html"
+  },
+  {
+    "id": 256,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "瑞江",
+    "name": "瑞江熟年相談室",
+    "tel": "03-3679-4102",
+    "url": "http://zuikoukai.jp/"
+  },
+  {
+    "id": 257,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "西瑞江",
+    "name": "西瑞江熟年相談室",
+    "tel": "03-5667-7676",
+    "url": "https://www.edogawa-med.jp/"
+  },
+  {
+    "id": 258,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "篠崎、鹿骨",
+    "name": "篠崎熟年相談室",
+    "tel": "03-5664-3080",
+    "url": "https://kyowakai-kiku.jp/facility/#fac4"
+  },
+  {
+    "id": 259,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "西篠崎",
+    "name": "西篠崎熟年相談室",
+    "tel": "03-5666-8477",
+    "url": "https://kyowakai-kiku.jp/"
+  },
+  {
+    "id": 260,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "北葛西、宇喜田",
+    "name": "北葛西熟年相談室",
+    "tel": "03-3877-0181",
+    "url": "http://www.danshinen.org/index.html"
+  },
+  {
+    "id": 261,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "葛西中央・南部",
+    "name": "西葛西熟年相談室",
+    "tel": "03-3675-1236",
+    "url": "http://www.tokyoeiwakai.or.jp/index.html"
+  },
+  {
+    "id": 262,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "東葛西",
+    "name": "東葛西熟年相談室",
+    "tel": "03-3877-8690",
+    "url": "http://www.tokyoeiwakai.or.jp/index.html"
+  },
+  {
+    "id": 263,
+    "prefecture": "東京都",
+    "city": "江戸川区",
+    "area": "南葛西",
+    "name": "南葛西熟年相談室",
+    "tel": "03-5659-5353",
+    "url": "http://e-houseikai.or.jp/midorinosato-fukurakuen.html"
+  },
+  {
+    "id": 264,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "水元",
+    "name": "高齢者総合相談センター水元",
+    "tel": "03-3826-2419",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006843.html"
+  },
+  {
+    "id": 265,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "水元公園",
+    "name": "高齢者総合相談センター水元公園",
+    "tel": "03-6231-3567",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1018194.html"
+  },
+  {
+    "id": 266,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "新宿",
+    "name": "高齢者総合相談センター新宿",
+    "tel": "03-3826-8726",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006846.html"
+  },
+  {
+    "id": 267,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "金町",
+    "name": "高齢者総合相談センター金町",
+    "tel": "03-3826-5031",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006847.html"
+  },
+  {
+    "id": 268,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "高砂",
+    "name": "高齢者総合相談センター高砂",
+    "tel": "03-5889-8600",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006848.html"
+  },
+  {
+    "id": 269,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "柴又",
+    "name": "高齢者総合相談センター柴又",
+    "tel": "03-5876-9531",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006849.html"
+  },
+  {
+    "id": 270,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "青戸",
+    "name": "高齢者総合相談センター青戸",
+    "tel": "03-5629-5719",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006850.html"
+  },
+  {
+    "id": 271,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "亀有",
+    "name": "高齢者総合相談センター亀有",
+    "tel": "03-6240-7630",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006851.html"
+  },
+  {
+    "id": 272,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "堀切",
+    "name": "高齢者総合相談センター堀切",
+    "tel": "03-3697-7815",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006852.html"
+  },
+  {
+    "id": 273,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "お花茶屋",
+    "name": "高齢者総合相談センターお花茶屋",
+    "tel": "03-6662-7907",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006853.html"
+  },
+  {
+    "id": 274,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "東四つ木",
+    "name": "高齢者総合相談センター東四つ木",
+    "tel": "03-5698-2204",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006854.html"
+  },
+  {
+    "id": 275,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "立石",
+    "name": "高齢者総合相談センター立石",
+    "tel": "03-6657-6140",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006855.html"
+  },
+  {
+    "id": 276,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "奥戸",
+    "name": "高齢者総合相談センター奥戸",
+    "tel": "03-5670-5212",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006856.html"
+  },
+  {
+    "id": 277,
+    "prefecture": "東京都",
+    "city": "葛飾区",
+    "area": "新小岩",
+    "name": "高齢者総合相談センター新小岩",
+    "tel": "03-5879-9328",
+    "url": "https://www.city.katsushika.lg.jp/institution/1030223/1006835/1006857.html"
+  },
+  {
+    "id": 278,
+    "prefecture": "東京都",
+    "city": "港区",
+    "area": "芝地区",
+    "name": "芝地区高齢者相談センター",
+    "tel": "03-5232-0840",
+    "url": "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/01.html"
+  },
+  {
+    "id": 279,
+    "prefecture": "東京都",
+    "city": "港区",
+    "area": "麻布地区",
+    "name": "麻布地区高齢者相談センター",
+    "tel": "03-3453-8032",
+    "url": "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/02.html"
+  },
+  {
+    "id": 280,
+    "prefecture": "東京都",
+    "city": "港区",
+    "area": "赤坂地区",
+    "name": "赤坂地区高齢者相談センター",
+    "tel": "03-5410-3415",
+    "url": "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/03.html"
+  },
+  {
+    "id": 281,
+    "prefecture": "東京都",
+    "city": "港区",
+    "area": "高輪地区",
+    "name": "高輪地区高齢者相談センター",
+    "tel": "03-3449-9669",
+    "url": "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/04.html"
+  },
+  {
+    "id": 282,
+    "prefecture": "東京都",
+    "city": "港区",
+    "area": "芝浦港南地区",
+    "name": "芝浦港南地区高齢者相談センター",
+    "tel": "03-3450-5905",
+    "url": "https://www.city.minato.tokyo.jp/shisetsu/fukushi/k-sodan/05.html"
+  },
+  {
+    "id": 283,
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "area": "北部",
+    "name": "北部包括支援センター",
+    "tel": "03-5428-6891",
+    "url": "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/hokushien.html"
+  },
+  {
+    "id": 284,
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "area": "東部",
+    "name": "東部包括支援センター",
+    "tel": "03-5724-8030",
+    "url": "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/toshien.html"
+  },
+  {
+    "id": 285,
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "area": "中央",
+    "name": "中央包括支援センター",
+    "tel": "03-5724-8066",
+    "url": "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/chushien.html"
+  },
+  {
+    "id": 286,
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "area": "南部",
+    "name": "南部包括支援センター",
+    "tel": "03-5724-8033",
+    "url": "https://www.city.meguro.tokyo.jp/fukushisougou/shisetsu/hokenfukushi/nanshien.html"
+  },
+  {
+    "id": 287,
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "area": "西部",
+    "name": "西部包括支援センター",
+    "tel": "03-5701-7244",
+    "url": "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/hokenfukushi/seishien.html"
+  },
+  {
+    "id": 288,
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "area": "麹町地区",
+    "name": "高齢者あんしんセンター麹町",
+    "tel": "03-3265-6141",
+    "url": "https://www.city.chiyoda.lg.jp/shisetsu/koresha/anshincenter-kojimachi.html"
+  },
+  {
+    "id": 289,
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "area": "神田地区",
+    "name": "高齢者あんしんセンター神田",
+    "tel": "03-5297-2255",
+    "url": "https://www.city.chiyoda.lg.jp/shisetsu/koresha/anshincenter-kanda.html"
+  },
+  {
+    "id": 290,
+    "prefecture": "東京都",
+    "city": "中央区",
+    "area": "京橋",
+    "name": "京橋おとしより相談センター",
+    "tel": "03-3545-1107",
+    "url": "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+  {
+    "id": 291,
+    "prefecture": "東京都",
+    "city": "中央区",
+    "area": "日本橋",
+    "name": "日本橋おとしより相談センター",
+    "tel": "03-3665-3547",
+    "url": "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+  {
+    "id": 292,
+    "prefecture": "東京都",
+    "city": "中央区",
+    "area": "人形町",
+    "name": "人形町おとしより相談センター",
+    "tel": "03-5847-5580",
+    "url": "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+  {
+    "id": 293,
+    "prefecture": "東京都",
+    "city": "中央区",
+    "area": "月島",
+    "name": "月島おとしより相談センター",
+    "tel": "03-3531-1005",
+    "url": "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+  {
+    "id": 294,
+    "prefecture": "東京都",
+    "city": "中央区",
+    "area": "勝どき",
+    "name": "勝どきおとしより相談センター",
+    "tel": "03-6228-2205",
+    "url": "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+  {
+    "id": 295,
+    "prefecture": "東京都",
+    "city": "中央区",
+    "area": "晴海",
+    "name": "晴海おとしより相談センター",
+    "tel": "03-5547-4871",
+    "url": "https://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html"
+  },
+  {
+    "id": 296,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "恵比寿・広尾",
+    "name": "豊沢・新橋地域包括支援センター",
+    "tel": "03-3440-1671",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/toyosawa_sinbasi_sien.html"
+  },
+  {
+    "id": 297,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "代官山・恵比寿西",
+    "name": "恵比寿西二丁目地域包括支援センター",
+    "tel": "03-6427-0273",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/ebisunisi_nityome_sien.html"
+  },
+  {
+    "id": 298,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "氷川",
+    "name": "ひがし健康プラザ地域包括支援センター",
+    "tel": "03-5468-5901",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/higasi_puraza_sien.html"
+  },
+  {
+    "id": 299,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "大向",
+    "name": "かんなみの杜・渋谷地域包括支援センター",
+    "tel": "03-6433-7535",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/kannami_siensenta-.html"
+  },
+  {
+    "id": 300,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "富ヶ谷・上原",
+    "name": "富ヶ谷・上原地域包括支援センター",
+    "tel": "03-3467-2371",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/tomi_ue_sien.html"
+  },
+  {
+    "id": 301,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "西原",
+    "name": "総合ケアコミュニティ・せせらぎ地域包括支援センター",
+    "tel": "03-5790-0881",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/seseragi_00009.html"
+  },
+  {
+    "id": 302,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "初台",
+    "name": "あやめの苑・代々木地域包括支援センター",
+    "tel": "03-3372-1038",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/ayame_yoyogi_youkatu.html"
+  },
+  {
+    "id": 303,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "本町",
+    "name": "つばめの里・本町東地域包括支援センター",
+    "tel": "03-5334-9977",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/tubame_honmati_sien.html"
+  },
+  {
+    "id": 304,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "笹幡",
+    "name": "笹幡地域包括支援センター",
+    "tel": "03-5365-1611",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/sasahata_sien.html"
+  },
+  {
+    "id": 305,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "千駄ヶ谷",
+    "name": "千駄ヶ谷・北参道地域包括支援センター",
+    "tel": "03-3475-1461",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/sendagaya_kisan_sien.html"
+  },
+  {
+    "id": 306,
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "area": "神宮前",
+    "name": "障害者福祉センターはぁとぴあ原宿地域包括支援センター",
+    "tel": "03-3423-2112",
+    "url": "https://www.city.shibuya.tokyo.jp/shisetsu/iryo-fukushi-shisetsu/chiiki-center/kea_harazyuku_sien.html"
+  },
+  {
+    "id": 373,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "横山・八日・本町・元横山他",
+    "name": "高齢者あんしん相談センター旭町",
+    "tel": "042-648-8331",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018115.html"
+  },
+  {
+    "id": 374,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "高尾・東浅川・狭間・廿里他",
+    "name": "高齢者あんしん相談センター高尾",
+    "tel": "042-668-2288",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018116.html"
+  },
+  {
+    "id": 375,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "滝山・加住・丹木・高月他",
+    "name": "高齢者あんしん相談センター加住",
+    "tel": "042-692-3211",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018117.html"
+  },
+  {
+    "id": 376,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "暁・中野・中野山王・清川",
+    "name": "高齢者あんしん相談センター中野",
+    "tel": "042-620-0860",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018118.html"
+  },
+  {
+    "id": 377,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "南大沢・鑓水・松木・別所",
+    "name": "高齢者あんしん相談センター南大沢",
+    "tel": "042-678-1880",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018119.html"
+  },
+  {
+    "id": 378,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "散田・山田・めじろ台",
+    "name": "高齢者あんしん相談センターめじろ",
+    "tel": "042-669-3070",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018120.html"
+  },
+  {
+    "id": 379,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "北野・長沼・絹ヶ丘・北野台",
+    "name": "高齢者あんしん相談センター長沼",
+    "tel": "042-648-4340",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018121.html"
+  },
+  {
+    "id": 380,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "川口・上川・犬目・楢原",
+    "name": "高齢者あんしん相談センター川口",
+    "tel": "042-654-5475",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018122.html"
+  },
+  {
+    "id": 381,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "諏訪・上壱分方・大楽寺他",
+    "name": "高齢者あんしん相談センター元八王子",
+    "tel": "042-623-1021",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018123.html"
+  },
+  {
+    "id": 382,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "片倉・みなみ野・七国他",
+    "name": "高齢者あんしん相談センター由井",
+    "tel": "042-632-6331",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018124.html"
+  },
+  {
+    "id": 383,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "柚木・中山・越野・堀之内",
+    "name": "高齢者あんしん相談センター由木",
+    "tel": "042-679-1114",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018125.html"
+  },
+  {
+    "id": 384,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "長房・並木・城山手",
+    "name": "高齢者あんしん相談センター長房",
+    "tel": "042-629-2530",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018126.html"
+  },
+  {
+    "id": 385,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "子安・台・寺町・天神他",
+    "name": "高齢者あんしん相談センター子安",
+    "tel": "042-649-6020",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018127.html"
+  },
+  {
+    "id": 386,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "叶谷・泉・横川・元八王子他",
+    "name": "高齢者あんしん相談センターもとはち南",
+    "tel": "042-673-6241",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018128.html"
+  },
+  {
+    "id": 387,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "館・椚田・寺田・大船",
+    "name": "高齢者あんしん相談センター館",
+    "tel": "042-673-6425",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018129.html"
+  },
+  {
+    "id": 388,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "大横・八幡・本郷・平岡他",
+    "name": "高齢者あんしん相談センター大横",
+    "tel": "042-634-8666",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018130.html"
+  },
+  {
+    "id": 389,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "下恩方・上恩方・西寺方他",
+    "name": "高齢者あんしん相談センター恩方",
+    "tel": "042-659-0314",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018133.html"
+  },
+  {
+    "id": 390,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "東中野・大塚・鹿島・松が谷",
+    "name": "高齢者あんしん相談センター由木東",
+    "tel": "042-689-6070",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p024905.html"
+  },
+  {
+    "id": 391,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "石川・小宮・高倉・宇津木他",
+    "name": "高齢者あんしん相談センター石川",
+    "tel": "042-631-0071",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p025404.html"
+  },
+  {
+    "id": 392,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "大和田・富士見・大谷",
+    "name": "高齢者あんしん相談センター大和田",
+    "tel": "042-649-3280",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p026529.html"
+  },
+  {
+    "id": 393,
+    "prefecture": "東京都",
+    "city": "八王子市",
+    "area": "追分・千人・日吉・元本郷",
+    "name": "高齢者あんしん相談センター追分",
+    "tel": "042-686-1713",
+    "url": "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p027305.html"
+  },
+  {
+    "id": 394,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "相原町",
+    "name": "堺第1高齢者支援センター",
+    "tel": "042-770-2558",
+    "url": "https://aihara1.com/"
+  },
+  {
+    "id": 395,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "小山・小山ヶ丘・上小山田",
+    "name": "堺第2高齢者支援センター",
+    "tel": "042-797-0200",
+    "url": "https://chikuseikai.com/service/misato/"
+  },
+  {
+    "id": 396,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "図師・下小山田・忠生・矢部他",
+    "name": "忠生第1高齢者支援センター",
+    "tel": "042-797-8032",
+    "url": "https://machida-fukushi.or.jp/consultation-service/support-center-tadao/"
+  },
+  {
+    "id": 397,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "山崎・木曽・木曽西・木曽東他",
+    "name": "忠生第2高齢者支援センター",
+    "tel": "042-792-1105",
+    "url": "https://fukuinkai.or.jp/office/208/"
+  },
+  {
+    "id": 398,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "小野路・野津田・金井・薬師台",
+    "name": "鶴川第1高齢者支援センター",
+    "tel": "042-736-6927",
+    "url": "https://www.san-ikukai.or.jp/machida/seifu2/index.html"
+  },
+  {
+    "id": 399,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "能ヶ谷・三輪・三輪緑山他",
+    "name": "鶴川第2高齢者支援センター",
+    "tel": "042-737-7292",
+    "url": "https://www.yuyuen.com/service/"
+  },
+  {
+    "id": 400,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "原町田・中町・森野・旭町",
+    "name": "町田第1高齢者支援センター",
+    "tel": "042-728-9215",
+    "url": "https://machida-fukushi.or.jp/consultation-service/consultation-machida/"
+  },
+  {
+    "id": 401,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "本町田・藤の台・南大谷",
+    "name": "町田第2高齢者支援センター",
+    "tel": "042-729-0747",
+    "url": "https://www.npo-yuwa.com/"
+  },
+  {
+    "id": 402,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "玉川学園・南大谷・東玉川学園",
+    "name": "町田第3高齢者支援センター",
+    "tel": "042-710-3378",
+    "url": "https://www.ohmikai.com/"
+  },
+  {
+    "id": 403,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "南町田・鶴間・小川・つくし野",
+    "name": "南第1高齢者支援センター",
+    "tel": "042-796-2789",
+    "url": "https://fuyouen.jp/service/minami/"
+  },
+  {
+    "id": 404,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "金森・金森東・南成瀬・成瀬が丘",
+    "name": "南第2高齢者支援センター",
+    "tel": "042-796-3899",
+    "url": "https://sites.google.com/gsen.or.jp/minamidaini/"
+  },
+  {
+    "id": 405,
+    "prefecture": "東京都",
+    "city": "町田市",
+    "area": "成瀬・西成瀬・高ヶ坂・成瀬台",
+    "name": "南第3高齢者支援センター",
+    "tel": "042-720-3801",
+    "url": "https://www.shoukichi.org/machidaminami3/"
+  },
+  {
+    "id": 406,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "北山・西原・武蔵台",
+    "name": "地域包括支援センター泉苑",
+    "tel": "042-366-0171",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/izumi.html"
+  },
+  {
+    "id": 407,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "四谷",
+    "name": "地域包括支援センターよつや苑",
+    "tel": "042-334-8141",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/yotsuya.html"
+  },
+  {
+    "id": 408,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "朝日・多磨・紅葉丘・若松他",
+    "name": "地域包括支援センターあさひ苑",
+    "tel": "042-369-0080",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/asahi.html"
+  },
+  {
+    "id": 409,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "寿・幸・八幡・日吉・府中他",
+    "name": "地域包括支援センター安立園",
+    "tel": "042-367-0550",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/anryuen.html"
+  },
+  {
+    "id": 410,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "押立・車返団地",
+    "name": "地域包括支援センターおしたて",
+    "tel": "042-363-1661",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/oshitate.html"
+  },
+  {
+    "id": 411,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "片町・本町・宮西・美好他",
+    "name": "地域包括支援センターかたまち",
+    "tel": "042-336-5831",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/katamachi.html"
+  },
+  {
+    "id": 412,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "栄・新町・浅間・天神他",
+    "name": "地域包括支援センターしんまち",
+    "tel": "042-340-5060",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/sinnmachi.html"
+  },
+  {
+    "id": 413,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "白糸台・小柳・清水が丘・若松",
+    "name": "地域包括支援センター白糸台",
+    "tel": "042-407-8080",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/shiraitodai.html"
+  },
+  {
+    "id": 414,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "東芝・西府・日新・本宿",
+    "name": "地域包括支援センターにしふ",
+    "tel": "042-360-1380",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/nisifu.html"
+  },
+  {
+    "id": 415,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "是政・小柳・清水が丘",
+    "name": "地域包括支援センターこれまさ",
+    "tel": "042-314-0451",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/koremasa.html"
+  },
+  {
+    "id": 416,
+    "prefecture": "東京都",
+    "city": "府中市",
+    "area": "住吉・分梅・南町",
+    "name": "地域包括支援センターみなみ町",
+    "tel": "042-336-1250",
+    "url": "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/minami.html"
+  },
+  {
+    "id": 417,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "深大寺北・東1-2・南1-5・元2-5・佐須1",
+    "name": "地域包括支援センターはなみずき",
+    "tel": "042-441-5763",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 418,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "富士見1-4・下石原1-3・野水・飛田給他",
+    "name": "地域包括支援センターちょうふの里",
+    "tel": "042-441-6655",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 419,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "多摩川1-5・布田1/4・小島・調布ケ丘他",
+    "name": "地域包括支援センターちょうふ花園",
+    "tel": "042-484-2285",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 420,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "国領1-5/8・布田2-3・調布ケ丘2-3・八雲台",
+    "name": "地域包括支援センターゆうあい",
+    "tel": "042-481-4973",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 421,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "柴崎・佐須1-5・西つつじ1-2・深大寺他",
+    "name": "地域包括支援センター至誠しばさき",
+    "tel": "042-488-1300",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 422,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "国領6-7・布田5-6・染地・多摩川6-7",
+    "name": "地域包括支援センターときわぎ国領",
+    "tel": "050-5540-0860",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 423,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "緑ケ丘・仙川・西つつじ1-4・東つつじ1-3他",
+    "name": "地域包括支援センターつつじケ丘",
+    "tel": "03-5315-5400",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 424,
+    "prefecture": "東京都",
+    "city": "調布市",
+    "area": "若葉1-3・入間・菊野台1-3・東西つつじ他",
+    "name": "地域包括支援センター仙川",
+    "tel": "03-5314-0030",
+    "url": "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+  {
+    "id": 425,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "ひばりが丘北・北町・栄町・下保谷",
+    "name": "栄町地域包括支援センター",
+    "tel": "042-438-7090",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/sakehoukatu.html"
+  },
+  {
+    "id": 426,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "東町・中町・富士町",
+    "name": "富士町地域包括支援センター",
+    "tel": "042-451-1203",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/fujimatihoukatu.html"
+  },
+  {
+    "id": 427,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "北原・泉町・住吉",
+    "name": "泉町地域包括支援センター",
+    "tel": "042-424-1200",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/izumihoukatu.html"
+  },
+  {
+    "id": 428,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "田無町・保谷町",
+    "name": "田無町地域包括支援センター",
+    "tel": "042-467-8850",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/tanasihoukatu.html"
+  },
+  {
+    "id": 429,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "緑町・谷戸・ひばりが丘",
+    "name": "緑町地域包括支援センター",
+    "tel": "042-461-7081",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/midorihoukatu.html"
+  },
+  {
+    "id": 430,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "西原町・芝久保町",
+    "name": "西原町地域包括支援センター",
+    "tel": "042-451-8844",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/nisiharahoukatu.html"
+  },
+  {
+    "id": 431,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "南町・向台町",
+    "name": "向台町地域包括支援センター",
+    "tel": "042-468-2340",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/mukoudaihoukatu.html"
+  },
+  {
+    "id": 432,
+    "prefecture": "東京都",
+    "city": "西東京市",
+    "area": "新町・柳沢・東伏見",
+    "name": "新町地域包括支援センター",
+    "tel": "042-462-1695",
+    "url": "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/sinmatihoukatu.html"
+  },
+  {
+    "id": 433,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "栄1-3・中島・小川1・たかの台・上水新1-3",
+    "name": "地域包括支援センターけやきの郷",
+    "tel": "042-349-2321",
+    "url": "https://www.reimeikai1945.jp/pages/49/"
+  },
+  {
+    "id": 434,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "たかの台・津田1・上水本1",
+    "name": "地域包括支援センターけやきの郷 たかの台出張所",
+    "tel": "042-316-3367",
+    "url": "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+  {
+    "id": 435,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "小川西/東1-5・津田2-3・学園西1-3・上水本2-6",
+    "name": "地域包括支援センター小川ホーム",
+    "tel": "042-347-6033",
+    "url": "https://www.city.kodaira.tokyo.jp/static/facility_map/00778.html"
+  },
+  {
+    "id": 436,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "津田3・学園西",
+    "name": "地域包括支援センター小川ホーム 四小通り出張所",
+    "tel": "042-347-6600",
+    "url": "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+  {
+    "id": 437,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "市内全域（基幹型相談窓口）",
+    "name": "地域包括支援センター中央センター（基幹型）",
+    "tel": "042-345-0691",
+    "url": "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+  {
+    "id": 438,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "美園1-3・大沼1-7・喜平1-3・上水南1-4他",
+    "name": "地域包括支援センター多摩済生ケアセンター",
+    "tel": "042-349-2123",
+    "url": "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+  {
+    "id": 439,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "喜平1-3・上水南1-4",
+    "name": "地域包括支援センター多摩済生ケアセンター 喜平橋出張所",
+    "tel": "042-359-2831",
+    "url": "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+  {
+    "id": 440,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "鈴木1-2・天神1-4・花小金井1-8・花小金井南1-3他",
+    "name": "地域包括支援センター小平健成苑",
+    "tel": "042-451-8813",
+    "url": "https://kenseien.org/services/consulting1/"
+  },
+  {
+    "id": 441,
+    "prefecture": "東京都",
+    "city": "小平市",
+    "area": "花小金井1-8・花小金井南1-3",
+    "name": "地域包括支援センター小平健成苑 花小金井出張所",
+    "tel": "042-468-5143",
+    "url": "https://kenseien.org/facilities/facility6/"
+  },
+  {
+    "id": 442,
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "area": "牟礼・北野・新川2-3",
+    "name": "三鷹市東部高齢者なんでも相談センター",
+    "tel": "0422-48-8855",
+    "url": "https://www.kosaien.or.jp/publics/index/39/"
+  },
+  {
+    "id": 443,
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "area": "井の頭",
+    "name": "三鷹市井の頭高齢者なんでも相談センター",
+    "tel": "0422-44-7400",
+    "url": "https://www.mitaka.or.jp/facility/mitakashiinokashira-chiikihokatsushiensenta/"
+  },
+  {
+    "id": 444,
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "area": "下連雀5-9・上連雀6-9・野崎1",
+    "name": "三鷹市連雀高齢者なんでも相談センター",
+    "tel": "0422-40-2635",
+    "url": "https://www.nomura.or.jp/community-comprehensive-support-center/"
+  },
+  {
+    "id": 445,
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "area": "下連雀1-4・上連雀1-5",
+    "name": "三鷹市三鷹駅周辺高齢者なんでも相談センター",
+    "tel": "0422-76-4500",
+    "url": "http://houkatsu.mitsurukai.com/"
+  },
+  {
+    "id": 446,
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "area": "井口・深大寺・野崎2-4",
+    "name": "三鷹市西部高齢者なんでも相談センター",
+    "tel": "0422-34-6536",
+    "url": "https://www.kosaien.or.jp/publics/index/79/"
+  },
+  {
+    "id": 447,
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "area": "大沢",
+    "name": "三鷹市大沢高齢者なんでも相談センター",
+    "tel": "0422-33-2287",
+    "url": "https://www.mitaka.or.jp/facility/mitakashi-oosawachiikihoukatsushiensenta/"
+  },
+  {
+    "id": 448,
+    "prefecture": "東京都",
+    "city": "三鷹市",
+    "area": "中原・新川1/4-6",
+    "name": "三鷹市新川中原高齢者なんでも相談センター",
+    "tel": "0422-40-7204",
+    "url": "http://www.mitakashisuien.jp/publics/index/59/"
+  },
+  {
+    "id": 449,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "日野本町・神明・日野台1-3・栄・新町",
+    "name": "地域包括支援センターせせらぎ",
+    "tel": "042-589-3560",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005819.html"
+  },
+  {
+    "id": 450,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "豊田・東豊田・旭が丘2/5-6・多摩平1-2他",
+    "name": "地域包括支援センターすてっぷ",
+    "tel": "042-582-7367",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005820.html"
+  },
+  {
+    "id": 451,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "多摩平3-7・日野台4-5・大坂上",
+    "name": "地域包括支援センターあいりん",
+    "tel": "042-586-9141",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005821.html"
+  },
+  {
+    "id": 452,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "高幡・三沢1/3-5・新井・程久保1-8",
+    "name": "地域包括支援センターあさかわ",
+    "tel": "042-593-1919",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005822.html"
+  },
+  {
+    "id": 453,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "百草・落川・三沢2・程久保（大字）",
+    "name": "地域包括支援センターもぐさ",
+    "tel": "042-599-0536",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005817.html"
+  },
+  {
+    "id": 454,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "東平山2-3・平山",
+    "name": "地域包括支援センターいきいきタウン",
+    "tel": "042-585-7071",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005818.html"
+  },
+  {
+    "id": 455,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "南平",
+    "name": "地域包括支援センターすずらん",
+    "tel": "042-599-5531",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005823.html"
+  },
+  {
+    "id": 456,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "旭が丘1/3-4・西平山・東平山1",
+    "name": "地域包括支援センターかわきた",
+    "tel": "042-589-1710",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005824.html"
+  },
+  {
+    "id": 457,
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "area": "本町・久米川・恩多",
+    "name": "東村山市中部地域包括支援センター",
+    "tel": "042-394-6662",
+    "url": "https://hm-shakyo.or.jp/service/consul/consul_senior/20210512_12.html"
+  },
+  {
+    "id": 458,
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "area": "廻田・多摩湖・諏訪・野口",
+    "name": "東村山市北部地域包括支援センター",
+    "tel": "042-397-5123",
+    "url": "https://www.t-bannan.jp/pages/36/"
+  },
+  {
+    "id": 459,
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "area": "秋津・青葉",
+    "name": "東村山市東部地域包括支援センター",
+    "tel": "042-392-6388",
+    "url": "https://www.city.higashimurayama.tokyo.jp/shisetsu/korei/chiiki/tobu.html"
+  },
+  {
+    "id": 460,
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "area": "美住・富士見",
+    "name": "東村山市西部地域包括支援センター",
+    "tel": "042-397-1091",
+    "url": "https://www.t-souseikai.or.jp/higashimurayama2/service04.html"
+  },
+  {
+    "id": 461,
+    "prefecture": "東京都",
+    "city": "東村山市",
+    "area": "萩山・栄",
+    "name": "東村山市南部地域包括支援センター",
+    "tel": "042-390-2211",
+    "url": "https://www.city.higashimurayama.tokyo.jp/shisetsu/korei/chiiki/nanbu.html"
+  },
+  {
+    "id": 462,
+    "prefecture": "東京都",
+    "city": "立川市",
+    "area": "富士見町・柴崎町",
+    "name": "南部西ふじみ地域包括支援センター",
+    "tel": "042-540-0311",
+    "url": "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+  {
+    "id": 463,
+    "prefecture": "東京都",
+    "city": "立川市",
+    "area": "羽衣町・錦町",
+    "name": "南部東はごろも地域包括支援センター",
+    "tel": "042-523-5612",
+    "url": "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+  {
+    "id": 464,
+    "prefecture": "東京都",
+    "city": "立川市",
+    "area": "高松町・曙町・緑町",
+    "name": "中部たかまつ地域包括支援センター",
+    "tel": "042-540-2031",
+    "url": "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+  {
+    "id": 465,
+    "prefecture": "東京都",
+    "city": "立川市",
+    "area": "若葉町・栄町",
+    "name": "北部東わかば地域包括支援センター",
+    "tel": "042-538-1221",
+    "url": "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+  {
+    "id": 466,
+    "prefecture": "東京都",
+    "city": "立川市",
+    "area": "幸町・柏町・砂川町・泉町",
+    "name": "北部中さいわい地域包括支援センター",
+    "tel": "042-538-2339",
+    "url": "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+  {
+    "id": 467,
+    "prefecture": "東京都",
+    "city": "立川市",
+    "area": "上砂町・一番町・西砂町",
+    "name": "北部西かみすな地域包括支援センター",
+    "tel": "042-536-9910",
+    "url": "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+  {
+    "id": 468,
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "area": "東寺方・落川・百草・和田・桜ヶ丘他",
+    "name": "多摩市西部地域包括支援センター",
+    "tel": "042-389-8850",
+    "url": "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+  {
+    "id": 469,
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "area": "連光寺・聖ヶ丘・馬引沢・諏訪",
+    "name": "多摩市東部地域包括支援センター",
+    "tel": "042-373-7850",
+    "url": "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+  {
+    "id": 470,
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "area": "落合・鶴牧・南野2-3・唐木田他",
+    "name": "多摩市多摩センター地域包括支援センター",
+    "tel": "042-376-2941",
+    "url": "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+  {
+    "id": 471,
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "area": "永山2-7・貝取2-5・豊ヶ丘2-6・南野1",
+    "name": "多摩市中部地域包括支援センター",
+    "tel": "042-375-0017",
+    "url": "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+  {
+    "id": 472,
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "area": "関戸1-5・一ノ宮",
+    "name": "多摩市北部地域包括支援センター",
+    "tel": "042-357-3711",
+    "url": "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+  {
+    "id": 473,
+    "prefecture": "東京都",
+    "city": "多摩市",
+    "area": "愛宕・東寺方3・和田3・乞田・永山1他",
+    "name": "多摩市北部地域包括支援センター愛宕支所",
+    "tel": "042-319-6411",
+    "url": "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+  {
+    "id": 474,
+    "prefecture": "東京都",
+    "city": "日野市",
+    "area": "万願寺・石田・大字日野・大字宮他",
+    "name": "地域包括支援センター多摩川苑",
+    "tel": "042-582-1707",
+    "url": "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005825.html"
+  },
+  {
+    "id": 475,
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "area": "光町・高木町・西町",
+    "name": "地域包括支援センターひかり",
+    "tel": "042-573-4058",
+    "url": "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003860.html"
+  },
+  {
+    "id": 476,
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "area": "泉町・西恋ヶ窪・東戸倉",
+    "name": "地域包括支援センターこいがくぼ",
+    "tel": "042-300-6024",
+    "url": "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003857.html"
+  },
+  {
+    "id": 477,
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "area": "戸倉・日吉町・内藤",
+    "name": "地域包括支援センターひよし",
+    "tel": "042-300-1405",
+    "url": "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003856.html"
+  },
+  {
+    "id": 478,
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "area": "東元町・西元町・南町",
+    "name": "地域包括支援センターもとまち",
+    "tel": "042-401-0035",
+    "url": "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003861.html"
+  },
+  {
+    "id": 479,
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "area": "富士本・新町・並木町・北町",
+    "name": "地域包括支援センターなみき",
+    "tel": "042-300-3702",
+    "url": "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003858.html"
+  },
+  {
+    "id": 480,
+    "prefecture": "東京都",
+    "city": "国分寺市",
+    "area": "本町・本多・東恋ヶ窪",
+    "name": "地域包括支援センターほんだ",
+    "tel": "042-300-2339",
+    "url": "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003859.html"
+  },
+  {
+    "id": 481,
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "area": "中町・西久保・緑町・八幡町",
+    "name": "高齢者総合センター在宅介護・地域包括支援センター",
+    "tel": "0422-51-1974",
+    "url": "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000507.html"
+  },
+  {
+    "id": 482,
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "area": "吉祥寺北町",
+    "name": "吉祥寺ナーシングホーム在宅介護・地域包括支援センター",
+    "tel": "0422-20-0847",
+    "url": "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000508.html"
+  },
+  {
+    "id": 483,
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "area": "関前・境・桜堤",
+    "name": "桜堤ケアハウス在宅介護・地域包括支援センター",
+    "tel": "0422-36-5133",
+    "url": "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000509.html"
+  },
+  {
+    "id": 484,
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "area": "吉祥寺東町・吉祥寺南町・御殿山1",
+    "name": "ゆとりえ在宅介護・地域包括支援センター",
+    "tel": "0422-72-0313",
+    "url": "https://fuku-musashino.or.jp/kourei/kourei-06.html"
+  },
+  {
+    "id": 485,
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "area": "境南町",
+    "name": "武蔵野赤十字在宅介護・地域包括支援センター",
+    "tel": "0422-32-3155",
+    "url": "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000511.html"
+  },
+  {
+    "id": 486,
+    "prefecture": "東京都",
+    "city": "武蔵野市",
+    "area": "御殿山2・吉祥寺本町",
+    "name": "吉祥寺本町在宅介護・地域包括支援センター",
+    "tel": "0422-23-1213",
+    "url": "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000512.html"
+  },
+  {
+    "id": 487,
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "area": "東青梅・師岡・根ヶ布・住江・本町他",
+    "name": "青梅市地域包括支援センターすみえ",
+    "tel": "0428-78-3442",
+    "url": "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+  {
+    "id": 488,
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "area": "長淵・友田・千ヶ瀬・梅郷・二俣尾他",
+    "name": "青梅市地域包括支援センターうめぞの",
+    "tel": "0428-24-2882",
+    "url": "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+  {
+    "id": 489,
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "area": "河辺・和田・畑中・柚木・駒木他",
+    "name": "青梅市地域包括支援センターうめぞの 河辺支所",
+    "tel": "0428-84-2627",
+    "url": "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+  {
+    "id": 490,
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "area": "末広・新町・今井・富岡・小曾木他",
+    "name": "青梅市地域包括支援センターすえひろ",
+    "tel": "0428-33-4477",
+    "url": "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+  {
+    "id": 491,
+    "prefecture": "東京都",
+    "city": "青梅市",
+    "area": "野上・大門・塩船・谷野・吹上他",
+    "name": "青梅市地域包括支援センターすえひろ 野上支所",
+    "tel": "0428-78-4800",
+    "url": "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+  {
+    "id": 492,
+    "prefecture": "東京都",
+    "city": "清瀬市",
+    "area": "上清戸・中清戸・下清戸・元町",
+    "name": "きよせ社協地域包括支援センター",
+    "tel": "042-495-5516",
+    "url": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
+  },
+  {
+    "id": 493,
+    "prefecture": "東京都",
+    "city": "清瀬市",
+    "area": "竹丘・梅園・野塩・松山",
+    "name": "きよせ信愛地域包括支援センター",
+    "tel": "042-492-1850",
+    "url": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
+  },
+  {
+    "id": 494,
+    "prefecture": "東京都",
+    "city": "清瀬市",
+    "area": "中里・下宿・旭が丘",
+    "name": "きよせ清雅地域包括支援センター",
+    "tel": "042-495-1370",
+    "url": "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
+  },
+  {
+    "id": 495,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "area": "上の原・神宝町・金山町・氷川台・大門町・東本町・新川町・浅間町・小山1〜3丁目",
+    "name": "東部地域包括支援センター",
+    "tel": "042-428-7788",
+    "url": "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+  {
+    "id": 496,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "area": "学園町・ひばりが丘団地・本町・中央町・幸町1丁目・南沢・前沢1〜3丁目・南町",
+    "name": "中部地域包括支援センター",
+    "tel": "042-451-5121",
+    "url": "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+  {
+    "id": 497,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "area": "前沢4〜5丁目・滝山・下里・柳窪・弥生",
+    "name": "西部地域包括支援センター",
+    "tel": "042-472-0661",
+    "url": "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+  {
+    "id": 498,
+    "prefecture": "東京都",
+    "city": "東久留米市",
+    "area": "小山4・5丁目・幸町2〜5丁目・野火止・八幡町",
+    "name": "在宅介護支援センター（地域包括支援センターブランチ）",
+    "tel": "042-479-0803",
+    "url": "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+  {
+    "id": 499,
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "area": "築地町・福島町・郷地町・玉川町・東町・もくせいの杜",
+    "name": "東部地域包括支援センター 竹口病院",
+    "tel": "042-545-9204",
+    "url": "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+  {
+    "id": 500,
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "area": "拝島町・松原町・緑町",
+    "name": "西部地域包括支援センター 愛全園",
+    "tel": "042-519-5830",
+    "url": "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+  {
+    "id": 501,
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "area": "朝日町・昭和町・中神町（丁目外）",
+    "name": "中部地域包括支援センター あいぽっく",
+    "tel": "042-505-7681",
+    "url": "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+  {
+    "id": 502,
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "area": "大神町・上川原町・田中町・中神町・宮沢町",
+    "name": "南部地域包括支援センター 愛全園",
+    "tel": "042-513-7651",
+    "url": "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+  {
+    "id": 503,
+    "prefecture": "東京都",
+    "city": "昭島市",
+    "area": "大神町（番地地区）・つつじが丘・美堀町・宮沢町（番地地区）・武蔵野・代官山",
+    "name": "北部地域包括支援センター ハピネス昭和の森",
+    "tel": "042-519-6967",
+    "url": "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+  {
+    "id": 504,
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "area": "芋窪・蔵敷・奈良橋・上北台・立野",
+    "name": "高齢者ほっと支援センター いもくぼ",
+    "tel": "042-563-8777",
+    "url": "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+  {
+    "id": 505,
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "area": "仲原・清原・新堀・向原1・2・4・5丁目",
+    "name": "高齢者ほっと支援センター きよはら",
+    "tel": "042-590-1138",
+    "url": "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+  {
+    "id": 506,
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "area": "南街・桜が丘・向原3・6丁目",
+    "name": "高齢者ほっと支援センター なんがい",
+    "tel": "042-566-8133",
+    "url": "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+  {
+    "id": 507,
+    "prefecture": "東京都",
+    "city": "東大和市",
+    "area": "多摩湖・湖畔・高木・狭山・清水・中央",
+    "name": "高齢者ほっと支援センター しみず",
+    "tel": "042-843-6635",
+    "url": "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+  {
+    "id": 508,
+    "prefecture": "東京都",
+    "city": "国立市",
+    "area": "北地区・西地区",
+    "name": "国立市地域包括支援センター 北窓口",
+    "tel": "042-573-4661",
+    "url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
+  },
+  {
+    "id": 509,
+    "prefecture": "東京都",
+    "city": "国立市",
+    "area": "東地区・中地区・富士見台1〜3丁目",
+    "name": "国立市地域包括支援センター 福祉会館窓口",
+    "tel": "042-580-1294",
+    "url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
+  },
+  {
+    "id": 510,
+    "prefecture": "東京都",
+    "city": "国立市",
+    "area": "富士見台4丁目・谷保・青柳・石田・泉・矢川",
+    "name": "国立市地域包括支援センター 泉窓口",
+    "tel": "042-577-6888",
+    "url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
+  }
+]

@@ -7,6 +7,8 @@ let selectedCenter = null;
 
 let savedRegion = {};
 
+let centers = [];
+
 /*
   画面データ
 */
@@ -1198,4 +1200,10 @@ function renderCenterInfo(card) {
 /*
   初期表示
 */
-renderScreen("start");
+Promise.all([
+  fetch("./data/tokyo.json").then(r => r.json()),
+  fetch("./data/osaka.json").then(r => r.json())
+]).then(([tokyo, osaka]) => {
+  centers = [...tokyo, ...osaka];
+  renderScreen("start");
+});

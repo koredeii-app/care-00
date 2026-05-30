@@ -1,5 +1,5 @@
 const CACHE_NAME =
-  "support-app-v3";
+  "support-app-v4";
 
 const urlsToCache = [
 
@@ -7,7 +7,8 @@ const urlsToCache = [
   "./index.html",
   "./style.css",
   "./app.js",
-  "./data.js"
+  "./data/tokyo.json",
+  "./data/osaka.json"
 
 ];
 
