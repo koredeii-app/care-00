@@ -9,6 +9,8 @@ let savedRegion = {};
 
 let selectedConcern = null;
 
+let savedFormValues = {};
+
 let centers = [];
 
 /*
@@ -574,7 +576,10 @@ function renderScreen(screenKey) {
 
         historyStack.push(screenKey);
 
-        if (option.concern) selectedConcern = option.concern;
+        if (option.concern) {
+          selectedConcern = option.concern;
+          savedFormValues = {};
+        }
 
         renderScreen(option.next);
 
@@ -1211,6 +1216,16 @@ function renderCenterInfo(card) {
   */
   function update() {
 
+    savedFormValues = {
+      age:          ageSelect.value,
+      gender:       genderSelect.value,
+      since:        sinceSelect.value,
+      relationship: relationshipSelect.value,
+      living:       livingSelect.value,
+      careManager:  careManagerSelect.value,
+      symptoms:     checkboxRefs.filter(r => r.checkbox.checked).map(r => r.sentence)
+    };
+
     sentenceBox.textContent = buildSentence();
 
     const allSelected =
@@ -1245,16 +1260,35 @@ function renderCenterInfo(card) {
   });
 
   /*
-    悩みに応じた事前入力（案1）
+    保存値を復元
+  */
+  if (savedFormValues.age)          ageSelect.value          = savedFormValues.age;
+  if (savedFormValues.gender)       genderSelect.value       = savedFormValues.gender;
+  if (savedFormValues.since)        sinceSelect.value        = savedFormValues.since;
+  if (savedFormValues.relationship) relationshipSelect.value = savedFormValues.relationship;
+  if (savedFormValues.living)       livingSelect.value       = savedFormValues.living;
+  if (savedFormValues.careManager)  careManagerSelect.value  = savedFormValues.careManager;
+  if (savedFormValues.symptoms) {
+    savedFormValues.symptoms.forEach(s => {
+      const ref = checkboxRefs.find(r => r.sentence === s);
+      if (ref) ref.checkbox.checked = true;
+    });
+  }
+
+  /*
+    悩みに応じた事前入力（案1）— 保存値がない項目のみ適用
   */
   if (selectedConcern === "forgetfulness") {
-    const cb = checkboxRefs.find(r => r.sentence === "物忘れが多い");
-    if (cb) cb.checkbox.checked = true;
+    const already = savedFormValues.symptoms && savedFormValues.symptoms.includes("物忘れが多い");
+    if (!already) {
+      const cb = checkboxRefs.find(r => r.sentence === "物忘れが多い");
+      if (cb) cb.checkbox.checked = true;
+    }
   } else if (selectedConcern === "caregiving") {
-    relationshipSelect.value = "家族";
-    careManagerSelect.value = "無し";
+    if (!savedFormValues.relationship) relationshipSelect.value = "家族";
+    if (!savedFormValues.careManager)  careManagerSelect.value  = "無し";
   } else if (selectedConcern === "living_alone") {
-    livingSelect.value = "一人暮らし";
+    if (!savedFormValues.living) livingSelect.value = "一人暮らし";
   }
 
   update();
