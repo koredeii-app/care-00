@@ -4677,6 +4677,16 @@ const centers = [
     name: "多摩市北部地域包括支援センター愛宕支所",
     tel: "042-319-6411",
     url: "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+
+  {
+    id: 474,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "万願寺・石田・大字日野・大字宮他",
+    name: "地域包括支援センター多摩川苑",
+    tel: "042-582-1707",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005825.html"
   }
 
 ];
