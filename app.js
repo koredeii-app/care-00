@@ -1259,40 +1259,6 @@ function renderCenterInfo(card) {
     r.checkbox.onchange = update;
   });
 
-  /*
-    保存値を復元
-  */
-  if (savedFormValues.age)          ageSelect.value          = savedFormValues.age;
-  if (savedFormValues.gender)       genderSelect.value       = savedFormValues.gender;
-  if (savedFormValues.since)        sinceSelect.value        = savedFormValues.since;
-  if (savedFormValues.relationship) relationshipSelect.value = savedFormValues.relationship;
-  if (savedFormValues.living)       livingSelect.value       = savedFormValues.living;
-  if (savedFormValues.careManager)  careManagerSelect.value  = savedFormValues.careManager;
-  if (savedFormValues.symptoms) {
-    savedFormValues.symptoms.forEach(s => {
-      const ref = checkboxRefs.find(r => r.sentence === s);
-      if (ref) ref.checkbox.checked = true;
-    });
-  }
-
-  /*
-    悩みに応じた事前入力（案1）— 保存値がない項目のみ適用
-  */
-  if (selectedConcern === "forgetfulness") {
-    const already = savedFormValues.symptoms && savedFormValues.symptoms.includes("物忘れが多い");
-    if (!already) {
-      const cb = checkboxRefs.find(r => r.sentence === "物忘れが多い");
-      if (cb) cb.checkbox.checked = true;
-    }
-  } else if (selectedConcern === "caregiving") {
-    if (!savedFormValues.relationship) relationshipSelect.value = "家族";
-    if (!savedFormValues.careManager)  careManagerSelect.value  = "無し";
-  } else if (selectedConcern === "living_alone") {
-    if (!savedFormValues.living) livingSelect.value = "一人暮らし";
-  }
-
-  update();
-
   callButton.onclick = () => {
 
     if (callButton.disabled) return;
@@ -1373,6 +1339,40 @@ function renderCenterInfo(card) {
   card.appendChild(link);
   card.appendChild(fallbackNotice);
   card.appendChild(fallbackLink);
+
+  /*
+    保存値を復元（card.appendChild後に実行）
+  */
+  if (savedFormValues.age)          ageSelect.value          = savedFormValues.age;
+  if (savedFormValues.gender)       genderSelect.value       = savedFormValues.gender;
+  if (savedFormValues.since)        sinceSelect.value        = savedFormValues.since;
+  if (savedFormValues.relationship) relationshipSelect.value = savedFormValues.relationship;
+  if (savedFormValues.living)       livingSelect.value       = savedFormValues.living;
+  if (savedFormValues.careManager)  careManagerSelect.value  = savedFormValues.careManager;
+  if (savedFormValues.symptoms) {
+    savedFormValues.symptoms.forEach(s => {
+      const ref = checkboxRefs.find(r => r.sentence === s);
+      if (ref) ref.checkbox.checked = true;
+    });
+  }
+
+  /*
+    悩みに応じた事前入力（案1）— 保存値がない項目のみ適用
+  */
+  if (selectedConcern === "forgetfulness") {
+    const already = savedFormValues.symptoms && savedFormValues.symptoms.includes("物忘れが多い");
+    if (!already) {
+      const cb = checkboxRefs.find(r => r.sentence === "物忘れが多い");
+      if (cb) cb.checkbox.checked = true;
+    }
+  } else if (selectedConcern === "caregiving") {
+    if (!savedFormValues.relationship) relationshipSelect.value = "家族";
+    if (!savedFormValues.careManager)  careManagerSelect.value  = "無し";
+  } else if (selectedConcern === "living_alone") {
+    if (!savedFormValues.living) livingSelect.value = "一人暮らし";
+  }
+
+  update();
 
 }
 
