@@ -8,7 +8,8 @@ const urlsToCache = [
   "./style.css",
   "./app.js",
   "./data/tokyo.json",
-  "./data/osaka.json"
+  "./data/osaka.json",
+  "./data/kanagawa.json"
 
 ];
 

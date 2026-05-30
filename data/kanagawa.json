@@ -1,0 +1,1325 @@
+[
+  {
+    "id": 511,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "潮田町・仲通・下野谷町・本町通ほか",
+    "name": "横浜市潮田地域ケアプラザ",
+    "tel": "045-507-2132",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 512,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "矢向1〜6丁目・江ヶ崎町",
+    "name": "横浜市矢向地域ケアプラザ",
+    "tel": "045-573-0029",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 513,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "北寺尾・獅子ヶ谷・東寺尾地区",
+    "name": "横浜市寺尾地域ケアプラザ",
+    "tel": "045-585-5566",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 514,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "岸谷・東寺尾地区の一部",
+    "name": "横浜市東寺尾地域ケアプラザ",
+    "tel": "045-584-0293",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 515,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "梶山・上末吉・駒岡・下末吉",
+    "name": "横浜市駒岡地域ケアプラザ",
+    "tel": "045-581-0519",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 516,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "市場地区・菅沢町・尻手地区",
+    "name": "横浜市鶴見市場地域ケアプラザ",
+    "tel": "045-504-1188",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 517,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "鶴見中央・寺谷・豊岡町",
+    "name": "横浜市鶴見中央地域ケアプラザ",
+    "tel": "045-521-8100",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 518,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "生麦1〜5丁目・大黒町",
+    "name": "横浜市生麦地域ケアプラザ",
+    "tel": "045-503-2135",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 519,
+    "prefecture": "神奈川県",
+    "city": "横浜市鶴見区",
+    "area": "上の宮・馬場・北寺尾地区",
+    "name": "横浜市馬場地域ケアプラザ",
+    "tel": "045-576-4231",
+    "url": "https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html"
+  },
+  {
+    "id": 520,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "反町・桐畑・幸ヶ谷・青木町ほか",
+    "name": "反町地域ケアプラザ",
+    "tel": "045-321-8026",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 521,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "松見町・西寺尾・神之木町・神之木台ほか",
+    "name": "神之木地域ケアプラザ",
+    "tel": "045-435-3096",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 522,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "菅田町",
+    "name": "菅田地域ケアプラザ",
+    "tel": "045-471-3103",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 523,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "片倉・三枚町・神大寺",
+    "name": "片倉三枚地域ケアプラザ",
+    "tel": "045-413-2572",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 524,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "新子安・子安台・子安通・入江ほか",
+    "name": "新子安地域ケアプラザ",
+    "tel": "045-423-1703",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 525,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "沢渡・三ツ沢上町・三ツ沢中町ほか",
+    "name": "沢渡三ツ沢地域ケアプラザ",
+    "tel": "045-577-8213",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 526,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "白幡町・白幡上町・六角橋・白楽ほか",
+    "name": "六角橋地域ケアプラザ",
+    "tel": "045-413-3285",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 527,
+    "prefecture": "神奈川県",
+    "city": "横浜市神奈川区",
+    "area": "羽沢町・羽沢南",
+    "name": "特別養護老人ホーム若竹苑",
+    "tel": "045-382-0024",
+    "url": "https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html"
+  },
+  {
+    "id": 528,
+    "prefecture": "神奈川県",
+    "city": "横浜市西区",
+    "area": "南幸・北幸・西平沼町・岡野・浅間町・浅間台・南浅間町・楠町・宮ケ谷・南軽井沢・北軽井沢",
+    "name": "浅間台地域ケアプラザ",
+    "tel": "045-311-7200",
+    "url": "https://www.city.yokohama.lg.jp/nishi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza_shoukai.html"
+  },
+  {
+    "id": 529,
+    "prefecture": "神奈川県",
+    "city": "横浜市西区",
+    "area": "東ヶ丘・霞ヶ丘・西戸部町1・2・老松町・花咲町・紅葉ヶ丘・宮崎町・伊勢町1〜3（一部）・戸部町1〜4",
+    "name": "横浜市宮崎地域ケアプラザ",
+    "tel": "045-261-6095",
+    "url": "https://www.city.yokohama.lg.jp/nishi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza_shoukai.html"
+  },
+  {
+    "id": 530,
+    "prefecture": "神奈川県",
+    "city": "横浜市西区",
+    "area": "藤棚町1（一部）・藤棚町2・元久保町・東久保町・久保町・浜松町・境之谷",
+    "name": "横浜市藤棚地域ケアプラザ",
+    "tel": "045-253-0661",
+    "url": "https://www.city.yokohama.lg.jp/nishi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza_shoukai.html"
+  },
+  {
+    "id": 531,
+    "prefecture": "神奈川県",
+    "city": "横浜市西区",
+    "area": "戸部町5〜7・御所山町・戸部本町・桜木町・藤棚町1（一部）・中央・西前町・西戸部町3・伊勢町3（一部）・平沼・高島町・みなとみらい",
+    "name": "横浜市戸部本町地域ケアプラザ",
+    "tel": "045-321-3200",
+    "url": "https://www.city.yokohama.lg.jp/nishi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza_shoukai.html"
+  },
+  {
+    "id": 532,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "area": "山下町・元町・新山下1〜3丁目・千代崎町・北方町・小港町・諏訪町・本牧十二天",
+    "name": "新山下地域ケアプラザ",
+    "tel": "045-625-0081",
+    "url": "https://www.city.yokohama.lg.jp/naka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/nakacpsyoukai.html"
+  },
+  {
+    "id": 533,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "area": "宮川町・桜木町・花咲町・野毛町・黄金町・初音町・日ノ出町・伊勢佐木町・弥生町・不老町・寿町・本町・横浜公園ほか",
+    "name": "不老町地域ケアプラザ",
+    "tel": "045-662-9989",
+    "url": "https://www.city.yokohama.lg.jp/naka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/nakacpsyoukai.html"
+  },
+  {
+    "id": 534,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "area": "麦田町・柏葉・大和町・立野・鷺山・竹之丸・西之谷町・本牧緑ケ丘（一部）・上野町・妙香寺台ほか",
+    "name": "麦田地域ケアプラザ",
+    "tel": "045-664-6024",
+    "url": "https://www.city.yokohama.lg.jp/naka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/nakacpsyoukai.html"
+  },
+  {
+    "id": 535,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "area": "本郷町・本牧満坂・本牧町・本牧荒井（一部）・本牧原・本牧宮原・本牧元町（一部）・錦町・和田山",
+    "name": "本牧原地域ケアプラザ",
+    "tel": "045-623-0975",
+    "url": "https://www.city.yokohama.lg.jp/naka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/nakacpsyoukai.html"
+  },
+  {
+    "id": 536,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "area": "山元町・簑沢・塚越・寺久保・大平町・大芝台・西竹之丸・根岸台・根岸旭台・山手町（一部）",
+    "name": "簑沢地域ケアプラザ",
+    "tel": "045-663-6930",
+    "url": "https://www.city.yokohama.lg.jp/naka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/nakacpsyoukai.html"
+  },
+  {
+    "id": 537,
+    "prefecture": "神奈川県",
+    "city": "横浜市中区",
+    "area": "本牧和田・本牧間門・本牧荒井（一部）・本牧元町（一部）・本牧大里町・本牧三之谷・根岸町・池袋・根岸加曽台ほか",
+    "name": "本牧和田地域ケアプラザ",
+    "tel": "045-628-1311",
+    "url": "https://www.city.yokohama.lg.jp/naka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/nakacpsyoukai.html"
+  },
+  {
+    "id": 538,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "大岡1〜2丁目・大橋町・中島町・通町・若宮町・弘明寺町・井土ケ谷下・中・上町・中里町",
+    "name": "横浜市大岡地域ケアプラザ",
+    "tel": "045-711-8581",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 539,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "清水ケ丘・庚台・三春台・伏見町・西中町・前里町・白金町・南太田1〜4丁目",
+    "name": "横浜市清水ケ丘地域ケアプラザ",
+    "tel": "045-253-0147",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 540,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "永田南1〜2丁目・永田山王台・永田東1〜3丁目・永田みなみ台・永田台・永田北1〜3丁目",
+    "name": "横浜市永田地域ケアプラザ",
+    "tel": "045-711-8612",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 541,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "六ツ川1〜4丁目・別所中里台・別所6〜7丁目・中里4丁目",
+    "name": "横浜市六ツ川地域ケアプラザ",
+    "tel": "045-716-0682",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 542,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "永楽町・真金町・万世町・高根町・白妙町・浦舟町・日枝町・南吉田町・山王町・吉野町・新川町・二葉町・高砂町",
+    "name": "横浜市浦舟地域ケアプラザ",
+    "tel": "045-261-3318",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 543,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "中村町・唐沢・平楽・八幡町・山谷",
+    "name": "横浜市中村地域ケアプラザ",
+    "tel": "045-260-5101",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 544,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "堀ノ内町・睦町・花之木町・宿町・宮元町・共進町・東蒔田町・榎町・蒔田町",
+    "name": "横浜市睦地域ケアプラザ",
+    "tel": "045-730-5080",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 545,
+    "prefecture": "神奈川県",
+    "city": "横浜市南区",
+    "area": "大岡3〜5丁目・別所1〜5丁目・中里1〜3丁目",
+    "name": "横浜市別所地域ケアプラザ",
+    "tel": "045-714-2215",
+    "url": "https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html"
+  },
+  {
+    "id": 546,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "港南台1〜9丁目",
+    "name": "港南台地域ケアプラザ",
+    "tel": "045-834-3143",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 547,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "東永谷1〜3丁目・大久保1〜3丁目・最戸1〜2丁目",
+    "name": "東永谷地域ケアプラザ",
+    "tel": "045-826-1097",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 548,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "下永谷1〜6丁目",
+    "name": "下永谷地域ケアプラザ",
+    "tel": "045-826-2640",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 549,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "野庭町（指定区域除く）・上永谷町",
+    "name": "野庭地域ケアプラザ",
+    "tel": "045-848-0111",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 550,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "笹下2〜7丁目・日野中央1・3丁目",
+    "name": "日下地域ケアプラザ",
+    "tel": "045-843-3555",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 551,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "上大岡西1〜3丁目・港南1〜6丁目・港南中央通・笹下1丁目・日野1〜6丁目・上大岡東1〜3丁目",
+    "name": "港南中央地域ケアプラザ",
+    "tel": "045-845-4100",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 552,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "日野南1〜7丁目・日野7〜9丁目・日野中央2丁目",
+    "name": "日野南地域ケアプラザ",
+    "tel": "045-836-1801",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 553,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "芹が谷1〜5丁目・東芹が谷",
+    "name": "芹が谷地域ケアプラザ",
+    "tel": "045-828-5181",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 554,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "日限山1〜4丁目・丸山台4丁目",
+    "name": "日限山地域ケアプラザ",
+    "tel": "045-827-1870",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 555,
+    "prefecture": "神奈川県",
+    "city": "横浜市港南区",
+    "area": "上永谷1〜6丁目・丸山台1〜3丁目・野庭町の一部",
+    "name": "上永谷駅前地域ケアプラザ",
+    "tel": "045-840-1260",
+    "url": "https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html"
+  },
+  {
+    "id": 556,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "新井町・上菅田町",
+    "name": "上菅田地域ケアプラザ",
+    "tel": "045-372-0125",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 557,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "岩崎町・狩場町・桜ケ丘1〜2丁目・初音ケ丘・花見台・保土ケ谷町2〜3丁目",
+    "name": "横浜市岩崎地域ケアプラザ",
+    "tel": "045-334-1551",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 558,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "今井町・法泉・新桜ケ丘・境木町・境木本町・藤塚町・権太坂",
+    "name": "横浜市今井地域ケアプラザ",
+    "tel": "045-351-8812",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 559,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "明神台・星川1〜3丁目・峰岡町1〜2丁目・川辺町・天王町・宮田町",
+    "name": "横浜市星川地域ケアプラザ",
+    "tel": "045-333-9590",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 560,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "鎌谷町・峰沢町・岡沢町・常盤台・釜台町・和田1〜2丁目・上星川1〜3丁目・峰岡町3丁目",
+    "name": "横浜市常盤台地域ケアプラザ",
+    "tel": "045-339-5702",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 561,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "仏向町・仏向西・坂本町",
+    "name": "横浜市仏向地域ケアプラザ",
+    "tel": "045-336-1565",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 562,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "川島町・西谷町・東川島町",
+    "name": "横浜市川島地域ケアプラザ",
+    "tel": "045-373-6777",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 563,
+    "prefecture": "神奈川県",
+    "city": "横浜市保土ケ谷区",
+    "area": "霞台・岩井町・月見台・瀬戸ケ谷町・保土ケ谷町1丁目・帷子町・西久保町・岩間町・神戸町",
+    "name": "横浜市保土ケ谷地域ケアプラザ",
+    "tel": "045-743-1882",
+    "url": "https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html"
+  },
+  {
+    "id": 564,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "万騎が原・南本宿町・本宿町・桐が作・大池町・柏町",
+    "name": "万騎が原地域ケアプラザ",
+    "tel": "045-362-1222",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 565,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "中白根1〜4丁目・白根5丁目の一部・白根8丁目・白根町・上白根1〜3丁目",
+    "name": "上白根地域ケアプラザ",
+    "tel": "045-951-3966",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 566,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "左近山・市沢町",
+    "name": "左近山地域ケアプラザ",
+    "tel": "045-442-8847",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 567,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "上川井町・川井本町・川井宿町・下川井町・都岡町・矢指町",
+    "name": "川井地域ケアプラザ",
+    "tel": "045-959-0066",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 568,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "若葉台1〜4丁目",
+    "name": "若葉台地域ケアプラザ",
+    "tel": "045-923-8833",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 569,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "鶴ケ峰1〜2丁目・西川島町・川島町・三反田町・小高町・鶴ケ峰本町1〜3丁目",
+    "name": "鶴ケ峰地域ケアプラザ",
+    "tel": "045-382-6073",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 570,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "今宿町・東希望が丘（一部）・今宿1〜2丁目・中沢1〜3丁目・中尾1〜2丁目",
+    "name": "今宿地域ケアプラザ",
+    "tel": "045-392-0308",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 571,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "上白根町の中原街道の北側エリア",
+    "name": "ひかりが丘地域ケアプラザ",
+    "tel": "045-953-6892",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 572,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "中希望が丘・南希望が丘・東希望が丘（一部）・善部町",
+    "name": "南希望が丘地域ケアプラザ",
+    "tel": "045-360-5096",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 573,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "今宿東町・今宿西町・今宿南町",
+    "name": "今宿西地域ケアプラザ",
+    "tel": "045-951-2511",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 574,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "金が谷・金が谷1〜2丁目・笹野台1〜4丁目",
+    "name": "笹野台地域ケアプラザ",
+    "tel": "045-367-2070",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 575,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "白根1〜4・6丁目・白根5丁目（一部）・白根7丁目（一部）・川島町",
+    "name": "白根地域ケアプラザ",
+    "tel": "045-958-2573",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 576,
+    "prefecture": "神奈川県",
+    "city": "横浜市旭区",
+    "area": "二俣川1〜2丁目・さちが丘・今川町・四季美台・本村町",
+    "name": "二俣川地域ケアプラザ",
+    "tel": "045-361-1780",
+    "url": "https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html"
+  },
+  {
+    "id": 577,
+    "prefecture": "神奈川県",
+    "city": "横浜市磯子区",
+    "area": "東町・西町・鳳町・原町・下町・坂下町・馬場町・上町・広地町・久木町・磯子1・8丁目・中浜町",
+    "name": "根岸地域ケアプラザ",
+    "tel": "045-751-4899",
+    "url": "https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html"
+  },
+  {
+    "id": 578,
+    "prefecture": "神奈川県",
+    "city": "横浜市磯子区",
+    "area": "丸山1〜2丁目・滝頭1〜3丁目・岡村1〜8丁目",
+    "name": "滝頭地域ケアプラザ",
+    "tel": "045-758-0622",
+    "url": "https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html"
+  },
+  {
+    "id": 579,
+    "prefecture": "神奈川県",
+    "city": "横浜市磯子区",
+    "area": "磯子2〜7丁目・磯子台・新磯子町・森1丁目・新森町",
+    "name": "磯子地域ケアプラザ",
+    "tel": "045-758-0184",
+    "url": "https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html"
+  },
+  {
+    "id": 580,
+    "prefecture": "神奈川県",
+    "city": "横浜市磯子区",
+    "area": "汐見台1〜3丁目・森2〜6丁目・森が丘1〜2丁目・中原1〜4丁目・新中原町",
+    "name": "屏風ヶ浦地域ケアプラザ",
+    "tel": "045-750-5311",
+    "url": "https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html"
+  },
+  {
+    "id": 581,
+    "prefecture": "神奈川県",
+    "city": "横浜市磯子区",
+    "area": "杉田1〜9丁目・新杉田町・杉田坪呑",
+    "name": "新杉田地域ケアプラザ",
+    "tel": "045-771-8848",
+    "url": "https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html"
+  },
+  {
+    "id": 582,
+    "prefecture": "神奈川県",
+    "city": "横浜市磯子区",
+    "area": "洋光台1〜6丁目",
+    "name": "洋光台地域ケアプラザ",
+    "tel": "045-832-1496",
+    "url": "https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html"
+  },
+  {
+    "id": 583,
+    "prefecture": "神奈川県",
+    "city": "横浜市磯子区",
+    "area": "栗木1〜3丁目・田中1〜2丁目・上中里町・氷取沢町・峰町",
+    "name": "上笹下地域ケアプラザ",
+    "tel": "045-769-0243",
+    "url": "https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html"
+  },
+  {
+    "id": 584,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "富岡東1〜2丁目・並木1丁目・昭和町・鳥浜町・白帆ほか",
+    "name": "横浜市並木地域ケアプラザ",
+    "tel": "045-775-0707",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 585,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "六浦町・六浦南1〜5丁目・朝比奈町・東朝比奈1〜3丁目ほか",
+    "name": "横浜市六浦地域ケアプラザ",
+    "tel": "045-349-5141",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 586,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "泥亀1〜2丁目・町屋町・洲崎町・谷津町・海の公園ほか",
+    "name": "横浜市泥亀地域ケアプラザ",
+    "tel": "045-782-2940",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 587,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "富岡西1〜7丁目",
+    "name": "横浜市富岡地域ケアプラザ",
+    "tel": "045-771-2301",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 588,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "釜利谷東1〜8丁目・釜利谷南1〜2丁目・高舟台1〜2丁目ほか",
+    "name": "横浜市釜利谷地域ケアプラザ",
+    "tel": "045-788-2901",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 589,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "能見台1〜6丁目・西柴1丁目・長浜1〜2丁目ほか",
+    "name": "横浜市能見台地域ケアプラザ",
+    "tel": "045-787-0991",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 590,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "釜利谷西1〜6丁目・釜利谷町・みず木町ほか",
+    "name": "横浜市西金沢地域ケアプラザ",
+    "tel": "045-788-2228",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 591,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "富岡東3〜6丁目・並木2〜3丁目・幸浦1〜2丁目・八景島ほか",
+    "name": "横浜市富岡東地域ケアプラザ",
+    "tel": "045-776-2030",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 592,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "六浦南1丁目・六浦東1〜3丁目・柳町・瀬戸・野島町ほか",
+    "name": "横浜市柳町地域ケアプラザ",
+    "tel": "045-790-5225",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 593,
+    "prefecture": "神奈川県",
+    "city": "横浜市金沢区",
+    "area": "西柴1〜4丁目・柴町・金沢町",
+    "name": "横浜市西柴地域ケアプラザ",
+    "tel": "045-780-1150",
+    "url": "https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html"
+  },
+  {
+    "id": 594,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "新吉田町・新吉田東1〜8丁目",
+    "name": "新吉田地域ケアプラザ",
+    "tel": "045-592-2151",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 595,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "篠原町（一部）・篠原西町・篠原台町・篠原東1〜3丁目・仲手原1〜2丁目・菊名1〜3丁目（一部）・富士塚1〜2丁目（一部）",
+    "name": "横浜市篠原地域ケアプラザ",
+    "tel": "045-423-1270",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 596,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "高田町・高田東1〜4丁目・高田西1〜5丁目",
+    "name": "横浜市高田地域ケアプラザ",
+    "tel": "045-594-3603",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 597,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "下田町1〜6丁目・日吉本町2・5〜6丁目",
+    "name": "横浜市下田地域ケアプラザ",
+    "tel": "045-563-9082",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 598,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "大豆戸町・大倉山1〜7丁目・菊名4〜7丁目・3丁目（一部）・新横浜1〜3丁目・錦が丘・篠原北1〜2丁目・富士塚2丁目（一部）・篠原町（一部）",
+    "name": "横浜市大豆戸地域ケアプラザ",
+    "tel": "045-432-4913",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 599,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "樽町・綱島西（一部）",
+    "name": "横浜市樽町地域ケアプラザ",
+    "tel": "045-532-2502",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 600,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "小机町",
+    "name": "横浜市城郷小机地域ケアプラザ",
+    "tel": "045-478-1600",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 601,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "日吉本町（一部）",
+    "name": "横浜市日吉本町地域ケアプラザ",
+    "tel": "045-566-0361",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 602,
+    "prefecture": "神奈川県",
+    "city": "横浜市港北区",
+    "area": "新羽町",
+    "name": "横浜市新羽地域ケアプラザ",
+    "tel": "045-542-7216",
+    "url": "https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html"
+  },
+  {
+    "id": 603,
+    "prefecture": "神奈川県",
+    "city": "横浜市緑区",
+    "area": "東本郷町・東本郷1〜6丁目",
+    "name": "横浜市東本郷地域ケアプラザ",
+    "tel": "045-471-0677",
+    "url": "https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html"
+  },
+  {
+    "id": 604,
+    "prefecture": "神奈川県",
+    "city": "横浜市緑区",
+    "area": "白山1〜4丁目・竹山1〜4丁目・鴨居1〜7丁目・鴨居町",
+    "name": "横浜市鴨居地域ケアプラザ",
+    "tel": "045-930-1121",
+    "url": "https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html"
+  },
+  {
+    "id": 605,
+    "prefecture": "神奈川県",
+    "city": "横浜市緑区",
+    "area": "中山1〜6丁目・三保町・上山1〜3丁目・寺山町・森の台・台村町",
+    "name": "横浜市中山地域ケアプラザ",
+    "tel": "045-935-5698",
+    "url": "https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html"
+  },
+  {
+    "id": 606,
+    "prefecture": "神奈川県",
+    "city": "横浜市緑区",
+    "area": "西八朔町・北八朔町・小山町・青砥町",
+    "name": "横浜市山下地域ケアプラザ",
+    "tel": "045-931-1187",
+    "url": "https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html"
+  },
+  {
+    "id": 607,
+    "prefecture": "神奈川県",
+    "city": "横浜市緑区",
+    "area": "十日市場町・新治町・長津田みなみ台7丁目（一部）",
+    "name": "横浜市十日市場地域ケアプラザ",
+    "tel": "045-985-9034",
+    "url": "https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html"
+  },
+  {
+    "id": 608,
+    "prefecture": "神奈川県",
+    "city": "横浜市緑区",
+    "area": "霧が丘1〜6丁目",
+    "name": "横浜市霧が丘地域ケアプラザ",
+    "tel": "045-922-6633",
+    "url": "https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html"
+  },
+  {
+    "id": 609,
+    "prefecture": "神奈川県",
+    "city": "横浜市緑区",
+    "area": "長津田1〜7丁目・長津田町・いぶき野・長津田みなみ台1〜7丁目",
+    "name": "横浜市長津田地域ケアプラザ",
+    "tel": "045-981-7763",
+    "url": "https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html"
+  },
+  {
+    "id": 610,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "あざみ野南・荏田町・荏田北",
+    "name": "横浜市荏田地域ケアプラザ",
+    "tel": "045-911-8005",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 611,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "もえぎ野・柿の木台・みたけ台ほか",
+    "name": "横浜市もえぎ野地域ケアプラザ",
+    "tel": "045-974-5403",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 612,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "すみよし台・奈良町・奈良・緑山",
+    "name": "奈良地域ケアプラザ",
+    "tel": "045-962-8429",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 613,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "しらとり台・つつじヶ丘・さつきが丘ほか",
+    "name": "横浜市さつきが丘地域ケアプラザ",
+    "tel": "045-972-4768",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 614,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "美しが丘4・美しが丘西・すすき野3丁目ほか",
+    "name": "横浜市美しが丘地域ケアプラザ",
+    "tel": "045-901-6714",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 615,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "大場町・みすずが丘・あざみ野ほか",
+    "name": "横浜市大場地域ケアプラザ",
+    "tel": "045-975-0206",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 616,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "鴨志田町・寺家町・成合町・たちばな台",
+    "name": "横浜市鴨志田地域ケアプラザ",
+    "tel": "045-961-6912",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 617,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "市ケ尾町・荏田西",
+    "name": "ビオラ市ケ尾地域ケアプラザ",
+    "tel": "045-979-0241",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 618,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "青葉台・桜台・若草台・榎が丘",
+    "name": "青葉台地域ケアプラザ",
+    "tel": "045-988-0305",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 619,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "あかね台・恩田町・桂台・田奈町・松風台",
+    "name": "横浜市恩田地域ケアプラザ",
+    "tel": "045-985-2133",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 620,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "美しが丘1〜3・5丁目・新石川",
+    "name": "横浜市たまプラーザ地域ケアプラザ",
+    "tel": "045-910-5221",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 621,
+    "prefecture": "神奈川県",
+    "city": "横浜市青葉区",
+    "area": "すすき野1〜3丁目・もみの木台・鉄町ほか",
+    "name": "横浜市すすき野地域ケアプラザ",
+    "tel": "045-901-5710",
+    "url": "https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html"
+  },
+  {
+    "id": 622,
+    "prefecture": "神奈川県",
+    "city": "横浜市都筑区",
+    "area": "二の丸・加賀原・川和町・川和台・池辺町・佐江戸町",
+    "name": "横浜市加賀原地域ケアプラザ",
+    "tel": "045-944-4641",
+    "url": "https://www.city.yokohama.lg.jp/tsuzuki/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cpnew.html"
+  },
+  {
+    "id": 623,
+    "prefecture": "神奈川県",
+    "city": "横浜市都筑区",
+    "area": "葛が谷・高山・荏田東町・荏田東・大丸・荏田南町・荏田南・見花山・富士見が丘",
+    "name": "横浜市葛が谷地域ケアプラザ",
+    "tel": "045-943-5951",
+    "url": "https://www.city.yokohama.lg.jp/tsuzuki/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cpnew.html"
+  },
+  {
+    "id": 624,
+    "prefecture": "神奈川県",
+    "city": "横浜市都筑区",
+    "area": "早渕・新栄町・勝田町・勝田南・茅ケ崎東・茅ケ崎南・茅ケ崎中央・茅ケ崎町",
+    "name": "横浜市新栄地域ケアプラザ",
+    "tel": "045-592-5265",
+    "url": "https://www.city.yokohama.lg.jp/tsuzuki/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cpnew.html"
+  },
+  {
+    "id": 625,
+    "prefecture": "神奈川県",
+    "city": "横浜市都筑区",
+    "area": "平台・長坂・桜並木・仲町台・東方町・折本町・大熊町・川向町",
+    "name": "横浜市都田地域ケアプラザ",
+    "tel": "045-943-1130",
+    "url": "https://www.city.yokohama.lg.jp/tsuzuki/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cpnew.html"
+  },
+  {
+    "id": 626,
+    "prefecture": "神奈川県",
+    "city": "横浜市都筑区",
+    "area": "大棚町・大棚西・牛久保東・牛久保西・牛久保・牛久保町・中川・中川中央・あゆみが丘",
+    "name": "横浜市中川地域ケアプラザ",
+    "tel": "045-910-1512",
+    "url": "https://www.city.yokohama.lg.jp/tsuzuki/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cpnew.html"
+  },
+  {
+    "id": 627,
+    "prefecture": "神奈川県",
+    "city": "横浜市都筑区",
+    "area": "東山田町・東山田・南山田町・南山田・北山田・すみれが丘",
+    "name": "東山田地域ケアプラザ",
+    "tel": "045-590-3788",
+    "url": "https://www.city.yokohama.lg.jp/tsuzuki/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cpnew.html"
+  },
+  {
+    "id": 628,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "鳥が丘・上矢部町・矢部町（一部）・戸塚町（一部）",
+    "name": "上矢部地域ケアプラザ",
+    "tel": "045-811-2442",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 629,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "秋葉町・川上町・品濃町・上品濃・前田町",
+    "name": "東戸塚地域ケアプラザ",
+    "tel": "045-826-0925",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 630,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "上倉田町・吉田町・矢部町（一部）・舞岡町（一部）・戸塚町（一部）",
+    "name": "上倉田地域ケアプラザ",
+    "tel": "045-865-5700",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 631,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "汲沢1〜8丁目・矢部町（一部）・汲沢町（一部）・戸塚町（一部）",
+    "name": "汲沢地域ケアプラザ",
+    "tel": "045-861-1727",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 632,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "平戸1〜5丁目・平戸町",
+    "name": "平戸地域ケアプラザ",
+    "tel": "045-825-3462",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 633,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "原宿1〜5丁目・小雀町・影取町・東俣野町・深谷町（一部）・汲沢町（一部）",
+    "name": "原宿地域ケアプラザ",
+    "tel": "045-854-2291",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 634,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "上柏尾町・柏尾町・舞岡町（一部）・南舞岡1〜4丁目",
+    "name": "舞岡柏尾地域ケアプラザ",
+    "tel": "045-827-0371",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 635,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "戸塚町（一部・戸塚第一・第二地区）",
+    "name": "南戸塚地域ケアプラザ",
+    "tel": "045-865-5960",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 636,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "下倉田町",
+    "name": "下倉田地域ケアプラザ",
+    "tel": "045-866-2020",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 637,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "名瀬町",
+    "name": "名瀬地域ケアプラザ",
+    "tel": "045-815-2011",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 638,
+    "prefecture": "神奈川県",
+    "city": "横浜市戸塚区",
+    "area": "深谷町（一部）・俣野町・原宿4丁目（一部）",
+    "name": "深谷俣野地域ケアプラザ",
+    "tel": "045-851-0121",
+    "url": "https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html"
+  },
+  {
+    "id": 639,
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "area": "飯島町・長沼町・金井町・本郷台1〜5丁目",
+    "name": "豊田地域ケアプラザ",
+    "tel": "045-864-5236",
+    "url": "https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html"
+  },
+  {
+    "id": 640,
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "area": "笠間1〜5丁目・笠間町・長尾台町・田谷町",
+    "name": "笠間地域ケアプラザ",
+    "tel": "045-890-0862",
+    "url": "https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html"
+  },
+  {
+    "id": 641,
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "area": "小菅ケ谷3〜4丁目・小山台1〜2丁目・柏陽・鍛冶ケ谷町（一部）・小菅ケ谷町（一部）",
+    "name": "小菅ケ谷地域ケアプラザ",
+    "tel": "045-896-0473",
+    "url": "https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html"
+  },
+  {
+    "id": 642,
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "area": "桂町・公田町（一部）・小菅ケ谷1〜2丁目（一部）・小菅ケ谷町（一部）",
+    "name": "本郷台駅前地域ケアプラザ（SAKAESTA）",
+    "tel": "045-893-0070",
+    "url": "https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html"
+  },
+  {
+    "id": 643,
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "area": "鍛冶ケ谷1〜2丁目・元大橋1〜2丁目・中野町・若竹町・東上郷町・上郷町（一部）・亀井町・尾月",
+    "name": "中野地域ケアプラザ",
+    "tel": "045-896-0712",
+    "url": "https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html"
+  },
+  {
+    "id": 644,
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "area": "公田町（一部）・桂台北・桂台中・桂台西1〜2丁目・桂台東・桂台南1〜2丁目",
+    "name": "桂台地域ケアプラザ",
+    "tel": "045-897-1112",
+    "url": "https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html"
+  },
+  {
+    "id": 645,
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "area": "庄戸1〜5丁目・長倉町・野七里1〜2丁目・上郷町（一部）・上之町・犬山町",
+    "name": "野七里地域ケアプラザ",
+    "tel": "045-890-5333",
+    "url": "https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html"
+  },
+  {
+    "id": 646,
+    "prefecture": "神奈川県",
+    "city": "横浜市泉区",
+    "area": "上飯田町",
+    "name": "横浜市上飯田地域ケアプラザ",
+    "tel": "045-802-8200",
+    "url": "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html"
+  },
+  {
+    "id": 647,
+    "prefecture": "神奈川県",
+    "city": "横浜市泉区",
+    "area": "和泉町1〜1999番地ほか・下飯田町・ゆめが丘16番地以降・下和泉・和泉が丘各所",
+    "name": "横浜市下和泉地域ケアプラザ",
+    "tel": "045-802-9920",
+    "url": "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html"
+  },
+  {
+    "id": 648,
+    "prefecture": "神奈川県",
+    "city": "横浜市泉区",
+    "area": "中田町・白百合・中田東・中田北・中田西・中田南",
+    "name": "横浜市踊場地域ケアプラザ",
+    "tel": "045-801-2920",
+    "url": "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html"
+  },
+  {
+    "id": 649,
+    "prefecture": "神奈川県",
+    "city": "横浜市泉区",
+    "area": "和泉町2000〜4999番地ほか・ゆめが丘1〜15番地・和泉中央各所",
+    "name": "横浜市いずみ中央地域ケアプラザ",
+    "tel": "045-805-1700",
+    "url": "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html"
+  },
+  {
+    "id": 650,
+    "prefecture": "神奈川県",
+    "city": "横浜市泉区",
+    "area": "岡津町（一部）・新橋町・弥生台33番地1・池の谷・緑園",
+    "name": "新橋地域ケアプラザ",
+    "tel": "045-813-3877",
+    "url": "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html"
+  },
+  {
+    "id": 651,
+    "prefecture": "神奈川県",
+    "city": "横浜市泉区",
+    "area": "弥生台（一部除く）・和泉町5000〜5999番地（北側）・和泉町6000番地以降",
+    "name": "いずみ野地域ケアプラザ",
+    "tel": "045-800-0322",
+    "url": "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html"
+  },
+  {
+    "id": 652,
+    "prefecture": "神奈川県",
+    "city": "横浜市泉区",
+    "area": "岡津町（一部除く）・西が岡・領家・桂坂",
+    "name": "岡津地域ケアプラザ",
+    "tel": "045-812-0685",
+    "url": "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html"
+  },
+  {
+    "id": 653,
+    "prefecture": "神奈川県",
+    "city": "横浜市瀬谷区",
+    "area": "三ツ境・二ツ橋町（相鉄本線から南側）・宮沢1〜4丁目",
+    "name": "横浜市二ツ橋地域ケアプラザ",
+    "tel": "045-361-9812",
+    "url": "https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html"
+  },
+  {
+    "id": 654,
+    "prefecture": "神奈川県",
+    "city": "横浜市瀬谷区",
+    "area": "阿久和東・阿久和西・阿久和南",
+    "name": "横浜市阿久和地域ケアプラザ",
+    "tel": "045-365-9906",
+    "url": "https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html"
+  },
+  {
+    "id": 655,
+    "prefecture": "神奈川県",
+    "city": "横浜市瀬谷区",
+    "area": "中屋敷1〜3丁目・本郷1〜4丁目・竹村町ほか",
+    "name": "横浜市中屋敷地域ケアプラザ",
+    "tel": "045-303-8899",
+    "url": "https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html"
+  },
+  {
+    "id": 656,
+    "prefecture": "神奈川県",
+    "city": "横浜市瀬谷区",
+    "area": "瀬谷5〜6丁目・南瀬谷1・2丁目・下瀬谷1〜3丁目ほか",
+    "name": "横浜市下瀬谷地域ケアプラザ",
+    "tel": "045-304-1271",
+    "url": "https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html"
+  },
+  {
+    "id": 657,
+    "prefecture": "神奈川県",
+    "city": "横浜市瀬谷区",
+    "area": "二ツ橋町（相鉄本線から北側）・東野・相沢1〜7丁目・瀬谷1〜3丁目",
+    "name": "横浜市二ツ橋第二地域ケアプラザ",
+    "tel": "045-392-0311",
+    "url": "https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html"
+  }
+]

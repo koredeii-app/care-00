@@ -309,7 +309,61 @@ const cityLinks = {
 "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html",
 
   "国立市":
-"https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
+"https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html",
+
+  "横浜市鶴見区":
+"https://www.city.yokohama.lg.jp/tsurumi/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/hoken-igai/sodan.html",
+
+  "横浜市神奈川区":
+"https://www.city.yokohama.lg.jp/kanagawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikikeapuraza.html",
+
+  "横浜市西区":
+"https://www.city.yokohama.lg.jp/nishi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza_shoukai.html",
+
+  "横浜市中区":
+"https://www.city.yokohama.lg.jp/naka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/nakacpsyoukai.html",
+
+  "横浜市南区":
+"https://www.city.yokohama.lg.jp/minami/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/chiikikeapuraza.html",
+
+  "横浜市港南区":
+"https://www.city.yokohama.lg.jp/konan/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-hoken/siencenter.html",
+
+  "横浜市保土ケ谷区":
+"https://www.city.yokohama.lg.jp/hodogaya/kenko-iryo-fukushi/fukushi_kaigo/koreisha_kaigo/kaigo-yobou/koreisha/sodankikan/soudan-01.html",
+
+  "横浜市旭区":
+"https://www.city.yokohama.lg.jp/asahi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/asahicp-shoukai.html",
+
+  "横浜市磯子区":
+"https://www.city.yokohama.lg.jp/isogo/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/keapurazasyoukai.html",
+
+  "横浜市金沢区":
+"https://www.city.yokohama.lg.jp/kanazawa/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/carepla-Introduction.html",
+
+  "横浜市港北区":
+"https://www.city.yokohama.lg.jp/kohoku/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/careplaza.html",
+
+  "横浜市緑区":
+"https://www.city.yokohama.lg.jp/midori/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/cp-shokai.html",
+
+  "横浜市青葉区":
+"https://www.city.yokohama.lg.jp/aoba/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/aobakucpsyoukai.html",
+
+  "横浜市都筑区":
+"https://www.city.yokohama.lg.jp/tsuzuki/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cpnew.html",
+
+  "横浜市戸塚区":
+"https://www.city.yokohama.lg.jp/totsuka/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/shisetsu/cp/careplaza_totsuka.html",
+
+  "横浜市栄区":
+"https://www.city.yokohama.lg.jp/sakae/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/shoukai.html",
+
+  "横浜市泉区":
+"https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html",
+
+  "横浜市瀬谷区":
+"https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html"
 
 };
 
@@ -1202,8 +1256,9 @@ function renderCenterInfo(card) {
 */
 Promise.all([
   fetch("./data/tokyo.json").then(r => r.json()),
-  fetch("./data/osaka.json").then(r => r.json())
-]).then(([tokyo, osaka]) => {
-  centers = [...tokyo, ...osaka];
+  fetch("./data/osaka.json").then(r => r.json()),
+  fetch("./data/kanagawa.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa];
   renderScreen("start");
 });
