@@ -1192,10 +1192,13 @@ function renderCenterInfo(card) {
   const link =
     document.createElement("a");
 
+  const isExternal = !selectedCenter.url.includes(".lg.jp");
+
   link.href = selectedCenter.url;
   link.target = "_blank";
   link.textContent =
-    selectedCenter.name + " について確認してみる";
+    selectedCenter.name + " について確認してみる" +
+    (isExternal ? "（外部サイト）" : "");
   link.className = "button";
   link.style.display = "block";
   link.style.width = "100%";
