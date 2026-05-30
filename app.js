@@ -944,7 +944,7 @@ function renderCenterInfo(card) {
 
   const livingSelect = createSelect(
     "住まい",
-    ["同居", "一人暮らし"]
+    ["同居", "一人暮らし","私以外の人と同居"]
   );
 
   const careManagerSelect = createSelect(
