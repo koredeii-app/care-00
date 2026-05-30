@@ -256,7 +256,10 @@ const cityLinks = {
 "https://www.city.hachioji.tokyo.jp/kurashi/welfare/004/005/chikihoukatsushien/p018114.html",
 
   "町田市":
-"https://www.city.machida.tokyo.jp/iryo/old/shiminnokatae/mijikanasodan/koureisha_shien_center.html"
+"https://www.city.machida.tokyo.jp/iryo/old/shiminnokatae/mijikanasodan/koureisha_shien_center.html",
+
+  "府中市":
+"https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/index.html"
 
 };
 

@@ -3997,6 +3997,116 @@ const centers = [
     name: "南第3高齢者支援センター",
     tel: "042-720-3801",
     url: "https://www.shoukichi.org/machidaminami3/"
+  },
+
+  {
+    id: 406,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "北山・西原・武蔵台",
+    name: "地域包括支援センター泉苑",
+    tel: "042-366-0171",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/izumi.html"
+  },
+
+  {
+    id: 407,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "四谷",
+    name: "地域包括支援センターよつや苑",
+    tel: "042-334-8141",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/yotsuya.html"
+  },
+
+  {
+    id: 408,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "朝日・多磨・紅葉丘・若松他",
+    name: "地域包括支援センターあさひ苑",
+    tel: "042-369-0080",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/asahi.html"
+  },
+
+  {
+    id: 409,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "寿・幸・八幡・日吉・府中他",
+    name: "地域包括支援センター安立園",
+    tel: "042-367-0550",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/anryuen.html"
+  },
+
+  {
+    id: 410,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "押立・車返団地",
+    name: "地域包括支援センターおしたて",
+    tel: "042-363-1661",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/oshitate.html"
+  },
+
+  {
+    id: 411,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "片町・本町・宮西・美好他",
+    name: "地域包括支援センターかたまち",
+    tel: "042-336-5831",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/katamachi.html"
+  },
+
+  {
+    id: 412,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "栄・新町・浅間・天神他",
+    name: "地域包括支援センターしんまち",
+    tel: "042-340-5060",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/sinnmachi.html"
+  },
+
+  {
+    id: 413,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "白糸台・小柳・清水が丘・若松",
+    name: "地域包括支援センター白糸台",
+    tel: "042-407-8080",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/shiraitodai.html"
+  },
+
+  {
+    id: 414,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "東芝・西府・日新・本宿",
+    name: "地域包括支援センターにしふ",
+    tel: "042-360-1380",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/nisifu.html"
+  },
+
+  {
+    id: 415,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "是政・小柳・清水が丘",
+    name: "地域包括支援センターこれまさ",
+    tel: "042-314-0451",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/koremasa.html"
+  },
+
+  {
+    id: 416,
+    prefecture: "東京都",
+    city: "府中市",
+    area: "住吉・分梅・南町",
+    name: "地域包括支援センターみなみ町",
+    tel: "042-336-1250",
+    url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/minami.html"
   }
 
 ];
