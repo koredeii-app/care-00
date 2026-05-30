@@ -1366,7 +1366,6 @@ function renderCenterInfo(card) {
       if (cb) cb.checkbox.checked = true;
     }
   } else if (selectedConcern === "caregiving") {
-    if (!savedFormValues.relationship) relationshipSelect.value = "家族";
     if (!savedFormValues.careManager)  careManagerSelect.value  = "無し";
   } else if (selectedConcern === "living_alone") {
     if (!savedFormValues.living) livingSelect.value = "一人暮らし";
