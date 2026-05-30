@@ -960,7 +960,7 @@ function renderCenterInfo(card) {
     document.createElement("button");
 
   callButton.className = "button";
-  callButton.textContent = "電話をかける";
+  callButton.textContent = "📞 相談する";
   callButton.disabled = true;
   callButton.style.background = "#b0bec5";
   callButton.style.cursor = "not-allowed";
@@ -1030,16 +1030,21 @@ function renderCenterInfo(card) {
 
     sentenceBox.textContent = buildSentence();
 
-    const hasSymptom =
-      checkboxRefs.some(r => r.checkbox.checked);
+    const allSelected =
+      !!ageSelect.value &&
+      !!genderSelect.value &&
+      !!sinceSelect.value &&
+      !!relationshipSelect.value &&
+      !!livingSelect.value &&
+      !!careManagerSelect.value;
 
-    callButton.disabled = !hasSymptom;
+    callButton.disabled = !allSelected;
 
     callButton.style.background =
-      hasSymptom ? "#2e7d32" : "#b0bec5";
+      allSelected ? "#2e7d32" : "#b0bec5";
 
     callButton.style.cursor =
-      hasSymptom ? "pointer" : "not-allowed";
+      allSelected ? "pointer" : "not-allowed";
 
   }
 
