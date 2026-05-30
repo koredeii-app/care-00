@@ -4267,6 +4267,96 @@ const centers = [
     name: "新町地域包括支援センター",
     tel: "042-462-1695",
     url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/sinmatihoukatu.html"
+  },
+
+  {
+    id: 433,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "栄1-3・中島・小川1・たかの台・上水新1-3",
+    name: "地域包括支援センターけやきの郷",
+    tel: "042-349-2321",
+    url: "https://www.reimeikai1945.jp/pages/49/"
+  },
+
+  {
+    id: 434,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "たかの台・津田1・上水本1",
+    name: "地域包括支援センターけやきの郷 たかの台出張所",
+    tel: "042-316-3367",
+    url: "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+
+  {
+    id: 435,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "小川西/東1-5・津田2-3・学園西1-3・上水本2-6",
+    name: "地域包括支援センター小川ホーム",
+    tel: "042-347-6033",
+    url: "https://www.city.kodaira.tokyo.jp/static/facility_map/00778.html"
+  },
+
+  {
+    id: 436,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "津田3・学園西",
+    name: "地域包括支援センター小川ホーム 四小通り出張所",
+    tel: "042-347-6600",
+    url: "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+
+  {
+    id: 437,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "市内全域（基幹型相談窓口）",
+    name: "地域包括支援センター中央センター（基幹型）",
+    tel: "042-345-0691",
+    url: "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+
+  {
+    id: 438,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "美園1-3・大沼1-7・喜平1-3・上水南1-4他",
+    name: "地域包括支援センター多摩済生ケアセンター",
+    tel: "042-349-2123",
+    url: "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+
+  {
+    id: 439,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "喜平1-3・上水南1-4",
+    name: "地域包括支援センター多摩済生ケアセンター 喜平橋出張所",
+    tel: "042-359-2831",
+    url: "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+  },
+
+  {
+    id: 440,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "鈴木1-2・天神1-4・花小金井1-8・花小金井南1-3他",
+    name: "地域包括支援センター小平健成苑",
+    tel: "042-451-8813",
+    url: "https://kenseien.org/services/consulting1/"
+  },
+
+  {
+    id: 441,
+    prefecture: "東京都",
+    city: "小平市",
+    area: "花小金井1-8・花小金井南1-3",
+    name: "地域包括支援センター小平健成苑 花小金井出張所",
+    tel: "042-468-5143",
+    url: "https://kenseien.org/services/consulting1/"
   }
 
 ];

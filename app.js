@@ -265,7 +265,10 @@ const cityLinks = {
 "https://www.city.chofu.lg.jp/060030/p033040.html",
 
   "西東京市":
-"https://www.city.nishitokyo.lg.jp/kenko_hukusi/koreisyasien/chiikihoukatu.html"
+"https://www.city.nishitokyo.lg.jp/kenko_hukusi/koreisyasien/chiikihoukatu.html",
+
+  "小平市":
+"https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
 
 };
 
