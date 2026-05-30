@@ -4187,6 +4187,86 @@ const centers = [
     name: "地域包括支援センター仙川",
     tel: "03-5314-0030",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 425,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "ひばりが丘北・北町・栄町・下保谷",
+    name: "栄町地域包括支援センター",
+    tel: "042-438-7090",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/sakehoukatu.html"
+  },
+
+  {
+    id: 426,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "東町・中町・富士町",
+    name: "富士町地域包括支援センター",
+    tel: "042-451-1203",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/fujimatihoukatu.html"
+  },
+
+  {
+    id: 427,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "北原・泉町・住吉",
+    name: "泉町地域包括支援センター",
+    tel: "042-424-1200",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/izumihoukatu.html"
+  },
+
+  {
+    id: 428,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "田無町・保谷町",
+    name: "田無町地域包括支援センター",
+    tel: "042-467-8850",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/tanasihoukatu.html"
+  },
+
+  {
+    id: 429,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "緑町・谷戸・ひばりが丘",
+    name: "緑町地域包括支援センター",
+    tel: "042-461-7081",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/midorihoukatu.html"
+  },
+
+  {
+    id: 430,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "西原町・芝久保町",
+    name: "西原町地域包括支援センター",
+    tel: "042-451-8844",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/nisiharahoukatu.html"
+  },
+
+  {
+    id: 431,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "南町・向台町",
+    name: "向台町地域包括支援センター",
+    tel: "042-468-2340",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/mukoudaihoukatu.html"
+  },
+
+  {
+    id: 432,
+    prefecture: "東京都",
+    city: "西東京市",
+    area: "新町・柳沢・東伏見",
+    name: "新町地域包括支援センター",
+    tel: "042-462-1695",
+    url: "https://www.city.nishitokyo.lg.jp/sisetu/hukusi/sinmatihoukatu.html"
   }
 
 ];

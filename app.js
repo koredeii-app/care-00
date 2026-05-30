@@ -262,7 +262,10 @@ const cityLinks = {
 "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/index.html",
 
   "調布市":
-"https://www.city.chofu.lg.jp/060030/p033040.html"
+"https://www.city.chofu.lg.jp/060030/p033040.html",
+
+  "西東京市":
+"https://www.city.nishitokyo.lg.jp/kenko_hukusi/koreisyasien/chiikihoukatu.html"
 
 };
 
