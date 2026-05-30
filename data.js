@@ -4887,6 +4887,46 @@ const centers = [
     name: "きよせ清雅地域包括支援センター",
     tel: "042-495-1370",
     url: "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
+  },
+
+  {
+    id: 495,
+    prefecture: "東京都",
+    city: "東久留米市",
+    area: "上の原・神宝町・金山町・氷川台・大門町・東本町・新川町・浅間町・小山1〜3丁目",
+    name: "東部地域包括支援センター",
+    tel: "042-428-7788",
+    url: "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+
+  {
+    id: 496,
+    prefecture: "東京都",
+    city: "東久留米市",
+    area: "学園町・ひばりが丘団地・本町・中央町・幸町1丁目・南沢・前沢1〜3丁目・南町",
+    name: "中部地域包括支援センター",
+    tel: "042-451-5121",
+    url: "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+
+  {
+    id: 497,
+    prefecture: "東京都",
+    city: "東久留米市",
+    area: "前沢4〜5丁目・滝山・下里・柳窪・弥生",
+    name: "西部地域包括支援センター",
+    tel: "042-472-0661",
+    url: "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+  },
+
+  {
+    id: 498,
+    prefecture: "東京都",
+    city: "東久留米市",
+    area: "小山4・5丁目・幸町2〜5丁目・野火止・八幡町",
+    name: "在宅介護支援センター（地域包括支援センターブランチ）",
+    tel: "042-479-0803",
+    url: "https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
   }
 
 ];
