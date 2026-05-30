@@ -4796,7 +4796,7 @@ const centers = [
     area: "境南町",
     name: "武蔵野赤十字在宅介護・地域包括支援センター",
     tel: "0422-32-3155",
-    url: "https://www.musashino.jrc.or.jp/center/inhome-care.html"
+    url: "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000511.html"
   },
 
   {
