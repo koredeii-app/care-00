@@ -280,7 +280,10 @@ const cityLinks = {
 "https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html",
 
   "立川市":
-"https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+"https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html",
+
+  "多摩市":
+"https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
 
 };
 

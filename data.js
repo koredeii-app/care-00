@@ -4617,6 +4617,66 @@ const centers = [
     name: "北部西かみすな地域包括支援センター",
     tel: "042-536-9910",
     url: "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+
+  {
+    id: 468,
+    prefecture: "東京都",
+    city: "多摩市",
+    area: "東寺方・落川・百草・和田・桜ヶ丘他",
+    name: "多摩市西部地域包括支援センター",
+    tel: "042-389-8850",
+    url: "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+
+  {
+    id: 469,
+    prefecture: "東京都",
+    city: "多摩市",
+    area: "連光寺・聖ヶ丘・馬引沢・諏訪",
+    name: "多摩市東部地域包括支援センター",
+    tel: "042-373-7850",
+    url: "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+
+  {
+    id: 470,
+    prefecture: "東京都",
+    city: "多摩市",
+    area: "落合・鶴牧・南野2-3・唐木田他",
+    name: "多摩市多摩センター地域包括支援センター",
+    tel: "042-376-2941",
+    url: "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+
+  {
+    id: 471,
+    prefecture: "東京都",
+    city: "多摩市",
+    area: "永山2-7・貝取2-5・豊ヶ丘2-6・南野1",
+    name: "多摩市中部地域包括支援センター",
+    tel: "042-375-0017",
+    url: "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+
+  {
+    id: 472,
+    prefecture: "東京都",
+    city: "多摩市",
+    area: "関戸1-5・一ノ宮",
+    name: "多摩市北部地域包括支援センター",
+    tel: "042-357-3711",
+    url: "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+  },
+
+  {
+    id: 473,
+    prefecture: "東京都",
+    city: "多摩市",
+    area: "愛宕・東寺方3・和田3・乞田・永山1他",
+    name: "多摩市北部地域包括支援センター愛宕支所",
+    tel: "042-319-6411",
+    url: "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
   }
 
 ];
