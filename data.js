@@ -4977,6 +4977,46 @@ const centers = [
     name: "北部地域包括支援センター ハピネス昭和の森",
     tel: "042-519-6967",
     url: "https://www.city.akishima.lg.jp/kenko/korei/1003087.html"
+  },
+
+  {
+    id: 504,
+    prefecture: "東京都",
+    city: "東大和市",
+    area: "芋窪・蔵敷・奈良橋・上北台・立野",
+    name: "高齢者ほっと支援センター いもくぼ",
+    tel: "042-563-8777",
+    url: "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+
+  {
+    id: 505,
+    prefecture: "東京都",
+    city: "東大和市",
+    area: "仲原・清原・新堀・向原1・2・4・5丁目",
+    name: "高齢者ほっと支援センター きよはら",
+    tel: "042-590-1138",
+    url: "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+
+  {
+    id: 506,
+    prefecture: "東京都",
+    city: "東大和市",
+    area: "南街・桜が丘・向原3・6丁目",
+    name: "高齢者ほっと支援センター なんがい",
+    tel: "042-566-8133",
+    url: "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+
+  {
+    id: 507,
+    prefecture: "東京都",
+    city: "東大和市",
+    area: "多摩湖・湖畔・高木・狭山・清水・中央",
+    name: "高齢者ほっと支援センター しみず",
+    tel: "042-843-6635",
+    url: "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
   }
 
 ];
