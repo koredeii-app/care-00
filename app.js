@@ -7,6 +7,8 @@ let selectedCenter = null;
 
 let savedRegion = {};
 
+let selectedConcern = null;
+
 let centers = [];
 
 /*
@@ -35,7 +37,10 @@ const screens = {
           "#546e7a",
 
         next:
-          "regionSelect"
+          "regionSelect",
+
+        concern:
+          "forgetfulness"
       },
 
       {
@@ -49,7 +54,10 @@ const screens = {
           "#8d6e63",
 
         next:
-          "regionSelect"
+          "regionSelect",
+
+        concern:
+          "caregiving"
       },
 
       {
@@ -63,7 +71,10 @@ const screens = {
           "#5e35b1",
 
         next:
-          "regionSelect"
+          "regionSelect",
+
+        concern:
+          "living_alone"
       },
 
       {
@@ -77,7 +88,10 @@ const screens = {
           "#78909c",
 
         next:
-          "regionSelect"
+          "regionSelect",
+
+        concern:
+          "unsure"
       }
 
     ]
@@ -106,6 +120,23 @@ const screens = {
 
   }
 
+};
+
+/*
+  選択した悩みに応じたメッセージ・プレフィックス
+*/
+const concernIntros = {
+  forgetfulness: "認知症の疑いがある場合も、まず電話で話せます",
+  caregiving:    "介護している側からの相談も歓迎されています",
+  living_alone:  "見守りや生活支援の相談もできます",
+  unsure:        "「まだ早いかな」という段階が、一番相談しやすい時期です"
+};
+
+const concernPrefixes = {
+  forgetfulness: "認知症の様な感じがするので、どうすればいいか相談をしたいです。",
+  caregiving:    "介護で疲れているので、何か支援が無いか相談したいです。",
+  living_alone:  "親の生活が心配で、何か見守りや支援が無いか相談したいです。",
+  unsure:        "まだ大変な状態ではないけれど、今後に備えて相談したいです。"
 };
 
 /*
@@ -543,6 +574,8 @@ function renderScreen(screenKey) {
 
         historyStack.push(screenKey);
 
+        if (option.concern) selectedConcern = option.concern;
+
         renderScreen(option.next);
 
       };
@@ -875,6 +908,39 @@ function renderCenterInfo(card) {
   card.appendChild(areaLabel);
 
   /*
+    悩みに応じたひとこと（案2）
+  */
+  if (selectedConcern && concernIntros[selectedConcern]) {
+
+    const introMsg =
+      document.createElement("div");
+
+    introMsg.textContent =
+      concernIntros[selectedConcern];
+
+    introMsg.style.fontSize =
+      "13px";
+
+    introMsg.style.color =
+      "#ffffff";
+
+    introMsg.style.background =
+      "#78909c";
+
+    introMsg.style.borderRadius =
+      "8px";
+
+    introMsg.style.padding =
+      "8px 12px";
+
+    introMsg.style.marginBottom =
+      "20px";
+
+    card.appendChild(introMsg);
+
+  }
+
+  /*
     電話番号
   */
   const tel =
@@ -1060,6 +1126,7 @@ function renderCenterInfo(card) {
   sentenceBox.style.lineHeight = "1.9";
   sentenceBox.style.marginBottom = "24px";
   sentenceBox.style.color = "#37474f";
+  sentenceBox.style.whiteSpace = "pre-line";
   sentenceBox.textContent =
     "（情報を選択すると、ここに文章が表示されます）";
 
@@ -1081,6 +1148,9 @@ function renderCenterInfo(card) {
   */
   function buildSentence() {
 
+    const prefix =
+      selectedConcern ? (concernPrefixes[selectedConcern] || "") : "";
+
     const age = ageSelect.value;
     const gender = genderSelect.value;
     const since = sinceSelect.value;
@@ -1097,10 +1167,12 @@ function renderCenterInfo(card) {
       !age && !gender && !since && !relationship &&
       !living && !careManager && symptoms.length === 0
     ) {
-      return "（情報を選択すると、ここに文章が表示されます）";
+      return prefix
+        ? prefix + "\n（詳細情報を選択すると追加されます）"
+        : "（情報を選択すると、ここに文章が表示されます）";
     }
 
-    let s = "対象者は";
+    let s = prefix ? prefix + "\n対象者は" : "対象者は";
 
     if (age || gender) {
       s += "、" + age + gender + "で";
@@ -1171,6 +1243,21 @@ function renderCenterInfo(card) {
   checkboxRefs.forEach(r => {
     r.checkbox.onchange = update;
   });
+
+  /*
+    悩みに応じた事前入力（案1）
+  */
+  if (selectedConcern === "forgetfulness") {
+    const cb = checkboxRefs.find(r => r.sentence === "物忘れが多い");
+    if (cb) cb.checkbox.checked = true;
+  } else if (selectedConcern === "caregiving") {
+    relationshipSelect.value = "家族";
+    careManagerSelect.value = "無し";
+  } else if (selectedConcern === "living_alone") {
+    livingSelect.value = "一人暮らし";
+  }
+
+  update();
 
   callButton.onclick = () => {
 
