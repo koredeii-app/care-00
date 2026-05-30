@@ -4356,7 +4356,7 @@ const centers = [
     area: "花小金井1-8・花小金井南1-3",
     name: "地域包括支援センター小平健成苑 花小金井出張所",
     tel: "042-468-5143",
-    url: "https://kenseien.org/services/consulting1/"
+    url: "https://kenseien.org/facilities/facility6/"
   },
 
   {
@@ -4366,7 +4366,7 @@ const centers = [
     area: "牟礼・北野・新川2-3",
     name: "三鷹市東部高齢者なんでも相談センター",
     tel: "0422-48-8855",
-    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+    url: "https://www.kosaien.or.jp/publics/index/39/"
   },
 
   {
@@ -4376,7 +4376,7 @@ const centers = [
     area: "井の頭",
     name: "三鷹市井の頭高齢者なんでも相談センター",
     tel: "0422-44-7400",
-    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+    url: "https://www.mitaka.or.jp/facility/mitakashiinokashira-chiikihokatsushiensenta/"
   },
 
   {
@@ -4386,7 +4386,7 @@ const centers = [
     area: "下連雀5-9・上連雀6-9・野崎1",
     name: "三鷹市連雀高齢者なんでも相談センター",
     tel: "0422-40-2635",
-    url: "https://www.nomura.or.jp/care/"
+    url: "https://www.nomura.or.jp/community-comprehensive-support-center/"
   },
 
   {
@@ -4396,7 +4396,7 @@ const centers = [
     area: "下連雀1-4・上連雀1-5",
     name: "三鷹市三鷹駅周辺高齢者なんでも相談センター",
     tel: "0422-76-4500",
-    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+    url: "http://houkatsu.mitsurukai.com/"
   },
 
   {
@@ -4406,7 +4406,7 @@ const centers = [
     area: "井口・深大寺・野崎2-4",
     name: "三鷹市西部高齢者なんでも相談センター",
     tel: "0422-34-6536",
-    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+    url: "https://www.kosaien.or.jp/publics/index/79/"
   },
 
   {
@@ -4416,7 +4416,7 @@ const centers = [
     area: "大沢",
     name: "三鷹市大沢高齢者なんでも相談センター",
     tel: "0422-33-2287",
-    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+    url: "https://www.mitaka.or.jp/facility/mitakashi-oosawachiikihoukatsushiensenta/"
   },
 
   {
@@ -4426,7 +4426,7 @@ const centers = [
     area: "中原・新川1/4-6",
     name: "三鷹市新川中原高齢者なんでも相談センター",
     tel: "0422-40-7204",
-    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+    url: "http://www.mitakashisuien.jp/publics/index/59/"
   },
 
   {
