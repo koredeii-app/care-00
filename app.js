@@ -298,7 +298,13 @@ const cityLinks = {
 "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html",
 
   "東久留米市":
-"https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html"
+"https://www.city.higashikurume.lg.jp/kurashi/zei/kaigo/1012303.html",
+
+  "昭島市":
+"https://www.city.akishima.lg.jp/kenko/korei/1003087.html",
+
+  "東大和市":
+"https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
 
 };
 
