@@ -1071,6 +1071,7 @@ function renderCenterInfo(card) {
 
   callButton.className = "button";
   callButton.textContent = "📞 相談する";
+  callButton.style.fontSize = "22px";
   callButton.disabled = true;
   callButton.style.background = "#b0bec5";
   callButton.style.cursor = "not-allowed";
