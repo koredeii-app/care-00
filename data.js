@@ -4173,7 +4173,7 @@ const centers = [
     id: 423,
     prefecture: "東京都",
     city: "調布市",
-    area: "緑ケ丘・仙川・若葉・つつじケ丘他",
+    area: "緑ケ丘・仙川・西つつじ1-4・東つつじ1-3他",
     name: "地域包括支援センターつつじケ丘",
     tel: "03-5315-5400",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
@@ -4183,7 +4183,7 @@ const centers = [
     id: 424,
     prefecture: "東京都",
     city: "調布市",
-    area: "若葉・入間・つつじケ丘・菊野台他",
+    area: "若葉1-3・入間・菊野台1-3・東西つつじ他",
     name: "地域包括支援センター仙川",
     tel: "03-5314-0030",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
