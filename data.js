@@ -4857,6 +4857,36 @@ const centers = [
     name: "青梅市地域包括支援センターすえひろ 野上支所",
     tel: "0428-78-4800",
     url: "https://www.city.ome.tokyo.jp/soshiki/30/587.html"
+  },
+
+  {
+    id: 492,
+    prefecture: "東京都",
+    city: "清瀬市",
+    area: "上清戸・中清戸・下清戸・元町",
+    name: "きよせ社協地域包括支援センター",
+    tel: "042-495-5516",
+    url: "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
+  },
+
+  {
+    id: 493,
+    prefecture: "東京都",
+    city: "清瀬市",
+    area: "竹丘・梅園・野塩・松山",
+    name: "きよせ信愛地域包括支援センター",
+    tel: "042-492-1850",
+    url: "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
+  },
+
+  {
+    id: 494,
+    prefecture: "東京都",
+    city: "清瀬市",
+    area: "中里・下宿・旭が丘",
+    name: "きよせ清雅地域包括支援センター",
+    tel: "042-495-1370",
+    url: "https://www.city.kiyose.lg.jp/kenkouiryouhukusi/koureisien/1014148.html"
   }
 
 ];
