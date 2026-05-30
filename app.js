@@ -286,7 +286,10 @@ const cityLinks = {
 "https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html",
 
   "国分寺市":
-"https://www.city.kokubunji.tokyo.jp/kurashi/1011604/1011688/1026548.html"
+"https://www.city.kokubunji.tokyo.jp/kurashi/1011604/1011688/1026548.html",
+
+  "武蔵野市":
+"https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/index.html"
 
 };
 

@@ -4747,6 +4747,66 @@ const centers = [
     name: "地域包括支援センターほんだ",
     tel: "042-300-2339",
     url: "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003859.html"
+  },
+
+  {
+    id: 481,
+    prefecture: "東京都",
+    city: "武蔵野市",
+    area: "中町・西久保・緑町・八幡町",
+    name: "高齢者総合センター在宅介護・地域包括支援センター",
+    tel: "0422-51-1974",
+    url: "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000507.html"
+  },
+
+  {
+    id: 482,
+    prefecture: "東京都",
+    city: "武蔵野市",
+    area: "吉祥寺北町",
+    name: "吉祥寺ナーシングホーム在宅介護・地域包括支援センター",
+    tel: "0422-20-0847",
+    url: "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000508.html"
+  },
+
+  {
+    id: 483,
+    prefecture: "東京都",
+    city: "武蔵野市",
+    area: "関前・境・桜堤",
+    name: "桜堤ケアハウス在宅介護・地域包括支援センター",
+    tel: "0422-36-5133",
+    url: "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000509.html"
+  },
+
+  {
+    id: 484,
+    prefecture: "東京都",
+    city: "武蔵野市",
+    area: "吉祥寺東町・吉祥寺南町・御殿山1",
+    name: "ゆとりえ在宅介護・地域包括支援センター",
+    tel: "0422-72-0313",
+    url: "https://fuku-musashino.or.jp/kourei/kourei-06.html"
+  },
+
+  {
+    id: 485,
+    prefecture: "東京都",
+    city: "武蔵野市",
+    area: "境南町",
+    name: "武蔵野赤十字在宅介護・地域包括支援センター",
+    tel: "0422-32-3155",
+    url: "https://www.musashino.jrc.or.jp/center/inhome-care.html"
+  },
+
+  {
+    id: 486,
+    prefecture: "東京都",
+    city: "武蔵野市",
+    area: "御殿山2・吉祥寺本町",
+    name: "吉祥寺本町在宅介護・地域包括支援センター",
+    tel: "0422-23-1213",
+    url: "https://www.city.musashino.lg.jp/shisetsu_annai/hoken_fukushi/zaitakukaigo_chiikihokatsu_shiencenter/1000512.html"
   }
 
 ];
