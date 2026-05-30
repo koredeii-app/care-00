@@ -4557,6 +4557,66 @@ const centers = [
     name: "東村山市南部地域包括支援センター",
     tel: "042-390-2211",
     url: "https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html"
+  },
+
+  {
+    id: 462,
+    prefecture: "東京都",
+    city: "立川市",
+    area: "富士見町・柴崎町",
+    name: "南部西ふじみ地域包括支援センター",
+    tel: "042-540-0311",
+    url: "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+
+  {
+    id: 463,
+    prefecture: "東京都",
+    city: "立川市",
+    area: "羽衣町・錦町",
+    name: "南部東はごろも地域包括支援センター",
+    tel: "042-523-5612",
+    url: "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+
+  {
+    id: 464,
+    prefecture: "東京都",
+    city: "立川市",
+    area: "高松町・曙町・緑町",
+    name: "中部たかまつ地域包括支援センター",
+    tel: "042-540-2031",
+    url: "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+
+  {
+    id: 465,
+    prefecture: "東京都",
+    city: "立川市",
+    area: "若葉町・栄町",
+    name: "北部東わかば地域包括支援センター",
+    tel: "042-538-1221",
+    url: "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+
+  {
+    id: 466,
+    prefecture: "東京都",
+    city: "立川市",
+    area: "幸町・柏町・砂川町・泉町",
+    name: "北部中さいわい地域包括支援センター",
+    tel: "042-538-2339",
+    url: "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
+  },
+
+  {
+    id: 467,
+    prefecture: "東京都",
+    city: "立川市",
+    area: "上砂町・一番町・西砂町",
+    name: "北部西かみすな地域包括支援センター",
+    tel: "042-536-9910",
+    url: "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
   }
 
 ];

@@ -277,7 +277,10 @@ const cityLinks = {
 "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/index.html",
 
   "東村山市":
-"https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html"
+"https://www.city.higashimurayama.tokyo.jp/kenko/korei/koreisodan/hokatsu/hokatuse.html",
+
+  "立川市":
+"https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html"
 
 };
 
