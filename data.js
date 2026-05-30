@@ -4113,7 +4113,7 @@ const centers = [
     id: 417,
     prefecture: "東京都",
     city: "調布市",
-    area: "深大寺北・東・南・元町・佐須",
+    area: "深大寺北・東1-2・南1-5・元2-5・佐須1",
     name: "地域包括支援センターはなみずき",
     tel: "042-441-5763",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
@@ -4123,7 +4123,7 @@ const centers = [
     id: 418,
     prefecture: "東京都",
     city: "調布市",
-    area: "富士見・野水・西町・下石原他",
+    area: "富士見1-4・下石原1-3・野水・飛田給他",
     name: "地域包括支援センターちょうふの里",
     tel: "042-441-6655",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
@@ -4133,7 +4133,7 @@ const centers = [
     id: 419,
     prefecture: "東京都",
     city: "調布市",
-    area: "小島・調布ケ丘・布田・多摩川",
+    area: "多摩川1-5・布田1/4・小島・調布ケ丘他",
     name: "地域包括支援センターちょうふ花園",
     tel: "042-484-2285",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
@@ -4143,7 +4143,7 @@ const centers = [
     id: 420,
     prefecture: "東京都",
     city: "調布市",
-    area: "国領・八雲台・佐須・布田他",
+    area: "国領1-5/8・布田2-3・調布ケ丘2-3・八雲台",
     name: "地域包括支援センターゆうあい",
     tel: "042-481-4973",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
@@ -4153,7 +4153,7 @@ const centers = [
     id: 421,
     prefecture: "東京都",
     city: "調布市",
-    area: "柴崎・西つつじ・深大寺他",
+    area: "柴崎・佐須1-5・西つつじ1-2・深大寺他",
     name: "地域包括支援センター至誠しばさき",
     tel: "042-488-1300",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
@@ -4163,7 +4163,7 @@ const centers = [
     id: 422,
     prefecture: "東京都",
     city: "調布市",
-    area: "国領・布田・染地・多摩川",
+    area: "国領6-7・布田5-6・染地・多摩川6-7",
     name: "地域包括支援センターときわぎ国領",
     tel: "050-5540-0860",
     url: "https://www.city.chofu.lg.jp/060030/p033040.html"
