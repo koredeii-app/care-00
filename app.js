@@ -283,7 +283,10 @@ const cityLinks = {
 "https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/center.html",
 
   "多摩市":
-"https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html"
+"https://www.city.tama.lg.jp/kenkofukushi/1008237/koureisha/soudan/1002951.html",
+
+  "国分寺市":
+"https://www.city.kokubunji.tokyo.jp/kurashi/1011604/1011688/1026548.html"
 
 };
 

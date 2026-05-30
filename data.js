@@ -4687,6 +4687,66 @@ const centers = [
     name: "地域包括支援センター多摩川苑",
     tel: "042-582-1707",
     url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005825.html"
+  },
+
+  {
+    id: 475,
+    prefecture: "東京都",
+    city: "国分寺市",
+    area: "光町・高木町・西町",
+    name: "地域包括支援センターひかり",
+    tel: "042-573-4058",
+    url: "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003860.html"
+  },
+
+  {
+    id: 476,
+    prefecture: "東京都",
+    city: "国分寺市",
+    area: "泉町・西恋ヶ窪・東戸倉",
+    name: "地域包括支援センターこいがくぼ",
+    tel: "042-300-6024",
+    url: "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003857.html"
+  },
+
+  {
+    id: 477,
+    prefecture: "東京都",
+    city: "国分寺市",
+    area: "戸倉・日吉町・内藤",
+    name: "地域包括支援センターひよし",
+    tel: "042-300-1405",
+    url: "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003856.html"
+  },
+
+  {
+    id: 478,
+    prefecture: "東京都",
+    city: "国分寺市",
+    area: "東元町・西元町・南町",
+    name: "地域包括支援センターもとまち",
+    tel: "042-401-0035",
+    url: "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003861.html"
+  },
+
+  {
+    id: 479,
+    prefecture: "東京都",
+    city: "国分寺市",
+    area: "富士本・新町・並木町・北町",
+    name: "地域包括支援センターなみき",
+    tel: "042-300-3702",
+    url: "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003858.html"
+  },
+
+  {
+    id: 480,
+    prefecture: "東京都",
+    city: "国分寺市",
+    area: "本町・本多・東恋ヶ窪",
+    name: "地域包括支援センターほんだ",
+    tel: "042-300-2339",
+    url: "https://www.city.kokubunji.tokyo.jp/shisetsu/hoken/soudan/1003859.html"
   }
 
 ];
