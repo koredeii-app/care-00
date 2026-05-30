@@ -271,7 +271,10 @@ const cityLinks = {
 "https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html",
 
   "三鷹市":
-"https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+"https://www.city.mitaka.lg.jp/c_service/000/000934.html",
+
+  "日野市":
+"https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/index.html"
 
 };
 

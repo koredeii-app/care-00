@@ -4427,6 +4427,86 @@ const centers = [
     name: "三鷹市新川中原高齢者なんでも相談センター",
     tel: "0422-40-7204",
     url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+  },
+
+  {
+    id: 449,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "日野本町・神明・日野台1-3・栄・新町",
+    name: "地域包括支援センターせせらぎ",
+    tel: "042-589-3560",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005819.html"
+  },
+
+  {
+    id: 450,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "豊田・東豊田・旭が丘2/5-6・多摩平1-2他",
+    name: "地域包括支援センターすてっぷ",
+    tel: "042-582-7367",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005820.html"
+  },
+
+  {
+    id: 451,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "多摩平3-7・日野台4-5・大坂上",
+    name: "地域包括支援センターあいりん",
+    tel: "042-586-9141",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005821.html"
+  },
+
+  {
+    id: 452,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "高幡・三沢1/3-5・新井・程久保1-8",
+    name: "地域包括支援センターあさかわ",
+    tel: "042-593-1919",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005822.html"
+  },
+
+  {
+    id: 453,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "百草・落川・三沢2・程久保（大字）",
+    name: "地域包括支援センターもぐさ",
+    tel: "042-599-0536",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005817.html"
+  },
+
+  {
+    id: 454,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "東平山2-3・平山",
+    name: "地域包括支援センターいきいきタウン",
+    tel: "042-585-7071",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005818.html"
+  },
+
+  {
+    id: 455,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "南平",
+    name: "地域包括支援センターすずらん",
+    tel: "042-599-5531",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005823.html"
+  },
+
+  {
+    id: 456,
+    prefecture: "東京都",
+    city: "日野市",
+    area: "旭が丘1/3-4・西平山・東平山1",
+    name: "地域包括支援センターかわきた",
+    tel: "042-589-1710",
+    url: "https://www.city.hino.lg.jp/shisetsu/fukushi/houkatsu/1005824.html"
   }
 
 ];
