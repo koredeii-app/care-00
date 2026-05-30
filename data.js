@@ -5017,6 +5017,36 @@ const centers = [
     name: "高齢者ほっと支援センター しみず",
     tel: "042-843-6635",
     url: "https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+  },
+
+  {
+    id: 508,
+    prefecture: "東京都",
+    city: "国立市",
+    area: "北地区・西地区",
+    name: "国立市地域包括支援センター 北窓口",
+    tel: "042-573-4661",
+    url: "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
+  },
+
+  {
+    id: 509,
+    prefecture: "東京都",
+    city: "国立市",
+    area: "東地区・中地区・富士見台1〜3丁目",
+    name: "国立市地域包括支援センター 福祉会館窓口",
+    tel: "042-580-1294",
+    url: "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
+  },
+
+  {
+    id: 510,
+    prefecture: "東京都",
+    city: "国立市",
+    area: "富士見台4丁目・谷保・青柳・石田・泉・矢川",
+    name: "国立市地域包括支援センター 泉窓口",
+    tel: "042-577-6888",
+    url: "https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
   }
 
 ];

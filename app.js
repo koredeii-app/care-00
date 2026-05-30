@@ -304,7 +304,10 @@ const cityLinks = {
 "https://www.city.akishima.lg.jp/kenko/korei/1003087.html",
 
   "東大和市":
-"https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html"
+"https://www.city.higashiyamato.lg.jp/kenkofukushi/koureisha/1002925/1002928.html",
+
+  "国立市":
+"https://www.city.kunitachi.tokyo.jp/soshiki/Dept03/Div03/Sec03/gyomu/0148/1576460952988.html"
 
 };
 
