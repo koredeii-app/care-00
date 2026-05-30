@@ -268,7 +268,10 @@ const cityLinks = {
 "https://www.city.nishitokyo.lg.jp/kenko_hukusi/koreisyasien/chiikihoukatu.html",
 
   "小平市":
-"https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html"
+"https://www.city.kodaira.tokyo.jp/kurashi/002/002598.html",
+
+  "三鷹市":
+"https://www.city.mitaka.lg.jp/c_service/000/000934.html"
 
 };
 

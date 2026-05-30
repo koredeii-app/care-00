@@ -4357,6 +4357,76 @@ const centers = [
     name: "地域包括支援センター小平健成苑 花小金井出張所",
     tel: "042-468-5143",
     url: "https://kenseien.org/services/consulting1/"
+  },
+
+  {
+    id: 442,
+    prefecture: "東京都",
+    city: "三鷹市",
+    area: "牟礼・北野・新川2-3",
+    name: "三鷹市東部高齢者なんでも相談センター",
+    tel: "0422-48-8855",
+    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+  },
+
+  {
+    id: 443,
+    prefecture: "東京都",
+    city: "三鷹市",
+    area: "井の頭",
+    name: "三鷹市井の頭高齢者なんでも相談センター",
+    tel: "0422-44-7400",
+    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+  },
+
+  {
+    id: 444,
+    prefecture: "東京都",
+    city: "三鷹市",
+    area: "下連雀5-9・上連雀6-9・野崎1",
+    name: "三鷹市連雀高齢者なんでも相談センター",
+    tel: "0422-40-2635",
+    url: "https://www.nomura.or.jp/care/"
+  },
+
+  {
+    id: 445,
+    prefecture: "東京都",
+    city: "三鷹市",
+    area: "下連雀1-4・上連雀1-5",
+    name: "三鷹市三鷹駅周辺高齢者なんでも相談センター",
+    tel: "0422-76-4500",
+    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+  },
+
+  {
+    id: 446,
+    prefecture: "東京都",
+    city: "三鷹市",
+    area: "井口・深大寺・野崎2-4",
+    name: "三鷹市西部高齢者なんでも相談センター",
+    tel: "0422-34-6536",
+    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+  },
+
+  {
+    id: 447,
+    prefecture: "東京都",
+    city: "三鷹市",
+    area: "大沢",
+    name: "三鷹市大沢高齢者なんでも相談センター",
+    tel: "0422-33-2287",
+    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
+  },
+
+  {
+    id: 448,
+    prefecture: "東京都",
+    city: "三鷹市",
+    area: "中原・新川1/4-6",
+    name: "三鷹市新川中原高齢者なんでも相談センター",
+    tel: "0422-40-7204",
+    url: "https://www.city.mitaka.lg.jp/c_service/000/000934.html"
   }
 
 ];
