@@ -259,7 +259,10 @@ const cityLinks = {
 "https://www.city.machida.tokyo.jp/iryo/old/shiminnokatae/mijikanasodan/koureisha_shien_center.html",
 
   "府中市":
-"https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/index.html"
+"https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/index.html",
+
+  "調布市":
+"https://www.city.chofu.lg.jp/060030/p033040.html"
 
 };
 

@@ -4107,6 +4107,86 @@ const centers = [
     name: "地域包括支援センターみなみ町",
     tel: "042-336-1250",
     url: "https://www.city.fuchu.tokyo.jp/shisetu/fukushi/chikihoukatu/minami.html"
+  },
+
+  {
+    id: 417,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "深大寺北・東・南・元町・佐須",
+    name: "地域包括支援センターはなみずき",
+    tel: "042-441-5763",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 418,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "富士見・野水・西町・下石原他",
+    name: "地域包括支援センターちょうふの里",
+    tel: "042-441-6655",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 419,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "小島・調布ケ丘・布田・多摩川",
+    name: "地域包括支援センターちょうふ花園",
+    tel: "042-484-2285",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 420,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "国領・八雲台・佐須・布田他",
+    name: "地域包括支援センターゆうあい",
+    tel: "042-481-4973",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 421,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "柴崎・西つつじ・深大寺他",
+    name: "地域包括支援センター至誠しばさき",
+    tel: "042-488-1300",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 422,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "国領・布田・染地・多摩川",
+    name: "地域包括支援センターときわぎ国領",
+    tel: "050-5540-0860",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 423,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "緑ケ丘・仙川・若葉・つつじケ丘他",
+    name: "地域包括支援センターつつじケ丘",
+    tel: "03-5315-5400",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
+  },
+
+  {
+    id: 424,
+    prefecture: "東京都",
+    city: "調布市",
+    area: "若葉・入間・つつじケ丘・菊野台他",
+    name: "地域包括支援センター仙川",
+    tel: "03-5314-0030",
+    url: "https://www.city.chofu.lg.jp/060030/p033040.html"
   }
 
 ];
