@@ -3877,6 +3877,126 @@ const centers = [
     name: "高齢者あんしん相談センター追分",
     tel: "042-686-1713",
     url: "https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p027305.html"
+  },
+
+  {
+    id: 394,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "相原町",
+    name: "堺第1高齢者支援センター",
+    tel: "042-770-2558",
+    url: "https://aihara1.com/"
+  },
+
+  {
+    id: 395,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "小山・小山ヶ丘・上小山田",
+    name: "堺第2高齢者支援センター",
+    tel: "042-797-0200",
+    url: "https://chikuseikai.com/service/misato/"
+  },
+
+  {
+    id: 396,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "図師・下小山田・忠生・矢部他",
+    name: "忠生第1高齢者支援センター",
+    tel: "042-797-8032",
+    url: "https://machida-fukushi.or.jp/consultation-service/support-center-tadao/"
+  },
+
+  {
+    id: 397,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "山崎・木曽・木曽西・木曽東他",
+    name: "忠生第2高齢者支援センター",
+    tel: "042-792-1105",
+    url: "https://fukuinkai.or.jp/office/208/"
+  },
+
+  {
+    id: 398,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "小野路・野津田・金井・薬師台",
+    name: "鶴川第1高齢者支援センター",
+    tel: "042-736-6927",
+    url: "https://www.san-ikukai.or.jp/machida/seifu2/index.html"
+  },
+
+  {
+    id: 399,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "能ヶ谷・三輪・三輪緑山他",
+    name: "鶴川第2高齢者支援センター",
+    tel: "042-737-7292",
+    url: "https://www.yuyuen.com/service/"
+  },
+
+  {
+    id: 400,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "原町田・中町・森野・旭町",
+    name: "町田第1高齢者支援センター",
+    tel: "042-728-9215",
+    url: "https://machida-fukushi.or.jp/consultation-service/consultation-machida/"
+  },
+
+  {
+    id: 401,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "本町田・藤の台・南大谷",
+    name: "町田第2高齢者支援センター",
+    tel: "042-729-0747",
+    url: "https://www.npo-yuwa.com/"
+  },
+
+  {
+    id: 402,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "玉川学園・南大谷・東玉川学園",
+    name: "町田第3高齢者支援センター",
+    tel: "042-710-3378",
+    url: "https://www.ohmikai.com/"
+  },
+
+  {
+    id: 403,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "南町田・鶴間・小川・つくし野",
+    name: "南第1高齢者支援センター",
+    tel: "042-796-2789",
+    url: "https://fuyouen.jp/service/minami/"
+  },
+
+  {
+    id: 404,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "金森・金森東・南成瀬・成瀬が丘",
+    name: "南第2高齢者支援センター",
+    tel: "042-796-3899",
+    url: "https://sites.google.com/gsen.or.jp/minamidaini/"
+  },
+
+  {
+    id: 405,
+    prefecture: "東京都",
+    city: "町田市",
+    area: "成瀬・西成瀬・高ヶ坂・成瀬台",
+    name: "南第3高齢者支援センター",
+    tel: "042-720-3801",
+    url: "https://www.shoukichi.org/machidaminami3/"
   }
 
 ];

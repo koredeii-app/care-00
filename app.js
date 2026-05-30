@@ -253,7 +253,10 @@ const cityLinks = {
 "https://www.city.osaka.lg.jp/fukushi/page/0000370522.html",
 
   "八王子市":
-"https://www.city.hachioji.tokyo.jp/kurashi/welfare/004/005/chikihoukatsushien/p018114.html"
+"https://www.city.hachioji.tokyo.jp/kurashi/welfare/004/005/chikihoukatsushien/p018114.html",
+
+  "町田市":
+"https://www.city.machida.tokyo.jp/iryo/old/shiminnokatae/mijikanasodan/koureisha_shien_center.html"
 
 };
 
