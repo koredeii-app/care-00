@@ -129,7 +129,7 @@ const screens = {
 */
 const concernIntros = {
   forgetfulness: "認知症の疑いがある場合も、まず電話で話せます",
-  caregiving:    "介護している側からの相談も歓迎されています",
+  caregiving:    "すでに介護している方からの相談も歓迎されています",
   living_alone:  "見守りや生活支援の相談もできます",
   unsure:        "「まだ早いかな」という段階が、一番相談しやすい時期です"
 };
