@@ -396,7 +396,28 @@ const cityLinks = {
 "https://www.city.yokohama.lg.jp/izumi/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/cp-shoukai.html",
 
   "横浜市瀬谷区":
-"https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html"
+"https://www.city.yokohama.lg.jp/seya/kenko-iryo-fukushi/fukushi_kaigo/chiikifukushi/fukushi-shisetsu/cp/tiikicareplaza.html",
+
+  "川崎市川崎区":
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-4-2-0-0-0-0-0.html",
+
+  "川崎市幸区":
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-5-2-0-0-0-0-0.html",
+
+  "川崎市中原区":
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-1-2-0-0-0-0-0.html",
+
+  "川崎市高津区":
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-7-2-0-0-0-0-0.html",
+
+  "川崎市宮前区":
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-3-2-0-0-0-0-0.html",
+
+  "川崎市多摩区":
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-2-2-0-0-0-0-0.html",
+
+  "川崎市麻生区":
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-8-2-0-0-0-0-0.html"
 
 };
 
