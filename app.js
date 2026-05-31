@@ -1301,7 +1301,10 @@ function renderCenterInfo(card) {
   const link =
     document.createElement("a");
 
-  const isExternal = !selectedCenter.url.includes(".lg.jp");
+  const listUrl = cityLinks[selectedCenter.city] || "";
+  const centerHost = (() => { try { return new URL(selectedCenter.url).hostname; } catch (e) { return ""; } })();
+  const listHost   = (() => { try { return new URL(listUrl).hostname; } catch (e) { return ""; } })();
+  const isExternal = centerHost !== listHost;
 
   link.href = selectedCenter.url;
   link.target = "_blank";
