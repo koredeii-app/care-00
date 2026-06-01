@@ -447,7 +447,25 @@ const cityLinks = {
 "https://www.city.saitama.lg.jp/008/019/002/009/index.html",
 
   "さいたま市岩槻区":
-"https://www.city.saitama.lg.jp/008/019/002/010/index.html"
+"https://www.city.saitama.lg.jp/008/019/002/010/index.html",
+
+  "千葉市中央区":
+"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html",
+
+  "千葉市花見川区":
+"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html",
+
+  "千葉市稲毛区":
+"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html",
+
+  "千葉市若葉区":
+"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html",
+
+  "千葉市緑区":
+"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html",
+
+  "千葉市美浜区":
+"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
 
 };
 
@@ -1436,8 +1454,9 @@ Promise.all([
   fetch("./data/tokyo.json").then(r => r.json()),
   fetch("./data/osaka.json").then(r => r.json()),
   fetch("./data/kanagawa.json").then(r => r.json()),
-  fetch("./data/saitama.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama];
+  fetch("./data/saitama.json").then(r => r.json()),
+  fetch("./data/chiba.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba];
   renderScreen("start");
 });

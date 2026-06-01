@@ -1,0 +1,254 @@
+[
+  {
+    "id": 734,
+    "prefecture": "千葉県",
+    "city": "千葉市中央区",
+    "area": "院内・春日・要町・汐見丘町・新千葉・椿森・道場北町・道場北・登戸・東千葉・弁天・松波・祐光",
+    "name": "千葉市あんしんケアセンター弁天",
+    "tel": "043-216-2131",
+    "url": "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_higashichiba/"
+  },
+  {
+    "id": 735,
+    "prefecture": "千葉県",
+    "city": "千葉市中央区",
+    "area": "旭町・亀井町・亀岡町・栄町・新宿・新田町・新町・神明町・千葉港・中央・中央港・鶴沢町・出洲港・道場南・問屋町・東本町・富士見・本千葉町・本町・都町",
+    "name": "千葉市あんしんケアセンター中央",
+    "tel": "043-216-2121",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 736,
+    "prefecture": "千葉県",
+    "city": "千葉市中央区",
+    "area": "青葉町・市場町・稲荷町・亥鼻・葛城・寒川町・末広・千葉寺町・長洲・港町・矢作町",
+    "name": "千葉市あんしんケアセンター千葉寺",
+    "tel": "043-263-3066",
+    "url": "https://green-eminence.com/anshincare/"
+  },
+  {
+    "id": 737,
+    "prefecture": "千葉県",
+    "city": "千葉市中央区",
+    "area": "赤井町・今井町・今井・鵜の森町・大森町・川崎町・白旗・蘇我町・蘇我・大巌寺町・川戸町・仁戸名町・花輪町・星久喜町・松ヶ丘町・南町・宮崎・宮崎町・若草",
+    "name": "千葉市あんしんケアセンター松ケ丘",
+    "tel": "043-420-8325",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 738,
+    "prefecture": "千葉県",
+    "city": "千葉市中央区",
+    "area": "生実町・塩田町・新浜町・浜野町・南生実町・村田町",
+    "name": "千葉市あんしんケアセンター浜野",
+    "tel": "043-305-0102",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 739,
+    "prefecture": "千葉県",
+    "city": "千葉市花見川区",
+    "area": "内山町・宇那谷町・柏井町・柏井4・こてはし台・大日町・み春野町・横戸町・横戸台",
+    "name": "千葉市あんしんケアセンターこてはし台",
+    "tel": "043-258-8750",
+    "url": "https://seizan-kai.or.jp/publics/index/170/"
+  },
+  {
+    "id": 740,
+    "prefecture": "千葉県",
+    "city": "千葉市花見川区",
+    "area": "天戸町・柏井1・作新台・長作町・長作台・花島町・花見川",
+    "name": "千葉市あんしんケアセンター花見川",
+    "tel": "043-250-1701",
+    "url": "https://seizan-kai.or.jp/publics/index/105/"
+  },
+  {
+    "id": 741,
+    "prefecture": "千葉県",
+    "city": "千葉市花見川区",
+    "area": "犢橋町・さつきが丘・三角町・千種町・宮野木台2〜4",
+    "name": "千葉市あんしんケアセンターさつきが丘",
+    "tel": "043-307-3225",
+    "url": "https://www.ichirin.or.jp/branch/chibachi_anchin_carecenter_satsukigaoka/"
+  },
+  {
+    "id": 742,
+    "prefecture": "千葉県",
+    "city": "千葉市花見川区",
+    "area": "朝日ヶ丘1〜3・5・西小中台・畑町・宮野木台1",
+    "name": "千葉市あんしんケアセンターにれの木台",
+    "tel": "043-205-4851",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 743,
+    "prefecture": "千葉県",
+    "city": "千葉市花見川区",
+    "area": "朝日ヶ丘町・朝日ヶ丘4・検見川町・浪花町・花園町・花園・南花園・瑞穂",
+    "name": "千葉市あんしんケアセンター花園",
+    "tel": "043-216-2610",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 744,
+    "prefecture": "千葉県",
+    "city": "千葉市花見川区",
+    "area": "武石町・幕張町・幕張本郷",
+    "name": "千葉市あんしんケアセンター幕張",
+    "tel": "043-212-7300",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 745,
+    "prefecture": "千葉県",
+    "city": "千葉市稲毛区",
+    "area": "柏台・小中台町・小深町・山王町・長沼町・長沼原町・六方町・宮野木町",
+    "name": "千葉市あんしんケアセンター山王",
+    "tel": "043-304-7740",
+    "url": "http://www.souju-kai.or.jp/anshin/"
+  },
+  {
+    "id": 746,
+    "prefecture": "千葉県",
+    "city": "千葉市稲毛区",
+    "area": "あやめ台・園生町",
+    "name": "千葉市あんしんケアセンター園生",
+    "tel": "043-306-6881",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 747,
+    "prefecture": "千葉県",
+    "city": "千葉市稲毛区",
+    "area": "作草部町・作草部・千草台・天台町・天台・萩台町",
+    "name": "千葉市あんしんケアセンター天台",
+    "tel": "043-284-6811",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 748,
+    "prefecture": "千葉県",
+    "city": "千葉市稲毛区",
+    "area": "穴川町・穴川・小仲台・轟町・弥生町",
+    "name": "千葉市あんしんケアセンター小仲台",
+    "tel": "043-307-5780",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 749,
+    "prefecture": "千葉県",
+    "city": "千葉市稲毛区",
+    "area": "稲丘町・稲毛・稲毛台町・稲毛町・稲毛東・黒砂・黒砂台・緑町",
+    "name": "千葉市あんしんケアセンター稲毛",
+    "tel": "043-216-2831",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 750,
+    "prefecture": "千葉県",
+    "city": "千葉市若葉区",
+    "area": "愛生町・高品町・殿台町・原町・東寺山町・みつわ台・源町",
+    "name": "千葉市あんしんケアセンターみつわ台",
+    "tel": "043-290-0120",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 751,
+    "prefecture": "千葉県",
+    "city": "千葉市若葉区",
+    "area": "都賀・都賀の台・西都賀・若松町・若松台",
+    "name": "千葉市あんしんケアセンター都賀",
+    "tel": "043-312-5110",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 752,
+    "prefecture": "千葉県",
+    "city": "千葉市若葉区",
+    "area": "貝塚町・貝塚・加曽利町・桜木・桜木北",
+    "name": "千葉市あんしんケアセンター桜木",
+    "tel": "043-214-1841",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 753,
+    "prefecture": "千葉県",
+    "city": "千葉市若葉区",
+    "area": "大井戸町・大草町・太田町・小倉町・小倉台・御成台・小間子町・金親町・上泉町・御殿町・坂月町・更科町・下泉町・下田町・旦谷町・千城台北・千城台西・千城台東・千城台南・富田町・谷当町",
+    "name": "千葉市あんしんケアセンター千城台",
+    "tel": "043-236-7400",
+    "url": "http://senjyu-kai.com/shisetsu/anshincare_chishirodai/"
+  },
+  {
+    "id": 754,
+    "prefecture": "千葉県",
+    "city": "千葉市若葉区",
+    "area": "五十土町・和泉町・大広町・大宮町・大宮台・川井町・北大宮台・北谷津町・古泉町・佐和町・高根町・多部田町・中田町・中野町・野呂町",
+    "name": "千葉市あんしんケアセンター大宮台",
+    "tel": "043-208-1212",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 755,
+    "prefecture": "千葉県",
+    "city": "千葉市緑区",
+    "area": "大金沢町・落井町・おゆみ野・おゆみ野有吉・おゆみ野中央・おゆみ野南・鎌取町・刈田子町・小金沢町・椎名崎町・富岡町・中西町・東山科町・平山町・古市場町・辺田町・茂呂町",
+    "name": "千葉市あんしんケアセンター鎌取",
+    "tel": "043-293-6911",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 756,
+    "prefecture": "千葉県",
+    "city": "千葉市緑区",
+    "area": "大膳野町・高田町・平川町・誉田町",
+    "name": "千葉市あんしんケアセンター誉田",
+    "tel": "043-300-4855",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 757,
+    "prefecture": "千葉県",
+    "city": "千葉市緑区",
+    "area": "あすみが丘・あすみが丘東・板倉町・大木戸町・大椎町・大高町・大野台・越智町・小山町・上大和田町・下大和田町・高津戸町・土気町・小食土町",
+    "name": "千葉市あんしんケアセンター土気",
+    "tel": "043-295-0110",
+    "url": "https://yuuwakai.jp/facilities/carecenter/"
+  },
+  {
+    "id": 758,
+    "prefecture": "千葉県",
+    "city": "千葉市美浜区",
+    "area": "中瀬1・ひび野1・真砂・若葉",
+    "name": "千葉市あんしんケアセンター真砂",
+    "tel": "043-278-0111",
+    "url": "https://www.juneikai.or.jp/masago/"
+  },
+  {
+    "id": 759,
+    "prefecture": "千葉県",
+    "city": "千葉市美浜区",
+    "area": "磯辺・打瀬・高浜5〜6・豊砂・中瀬2・浜田・ひび野2・幕張西・美浜",
+    "name": "千葉市あんしんケアセンター磯辺",
+    "tel": "043-445-8440",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 760,
+    "prefecture": "千葉県",
+    "city": "千葉市美浜区",
+    "area": "稲毛海岸・高洲・高浜1〜4・7",
+    "name": "千葉市あんしんケアセンター高洲",
+    "tel": "043-278-2545",
+    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+  },
+  {
+    "id": 761,
+    "prefecture": "千葉県",
+    "city": "千葉市美浜区",
+    "area": "幸町・新港",
+    "name": "千葉市あんしんケアセンター幸町",
+    "tel": "043-301-5528",
+    "url": "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_mihama/"
+  }
+]
