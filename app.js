@@ -417,7 +417,37 @@ const cityLinks = {
 "https://www.city.kawasaki.jp/shisei/category/288-10-10-2-2-0-0-0-0-0.html",
 
   "川崎市麻生区":
-"https://www.city.kawasaki.jp/shisei/category/288-10-10-8-2-0-0-0-0-0.html"
+"https://www.city.kawasaki.jp/shisei/category/288-10-10-8-2-0-0-0-0-0.html",
+
+  "さいたま市西区":
+"https://www.city.saitama.lg.jp/008/019/002/001/index.html",
+
+  "さいたま市北区":
+"https://www.city.saitama.lg.jp/008/019/002/002/index.html",
+
+  "さいたま市大宮区":
+"https://www.city.saitama.lg.jp/008/019/002/003/index.html",
+
+  "さいたま市見沼区":
+"https://www.city.saitama.lg.jp/008/019/002/004/index.html",
+
+  "さいたま市中央区":
+"https://www.city.saitama.lg.jp/008/019/002/005/index.html",
+
+  "さいたま市桜区":
+"https://www.city.saitama.lg.jp/008/019/002/006/index.html",
+
+  "さいたま市浦和区":
+"https://www.city.saitama.lg.jp/urawa/001/002/007/p083061.html",
+
+  "さいたま市南区":
+"https://www.city.saitama.lg.jp/008/019/002/008/index.html",
+
+  "さいたま市緑区":
+"https://www.city.saitama.lg.jp/008/019/002/009/index.html",
+
+  "さいたま市岩槻区":
+"https://www.city.saitama.lg.jp/008/019/002/010/index.html"
 
 };
 
@@ -1405,8 +1435,9 @@ function renderCenterInfo(card) {
 Promise.all([
   fetch("./data/tokyo.json").then(r => r.json()),
   fetch("./data/osaka.json").then(r => r.json()),
-  fetch("./data/kanagawa.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa];
+  fetch("./data/kanagawa.json").then(r => r.json()),
+  fetch("./data/saitama.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama];
   renderScreen("start");
 });
