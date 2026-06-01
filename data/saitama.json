@@ -3,16 +3,16 @@
     "id": 707,
     "prefecture": "埼玉県",
     "city": "さいたま市西区",
-    "area": "指扇地区・内野地区の一部",
+    "area": "指扇・清河寺・西大宮1〜4丁目ほか",
     "name": "シニアサポートセンター三恵苑",
     "tel": "048-620-1312",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/001/index.html"
+    "url": "https://www.sankeikai.org/services/chiiki-houkatsu/"
   },
   {
     "id": 708,
     "prefecture": "埼玉県",
     "city": "さいたま市西区",
-    "area": "馬宮地区・植水地区・内野地区の一部",
+    "area": "西遊馬・塚本町・島根・佐知川ほか",
     "name": "シニアサポートセンターくるみ",
     "tel": "048-622-8103",
     "url": "https://www.city.saitama.lg.jp/008/019/002/001/index.html"
@@ -21,7 +21,7 @@
     "id": 709,
     "prefecture": "埼玉県",
     "city": "さいたま市北区",
-    "area": "",
+    "area": "宮原町・吉野町・奈良町・別所町",
     "name": "シニアサポートセンター緑水苑",
     "tel": "048-662-7350",
     "url": "https://www.city.saitama.lg.jp/008/019/002/002/index.html"
@@ -30,7 +30,7 @@
     "id": 710,
     "prefecture": "埼玉県",
     "city": "さいたま市北区",
-    "area": "",
+    "area": "植竹町・土呂町・盆栽町・見沼",
     "name": "シニアサポートセンター諏訪の苑",
     "tel": "048-662-7600",
     "url": "https://www.city.saitama.lg.jp/008/019/002/002/index.html"
@@ -39,88 +39,88 @@
     "id": 711,
     "prefecture": "埼玉県",
     "city": "さいたま市北区",
-    "area": "",
+    "area": "大成町4丁目・日進町1〜3丁目",
     "name": "シニアサポートセンターゆめの園",
     "tel": "048-653-0544",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/002/index.html"
+    "url": "https://www.happynet.or.jp/facility/kitaku-seibukenki/"
   },
   {
     "id": 712,
     "prefecture": "埼玉県",
     "city": "さいたま市大宮区",
-    "area": "",
+    "area": "寿能町・吉敷町・東町・天沼町ほか",
     "name": "シニアサポートセンター白菊苑",
     "tel": "048-658-5588",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/003/index.html"
+    "url": "http://www.siragiku.or.jp/tokuyou/tokuyou/houkatsu.top.html"
   },
   {
     "id": 713,
     "prefecture": "埼玉県",
     "city": "さいたま市大宮区",
-    "area": "",
+    "area": "大成町1〜3丁目・桜木町・三橋1〜4丁目ほか",
     "name": "シニアサポートセンター春陽苑",
     "tel": "048-661-8611",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/003/index.html"
+    "url": "https://www.mutsumikai.net/pg276822.html"
   },
   {
     "id": 714,
     "prefecture": "埼玉県",
     "city": "さいたま市見沼区",
-    "area": "",
+    "area": "深作・春野・卸町・春岡・丸ヶ崎ほか",
     "name": "シニアサポートセンターさいたまやすらぎの里",
     "tel": "048-680-3289",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/004/index.html"
+    "url": "https://anshinkai-gr.jp/anshinkai/chikihoukatusaitama/facility"
   },
   {
     "id": 715,
     "prefecture": "埼玉県",
     "city": "さいたま市見沼区",
-    "area": "",
+    "area": "大谷・東宮下・蓮沼・風渡野ほか",
     "name": "シニアサポートセンター敬寿園七里ホーム",
     "tel": "048-681-6614",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/004/index.html"
+    "url": "https://www.keijuen.info/nanasato"
   },
   {
     "id": 716,
     "prefecture": "埼玉県",
     "city": "さいたま市見沼区",
-    "area": "",
+    "area": "大和田町・東大宮1〜7丁目・島町・堀崎町",
     "name": "シニアサポートセンター大和田",
     "tel": "048-685-8791",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/004/index.html"
+    "url": "https://koujinkai-owd.or.jp/publics/index/20/"
   },
   {
     "id": 717,
     "prefecture": "埼玉県",
     "city": "さいたま市見沼区",
-    "area": "",
+    "area": "加田屋・片柳・染谷・南中野ほか",
     "name": "シニアサポートセンター敬寿園",
     "tel": "048-681-5151",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/004/index.html"
+    "url": "https://www.keijuen.info/keijuen"
   },
   {
     "id": 718,
     "prefecture": "埼玉県",
     "city": "さいたま市中央区",
-    "area": "",
+    "area": "本町東・新都心・八王子・上落合・円阿弥",
     "name": "シニアサポートセンターナーシングヴィラ与野",
     "tel": "048-859-5375",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/005/index.html"
+    "url": "https://saitama-ni.com/villa/inclusive"
   },
   {
     "id": 719,
     "prefecture": "埼玉県",
     "city": "さいたま市中央区",
-    "area": "",
+    "area": "鈴谷・新中里・下落合・上峰・大戸",
     "name": "シニアサポートセンターきりしき",
     "tel": "048-858-2121",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/005/index.html"
+    "url": "https://kirishiki.org/"
   },
   {
     "id": 720,
     "prefecture": "埼玉県",
     "city": "さいたま市桜区",
-    "area": "",
+    "area": "上大久保・白鍬・栄和2〜5丁目ほか",
     "name": "シニアサポートセンター西部総合",
     "tel": "048-816-4503",
     "url": "https://www.city.saitama.lg.jp/008/019/002/006/index.html"
@@ -129,16 +129,16 @@
     "id": 721,
     "prefecture": "埼玉県",
     "city": "さいたま市桜区",
-    "area": "",
+    "area": "田島・西堀・桜田・町谷・栄和1・6丁目ほか",
     "name": "シニアサポートセンターザイタック",
     "tel": "048-836-3503",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/006/index.html"
+    "url": "https://zaitac-houkatsu.jp/"
   },
   {
     "id": 722,
     "prefecture": "埼玉県",
     "city": "さいたま市浦和区",
-    "area": "大原・上木崎・神山・北浦和・針ヶ谷・本町",
+    "area": "大原・上木崎・北浦和1〜3丁目・針ヶ谷・元町",
     "name": "シニアサポートセンターかさい医院",
     "tel": "048-823-3031",
     "url": "https://www.city.saitama.lg.jp/urawa/001/002/007/p083061.html"
@@ -147,16 +147,16 @@
     "id": 723,
     "prefecture": "埼玉県",
     "city": "さいたま市浦和区",
-    "area": "木崎・駒場・瀬ヶ崎・大東・領家・美薗",
+    "area": "木崎・駒場・瀬ヶ崎・大東・領家",
     "name": "シニアサポートセンタースマイルハウス浦和",
     "tel": "048-813-7710",
-    "url": "https://www.city.saitama.lg.jp/urawa/001/002/007/p083061.html"
+    "url": "https://smile-house.or.jp/pages/50/"
   },
   {
     "id": 724,
     "prefecture": "埼玉県",
     "city": "さいたま市浦和区",
-    "area": "高砂・常磐・仲町・北浦和・針ヶ谷",
+    "area": "高砂・常盤・仲町・北浦和4〜5丁目ほか",
     "name": "シニアサポートセンタージェイコー埼玉",
     "tel": "048-834-3782",
     "url": "https://www.city.saitama.lg.jp/urawa/001/002/007/p083061.html"
@@ -165,43 +165,43 @@
     "id": 725,
     "prefecture": "埼玉県",
     "city": "さいたま市浦和区",
-    "area": "東岸町・東高砂町・東仲町・前地・本太・岸町・神明",
+    "area": "岸町・神明・東岸町・前地・本太",
     "name": "シニアサポートセンター尚和園",
     "tel": "048-813-8915",
-    "url": "https://www.city.saitama.lg.jp/urawa/001/002/007/p083061.html"
+    "url": "http://saitamakenkyousaikai.jp/syowaen/chiiki/index.html"
   },
   {
     "id": 726,
     "prefecture": "埼玉県",
     "city": "さいたま市南区",
-    "area": "",
+    "area": "南浦和・大谷場・南本町ほか",
     "name": "シニアサポートセンター社協みなみ",
     "tel": "048-871-1230",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/008/index.html"
+    "url": "https://www.saitamashi-shakyo.jp/service/chiikihoukatsushiencenter/"
   },
   {
     "id": 727,
     "prefecture": "埼玉県",
     "city": "さいたま市南区",
-    "area": "",
+    "area": "別所・辻・関・白幡1〜3丁目・鹿手袋1〜3丁目ほか",
     "name": "シニアサポートセンターハートランド浦和",
     "tel": "048-836-2929",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/008/index.html"
+    "url": "https://heartlandurawa.wixsite.com/mysite"
   },
   {
     "id": 728,
     "prefecture": "埼玉県",
     "city": "さいたま市南区",
-    "area": "",
+    "area": "四谷・内谷・沼影・白幡4〜6丁目ほか",
     "name": "シニアサポートセンターけやきホームズ",
     "tel": "048-710-7555",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/008/index.html"
+    "url": "https://www.koyuzinkai.com/houkatu.html"
   },
   {
     "id": 729,
     "prefecture": "埼玉県",
     "city": "さいたま市緑区",
-    "area": "",
+    "area": "松木・美園・道祖土・大崎・上野田ほか",
     "name": "シニアサポートセンターリバティハウス",
     "tel": "048-875-3111",
     "url": "https://www.city.saitama.lg.jp/008/019/002/009/index.html"
@@ -210,16 +210,16 @@
     "id": 730,
     "prefecture": "埼玉県",
     "city": "さいたま市緑区",
-    "area": "",
+    "area": "東浦和・原山・中尾・太田窪・大間木ほか",
     "name": "シニアサポートセンター浦和しぶや苑",
     "tel": "048-876-1770",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/009/index.html"
+    "url": "https://urawa-shibuyaen.amebaownd.com/"
   },
   {
     "id": 731,
     "prefecture": "埼玉県",
     "city": "さいたま市岩槻区",
-    "area": "",
+    "area": "古ヶ場・愛宕町・上野1〜6丁目・諏訪ほか",
     "name": "シニアサポートセンター松鶴園",
     "tel": "048-795-2653",
     "url": "https://www.city.saitama.lg.jp/008/019/002/010/index.html"
@@ -228,18 +228,18 @@
     "id": 732,
     "prefecture": "埼玉県",
     "city": "さいたま市岩槻区",
-    "area": "",
+    "area": "本町・本丸・加倉・城町・太田",
     "name": "シニアサポートセンター社協岩槻",
     "tel": "048-758-4395",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/010/index.html"
+    "url": "https://www.saitamashi-shakyo.jp/service/chiikihoukatsushiencenter/"
   },
   {
     "id": 733,
     "prefecture": "埼玉県",
     "city": "さいたま市岩槻区",
-    "area": "",
+    "area": "東岩槻・城南・府内・飯塚・浮谷ほか",
     "name": "シニアサポートセンター白鶴ホーム",
     "tel": "048-794-3939",
-    "url": "https://www.city.saitama.lg.jp/008/019/002/010/index.html"
+    "url": "http://www.hakutsuru.or.jp/"
   }
 ]
