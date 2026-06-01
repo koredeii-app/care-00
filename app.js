@@ -419,6 +419,15 @@ const cityLinks = {
   "川崎市麻生区":
 "https://www.city.kawasaki.jp/shisei/category/288-10-10-8-2-0-0-0-0-0.html",
 
+  "相模原市緑区":
+"https://www.city.sagamihara.kanagawa.jp/kosodate/fukushi/1026635/korei_shien/1006373.html",
+
+  "相模原市中央区":
+"https://www.city.sagamihara.kanagawa.jp/kosodate/fukushi/1026635/korei_shien/1006373.html",
+
+  "相模原市南区":
+"https://www.city.sagamihara.kanagawa.jp/kosodate/fukushi/1026635/korei_shien/1006373.html",
+
   "さいたま市西区":
 "https://www.city.saitama.lg.jp/008/019/002/001/index.html",
 
