@@ -1,254 +1,650 @@
-[
-  {
-    "id": 734,
-    "prefecture": "千葉県",
-    "city": "千葉市中央区",
-    "area": "院内・春日・要町・汐見丘町・新千葉・椿森・道場北町・道場北・登戸・東千葉・弁天・松波・祐光",
-    "name": "千葉市あんしんケアセンター弁天",
-    "tel": "043-216-2131",
-    "url": "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_higashichiba/"
-  },
-  {
-    "id": 735,
-    "prefecture": "千葉県",
-    "city": "千葉市中央区",
-    "area": "旭町・亀井町・亀岡町・栄町・新宿・新田町・新町・神明町・千葉港・中央・中央港・鶴沢町・出洲港・道場南・問屋町・東本町・富士見・本千葉町・本町・都町",
-    "name": "千葉市あんしんケアセンター中央",
-    "tel": "043-216-2121",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 736,
-    "prefecture": "千葉県",
-    "city": "千葉市中央区",
-    "area": "青葉町・市場町・稲荷町・亥鼻・葛城・寒川町・末広・千葉寺町・長洲・港町・矢作町",
-    "name": "千葉市あんしんケアセンター千葉寺",
-    "tel": "043-263-3066",
-    "url": "https://green-eminence.com/anshincare/"
-  },
-  {
-    "id": 737,
-    "prefecture": "千葉県",
-    "city": "千葉市中央区",
-    "area": "赤井町・今井町・今井・鵜の森町・大森町・川崎町・白旗・蘇我町・蘇我・大巌寺町・川戸町・仁戸名町・花輪町・星久喜町・松ヶ丘町・南町・宮崎・宮崎町・若草",
-    "name": "千葉市あんしんケアセンター松ケ丘",
-    "tel": "043-420-8325",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 738,
-    "prefecture": "千葉県",
-    "city": "千葉市中央区",
-    "area": "生実町・塩田町・新浜町・浜野町・南生実町・村田町",
-    "name": "千葉市あんしんケアセンター浜野",
-    "tel": "043-305-0102",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 739,
-    "prefecture": "千葉県",
-    "city": "千葉市花見川区",
-    "area": "内山町・宇那谷町・柏井町・柏井4・こてはし台・大日町・み春野町・横戸町・横戸台",
-    "name": "千葉市あんしんケアセンターこてはし台",
-    "tel": "043-258-8750",
-    "url": "https://seizan-kai.or.jp/publics/index/170/"
-  },
-  {
-    "id": 740,
-    "prefecture": "千葉県",
-    "city": "千葉市花見川区",
-    "area": "天戸町・柏井1・作新台・長作町・長作台・花島町・花見川",
-    "name": "千葉市あんしんケアセンター花見川",
-    "tel": "043-250-1701",
-    "url": "https://seizan-kai.or.jp/publics/index/105/"
-  },
-  {
-    "id": 741,
-    "prefecture": "千葉県",
-    "city": "千葉市花見川区",
-    "area": "犢橋町・さつきが丘・三角町・千種町・宮野木台2〜4",
-    "name": "千葉市あんしんケアセンターさつきが丘",
-    "tel": "043-307-3225",
-    "url": "https://www.ichirin.or.jp/branch/chibachi_anchin_carecenter_satsukigaoka/"
-  },
-  {
-    "id": 742,
-    "prefecture": "千葉県",
-    "city": "千葉市花見川区",
-    "area": "朝日ヶ丘1〜3・5・西小中台・畑町・宮野木台1",
-    "name": "千葉市あんしんケアセンターにれの木台",
-    "tel": "043-205-4851",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 743,
-    "prefecture": "千葉県",
-    "city": "千葉市花見川区",
-    "area": "朝日ヶ丘町・朝日ヶ丘4・検見川町・浪花町・花園町・花園・南花園・瑞穂",
-    "name": "千葉市あんしんケアセンター花園",
-    "tel": "043-216-2610",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 744,
-    "prefecture": "千葉県",
-    "city": "千葉市花見川区",
-    "area": "武石町・幕張町・幕張本郷",
-    "name": "千葉市あんしんケアセンター幕張",
-    "tel": "043-212-7300",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 745,
-    "prefecture": "千葉県",
-    "city": "千葉市稲毛区",
-    "area": "柏台・小中台町・小深町・山王町・長沼町・長沼原町・六方町・宮野木町",
-    "name": "千葉市あんしんケアセンター山王",
-    "tel": "043-304-7740",
-    "url": "http://www.souju-kai.or.jp/anshin/"
-  },
-  {
-    "id": 746,
-    "prefecture": "千葉県",
-    "city": "千葉市稲毛区",
-    "area": "あやめ台・園生町",
-    "name": "千葉市あんしんケアセンター園生",
-    "tel": "043-306-6881",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 747,
-    "prefecture": "千葉県",
-    "city": "千葉市稲毛区",
-    "area": "作草部町・作草部・千草台・天台町・天台・萩台町",
-    "name": "千葉市あんしんケアセンター天台",
-    "tel": "043-284-6811",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 748,
-    "prefecture": "千葉県",
-    "city": "千葉市稲毛区",
-    "area": "穴川町・穴川・小仲台・轟町・弥生町",
-    "name": "千葉市あんしんケアセンター小仲台",
-    "tel": "043-307-5780",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 749,
-    "prefecture": "千葉県",
-    "city": "千葉市稲毛区",
-    "area": "稲丘町・稲毛・稲毛台町・稲毛町・稲毛東・黒砂・黒砂台・緑町",
-    "name": "千葉市あんしんケアセンター稲毛",
-    "tel": "043-216-2831",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 750,
-    "prefecture": "千葉県",
-    "city": "千葉市若葉区",
-    "area": "愛生町・高品町・殿台町・原町・東寺山町・みつわ台・源町",
-    "name": "千葉市あんしんケアセンターみつわ台",
-    "tel": "043-290-0120",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 751,
-    "prefecture": "千葉県",
-    "city": "千葉市若葉区",
-    "area": "都賀・都賀の台・西都賀・若松町・若松台",
-    "name": "千葉市あんしんケアセンター都賀",
-    "tel": "043-312-5110",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 752,
-    "prefecture": "千葉県",
-    "city": "千葉市若葉区",
-    "area": "貝塚町・貝塚・加曽利町・桜木・桜木北",
-    "name": "千葉市あんしんケアセンター桜木",
-    "tel": "043-214-1841",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 753,
-    "prefecture": "千葉県",
-    "city": "千葉市若葉区",
-    "area": "大井戸町・大草町・太田町・小倉町・小倉台・御成台・小間子町・金親町・上泉町・御殿町・坂月町・更科町・下泉町・下田町・旦谷町・千城台北・千城台西・千城台東・千城台南・富田町・谷当町",
-    "name": "千葉市あんしんケアセンター千城台",
-    "tel": "043-236-7400",
-    "url": "http://senjyu-kai.com/shisetsu/anshincare_chishirodai/"
-  },
-  {
-    "id": 754,
-    "prefecture": "千葉県",
-    "city": "千葉市若葉区",
-    "area": "五十土町・和泉町・大広町・大宮町・大宮台・川井町・北大宮台・北谷津町・古泉町・佐和町・高根町・多部田町・中田町・中野町・野呂町",
-    "name": "千葉市あんしんケアセンター大宮台",
-    "tel": "043-208-1212",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 755,
-    "prefecture": "千葉県",
-    "city": "千葉市緑区",
-    "area": "大金沢町・落井町・おゆみ野・おゆみ野有吉・おゆみ野中央・おゆみ野南・鎌取町・刈田子町・小金沢町・椎名崎町・富岡町・中西町・東山科町・平山町・古市場町・辺田町・茂呂町",
-    "name": "千葉市あんしんケアセンター鎌取",
-    "tel": "043-293-6911",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 756,
-    "prefecture": "千葉県",
-    "city": "千葉市緑区",
-    "area": "大膳野町・高田町・平川町・誉田町",
-    "name": "千葉市あんしんケアセンター誉田",
-    "tel": "043-300-4855",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 757,
-    "prefecture": "千葉県",
-    "city": "千葉市緑区",
-    "area": "あすみが丘・あすみが丘東・板倉町・大木戸町・大椎町・大高町・大野台・越智町・小山町・上大和田町・下大和田町・高津戸町・土気町・小食土町",
-    "name": "千葉市あんしんケアセンター土気",
-    "tel": "043-295-0110",
-    "url": "https://yuuwakai.jp/facilities/carecenter/"
-  },
-  {
-    "id": 758,
-    "prefecture": "千葉県",
-    "city": "千葉市美浜区",
-    "area": "中瀬1・ひび野1・真砂・若葉",
-    "name": "千葉市あんしんケアセンター真砂",
-    "tel": "043-278-0111",
-    "url": "https://www.juneikai.or.jp/masago/"
-  },
-  {
-    "id": 759,
-    "prefecture": "千葉県",
-    "city": "千葉市美浜区",
-    "area": "磯辺・打瀬・高浜5〜6・豊砂・中瀬2・浜田・ひび野2・幕張西・美浜",
-    "name": "千葉市あんしんケアセンター磯辺",
-    "tel": "043-445-8440",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 760,
-    "prefecture": "千葉県",
-    "city": "千葉市美浜区",
-    "area": "稲毛海岸・高洲・高浜1〜4・7",
-    "name": "千葉市あんしんケアセンター高洲",
-    "tel": "043-278-2545",
-    "url": "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
-  },
-  {
-    "id": 761,
-    "prefecture": "千葉県",
-    "city": "千葉市美浜区",
-    "area": "幸町・新港",
-    "name": "千葉市あんしんケアセンター幸町",
-    "tel": "043-301-5528",
-    "url": "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_mihama/"
-  }
+﻿[
+    {
+        "id":  734,
+        "prefecture":  "千葉県",
+        "city":  "千葉市中央区",
+        "area":  "院内・春日・要町・汐見丘町・新千葉・椿森・道場北町・道場北・登戸・東千葉・弁天・松波・祐光",
+        "name":  "千葉市あんしんケアセンター弁天",
+        "tel":  "043-216-2131",
+        "url":  "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_higashichiba/"
+    },
+    {
+        "id":  735,
+        "prefecture":  "千葉県",
+        "city":  "千葉市中央区",
+        "area":  "旭町・亀井町・亀岡町・栄町・新宿・新田町・新町・神明町・千葉港・中央・中央港・鶴沢町・出洲港・道場南・問屋町・東本町・富士見・本千葉町・本町・都町",
+        "name":  "千葉市あんしんケアセンター中央",
+        "tel":  "043-216-2121",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  736,
+        "prefecture":  "千葉県",
+        "city":  "千葉市中央区",
+        "area":  "青葉町・市場町・稲荷町・亥鼻・葛城・寒川町・末広・千葉寺町・長洲・港町・矢作町",
+        "name":  "千葉市あんしんケアセンター千葉寺",
+        "tel":  "043-263-3066",
+        "url":  "https://green-eminence.com/anshincare/"
+    },
+    {
+        "id":  737,
+        "prefecture":  "千葉県",
+        "city":  "千葉市中央区",
+        "area":  "赤井町・今井町・今井・鵜の森町・大森町・川崎町・白旗・蘇我町・蘇我・大巌寺町・川戸町・仁戸名町・花輪町・星久喜町・松ヶ丘町・南町・宮崎・宮崎町・若草",
+        "name":  "千葉市あんしんケアセンター松ケ丘",
+        "tel":  "043-420-8325",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  738,
+        "prefecture":  "千葉県",
+        "city":  "千葉市中央区",
+        "area":  "生実町・塩田町・新浜町・浜野町・南生実町・村田町",
+        "name":  "千葉市あんしんケアセンター浜野",
+        "tel":  "043-305-0102",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  739,
+        "prefecture":  "千葉県",
+        "city":  "千葉市花見川区",
+        "area":  "内山町・宇那谷町・柏井町・柏井4・こてはし台・大日町・み春野町・横戸町・横戸台",
+        "name":  "千葉市あんしんケアセンターこてはし台",
+        "tel":  "043-258-8750",
+        "url":  "https://seizan-kai.or.jp/publics/index/170/"
+    },
+    {
+        "id":  740,
+        "prefecture":  "千葉県",
+        "city":  "千葉市花見川区",
+        "area":  "天戸町・柏井1・作新台・長作町・長作台・花島町・花見川",
+        "name":  "千葉市あんしんケアセンター花見川",
+        "tel":  "043-250-1701",
+        "url":  "https://seizan-kai.or.jp/publics/index/105/"
+    },
+    {
+        "id":  741,
+        "prefecture":  "千葉県",
+        "city":  "千葉市花見川区",
+        "area":  "犢橋町・さつきが丘・三角町・千種町・宮野木台2〜4",
+        "name":  "千葉市あんしんケアセンターさつきが丘",
+        "tel":  "043-307-3225",
+        "url":  "https://www.ichirin.or.jp/branch/chibachi_anchin_carecenter_satsukigaoka/"
+    },
+    {
+        "id":  742,
+        "prefecture":  "千葉県",
+        "city":  "千葉市花見川区",
+        "area":  "朝日ヶ丘1〜3・5・西小中台・畑町・宮野木台1",
+        "name":  "千葉市あんしんケアセンターにれの木台",
+        "tel":  "043-205-4851",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  743,
+        "prefecture":  "千葉県",
+        "city":  "千葉市花見川区",
+        "area":  "朝日ヶ丘町・朝日ヶ丘4・検見川町・浪花町・花園町・花園・南花園・瑞穂",
+        "name":  "千葉市あんしんケアセンター花園",
+        "tel":  "043-216-2610",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  744,
+        "prefecture":  "千葉県",
+        "city":  "千葉市花見川区",
+        "area":  "武石町・幕張町・幕張本郷",
+        "name":  "千葉市あんしんケアセンター幕張",
+        "tel":  "043-212-7300",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  745,
+        "prefecture":  "千葉県",
+        "city":  "千葉市稲毛区",
+        "area":  "柏台・小中台町・小深町・山王町・長沼町・長沼原町・六方町・宮野木町",
+        "name":  "千葉市あんしんケアセンター山王",
+        "tel":  "043-304-7740",
+        "url":  "http://www.souju-kai.or.jp/anshin/"
+    },
+    {
+        "id":  746,
+        "prefecture":  "千葉県",
+        "city":  "千葉市稲毛区",
+        "area":  "あやめ台・園生町",
+        "name":  "千葉市あんしんケアセンター園生",
+        "tel":  "043-306-6881",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  747,
+        "prefecture":  "千葉県",
+        "city":  "千葉市稲毛区",
+        "area":  "作草部町・作草部・千草台・天台町・天台・萩台町",
+        "name":  "千葉市あんしんケアセンター天台",
+        "tel":  "043-284-6811",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  748,
+        "prefecture":  "千葉県",
+        "city":  "千葉市稲毛区",
+        "area":  "穴川町・穴川・小仲台・轟町・弥生町",
+        "name":  "千葉市あんしんケアセンター小仲台",
+        "tel":  "043-307-5780",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  749,
+        "prefecture":  "千葉県",
+        "city":  "千葉市稲毛区",
+        "area":  "稲丘町・稲毛・稲毛台町・稲毛町・稲毛東・黒砂・黒砂台・緑町",
+        "name":  "千葉市あんしんケアセンター稲毛",
+        "tel":  "043-216-2831",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  750,
+        "prefecture":  "千葉県",
+        "city":  "千葉市若葉区",
+        "area":  "愛生町・高品町・殿台町・原町・東寺山町・みつわ台・源町",
+        "name":  "千葉市あんしんケアセンターみつわ台",
+        "tel":  "043-290-0120",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  751,
+        "prefecture":  "千葉県",
+        "city":  "千葉市若葉区",
+        "area":  "都賀・都賀の台・西都賀・若松町・若松台",
+        "name":  "千葉市あんしんケアセンター都賀",
+        "tel":  "043-312-5110",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  752,
+        "prefecture":  "千葉県",
+        "city":  "千葉市若葉区",
+        "area":  "貝塚町・貝塚・加曽利町・桜木・桜木北",
+        "name":  "千葉市あんしんケアセンター桜木",
+        "tel":  "043-214-1841",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  753,
+        "prefecture":  "千葉県",
+        "city":  "千葉市若葉区",
+        "area":  "大井戸町・大草町・太田町・小倉町・小倉台・御成台・小間子町・金親町・上泉町・御殿町・坂月町・更科町・下泉町・下田町・旦谷町・千城台北・千城台西・千城台東・千城台南・富田町・谷当町",
+        "name":  "千葉市あんしんケアセンター千城台",
+        "tel":  "043-236-7400",
+        "url":  "http://senjyu-kai.com/shisetsu/anshincare_chishirodai/"
+    },
+    {
+        "id":  754,
+        "prefecture":  "千葉県",
+        "city":  "千葉市若葉区",
+        "area":  "五十土町・和泉町・大広町・大宮町・大宮台・川井町・北大宮台・北谷津町・古泉町・佐和町・高根町・多部田町・中田町・中野町・野呂町",
+        "name":  "千葉市あんしんケアセンター大宮台",
+        "tel":  "043-208-1212",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  755,
+        "prefecture":  "千葉県",
+        "city":  "千葉市緑区",
+        "area":  "大金沢町・落井町・おゆみ野・おゆみ野有吉・おゆみ野中央・おゆみ野南・鎌取町・刈田子町・小金沢町・椎名崎町・富岡町・中西町・東山科町・平山町・古市場町・辺田町・茂呂町",
+        "name":  "千葉市あんしんケアセンター鎌取",
+        "tel":  "043-293-6911",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  756,
+        "prefecture":  "千葉県",
+        "city":  "千葉市緑区",
+        "area":  "大膳野町・高田町・平川町・誉田町",
+        "name":  "千葉市あんしんケアセンター誉田",
+        "tel":  "043-300-4855",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  757,
+        "prefecture":  "千葉県",
+        "city":  "千葉市緑区",
+        "area":  "あすみが丘・あすみが丘東・板倉町・大木戸町・大椎町・大高町・大野台・越智町・小山町・上大和田町・下大和田町・高津戸町・土気町・小食土町",
+        "name":  "千葉市あんしんケアセンター土気",
+        "tel":  "043-295-0110",
+        "url":  "https://yuuwakai.jp/facilities/carecenter/"
+    },
+    {
+        "id":  758,
+        "prefecture":  "千葉県",
+        "city":  "千葉市美浜区",
+        "area":  "中瀬1・ひび野1・真砂・若葉",
+        "name":  "千葉市あんしんケアセンター真砂",
+        "tel":  "043-278-0111",
+        "url":  "https://www.juneikai.or.jp/masago/"
+    },
+    {
+        "id":  759,
+        "prefecture":  "千葉県",
+        "city":  "千葉市美浜区",
+        "area":  "磯辺・打瀬・高浜5〜6・豊砂・中瀬2・浜田・ひび野2・幕張西・美浜",
+        "name":  "千葉市あんしんケアセンター磯辺",
+        "tel":  "043-445-8440",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  760,
+        "prefecture":  "千葉県",
+        "city":  "千葉市美浜区",
+        "area":  "稲毛海岸・高洲・高浜1〜4・7",
+        "name":  "千葉市あんしんケアセンター高洲",
+        "tel":  "043-278-2545",
+        "url":  "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+    },
+    {
+        "id":  761,
+        "prefecture":  "千葉県",
+        "city":  "千葉市美浜区",
+        "area":  "幸町・新港",
+        "name":  "千葉市あんしんケアセンター幸町",
+        "tel":  "043-301-5528",
+        "url":  "https://www.ichirin.or.jp/branch/chibashi_anshin_carecenter_mihama/"
+    },
+    {
+        "id":  791,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "米ヶ崎町・夏見・夏見台・夏見町・金杉・金杉台・金杉町・高根町・緑台",
+        "name":  "船橋市中部地域包括支援センター",
+        "tel":  "047-423-2551",
+        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0001/0001/p011285.html"
+    },
+    {
+        "id":  792,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "新高根・芝山・高根台",
+        "name":  "船橋市新高根・芝山、高根台地域包括支援センター",
+        "tel":  "047-404-7061",
+        "url":  "https://soumeikai.org/service/funabashi-shien-center/"
+    },
+    {
+        "id":  793,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "滝台・滝台町・二宮・飯山満町・七林町・薬円台・薬園台町",
+        "name":  "船橋市東部地域包括支援センター",
+        "tel":  "047-490-4171",
+        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0002/0001/p011286.html"
+    },
+    {
+        "id":  794,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "前原東・前原西・中野木",
+        "name":  "船橋市前原地域包括支援センター",
+        "tel":  "047-403-3201",
+        "url":  "https://www.wana.or.jp/maebara/"
+    },
+    {
+        "id":  795,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "田喜野井・習志野・三山",
+        "name":  "船橋市三山・田喜野井地域包括支援センター",
+        "tel":  "047-403-5155",
+        "url":  "https://www.rikushinkai.com/shisetu_service/funabashi_center/"
+    },
+    {
+        "id":  796,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "習志野台・西習志野",
+        "name":  "船橋市習志野台地域包括支援センター",
+        "tel":  "047-462-0002",
+        "url":  "https://www.hanawa.or.jp/kitanara/homecare-center"
+    },
+    {
+        "id":  797,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "印内・印内町・葛飾町・古作・古作町・西船・東中山・本郷町・山野町・二子町・本中山",
+        "name":  "船橋市西部地域包括支援センター",
+        "tel":  "047-302-2628",
+        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0004/0001/p011288.html"
+    },
+    {
+        "id":  798,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "行田町・行田・山手・北本町・前貝塚町・旭町",
+        "name":  "船橋市塚田地域包括支援センター",
+        "tel":  "047-404-7221",
+        "url":  "https://tsukada-houkatsu.itakura.or.jp/index.html"
+    },
+    {
+        "id":  799,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "上山町・藤原・馬込町・馬込西・丸山",
+        "name":  "船橋市法典地域包括支援センター",
+        "tel":  "047-430-4140",
+        "url":  "http://www.engokai.or.jp/houden/"
+    },
+    {
+        "id":  800,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "栄町・潮見町・高瀬町・西浦・浜町・日の出・湊町・若松・本町3・海神・海神町・海神町東・海神町西・海神町南・南海神・南本町",
+        "name":  "船橋市南部地域包括支援センター",
+        "tel":  "047-436-2883",
+        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0005/0001/p011289.html"
+    },
+    {
+        "id":  801,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "宮本・市場・東船橋・東町・駿河台・本町",
+        "name":  "船橋市宮本・本町地域包括支援センター",
+        "tel":  "047-401-0341",
+        "url":  "https://hokatsumiyamoto.wixsite.com/my-site"
+    },
+    {
+        "id":  802,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "三咲・三咲町・南三咲・松が丘・大穴南・大穴北・大穴町",
+        "name":  "船橋市北部地域包括支援センター",
+        "tel":  "047-440-7935",
+        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0003/0001/p011287.html"
+    },
+    {
+        "id":  803,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "二和東・二和西・八木が谷町・咲が丘・みやぎ台・八木が谷・高野台",
+        "name":  "船橋市二和・八木が谷地域包括支援センター",
+        "tel":  "047-448-7115",
+        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0015/0001/p027801.html"
+    },
+    {
+        "id":  804,
+        "prefecture":  "千葉県",
+        "city":  "船橋市",
+        "area":  "大神保町・金堀町・楠が山町・車方町・小野田町・小室町・古和釜町・神保町・鈴身町・坪井町・豊富町・坪井東・坪井西",
+        "name":  "船橋市豊富・坪井地域包括支援センター",
+        "tel":  "047-457-3331",
+        "url":  "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0008/0001/p013703.html"
+    },
+    {
+        "id":  856,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "根本・吉井町・小根本・緑ケ丘・松戸新田・仲井町・稔台・岩瀬・野菊野・胡録台",
+        "name":  "松戸市明第1高齢者いきいき安心センター",
+        "tel":  "047-700-5881",
+        "url":  "https://rokkoudai.net/service/hokatsu#akira"
+    },
+    {
+        "id":  857,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "栄町・栄町西・樋野口・古ケ崎",
+        "name":  "松戸市明第2西高齢者いきいき安心センター",
+        "tel":  "047-382-5707",
+        "url":  "https://www.eishunkai.or.jp/service/senior_housing_care/comprehensive_support/"
+    },
+    {
+        "id":  858,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "上本郷・北松戸・竹ケ花・南花島",
+        "name":  "松戸市明第2東高齢者いきいき安心センター",
+        "tel":  "047-382-6294",
+        "url":  "https://welfare-for-make-a-wish.com/delegated/"
+    },
+    {
+        "id":  859,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "本町・松戸・小山・二十世紀が丘美野里町",
+        "name":  "松戸市本庁高齢者いきいき安心センター",
+        "tel":  "047-363-6823",
+        "url":  "https://www.seikei-kai.or.jp/hainesu/hainesu_500.html"
+    },
+    {
+        "id":  860,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "上矢切・中矢切・下矢切・三矢小台・二十世紀が丘柿の木町",
+        "name":  "松戸市矢切高齢者いきいき安心センター",
+        "tel":  "047-710-6025",
+        "url":  "https://www.seikei-kai.or.jp/hainesu/hainesu_500.html"
+    },
+    {
+        "id":  861,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "河原塚・田中新田・紙敷・東松戸・秋山・和名ケ谷",
+        "name":  "松戸市東部高齢者いきいき安心センター",
+        "tel":  "047-330-8866",
+        "url":  "https://www.kiyou.or.jp/pickup_detail.php?id=8"
+    },
+    {
+        "id":  862,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "金ケ作・千駄堀・常盤平・牧の原・日暮",
+        "name":  "松戸市常盤平高齢者いきいき安心センター",
+        "tel":  "047-330-6150",
+        "url":  "https://www.happy-sunflower.or.jp/%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+    },
+    {
+        "id":  863,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "常盤平団地内各住宅地区",
+        "name":  "松戸市常盤平団地高齢者いきいき安心センター",
+        "tel":  "047-382-6535",
+        "url":  "https://www.happy-sunflower.or.jp/%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+    },
+    {
+        "id":  864,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "串崎南町・松飛台・五香・五香西・五香南",
+        "name":  "松戸市五香松飛台高齢者いきいき安心センター",
+        "tel":  "047-385-3957",
+        "url":  "https://seishin-kai.or.jp/service/hokatu/"
+    },
+    {
+        "id":  865,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "高柳・六実・六高台",
+        "name":  "松戸市六実六高台高齢者いきいき安心センター",
+        "tel":  "047-383-0100",
+        "url":  "http://rokkoudai.net/service/hokatsu"
+    },
+    {
+        "id":  866,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "幸田・中金杉・平賀・小金・大金平",
+        "name":  "松戸市小金高齢者いきいき安心センター",
+        "tel":  "047-374-5221",
+        "url":  "https://seishikai.net/kogane_center/"
+    },
+    {
+        "id":  867,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "根木内・小金原・栗ケ沢",
+        "name":  "松戸市小金原高齢者いきいき安心センター",
+        "tel":  "047-383-3111",
+        "url":  "https://www.yayoikai.or.jp/facilities/koganehara.html"
+    },
+    {
+        "id":  868,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "横須賀・新松戸・新松戸北",
+        "name":  "松戸市新松戸高齢者いきいき安心センター",
+        "tel":  "047-346-2500",
+        "url":  "https://www.shinmatsudo-hospital.jp/outline/facilities/zaitakukaigoshien-center/"
+    },
+    {
+        "id":  869,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "旭町・外河原・西馬橋・新松戸南",
+        "name":  "松戸市馬橋西高齢者いきいき安心センター",
+        "tel":  "047-711-9430",
+        "url":  "https://www.eishunkai.or.jp/service/senior_housing_care/comprehensive_support/"
+    },
+    {
+        "id":  870,
+        "prefecture":  "千葉県",
+        "city":  "松戸市",
+        "area":  "馬橋・三ケ月・幸谷・八ケ崎・中根",
+        "name":  "松戸市馬橋高齢者いきいき安心センター",
+        "tel":  "047-374-5533",
+        "url":  "http://www.yawaragien.or.jp/publics/index/17/"
+    },
+    {
+        "id":  871,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "国府台",
+        "name":  "市川市国府台高齢者サポートセンター",
+        "tel":  "047-373-6539",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  872,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "北国分・中国分・堀之内・稲越・東国分・国分",
+        "name":  "市川市国分高齢者サポートセンター",
+        "tel":  "047-318-5565",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  873,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "曽谷",
+        "name":  "市川市曽谷高齢者サポートセンター",
+        "tel":  "047-371-6161",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  874,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "大町・大野町・南大野・柏井町・奉免町",
+        "name":  "市川市大柏高齢者サポートセンター",
+        "tel":  "047-338-6595",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  875,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "宮久保・下貝塚",
+        "name":  "市川市宮久保・下貝塚高齢者サポートセンター",
+        "tel":  "047-373-0763",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  876,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "市川・市川南3〜4・真間1",
+        "name":  "市川市市川第一高齢者サポートセンター",
+        "tel":  "047-700-5139",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  877,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "市川南1〜2・5・新田・平田・大洲・大和田・稲荷木・東大和田",
+        "name":  "市川市市川第二高齢者サポートセンター",
+        "tel":  "047-320-3105",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  878,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "真間2〜5",
+        "name":  "市川市真間高齢者サポートセンター",
+        "tel":  "047-322-8811",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  879,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "菅野・須和田・東菅野",
+        "name":  "市川市菅野・須和田高齢者サポートセンター",
+        "tel":  "047-326-7737",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  880,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "八幡・南八幡",
+        "name":  "市川市八幡高齢者サポートセンター",
+        "tel":  "047-376-3200",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  881,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "北方町・本北方・若宮・北方・中山・鬼越・高石神・鬼高",
+        "name":  "市川市市川東部高齢者サポートセンター",
+        "tel":  "047-334-0070",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  882,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "田尻・高谷・原木・二俣・上妙典・二俣新町・高谷新町・東浜",
+        "name":  "市川市信篤・二俣高齢者サポートセンター",
+        "tel":  "047-327-3366",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  883,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "河原・妙典・下妙典・下新宿・本行徳・本塩・関ヶ島・伊勢宿・富浜・末広・塩焼・宝・幸・加藤新田・高浜町・千鳥町",
+        "name":  "市川市行徳高齢者サポートセンター",
+        "tel":  "047-312-6070",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  884,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "押切・湊・湊新田・香取・欠真間・相之川・広尾・新井・島尻・南行徳",
+        "name":  "市川市南行徳第一高齢者サポートセンター",
+        "tel":  "047-359-6660",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  885,
+        "prefecture":  "千葉県",
+        "city":  "市川市",
+        "area":  "行徳駅前・入船・日之出・新浜・福栄・塩浜",
+        "name":  "市川市南行徳第二高齢者サポートセンター",
+        "tel":  "047-712-8022",
+        "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    }
 ]

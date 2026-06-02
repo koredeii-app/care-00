@@ -489,7 +489,10 @@ const cityLinks = {
 "https://www.city.yokosuka.kanagawa.jp/2610/g_info/l100050588.html",
 
   "松戸市":
-"https://www.city.matsudo.chiba.jp/matsudodeikiiki/mokuteki/soudan/koureiikiikiichiran.html"
+"https://www.city.matsudo.chiba.jp/matsudodeikiiki/mokuteki/soudan/koureiikiikiichiran.html",
+
+  "市川市":
+"https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
 
 };
 
@@ -1479,13 +1482,8 @@ Promise.all([
   fetch("./data/osaka.json").then(r => r.json()),
   fetch("./data/kanagawa.json").then(r => r.json()),
   fetch("./data/saitama.json").then(r => r.json()),
-  fetch("./data/chiba.json").then(r => r.json()),
-  fetch("./data/funabashi.json").then(r => r.json()),
-  fetch("./data/kawaguchi.json").then(r => r.json()),
-  fetch("./data/fujisawa.json").then(r => r.json()),
-  fetch("./data/yokosuka.json").then(r => r.json()),
-  fetch("./data/matsudo.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, funabashi, kawaguchi, fujisawa, yokosuka, matsudo]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...funabashi, ...kawaguchi, ...fujisawa, ...yokosuka, ...matsudo];
+  fetch("./data/chiba.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba];
   renderScreen("start");
 });
