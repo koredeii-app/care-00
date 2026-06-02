@@ -1,0 +1,272 @@
+﻿[
+    {
+        "id":  956,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "駒形・新通・田町",
+        "name":  "静岡市城西地域包括支援センター",
+        "tel":  "054-204-3335",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  957,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "安西・番町",
+        "name":  "静岡市安西番町地域包括支援センター",
+        "tel":  "054-204-2626",
+        "url":  "https://marucareanzai.info/"
+    },
+    {
+        "id":  958,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "葵・安東",
+        "name":  "静岡市城東地域包括支援センター",
+        "tel":  "054-295-9993",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  959,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "伝馬町・横内",
+        "name":  "静岡市伝馬町横内地域包括支援センター",
+        "tel":  "054-207-8111",
+        "url":  "https://marucaretenma.info/"
+    },
+    {
+        "id":  960,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "千代田",
+        "name":  "静岡市千代田地域包括支援センター",
+        "tel":  "054-207-8602",
+        "url":  "https://marucarechiyoda.info/"
+    },
+    {
+        "id":  961,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "城北",
+        "name":  "静岡市城北地域包括支援センター",
+        "tel":  "054-292-6450",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  962,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "服織",
+        "name":  "静岡市服織地域包括支援センター",
+        "tel":  "054-659-8585",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  963,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "安倍",
+        "name":  "静岡市安倍地域包括支援センター",
+        "tel":  "054-294-8400",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  964,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "長尾川",
+        "name":  "静岡市長尾川地域包括支援センター",
+        "tel":  "054-265-9511",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  965,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "賤機",
+        "name":  "静岡市賤機地域包括支援センター",
+        "tel":  "054-251-7772",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  966,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "藁科",
+        "name":  "静岡市藁科地域包括支援センター",
+        "tel":  "054-270-1804",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  967,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "美和",
+        "name":  "静岡市美和地域包括支援センター",
+        "tel":  "054-296-1100",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  968,
+        "prefecture":  "静岡県",
+        "city":  "静岡市葵区",
+        "area":  "井川",
+        "name":  "静岡市井川地域包括支援センター",
+        "tel":  "054-260-2227",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  969,
+        "prefecture":  "静岡県",
+        "city":  "静岡市駿河区",
+        "area":  "丸子",
+        "name":  "静岡市丸子地域包括支援センター",
+        "tel":  "054-270-8720",
+        "url":  "https://marucaremariko.info/"
+    },
+    {
+        "id":  970,
+        "prefecture":  "静岡県",
+        "city":  "静岡市駿河区",
+        "area":  "大里・高松",
+        "name":  "静岡市大里高松地域包括支援センター",
+        "tel":  "054-203-3385",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  971,
+        "prefecture":  "静岡県",
+        "city":  "静岡市駿河区",
+        "area":  "八幡山",
+        "name":  "静岡市八幡山地域包括支援センター",
+        "tel":  "054-202-6677",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  972,
+        "prefecture":  "静岡県",
+        "city":  "静岡市駿河区",
+        "area":  "大里・中島",
+        "name":  "静岡市大里中島地域包括支援センター",
+        "tel":  "054-280-4970",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  973,
+        "prefecture":  "静岡県",
+        "city":  "静岡市駿河区",
+        "area":  "小鹿・豊田",
+        "name":  "静岡市小鹿豊田地域包括支援センター",
+        "tel":  "054-284-0284",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  974,
+        "prefecture":  "静岡県",
+        "city":  "静岡市駿河区",
+        "area":  "長田",
+        "name":  "静岡市長田地域包括支援センター",
+        "tel":  "054-268-5080",
+        "url":  "https://marucareosada.info/"
+    },
+    {
+        "id":  975,
+        "prefecture":  "静岡県",
+        "city":  "静岡市駿河区",
+        "area":  "大谷・久能",
+        "name":  "静岡市大谷久能地域包括支援センター",
+        "tel":  "054-236-0778",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  976,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "港北",
+        "name":  "静岡市港北地域包括支援センター",
+        "tel":  "054-371-0296",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  977,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "有度",
+        "name":  "静岡市有度地域包括支援センター",
+        "tel":  "054-344-7721",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  978,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "港南",
+        "name":  "静岡市港南地域包括支援センター",
+        "tel":  "054-625-6663",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  979,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "高部",
+        "name":  "静岡市高部地域包括支援センター",
+        "tel":  "054-347-5271",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  980,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "興津川",
+        "name":  "静岡市興津川地域包括支援センター",
+        "tel":  "054-369-3482",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  981,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "飯田・庵原",
+        "name":  "静岡市飯田庵原地域包括支援センター",
+        "tel":  "054-364-6631",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  982,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "岡・船越",
+        "name":  "静岡市岡船越地域包括支援センター",
+        "tel":  "054-376-6651",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  983,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "両河内",
+        "name":  "静岡市両河内地域包括支援センター",
+        "tel":  "054-343-1515",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  984,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "松原",
+        "name":  "静岡市松原地域包括支援センター",
+        "tel":  "054-337-0500",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  985,
+        "prefecture":  "静岡県",
+        "city":  "静岡市清水区",
+        "area":  "蒲原・由比",
+        "name":  "静岡市蒲原由比地域包括支援センター",
+        "tel":  "054-385-5595",
+        "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    }
+]

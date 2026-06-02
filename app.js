@@ -506,6 +506,15 @@ const cityLinks = {
   "草加市":
 "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html",
 
+  "静岡市葵区":
+"https://www.city.shizuoka.lg.jp/s4523/s002758.html",
+
+  "静岡市駿河区":
+"https://www.city.shizuoka.lg.jp/s4523/s002758.html",
+
+  "静岡市清水区":
+"https://www.city.shizuoka.lg.jp/s4523/s002758.html",
+
   "堺市堺区":
 "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
 
@@ -1515,8 +1524,9 @@ Promise.all([
   fetch("./data/osaka.json").then(r => r.json()),
   fetch("./data/kanagawa.json").then(r => r.json()),
   fetch("./data/saitama.json").then(r => r.json()),
-  fetch("./data/chiba.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba];
+  fetch("./data/chiba.json").then(r => r.json()),
+  fetch("./data/shizuoka.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka];
   renderScreen("start");
 });
