@@ -1,0 +1,146 @@
+[
+    {
+        "id":  1043,
+        "prefecture":  "岡山県",
+        "city":  "岡山市北区",
+        "area":  "岡輝・石井・桑田",
+        "name":  "岡山市北区中央地域包括支援センター",
+        "tel":  "086-224-8755",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1044,
+        "prefecture":  "岡山県",
+        "city":  "岡山市北区",
+        "area":  "御南・吉備",
+        "name":  "岡山市北区中央地域包括支援センター平田分室",
+        "tel":  "086-239-9211",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1045,
+        "prefecture":  "岡山県",
+        "city":  "岡山市北区",
+        "area":  "岡北・岡山中央",
+        "name":  "岡山市北区中央地域包括支援センター北方分室",
+        "tel":  "086-201-7201",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1046,
+        "prefecture":  "岡山県",
+        "city":  "岡山市北区",
+        "area":  "中山・香和・京山",
+        "name":  "岡山市北区北地域包括支援センター",
+        "tel":  "086-251-6523",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1047,
+        "prefecture":  "岡山県",
+        "city":  "岡山市北区",
+        "area":  "高松・足守",
+        "name":  "岡山市北区北地域包括支援センター高松分室",
+        "tel":  "086-287-9393",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1048,
+        "prefecture":  "岡山県",
+        "city":  "岡山市北区",
+        "area":  "御津",
+        "name":  "岡山市北区北地域包括支援センター御津分室",
+        "tel":  "086-724-4611",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1049,
+        "prefecture":  "岡山県",
+        "city":  "岡山市北区",
+        "area":  "建部",
+        "name":  "岡山市北区北地域包括支援センター建部分室",
+        "tel":  "086-722-3300",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1050,
+        "prefecture":  "岡山県",
+        "city":  "岡山市中区",
+        "area":  "富山・操南",
+        "name":  "岡山市中区地域包括支援センター",
+        "tel":  "086-274-5172",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1051,
+        "prefecture":  "岡山県",
+        "city":  "岡山市中区",
+        "area":  "東山・操山",
+        "name":  "岡山市中区地域包括支援センター中区分室",
+        "tel":  "086-206-2871",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1052,
+        "prefecture":  "岡山県",
+        "city":  "岡山市中区",
+        "area":  "高島・竜操",
+        "name":  "岡山市中区地域包括支援センター高島分室",
+        "tel":  "086-230-3205",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1053,
+        "prefecture":  "岡山県",
+        "city":  "岡山市東区",
+        "area":  "西大寺・上南・山南・旭東",
+        "name":  "岡山市東区地域包括支援センター",
+        "tel":  "086-944-1866",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1054,
+        "prefecture":  "岡山県",
+        "city":  "岡山市東区",
+        "area":  "瀬戸・上道",
+        "name":  "岡山市東区地域包括支援センター瀬戸分室",
+        "tel":  "086-952-3883",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1055,
+        "prefecture":  "岡山県",
+        "city":  "岡山市南区",
+        "area":  "妹尾・福田・興除",
+        "name":  "岡山市南区西地域包括支援センター",
+        "tel":  "086-281-9681",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1056,
+        "prefecture":  "岡山県",
+        "city":  "岡山市南区",
+        "area":  "藤田・灘崎",
+        "name":  "岡山市南区西地域包括支援センター灘崎分室",
+        "tel":  "086-363-5070",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1057,
+        "prefecture":  "岡山県",
+        "city":  "岡山市南区",
+        "area":  "芳泉・芳田・福浜",
+        "name":  "岡山市南区南地域包括支援センター",
+        "tel":  "086-261-7301",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id":  1058,
+        "prefecture":  "岡山県",
+        "city":  "岡山市南区",
+        "area":  "福南・光南台",
+        "name":  "岡山市南区南地域包括支援センター市場分室",
+        "tel":  "086-239-9151",
+        "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    }
+]

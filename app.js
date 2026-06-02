@@ -567,7 +567,19 @@ const cityLinks = {
 "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
 
   "堺市美原区":
-"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
+
+  "岡山市北区":
+"https://www.city.okayama.jp/kurashi/0000004155.html",
+
+  "岡山市中区":
+"https://www.city.okayama.jp/kurashi/0000004155.html",
+
+  "岡山市東区":
+"https://www.city.okayama.jp/kurashi/0000004155.html",
+
+  "岡山市南区":
+"https://www.city.okayama.jp/kurashi/0000004155.html"
 
 };
 
@@ -1559,8 +1571,9 @@ Promise.all([
   fetch("./data/saitama.json").then(r => r.json()),
   fetch("./data/chiba.json").then(r => r.json()),
   fetch("./data/shizuoka.json").then(r => r.json()),
-  fetch("./data/niigata.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata];
+  fetch("./data/niigata.json").then(r => r.json()),
+  fetch("./data/okayama.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama];
   renderScreen("start");
 });
