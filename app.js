@@ -524,6 +524,30 @@ const cityLinks = {
   "浜松市天竜区":
 "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html",
 
+  "新潟市北区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
+  "新潟市東区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
+  "新潟市中央区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
+  "新潟市江南区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
+  "新潟市秋葉区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
+  "新潟市南区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
+  "新潟市西区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
+  "新潟市西蒲区":
+"https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html",
+
   "堺市堺区":
 "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
 

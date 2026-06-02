@@ -1,0 +1,272 @@
+﻿[
+    {
+        "id":  1013,
+        "prefecture":  "新潟県",
+        "city":  "新潟市北区",
+        "area":  "松浜・南浜・濁川",
+        "name":  "新潟市阿賀北地域包括支援センター",
+        "tel":  "025-258-1212",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1014,
+        "prefecture":  "新潟県",
+        "city":  "新潟市北区",
+        "area":  "葛塚・木崎・早通",
+        "name":  "新潟市くずつか地域包括支援センター",
+        "tel":  "025-250-1280",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1015,
+        "prefecture":  "新潟県",
+        "city":  "新潟市北区",
+        "area":  "岡方・光晴",
+        "name":  "新潟市上土地亀地域包括支援センター",
+        "tel":  "025-386-1150",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1016,
+        "prefecture":  "新潟県",
+        "city":  "新潟市東区",
+        "area":  "山の下",
+        "name":  "新潟市山の下地域包括支援センター",
+        "tel":  "025-250-0032",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1017,
+        "prefecture":  "新潟県",
+        "city":  "新潟市東区",
+        "area":  "藤見・下山",
+        "name":  "新潟市藤見・下山地域包括支援センター",
+        "tel":  "025-290-7155",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1018,
+        "prefecture":  "新潟県",
+        "city":  "新潟市東区",
+        "area":  "東新潟・大形・木戸",
+        "name":  "新潟市木戸・大形地域包括支援センター",
+        "tel":  "025-272-3552",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1019,
+        "prefecture":  "新潟県",
+        "city":  "新潟市東区",
+        "area":  "石山・東石山",
+        "name":  "新潟市石山地域包括支援センター",
+        "tel":  "025-277-0077",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1020,
+        "prefecture":  "新潟県",
+        "city":  "新潟市中央区",
+        "area":  "関屋・白新",
+        "name":  "新潟市関屋・白新地域包括支援センター",
+        "tel":  "025-231-5659",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1021,
+        "prefecture":  "新潟県",
+        "city":  "新潟市中央区",
+        "area":  "寄居・新潟柳都",
+        "name":  "新潟市ふなえ地域包括支援センター",
+        "tel":  "025-229-3600",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1022,
+        "prefecture":  "新潟県",
+        "city":  "新潟市中央区",
+        "area":  "宮浦・東新潟",
+        "name":  "新潟市宮浦東新潟地域包括支援センター",
+        "tel":  "025-240-6111",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1023,
+        "prefecture":  "新潟県",
+        "city":  "新潟市中央区",
+        "area":  "鳥屋野・上山",
+        "name":  "新潟市鳥屋野・上山地域包括支援センター",
+        "tel":  "025-240-6077",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1024,
+        "prefecture":  "新潟県",
+        "city":  "新潟市中央区",
+        "area":  "山潟",
+        "name":  "新潟市山潟地域包括支援センター",
+        "tel":  "025-257-7090",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1025,
+        "prefecture":  "新潟県",
+        "city":  "新潟市江南区",
+        "area":  "大江山・横越",
+        "name":  "新潟市大江山・横越地域包括支援センター",
+        "tel":  "025-278-7860",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1026,
+        "prefecture":  "新潟県",
+        "city":  "新潟市江南区",
+        "area":  "亀田・亀田西",
+        "name":  "新潟市かめだ地域包括支援センター",
+        "tel":  "025-383-1780",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1027,
+        "prefecture":  "新潟県",
+        "city":  "新潟市江南区",
+        "area":  "曽野木・両川",
+        "name":  "新潟市曽野木両川地域包括支援センター",
+        "tel":  "025-282-7295",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1028,
+        "prefecture":  "新潟県",
+        "city":  "新潟市秋葉区",
+        "area":  "新津第五",
+        "name":  "新潟市にいつ日宝町地域包括支援センター",
+        "tel":  "0250-22-1931",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1029,
+        "prefecture":  "新潟県",
+        "city":  "新潟市秋葉区",
+        "area":  "新津第一・新津第二",
+        "name":  "新潟市新津地域包括支援センター",
+        "tel":  "0250-25-3081",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1030,
+        "prefecture":  "新潟県",
+        "city":  "新潟市秋葉区",
+        "area":  "小合・金津・小須戸",
+        "name":  "新潟市こすど地域包括支援センター",
+        "tel":  "0250-61-1311",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1031,
+        "prefecture":  "新潟県",
+        "city":  "新潟市南区",
+        "area":  "臼井・白根北",
+        "name":  "新潟市しろね北地域包括支援センター",
+        "tel":  "025-362-1750",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1032,
+        "prefecture":  "新潟県",
+        "city":  "新潟市南区",
+        "area":  "白南・白根第一",
+        "name":  "新潟市しろね南地域包括支援センター",
+        "tel":  "025-373-6770",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1033,
+        "prefecture":  "新潟県",
+        "city":  "新潟市南区",
+        "area":  "味方・月潟",
+        "name":  "新潟市あじかた地域包括支援センター",
+        "tel":  "025-372-5121",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1034,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西区",
+        "area":  "小針・小新",
+        "name":  "新潟市小新・小針地域包括支援センター",
+        "tel":  "025-201-1351",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1035,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西区",
+        "area":  "坂井輪",
+        "name":  "新潟市坂井輪地域包括支援センター",
+        "tel":  "025-269-1611",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1036,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西区",
+        "area":  "五十嵐",
+        "name":  "新潟市五十嵐地域包括支援センター",
+        "tel":  "025-378-2255",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1037,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西区",
+        "area":  "黒埼",
+        "name":  "新潟市黒埼地域包括支援センター",
+        "tel":  "025-377-1522",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1038,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西区",
+        "area":  "内野・赤塚・中野小屋",
+        "name":  "新潟市赤塚地域包括支援センター",
+        "tel":  "025-264-3377",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1039,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西蒲区",
+        "area":  "西川",
+        "name":  "新潟市西川地域包括支援センター",
+        "tel":  "0256-88-3122",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1040,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西蒲区",
+        "area":  "潟東・中之口",
+        "name":  "新潟市中之口・潟東地域包括支援センター",
+        "tel":  "025-375-8833",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1041,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西蒲区",
+        "area":  "巻東・巻西",
+        "name":  "新潟市巻地域包括支援センター",
+        "tel":  "0256-73-6780",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    },
+    {
+        "id":  1042,
+        "prefecture":  "新潟県",
+        "city":  "新潟市西蒲区",
+        "area":  "岩室",
+        "name":  "新潟市岩室地域包括支援センター",
+        "tel":  "0256-82-5501",
+        "url":  "https://www.city.niigata.lg.jp/iryo/kaigo/chiikihokatsu/houkatsuzigyou.html"
+    }
+]
