@@ -486,7 +486,10 @@ const cityLinks = {
 "https://www.city.fujisawa.kanagawa.jp/kourei-s/kenko/fukushi/kore/sodan/supportcenter.html",
 
   "横須賀市":
-"https://www.city.yokosuka.kanagawa.jp/2610/g_info/l100050588.html"
+"https://www.city.yokosuka.kanagawa.jp/2610/g_info/l100050588.html",
+
+  "松戸市":
+"https://www.city.matsudo.chiba.jp/matsudodeikiiki/mokuteki/soudan/koureiikiikiichiran.html"
 
 };
 
@@ -1480,8 +1483,9 @@ Promise.all([
   fetch("./data/funabashi.json").then(r => r.json()),
   fetch("./data/kawaguchi.json").then(r => r.json()),
   fetch("./data/fujisawa.json").then(r => r.json()),
-  fetch("./data/yokosuka.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, funabashi, kawaguchi, fujisawa, yokosuka]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...funabashi, ...kawaguchi, ...fujisawa, ...yokosuka];
+  fetch("./data/yokosuka.json").then(r => r.json()),
+  fetch("./data/matsudo.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, funabashi, kawaguchi, fujisawa, yokosuka, matsudo]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...funabashi, ...kawaguchi, ...fujisawa, ...yokosuka, ...matsudo];
   renderScreen("start");
 });
