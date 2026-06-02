@@ -421,5 +421,131 @@
         "name":  "川口市鳩ヶ谷西部地域包括支援センター",
         "tel":  "048-280-5222",
         "url":  "https://www.city.kawaguchi.lg.jp/soshiki/01070/040/chiikihoukatsu/30775.html"
+    },
+    {
+        "id":  899,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "日吉町・東町・旭町・御幸町・寿町・元町・金山町・有楽町・北有楽町・喜多町・宮本町・西所沢・星の宮・くすのき台1〜2",
+        "name":  "所沢市所沢地域包括支援センター",
+        "tel":  "04-2926-4426",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  900,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "松郷・下安松・東所沢和田",
+        "name":  "所沢市松井東地域包括支援センター",
+        "tel":  "04-2951-5500",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  901,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "西新井町・東新井町・牛沼・上安松・くすのき台",
+        "name":  "所沢市松井西地域包括支援センター",
+        "tel":  "04-2994-1615",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  902,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "坂之下・城・日比田・亀ケ谷・新郷・南永井・東所沢・本郷",
+        "name":  "所沢市柳瀬地域包括支援センター",
+        "tel":  "04-2951-8887",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  903,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "中富・下富・神米金・北中・中富南・所沢新町・岩岡町・北岩岡",
+        "name":  "所沢市富岡地域包括支援センター",
+        "tel":  "04-2942-0067",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  904,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "緑町・泉町・青葉台・榎町・けやき台・向陽町",
+        "name":  "所沢市新所沢地域包括支援センター",
+        "tel":  "04-2937-7105",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  905,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "弥生町・美原町・北所沢町・花園・松葉町・並木4",
+        "name":  "所沢市新所沢東地域包括支援センター",
+        "tel":  "04-2968-8899",
+        "url":  "https://anshinkai-gr.jp/anshinkai/chikihoukatsutokorozawa"
+    },
+    {
+        "id":  906,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "三ケ島・糀谷・堀之内・林・和ケ原・西狭山ケ丘",
+        "name":  "所沢市三ケ島第1地域包括支援センター",
+        "tel":  "04-2947-2837",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  907,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "東狭山ケ丘・狭山ケ丘・若狭",
+        "name":  "所沢市三ケ島第2地域包括支援センター",
+        "tel":  "04-2926-7800",
+        "url":  "https://wakasakai.com/chiiki/"
+    },
+    {
+        "id":  908,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "上新井・小手指元町・小手指南・小手指台・小手指町5・北野・北野南・北野新町",
+        "name":  "所沢市小手指第1地域包括支援センター",
+        "tel":  "04-2947-1211",
+        "url":  "https://www.wam-town.jp/kote1/?page_id=46"
+    },
+    {
+        "id":  909,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "小手指町1〜4",
+        "name":  "所沢市小手指第2地域包括支援センター",
+        "tel":  "04-2968-3311",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  910,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "上山口・山口",
+        "name":  "所沢市山口地域包括支援センター",
+        "tel":  "04-2928-7525",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  911,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "北秋津・東住吉・西住吉・南住吉・久米・松が丘・荒幡・くすのき台3",
+        "name":  "所沢市吾妻地域包括支援センター",
+        "tel":  "04-2929-6965",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+    },
+    {
+        "id":  912,
+        "prefecture":  "埼玉県",
+        "city":  "所沢市",
+        "area":  "こぶし町・若松町・下新井・中新井・並木・北原町",
+        "name":  "所沢市並木地域包括支援センター",
+        "tel":  "04-2943-7333",
+        "url":  "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
     }
 ]

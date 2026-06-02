@@ -495,7 +495,10 @@ const cityLinks = {
 "https://www.city.ichikawa.lg.jp/wel02/1111000005.html",
 
   "柏市":
-"https://www.city.kashiwa.lg.jp/chikihokatsu/sodanyobo/hokatsushien.html"
+"https://www.city.kashiwa.lg.jp/chikihokatsu/sodanyobo/hokatsushien.html",
+
+  "所沢市":
+"https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
 
 };
 
