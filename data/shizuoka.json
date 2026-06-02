@@ -268,5 +268,248 @@
         "name":  "静岡市蒲原由比地域包括支援センター",
         "tel":  "054-385-5595",
         "url":  "https://www.city.shizuoka.lg.jp/s4523/s002758.html"
+    },
+    {
+        "id":  986,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "下池川町・中沢町・元浜町・山下町・上島・十軒町・新津町・助信町・早出町・高林・茄子町・曳馬・曳馬町・細島町",
+        "name":  "浜松市元浜高齢者相談センター",
+        "tel":  "053-479-1215",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  987,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "鴨江・鴨江町・栄町・中山町・西伊場町・三組町・南伊場町・塩町・菅原町・平田町・成子町・旅籠町・東伊場・元魚町・浅田町・海老塚・海老塚町・春日町・上浅田・神田町・西浅田・南浅田・森田町・瓜内町・法枝町",
+        "name":  "浜松市鴨江高齢者相談センター",
+        "tel":  "053-456-3362",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  988,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "鹿谷町・蜆塚・城北・高町・布橋・広沢・文丘町・山手町・和地山・佐鳴台",
+        "name":  "浜松市佐鳴台高齢者相談センター",
+        "tel":  "053-448-0201",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  989,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "富塚町・住吉・和合町・和合北",
+        "name":  "浜松市和合高齢者相談センター",
+        "tel":  "053-475-5560",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  990,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "旭町・池町・尾張町・鍛冶町・北田町・元目町・紺屋町・肴町・神明町・大工町・田町・千歳町・伝馬町・利町・松城町・元城町・連尺町・板屋町・中央・常盤町・野口町・八幡町・早馬町・東田町・船越町・相生町・木戸町・佐藤・天神町・富吉町・中島・中島町・名塚町・向宿・領家・北寺島町・砂山町・寺島町・龍禅寺町",
+        "name":  "浜松市板屋高齢者相談センター",
+        "tel":  "053-456-5600",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  991,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "葵西・葵東・小豆餅・泉・泉町・幸・高丘北・高丘町・高丘西・高丘東・萩丘・西丘町・花川町",
+        "name":  "浜松市高丘高齢者相談センター",
+        "tel":  "053-420-6330",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  992,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "大原町・豊岡町・根洗町・初生町・東三方町・三方原町・三幸町",
+        "name":  "浜松市三方原高齢者相談センター",
+        "tel":  "053-439-5000",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  993,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "有玉北町・有玉台・有玉西町・有玉南町・大島町・大瀬町・積志町・中郡町・西ケ崎町・半田町・半田山",
+        "name":  "浜松市ありたま高齢者相談センター",
+        "tel":  "053-434-7899",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  994,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "市野町・上石田町・小池町・下石田町・天王町・中田町・原島町・流通元町・笠井上町・笠井新田町・笠井町・貴平町・常光町・恒武町・豊西町・豊町",
+        "name":  "浜松市さぎの宮高齢者相談センター",
+        "tel":  "053-432-5151",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  995,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "国吉町・白鳥町・中里町・中野町・松小池町・安新町・安間町・北島町・材木町・篠ケ瀬町・天龍川町・長鶴町・薬師町・薬新町・龍光町・和田町・植松町・大蒲町・上新屋町・上西町・神立町・子安町・将監町・西塚町・丸塚町・宮竹町",
+        "name":  "浜松市あんま高齢者相談センター",
+        "tel":  "053-423-2701",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  996,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "入野町・大平台・志都呂町・西都台町・西鴨江町・篠原町・坪井町・馬郡町",
+        "name":  "浜松市大平台高齢者相談センター",
+        "tel":  "053-485-2800",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  997,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "舘山寺町・協和町・呉松町・庄内町・庄和町・白洲町・平松町・深萩町・村櫛町・大山町・湖東町・桜台・和光町・和地町・伊左地町・大人見町・古人見町・佐浜町",
+        "name":  "浜松市和地高齢者相談センター",
+        "tel":  "053-437-2001",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  998,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "舞阪町・雄踏町・大久保町・神ケ谷町・神原町・西山町",
+        "name":  "浜松市雄踏高齢者相談センター",
+        "tel":  "053-597-0022",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  999,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "卸本町・倉松町・小沢渡町・田尻町・堤町・新橋町・法枝町・米津町・増楽町・高塚町・東若林町・若林町",
+        "name":  "浜松市新津高齢者相談センター",
+        "tel":  "053-444-3333",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1000,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "石原町・老間町・大柳町・恩地町・金折町・御給町・参野町・四本松町・下江町・頭陀寺町・西伝寺町・立野町・都盛町・鼡野町・古川町・芳川町・本郷町・安松町・河輪町・三新町・富屋町・長田町・西町・東町・江之島町・遠州浜・西島町・福島町・松島町",
+        "name":  "浜松市芳川高齢者相談センター",
+        "tel":  "053-426-1503",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1001,
+        "prefecture":  "静岡県",
+        "city":  "浜松市中央区",
+        "area":  "瓜内町・白羽町・寺脇町・中田島町・福塚町・三島町・楊子町・青屋町・飯田町・大塚町・三和町・下飯田町・新貝町・鶴見町・渡瀬町",
+        "name":  "浜松市三和高齢者相談センター",
+        "tel":  "053-462-1011",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1002,
+        "prefecture":  "静岡県",
+        "city":  "浜松市浜名区",
+        "area":  "滝沢町・都田町・鷲沢町・新都田",
+        "name":  "浜松市三方原サテライト高齢者相談センター",
+        "tel":  "053-428-6333",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1003,
+        "prefecture":  "静岡県",
+        "city":  "浜松市浜名区",
+        "area":  "細江町・引佐町・神宮寺町・三ヶ日町",
+        "name":  "浜松市細江高齢者相談センター",
+        "tel":  "053-528-2288",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1004,
+        "prefecture":  "静岡県",
+        "city":  "浜松市浜名区",
+        "area":  "三ヶ日町（支所）",
+        "name":  "浜松市三ヶ日支所高齢者相談センター",
+        "tel":  "053-528-0788",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1005,
+        "prefecture":  "静岡県",
+        "city":  "浜松市浜名区",
+        "area":  "油一色・上善地・貴布祢・小林・善地・高薗・高畑・寺島・道本・永島・中条・新野・新堀・西美薗・沼・東美薗・本沢合・八幡・横須賀・竜南",
+        "name":  "浜松市北浜高齢者相談センター",
+        "tel":  "053-584-2733",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1006,
+        "prefecture":  "静岡県",
+        "city":  "浜松市浜名区",
+        "area":  "内野・内野台・小松・染地台・平口・大平・三大地・新原・灰木・堀谷・宮口・四大地",
+        "name":  "浜松市しんぱら高齢者相談センター",
+        "tel":  "053-584-1090",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1007,
+        "prefecture":  "静岡県",
+        "city":  "浜松市浜名区",
+        "area":  "上島・豊保・中瀬・西中瀬・尾野・於呂・根堅",
+        "name":  "浜松市於呂高齢者相談センター",
+        "tel":  "053-588-5600",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1008,
+        "prefecture":  "静岡県",
+        "city":  "浜松市天竜区",
+        "area":  "青谷・芦窪・阿寺・石神・伊砂・大川・大栗安・大谷・小川・上野・神沢・熊・佐久・次郎八新田・相津・只来・月・長沢・西雲名・西藤平・日明・東雲名・東藤平・二俣町・懐山・船明・米沢・山東・谷山・横川・横山町・両島・緑恵台・渡ケ島・春野町",
+        "name":  "浜松市天竜高齢者相談センター",
+        "tel":  "053-925-0034",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1009,
+        "prefecture":  "静岡県",
+        "city":  "浜松市天竜区",
+        "area":  "春野町（支所）",
+        "name":  "浜松市春野支所高齢者相談センター",
+        "tel":  "053-983-5000",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1010,
+        "prefecture":  "静岡県",
+        "city":  "浜松市天竜区",
+        "area":  "佐久間町・水窪町・龍山町",
+        "name":  "浜松市北遠中央高齢者相談センター",
+        "tel":  "053-969-0088",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1011,
+        "prefecture":  "静岡県",
+        "city":  "浜松市天竜区",
+        "area":  "水窪町（支所）",
+        "name":  "浜松市水窪支所高齢者相談センター",
+        "tel":  "053-982-0870",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
+    },
+    {
+        "id":  1012,
+        "prefecture":  "静岡県",
+        "city":  "浜松市天竜区",
+        "area":  "佐久間町（支所）",
+        "name":  "浜松市佐久間支所高齢者相談センター",
+        "tel":  "053-965-0080",
+        "url":  "https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html"
     }
 ]

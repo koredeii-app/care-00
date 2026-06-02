@@ -515,6 +515,15 @@ const cityLinks = {
   "静岡市清水区":
 "https://www.city.shizuoka.lg.jp/s4523/s002758.html",
 
+  "浜松市中央区":
+"https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html",
+
+  "浜松市浜名区":
+"https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html",
+
+  "浜松市天竜区":
+"https://www.city.hamamatsu.shizuoka.jp/kourei/welfare/elderly/soudan/houkatsu.html",
+
   "堺市堺区":
 "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
 
