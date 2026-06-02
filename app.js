@@ -492,7 +492,10 @@ const cityLinks = {
 "https://www.city.matsudo.chiba.jp/matsudodeikiiki/mokuteki/soudan/koureiikiikiichiran.html",
 
   "市川市":
-"https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+"https://www.city.ichikawa.lg.jp/wel02/1111000005.html",
+
+  "柏市":
+"https://www.city.kashiwa.lg.jp/chikihokatsu/sodanyobo/hokatsushien.html"
 
 };
 

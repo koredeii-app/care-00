@@ -646,5 +646,122 @@
         "name":  "市川市南行徳第二高齢者サポートセンター",
         "tel":  "047-712-8022",
         "url":  "https://www.city.ichikawa.lg.jp/wel02/1111000005.html"
+    },
+    {
+        "id":  886,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "小青田・大室・花野井・正連寺・新十余二・船戸",
+        "name":  "柏市柏北部地域包括支援センター",
+        "tel":  "04-7140-8818",
+        "url":  "http://nhoukatsu.wp.xdomain.jp/"
+    },
+    {
+        "id":  887,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "西原・若柴・大青田",
+        "name":  "柏市柏北部第2地域包括支援センター",
+        "tel":  "04-7154-0200",
+        "url":  "https://www.earthsupport.co.jp/offices/%E6%9F%8F%E5%8C%97%E9%83%A8%E7%AC%AC2%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
+    },
+    {
+        "id":  888,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "富勢・布施・布施下・布施新町・宿連寺・根戸",
+        "name":  "柏市北柏地域包括支援センター",
+        "tel":  "04-7130-7800",
+        "url":  "http://www.kashiwa-haming.jp/area-support/"
+    },
+    {
+        "id":  889,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "大山台・高田・松ヶ崎新田・松葉町",
+        "name":  "柏市北柏第2地域包括支援センター",
+        "tel":  "04-7179-5500",
+        "url":  "http://www.mallage.com/kashiwa/shopDetail.php?id=131"
+    },
+    {
+        "id":  890,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "豊四季・豊四季台",
+        "name":  "柏市柏西口地域包括支援センター",
+        "tel":  "04-7142-8008",
+        "url":  "https://www.houjukai.or.jp/yawataen/tiiki/"
+    },
+    {
+        "id":  891,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "豊町・豊住・新富町・旭町",
+        "name":  "柏市柏西口第2地域包括支援センター",
+        "tel":  "04-7147-8001",
+        "url":  "https://www.houjukai.or.jp/yawataen/tiiki/#no2"
+    },
+    {
+        "id":  892,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "東上町・東台本町",
+        "name":  "柏市柏東口地域包括支援センター",
+        "tel":  "04-7168-7070",
+        "url":  "https://kazenomura.jp/facility/%E6%9F%8F%E6%9D%B1%E5%8F%A3%E5%9C%B0%E5%9F%9F%E5%8C%85%E6%8B%AC%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/"
+    },
+    {
+        "id":  893,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "中央・中央町・富里・永楽台",
+        "name":  "柏市柏東口第2地域包括支援センター",
+        "tel":  "04-7192-6610",
+        "url":  "https://www.merhalsa.jp/care/shop/detail/?id=140"
+    },
+    {
+        "id":  894,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "今谷南町・光ケ丘・酒井根",
+        "name":  "柏市光ケ丘地域包括支援センター",
+        "tel":  "04-7160-0003",
+        "url":  "http://www.shoyokai.jp/publics/index/39/"
+    },
+    {
+        "id":  895,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "藤心・南増尾",
+        "name":  "柏市柏南部地域包括支援センター",
+        "tel":  "04-7160-0002",
+        "url":  "http://www.shoyokai.jp/publics/index/40/"
+    },
+    {
+        "id":  896,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "加賀・増尾",
+        "name":  "柏市柏南部第2地域包括支援センター",
+        "tel":  "04-7170-9300",
+        "url":  "https://www.earthsupport.co.jp/offices/kashiwananbu"
+    },
+    {
+        "id":  897,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "風早・高柳",
+        "name":  "柏市沼南地域包括支援センター",
+        "tel":  "04-7190-1900",
+        "url":  "http://kashiwa-shakyo.com/publics/index/112/"
+    },
+    {
+        "id":  898,
+        "prefecture":  "千葉県",
+        "city":  "柏市",
+        "area":  "風早・高柳（高柳相談窓口）",
+        "name":  "柏市沼南地域包括支援センター高柳相談窓口",
+        "tel":  "04-7199-3660",
+        "url":  "http://kashiwa-shakyo.com/publics/index/112/"
     }
 ]
