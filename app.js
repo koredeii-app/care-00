@@ -504,7 +504,28 @@ const cityLinks = {
 "https://www.city.koshigaya.saitama.jp/kurashi_shisei/fukushi/koureisha/soudan/chiikihoukatsu.html",
 
   "草加市":
-"https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+"https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html",
+
+  "堺市堺区":
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
+
+  "堺市中区":
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
+
+  "堺市東区":
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
+
+  "堺市西区":
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
+
+  "堺市南区":
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
+
+  "堺市北区":
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html",
+
+  "堺市美原区":
+"https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
 
 };
 

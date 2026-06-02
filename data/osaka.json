@@ -1,596 +1,794 @@
-[
-  {
-    "id": 307,
-    "prefecture": "大阪府",
-    "city": "大阪市北区",
-    "area": "北区",
-    "name": "北区地域包括支援センター",
-    "tel": "06-6313-5568",
-    "url": "http://osaka-kitakusyakyou.com/"
-  },
-  {
-    "id": 308,
-    "prefecture": "大阪府",
-    "city": "大阪市北区",
-    "area": "大淀",
-    "name": "北区大淀地域包括支援センター",
-    "tel": "06-6354-1165",
-    "url": "http://www.daikyokai.or.jp/h-kanou/serv/hokatsu.html"
-  },
-  {
-    "id": 309,
-    "prefecture": "大阪府",
-    "city": "大阪市都島区",
-    "area": "都島区",
-    "name": "都島区地域包括支援センター",
-    "tel": "06-6929-9500",
-    "url": "http://www.miyakorin.com/"
-  },
-  {
-    "id": 310,
-    "prefecture": "大阪府",
-    "city": "大阪市都島区",
-    "area": "都島区北部",
-    "name": "都島区北部地域包括支援センター",
-    "tel": "06-6926-3800",
-    "url": "http://smile-yume.com/tiikisien"
-  },
-  {
-    "id": 311,
-    "prefecture": "大阪府",
-    "city": "大阪市福島区",
-    "area": "福島区",
-    "name": "福島区地域包括支援センター",
-    "tel": "06-6454-6330",
-    "url": "http://fukushima.kusyakyou.or.jp/"
-  },
-  {
-    "id": 312,
-    "prefecture": "大阪府",
-    "city": "大阪市此花区",
-    "area": "此花区",
-    "name": "此花区地域包括支援センター",
-    "tel": "06-6462-1225",
-    "url": "https://konohana-kushakyo.or.jp/consultation-service/houkatsu/"
-  },
-  {
-    "id": 313,
-    "prefecture": "大阪府",
-    "city": "大阪市此花区",
-    "area": "此花区南西部",
-    "name": "此花区南西部地域包括支援センター",
-    "tel": "06-6462-9301",
-    "url": "https://www.gyoumeikan.or.jp/center/houkatsu/"
-  },
-  {
-    "id": 314,
-    "prefecture": "大阪府",
-    "city": "大阪市中央区",
-    "area": "中央区",
-    "name": "中央区地域包括支援センター",
-    "tel": "06-6763-8139",
-    "url": "http://www.osaka-chuo-syakyo.jp/hokatsu/"
-  },
-  {
-    "id": 315,
-    "prefecture": "大阪府",
-    "city": "大阪市中央区",
-    "area": "中央区北部",
-    "name": "中央区北部地域包括支援センター",
-    "tel": "06-6944-2116",
-    "url": "http://tane.or.jp/chuokuhokubu-supportcenter/index.html"
-  },
-  {
-    "id": 316,
-    "prefecture": "大阪府",
-    "city": "大阪市西区",
-    "area": "西区",
-    "name": "西区地域包括支援センター",
-    "tel": "06-6539-8075",
-    "url": "https://nishi-fukushi.or.jp/support_center/"
-  },
-  {
-    "id": 317,
-    "prefecture": "大阪府",
-    "city": "大阪市港区",
-    "area": "港区",
-    "name": "港区地域包括支援センター",
-    "tel": "06-6575-1212",
-    "url": "http://www.minatoku-shakyo.com/hokatsu/index.html"
-  },
-  {
-    "id": 318,
-    "prefecture": "大阪府",
-    "city": "大阪市港区",
-    "area": "港区南部",
-    "name": "港区南部地域包括支援センター",
-    "tel": "06-6536-8162",
-    "url": "http://www.minatoryo.or.jp/facilities/houkatsu/"
-  },
-  {
-    "id": 319,
-    "prefecture": "大阪府",
-    "city": "大阪市大正区",
-    "area": "大正区",
-    "name": "大正区地域包括支援センター",
-    "tel": "06-6555-0693",
-    "url": "http://taisho-fureai.or.jp/inclusion/index.html"
-  },
-  {
-    "id": 320,
-    "prefecture": "大阪府",
-    "city": "大阪市大正区",
-    "area": "大正区北部",
-    "name": "大正区北部地域包括支援センター",
-    "tel": "06-6552-4440",
-    "url": "https://www.saiseikai.or.jp/facilities/f03/2700-0039/"
-  },
-  {
-    "id": 321,
-    "prefecture": "大阪府",
-    "city": "大阪市天王寺区",
-    "area": "天王寺区",
-    "name": "天王寺区地域包括支援センター",
-    "tel": "06-6774-3386",
-    "url": "https://yuuai.org/senior/hokatsu/"
-  },
-  {
-    "id": 322,
-    "prefecture": "大阪府",
-    "city": "大阪市浪速区",
-    "area": "浪速区",
-    "name": "浪速区地域包括支援センター",
-    "tel": "06-6636-6029",
-    "url": "http://naniwa-ku-cosw.or.jp/center/"
-  },
-  {
-    "id": 323,
-    "prefecture": "大阪府",
-    "city": "大阪市西淀川区",
-    "area": "西淀川区",
-    "name": "西淀川区地域包括支援センター",
-    "tel": "06-6478-2943",
-    "url": "https://www.fukufuku.or.jp/?page_id=1955"
-  },
-  {
-    "id": 324,
-    "prefecture": "大阪府",
-    "city": "大阪市西淀川区",
-    "area": "西淀川区南西部",
-    "name": "西淀川区南西部地域包括支援センター",
-    "tel": "06-6476-3550",
-    "url": "https://www.hakuyoukai.net/support/"
-  },
-  {
-    "id": 325,
-    "prefecture": "大阪府",
-    "city": "大阪市淀川区",
-    "area": "淀川区",
-    "name": "淀川区地域包括支援センター",
-    "tel": "06-6394-2914",
-    "url": "https://www.yodogawaku-shakyo.com/"
-  },
-  {
-    "id": 326,
-    "prefecture": "大阪府",
-    "city": "大阪市淀川区",
-    "area": "淀川区東部",
-    "name": "淀川区東部地域包括支援センター",
-    "tel": "06-6350-7310",
-    "url": "http://www.mead-jp.com/toubu.html"
-  },
-  {
-    "id": 327,
-    "prefecture": "大阪府",
-    "city": "大阪市淀川区",
-    "area": "淀川区西部",
-    "name": "淀川区西部地域包括支援センター",
-    "tel": "06-6305-0737",
-    "url": "https://kashima-yuai.or.jp/facility/index13.html"
-  },
-  {
-    "id": 328,
-    "prefecture": "大阪府",
-    "city": "大阪市淀川区",
-    "area": "淀川区南部",
-    "name": "淀川区南部地域包括支援センター",
-    "tel": "06-6309-1400",
-    "url": "http://www.mead-jp.com/nanbuhoukatu.html"
-  },
-  {
-    "id": 329,
-    "prefecture": "大阪府",
-    "city": "大阪市東淀川区",
-    "area": "東淀川区",
-    "name": "東淀川区地域包括支援センター",
-    "tel": "06-6370-7190",
-    "url": "https://www.hohoemi-kushakyo.or.jp/koureisya-shien/"
-  },
-  {
-    "id": 330,
-    "prefecture": "大阪府",
-    "city": "大阪市東淀川区",
-    "area": "東淀川区北部",
-    "name": "東淀川区北部地域包括支援センター",
-    "tel": "06-6349-5001",
-    "url": "http://www.itakanoen-day.jp/"
-  },
-  {
-    "id": 331,
-    "prefecture": "大阪府",
-    "city": "大阪市東淀川区",
-    "area": "東淀川区南西部",
-    "name": "東淀川区南西部地域包括支援センター",
-    "tel": "06-6326-4440",
-    "url": "https://www.tomoshibifukushikai.jp/asuka_facilty/#asuka8"
-  },
-  {
-    "id": 332,
-    "prefecture": "大阪府",
-    "city": "大阪市東淀川区",
-    "area": "東淀川区中部",
-    "name": "東淀川区中部地域包括支援センター",
-    "tel": "06-6325-6915",
-    "url": "http://vihara-sisinkai.jp/area_support.html"
-  },
-  {
-    "id": 333,
-    "prefecture": "大阪府",
-    "city": "大阪市東成区",
-    "area": "東成区南部",
-    "name": "東成区南部地域包括支援センター",
-    "tel": "06-6977-7032",
-    "url": "http://www.higashinarikushakyo.jp/hokatusien/"
-  },
-  {
-    "id": 334,
-    "prefecture": "大阪府",
-    "city": "大阪市東成区",
-    "area": "東成区北部",
-    "name": "東成区北部地域包括支援センター",
-    "tel": "06-6971-9700",
-    "url": "https://humming-bell.or.jp/publics/index/41/"
-  },
-  {
-    "id": 335,
-    "prefecture": "大阪府",
-    "city": "大阪市生野区",
-    "area": "生野区",
-    "name": "生野区地域包括支援センター",
-    "tel": "06-6712-3103",
-    "url": "http://ikunoku-shakyo.jp/hokatu"
-  },
-  {
-    "id": 336,
-    "prefecture": "大阪府",
-    "city": "大阪市生野区",
-    "area": "東生野",
-    "name": "東生野地域包括支援センター",
-    "tel": "06-6758-8816",
-    "url": "https://kyouseikai.org/service/detail_13/"
-  },
-  {
-    "id": 337,
-    "prefecture": "大阪府",
-    "city": "大阪市生野区",
-    "area": "鶴橋",
-    "name": "鶴橋地域包括支援センター",
-    "tel": "06-6715-0236",
-    "url": "http://www.pada.or.jp/"
-  },
-  {
-    "id": 338,
-    "prefecture": "大阪府",
-    "city": "大阪市生野区",
-    "area": "巽",
-    "name": "巽地域包括支援センター",
-    "tel": "06-6756-7400",
-    "url": "http://www.minori-en.com/houkatsu.html"
-  },
-  {
-    "id": 339,
-    "prefecture": "大阪府",
-    "city": "大阪市旭区",
-    "area": "旭区",
-    "name": "旭区地域包括支援センター",
-    "tel": "06-6957-2200",
-    "url": "https://sansan-asahi.or.jp/publics/index/34/"
-  },
-  {
-    "id": 340,
-    "prefecture": "大阪府",
-    "city": "大阪市旭区",
-    "area": "旭区西部",
-    "name": "旭区西部地域包括支援センター",
-    "tel": "06-6958-5030",
-    "url": "http://www.houjukai.jp/seibu/index.html"
-  },
-  {
-    "id": 341,
-    "prefecture": "大阪府",
-    "city": "大阪市旭区",
-    "area": "旭区東部",
-    "name": "旭区東部地域包括支援センター",
-    "tel": "06-4254-3336",
-    "url": "https://www.maki-group.jp/home_service/houkatsu_asahi/"
-  },
-  {
-    "id": 342,
-    "prefecture": "大阪府",
-    "city": "大阪市城東区",
-    "area": "城東区",
-    "name": "城東区地域包括支援センター",
-    "tel": "06-6936-1133",
-    "url": "https://joto-kushakyo-yuyu.or.jp/tiikihoukatusien/"
-  },
-  {
-    "id": 343,
-    "prefecture": "大阪府",
-    "city": "大阪市城東区",
-    "area": "城東・放出",
-    "name": "城東・放出地域包括支援センター",
-    "tel": "06-6964-0808",
-    "url": "http://www.shizenkai.or.jp/publics/index/25/"
-  },
-  {
-    "id": 344,
-    "prefecture": "大阪府",
-    "city": "大阪市城東区",
-    "area": "城陽",
-    "name": "城陽地域包括支援センター",
-    "tel": "06-6963-6700",
-    "url": "http://kogane.or.jp/shigino_tiikihokatsu/"
-  },
-  {
-    "id": 345,
-    "prefecture": "大阪府",
-    "city": "大阪市城東区",
-    "area": "菫・鯰江東",
-    "name": "菫・鯰江東地域包括支援センター",
-    "tel": "06-6786-2255",
-    "url": "http://www.tamami.or.jp/welfare/service/"
-  },
-  {
-    "id": 346,
-    "prefecture": "大阪府",
-    "city": "大阪市鶴見区",
-    "area": "鶴見区",
-    "name": "鶴見区地域包括支援センター",
-    "tel": "06-6913-7512",
-    "url": "http://www.tsurumi-kushakyo.or.jp/hokatsu_index"
-  },
-  {
-    "id": 347,
-    "prefecture": "大阪府",
-    "city": "大阪市鶴見区",
-    "area": "鶴見区西部",
-    "name": "鶴見区西部地域包括支援センター",
-    "tel": "06-6913-7878",
-    "url": "http://www.chidori.or.jp/facility/turumi/"
-  },
-  {
-    "id": 348,
-    "prefecture": "大阪府",
-    "city": "大阪市鶴見区",
-    "area": "鶴見区南部",
-    "name": "鶴見区南部地域包括支援センター",
-    "tel": "06-6969-3030",
-    "url": "http://www.ans.co.jp/u/chiikihoukatsu/"
-  },
-  {
-    "id": 349,
-    "prefecture": "大阪府",
-    "city": "大阪市阿倍野区",
-    "area": "阿倍野区",
-    "name": "阿倍野区地域包括支援センター",
-    "tel": "06-6628-1400",
-    "url": "http://www.abenokushakyo.jp/service/hokatsu/index.html"
-  },
-  {
-    "id": 350,
-    "prefecture": "大阪府",
-    "city": "大阪市阿倍野区",
-    "area": "阿倍野区北部",
-    "name": "阿倍野区北部地域包括支援センター",
-    "tel": "06-6760-4018",
-    "url": "https://ikutokuen.or.jp/facility/support-center/"
-  },
-  {
-    "id": 351,
-    "prefecture": "大阪府",
-    "city": "大阪市阿倍野区",
-    "area": "阿倍野区中部",
-    "name": "阿倍野区中部地域包括支援センター",
-    "tel": "06-6629-8686",
-    "url": "https://www.fureai-m.jp/business/"
-  },
-  {
-    "id": 352,
-    "prefecture": "大阪府",
-    "city": "大阪市住之江区",
-    "area": "住之江区",
-    "name": "住之江区地域包括支援センター",
-    "tel": "06-6686-2235",
-    "url": "https://www.saza73.jp/life/hokatsu/"
-  },
-  {
-    "id": 353,
-    "prefecture": "大阪府",
-    "city": "大阪市住之江区",
-    "area": "さきしま",
-    "name": "さきしま地域包括支援センター",
-    "tel": "06-6569-6100",
-    "url": "https://kenseikaigroup.or.jp/sakishima/"
-  },
-  {
-    "id": 354,
-    "prefecture": "大阪府",
-    "city": "大阪市住之江区",
-    "area": "安立・敷津浦",
-    "name": "安立・敷津浦地域包括支援センター",
-    "tel": "06-6683-6650",
-    "url": "http://www.iwakigakuen.or.jp/institution/chiikicenter"
-  },
-  {
-    "id": 355,
-    "prefecture": "大阪府",
-    "city": "大阪市住之江区",
-    "area": "加賀屋・粉浜",
-    "name": "加賀屋・粉浜地域包括支援センター",
-    "tel": "06-7670-1777",
-    "url": "http://gksc.jp/houkatsu.html"
-  },
-  {
-    "id": 356,
-    "prefecture": "大阪府",
-    "city": "大阪市住吉区",
-    "area": "住吉区",
-    "name": "住吉区地域包括支援センター",
-    "tel": "06-6692-8803",
-    "url": "http://www.sumiyoshi-wel.net/senior/01_hokatsu.html"
-  },
-  {
-    "id": 357,
-    "prefecture": "大阪府",
-    "city": "大阪市住吉区",
-    "area": "住吉区北",
-    "name": "住吉区北地域包括支援センター",
-    "tel": "06-6678-1500",
-    "url": "https://lifesupport.or.jp/facility/sumiyoshi-kita-hokatsu/"
-  },
-  {
-    "id": 358,
-    "prefecture": "大阪府",
-    "city": "大阪市住吉区",
-    "area": "住吉区東",
-    "name": "住吉区東地域包括支援センター",
-    "tel": "06-6608-2110",
-    "url": "https://www.shiongakuen.or.jp/snr1/"
-  },
-  {
-    "id": 359,
-    "prefecture": "大阪府",
-    "city": "大阪市住吉区",
-    "area": "住吉区西",
-    "name": "住吉区西地域包括支援センター",
-    "tel": "06-6674-0800",
-    "url": "http://www.sumiyoshi-wel.net/senior/01_nishi_hokatsu.html"
-  },
-  {
-    "id": 360,
-    "prefecture": "大阪府",
-    "city": "大阪市東住吉区",
-    "area": "東住吉区",
-    "name": "東住吉区地域包括支援センター",
-    "tel": "06-6622-0055",
-    "url": "https://sawayaka-c.ne.jp/houkatsu"
-  },
-  {
-    "id": 361,
-    "prefecture": "大阪府",
-    "city": "大阪市東住吉区",
-    "area": "矢田",
-    "name": "矢田地域包括支援センター",
-    "tel": "06-6694-5552",
-    "url": "https://karan.or.jp/yata-houkatsu"
-  },
-  {
-    "id": 362,
-    "prefecture": "大阪府",
-    "city": "大阪市東住吉区",
-    "area": "中野",
-    "name": "中野地域包括支援センター",
-    "tel": "06-6777-1939",
-    "url": "https://kaseikai.org/sisetsu/nakanotiikihoukatu/"
-  },
-  {
-    "id": 363,
-    "prefecture": "大阪府",
-    "city": "大阪市東住吉区",
-    "area": "東住吉北",
-    "name": "東住吉北地域包括支援センター",
-    "tel": "06-6719-7100",
-    "url": "http://www.mebae-f.or.jp/houkatsu/"
-  },
-  {
-    "id": 364,
-    "prefecture": "大阪府",
-    "city": "大阪市平野区",
-    "area": "平野区",
-    "name": "平野区地域包括支援センター",
-    "tel": "06-6795-1666",
-    "url": "http://hirano-kushakyo.or.jp/kourei/tiikihoukatsu"
-  },
-  {
-    "id": 365,
-    "prefecture": "大阪府",
-    "city": "大阪市平野区",
-    "area": "加美",
-    "name": "加美地域包括支援センター",
-    "tel": "06-4303-7703",
-    "url": "https://waetsukai.jp/service/area/"
-  },
-  {
-    "id": 366,
-    "prefecture": "大阪府",
-    "city": "大阪市平野区",
-    "area": "長吉",
-    "name": "長吉地域包括支援センター",
-    "tel": "06-6790-0766",
-    "url": "https://eijyu.or.jp/mission/index.html#a03"
-  },
-  {
-    "id": 367,
-    "prefecture": "大阪府",
-    "city": "大阪市平野区",
-    "area": "瓜破",
-    "name": "瓜破地域包括支援センター",
-    "tel": "06-4392-7436",
-    "url": "https://eijyu.or.jp/detail/uriwari_houkatsu.html"
-  },
-  {
-    "id": 368,
-    "prefecture": "大阪府",
-    "city": "大阪市平野区",
-    "area": "喜連",
-    "name": "喜連地域包括支援センター",
-    "tel": "06-6797-0555",
-    "url": "https://yutakafukushikai.or.jp/sisetsu/kireoukatsu_shiencenter/"
-  },
-  {
-    "id": 369,
-    "prefecture": "大阪府",
-    "city": "大阪市西成区",
-    "area": "西成区",
-    "name": "西成区地域包括支援センター",
-    "tel": "06-6656-0080",
-    "url": "https://nishinari-shakyo.jp/soudan/houkatsu/"
-  },
-  {
-    "id": 370,
-    "prefecture": "大阪府",
-    "city": "大阪市西成区",
-    "area": "玉出",
-    "name": "玉出地域包括支援センター",
-    "tel": "06-6651-6888",
-    "url": "http://www.hakujuen.or.jp/zaitaku.html"
-  },
-  {
-    "id": 371,
-    "prefecture": "大阪府",
-    "city": "大阪市西成区",
-    "area": "西成区北西部",
-    "name": "西成区北西部地域包括支援センター",
-    "tel": "06-6568-8400",
-    "url": "http://humannet.or.jp/houkatsu/"
-  },
-  {
-    "id": 372,
-    "prefecture": "大阪府",
-    "city": "大阪市西成区",
-    "area": "西成区東部",
-    "name": "西成区東部地域包括支援センター",
-    "tel": "06-6656-7700",
-    "url": "http://www.ojk.or.jp/facilities/care.php#anc17"
-  }
+﻿[
+    {
+        "id":  307,
+        "prefecture":  "大阪府",
+        "city":  "大阪市北区",
+        "area":  "北区",
+        "name":  "北区地域包括支援センター",
+        "tel":  "06-6313-5568",
+        "url":  "http://osaka-kitakusyakyou.com/"
+    },
+    {
+        "id":  308,
+        "prefecture":  "大阪府",
+        "city":  "大阪市北区",
+        "area":  "大淀",
+        "name":  "北区大淀地域包括支援センター",
+        "tel":  "06-6354-1165",
+        "url":  "http://www.daikyokai.or.jp/h-kanou/serv/hokatsu.html"
+    },
+    {
+        "id":  309,
+        "prefecture":  "大阪府",
+        "city":  "大阪市都島区",
+        "area":  "都島区",
+        "name":  "都島区地域包括支援センター",
+        "tel":  "06-6929-9500",
+        "url":  "http://www.miyakorin.com/"
+    },
+    {
+        "id":  310,
+        "prefecture":  "大阪府",
+        "city":  "大阪市都島区",
+        "area":  "都島区北部",
+        "name":  "都島区北部地域包括支援センター",
+        "tel":  "06-6926-3800",
+        "url":  "http://smile-yume.com/tiikisien"
+    },
+    {
+        "id":  311,
+        "prefecture":  "大阪府",
+        "city":  "大阪市福島区",
+        "area":  "福島区",
+        "name":  "福島区地域包括支援センター",
+        "tel":  "06-6454-6330",
+        "url":  "http://fukushima.kusyakyou.or.jp/"
+    },
+    {
+        "id":  312,
+        "prefecture":  "大阪府",
+        "city":  "大阪市此花区",
+        "area":  "此花区",
+        "name":  "此花区地域包括支援センター",
+        "tel":  "06-6462-1225",
+        "url":  "https://konohana-kushakyo.or.jp/consultation-service/houkatsu/"
+    },
+    {
+        "id":  313,
+        "prefecture":  "大阪府",
+        "city":  "大阪市此花区",
+        "area":  "此花区南西部",
+        "name":  "此花区南西部地域包括支援センター",
+        "tel":  "06-6462-9301",
+        "url":  "https://www.gyoumeikan.or.jp/center/houkatsu/"
+    },
+    {
+        "id":  314,
+        "prefecture":  "大阪府",
+        "city":  "大阪市中央区",
+        "area":  "中央区",
+        "name":  "中央区地域包括支援センター",
+        "tel":  "06-6763-8139",
+        "url":  "http://www.osaka-chuo-syakyo.jp/hokatsu/"
+    },
+    {
+        "id":  315,
+        "prefecture":  "大阪府",
+        "city":  "大阪市中央区",
+        "area":  "中央区北部",
+        "name":  "中央区北部地域包括支援センター",
+        "tel":  "06-6944-2116",
+        "url":  "http://tane.or.jp/chuokuhokubu-supportcenter/index.html"
+    },
+    {
+        "id":  316,
+        "prefecture":  "大阪府",
+        "city":  "大阪市西区",
+        "area":  "西区",
+        "name":  "西区地域包括支援センター",
+        "tel":  "06-6539-8075",
+        "url":  "https://nishi-fukushi.or.jp/support_center/"
+    },
+    {
+        "id":  317,
+        "prefecture":  "大阪府",
+        "city":  "大阪市港区",
+        "area":  "港区",
+        "name":  "港区地域包括支援センター",
+        "tel":  "06-6575-1212",
+        "url":  "http://www.minatoku-shakyo.com/hokatsu/index.html"
+    },
+    {
+        "id":  318,
+        "prefecture":  "大阪府",
+        "city":  "大阪市港区",
+        "area":  "港区南部",
+        "name":  "港区南部地域包括支援センター",
+        "tel":  "06-6536-8162",
+        "url":  "http://www.minatoryo.or.jp/facilities/houkatsu/"
+    },
+    {
+        "id":  319,
+        "prefecture":  "大阪府",
+        "city":  "大阪市大正区",
+        "area":  "大正区",
+        "name":  "大正区地域包括支援センター",
+        "tel":  "06-6555-0693",
+        "url":  "http://taisho-fureai.or.jp/inclusion/index.html"
+    },
+    {
+        "id":  320,
+        "prefecture":  "大阪府",
+        "city":  "大阪市大正区",
+        "area":  "大正区北部",
+        "name":  "大正区北部地域包括支援センター",
+        "tel":  "06-6552-4440",
+        "url":  "https://www.saiseikai.or.jp/facilities/f03/2700-0039/"
+    },
+    {
+        "id":  321,
+        "prefecture":  "大阪府",
+        "city":  "大阪市天王寺区",
+        "area":  "天王寺区",
+        "name":  "天王寺区地域包括支援センター",
+        "tel":  "06-6774-3386",
+        "url":  "https://yuuai.org/senior/hokatsu/"
+    },
+    {
+        "id":  322,
+        "prefecture":  "大阪府",
+        "city":  "大阪市浪速区",
+        "area":  "浪速区",
+        "name":  "浪速区地域包括支援センター",
+        "tel":  "06-6636-6029",
+        "url":  "http://naniwa-ku-cosw.or.jp/center/"
+    },
+    {
+        "id":  323,
+        "prefecture":  "大阪府",
+        "city":  "大阪市西淀川区",
+        "area":  "西淀川区",
+        "name":  "西淀川区地域包括支援センター",
+        "tel":  "06-6478-2943",
+        "url":  "https://www.fukufuku.or.jp/?page_id=1955"
+    },
+    {
+        "id":  324,
+        "prefecture":  "大阪府",
+        "city":  "大阪市西淀川区",
+        "area":  "西淀川区南西部",
+        "name":  "西淀川区南西部地域包括支援センター",
+        "tel":  "06-6476-3550",
+        "url":  "https://www.hakuyoukai.net/support/"
+    },
+    {
+        "id":  325,
+        "prefecture":  "大阪府",
+        "city":  "大阪市淀川区",
+        "area":  "淀川区",
+        "name":  "淀川区地域包括支援センター",
+        "tel":  "06-6394-2914",
+        "url":  "https://www.yodogawaku-shakyo.com/"
+    },
+    {
+        "id":  326,
+        "prefecture":  "大阪府",
+        "city":  "大阪市淀川区",
+        "area":  "淀川区東部",
+        "name":  "淀川区東部地域包括支援センター",
+        "tel":  "06-6350-7310",
+        "url":  "http://www.mead-jp.com/toubu.html"
+    },
+    {
+        "id":  327,
+        "prefecture":  "大阪府",
+        "city":  "大阪市淀川区",
+        "area":  "淀川区西部",
+        "name":  "淀川区西部地域包括支援センター",
+        "tel":  "06-6305-0737",
+        "url":  "https://kashima-yuai.or.jp/facility/index13.html"
+    },
+    {
+        "id":  328,
+        "prefecture":  "大阪府",
+        "city":  "大阪市淀川区",
+        "area":  "淀川区南部",
+        "name":  "淀川区南部地域包括支援センター",
+        "tel":  "06-6309-1400",
+        "url":  "http://www.mead-jp.com/nanbuhoukatu.html"
+    },
+    {
+        "id":  329,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東淀川区",
+        "area":  "東淀川区",
+        "name":  "東淀川区地域包括支援センター",
+        "tel":  "06-6370-7190",
+        "url":  "https://www.hohoemi-kushakyo.or.jp/koureisya-shien/"
+    },
+    {
+        "id":  330,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東淀川区",
+        "area":  "東淀川区北部",
+        "name":  "東淀川区北部地域包括支援センター",
+        "tel":  "06-6349-5001",
+        "url":  "http://www.itakanoen-day.jp/"
+    },
+    {
+        "id":  331,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東淀川区",
+        "area":  "東淀川区南西部",
+        "name":  "東淀川区南西部地域包括支援センター",
+        "tel":  "06-6326-4440",
+        "url":  "https://www.tomoshibifukushikai.jp/asuka_facilty/#asuka8"
+    },
+    {
+        "id":  332,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東淀川区",
+        "area":  "東淀川区中部",
+        "name":  "東淀川区中部地域包括支援センター",
+        "tel":  "06-6325-6915",
+        "url":  "http://vihara-sisinkai.jp/area_support.html"
+    },
+    {
+        "id":  333,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東成区",
+        "area":  "東成区南部",
+        "name":  "東成区南部地域包括支援センター",
+        "tel":  "06-6977-7032",
+        "url":  "http://www.higashinarikushakyo.jp/hokatusien/"
+    },
+    {
+        "id":  334,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東成区",
+        "area":  "東成区北部",
+        "name":  "東成区北部地域包括支援センター",
+        "tel":  "06-6971-9700",
+        "url":  "https://humming-bell.or.jp/publics/index/41/"
+    },
+    {
+        "id":  335,
+        "prefecture":  "大阪府",
+        "city":  "大阪市生野区",
+        "area":  "生野区",
+        "name":  "生野区地域包括支援センター",
+        "tel":  "06-6712-3103",
+        "url":  "http://ikunoku-shakyo.jp/hokatu"
+    },
+    {
+        "id":  336,
+        "prefecture":  "大阪府",
+        "city":  "大阪市生野区",
+        "area":  "東生野",
+        "name":  "東生野地域包括支援センター",
+        "tel":  "06-6758-8816",
+        "url":  "https://kyouseikai.org/service/detail_13/"
+    },
+    {
+        "id":  337,
+        "prefecture":  "大阪府",
+        "city":  "大阪市生野区",
+        "area":  "鶴橋",
+        "name":  "鶴橋地域包括支援センター",
+        "tel":  "06-6715-0236",
+        "url":  "http://www.pada.or.jp/"
+    },
+    {
+        "id":  338,
+        "prefecture":  "大阪府",
+        "city":  "大阪市生野区",
+        "area":  "巽",
+        "name":  "巽地域包括支援センター",
+        "tel":  "06-6756-7400",
+        "url":  "http://www.minori-en.com/houkatsu.html"
+    },
+    {
+        "id":  339,
+        "prefecture":  "大阪府",
+        "city":  "大阪市旭区",
+        "area":  "旭区",
+        "name":  "旭区地域包括支援センター",
+        "tel":  "06-6957-2200",
+        "url":  "https://sansan-asahi.or.jp/publics/index/34/"
+    },
+    {
+        "id":  340,
+        "prefecture":  "大阪府",
+        "city":  "大阪市旭区",
+        "area":  "旭区西部",
+        "name":  "旭区西部地域包括支援センター",
+        "tel":  "06-6958-5030",
+        "url":  "http://www.houjukai.jp/seibu/index.html"
+    },
+    {
+        "id":  341,
+        "prefecture":  "大阪府",
+        "city":  "大阪市旭区",
+        "area":  "旭区東部",
+        "name":  "旭区東部地域包括支援センター",
+        "tel":  "06-4254-3336",
+        "url":  "https://www.maki-group.jp/home_service/houkatsu_asahi/"
+    },
+    {
+        "id":  342,
+        "prefecture":  "大阪府",
+        "city":  "大阪市城東区",
+        "area":  "城東区",
+        "name":  "城東区地域包括支援センター",
+        "tel":  "06-6936-1133",
+        "url":  "https://joto-kushakyo-yuyu.or.jp/tiikihoukatusien/"
+    },
+    {
+        "id":  343,
+        "prefecture":  "大阪府",
+        "city":  "大阪市城東区",
+        "area":  "城東・放出",
+        "name":  "城東・放出地域包括支援センター",
+        "tel":  "06-6964-0808",
+        "url":  "http://www.shizenkai.or.jp/publics/index/25/"
+    },
+    {
+        "id":  344,
+        "prefecture":  "大阪府",
+        "city":  "大阪市城東区",
+        "area":  "城陽",
+        "name":  "城陽地域包括支援センター",
+        "tel":  "06-6963-6700",
+        "url":  "http://kogane.or.jp/shigino_tiikihokatsu/"
+    },
+    {
+        "id":  345,
+        "prefecture":  "大阪府",
+        "city":  "大阪市城東区",
+        "area":  "菫・鯰江東",
+        "name":  "菫・鯰江東地域包括支援センター",
+        "tel":  "06-6786-2255",
+        "url":  "http://www.tamami.or.jp/welfare/service/"
+    },
+    {
+        "id":  346,
+        "prefecture":  "大阪府",
+        "city":  "大阪市鶴見区",
+        "area":  "鶴見区",
+        "name":  "鶴見区地域包括支援センター",
+        "tel":  "06-6913-7512",
+        "url":  "http://www.tsurumi-kushakyo.or.jp/hokatsu_index"
+    },
+    {
+        "id":  347,
+        "prefecture":  "大阪府",
+        "city":  "大阪市鶴見区",
+        "area":  "鶴見区西部",
+        "name":  "鶴見区西部地域包括支援センター",
+        "tel":  "06-6913-7878",
+        "url":  "http://www.chidori.or.jp/facility/turumi/"
+    },
+    {
+        "id":  348,
+        "prefecture":  "大阪府",
+        "city":  "大阪市鶴見区",
+        "area":  "鶴見区南部",
+        "name":  "鶴見区南部地域包括支援センター",
+        "tel":  "06-6969-3030",
+        "url":  "http://www.ans.co.jp/u/chiikihoukatsu/"
+    },
+    {
+        "id":  349,
+        "prefecture":  "大阪府",
+        "city":  "大阪市阿倍野区",
+        "area":  "阿倍野区",
+        "name":  "阿倍野区地域包括支援センター",
+        "tel":  "06-6628-1400",
+        "url":  "http://www.abenokushakyo.jp/service/hokatsu/index.html"
+    },
+    {
+        "id":  350,
+        "prefecture":  "大阪府",
+        "city":  "大阪市阿倍野区",
+        "area":  "阿倍野区北部",
+        "name":  "阿倍野区北部地域包括支援センター",
+        "tel":  "06-6760-4018",
+        "url":  "https://ikutokuen.or.jp/facility/support-center/"
+    },
+    {
+        "id":  351,
+        "prefecture":  "大阪府",
+        "city":  "大阪市阿倍野区",
+        "area":  "阿倍野区中部",
+        "name":  "阿倍野区中部地域包括支援センター",
+        "tel":  "06-6629-8686",
+        "url":  "https://www.fureai-m.jp/business/"
+    },
+    {
+        "id":  352,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住之江区",
+        "area":  "住之江区",
+        "name":  "住之江区地域包括支援センター",
+        "tel":  "06-6686-2235",
+        "url":  "https://www.saza73.jp/life/hokatsu/"
+    },
+    {
+        "id":  353,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住之江区",
+        "area":  "さきしま",
+        "name":  "さきしま地域包括支援センター",
+        "tel":  "06-6569-6100",
+        "url":  "https://kenseikaigroup.or.jp/sakishima/"
+    },
+    {
+        "id":  354,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住之江区",
+        "area":  "安立・敷津浦",
+        "name":  "安立・敷津浦地域包括支援センター",
+        "tel":  "06-6683-6650",
+        "url":  "http://www.iwakigakuen.or.jp/institution/chiikicenter"
+    },
+    {
+        "id":  355,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住之江区",
+        "area":  "加賀屋・粉浜",
+        "name":  "加賀屋・粉浜地域包括支援センター",
+        "tel":  "06-7670-1777",
+        "url":  "http://gksc.jp/houkatsu.html"
+    },
+    {
+        "id":  356,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住吉区",
+        "area":  "住吉区",
+        "name":  "住吉区地域包括支援センター",
+        "tel":  "06-6692-8803",
+        "url":  "http://www.sumiyoshi-wel.net/senior/01_hokatsu.html"
+    },
+    {
+        "id":  357,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住吉区",
+        "area":  "住吉区北",
+        "name":  "住吉区北地域包括支援センター",
+        "tel":  "06-6678-1500",
+        "url":  "https://lifesupport.or.jp/facility/sumiyoshi-kita-hokatsu/"
+    },
+    {
+        "id":  358,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住吉区",
+        "area":  "住吉区東",
+        "name":  "住吉区東地域包括支援センター",
+        "tel":  "06-6608-2110",
+        "url":  "https://www.shiongakuen.or.jp/snr1/"
+    },
+    {
+        "id":  359,
+        "prefecture":  "大阪府",
+        "city":  "大阪市住吉区",
+        "area":  "住吉区西",
+        "name":  "住吉区西地域包括支援センター",
+        "tel":  "06-6674-0800",
+        "url":  "http://www.sumiyoshi-wel.net/senior/01_nishi_hokatsu.html"
+    },
+    {
+        "id":  360,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東住吉区",
+        "area":  "東住吉区",
+        "name":  "東住吉区地域包括支援センター",
+        "tel":  "06-6622-0055",
+        "url":  "https://sawayaka-c.ne.jp/houkatsu"
+    },
+    {
+        "id":  361,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東住吉区",
+        "area":  "矢田",
+        "name":  "矢田地域包括支援センター",
+        "tel":  "06-6694-5552",
+        "url":  "https://karan.or.jp/yata-houkatsu"
+    },
+    {
+        "id":  362,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東住吉区",
+        "area":  "中野",
+        "name":  "中野地域包括支援センター",
+        "tel":  "06-6777-1939",
+        "url":  "https://kaseikai.org/sisetsu/nakanotiikihoukatu/"
+    },
+    {
+        "id":  363,
+        "prefecture":  "大阪府",
+        "city":  "大阪市東住吉区",
+        "area":  "東住吉北",
+        "name":  "東住吉北地域包括支援センター",
+        "tel":  "06-6719-7100",
+        "url":  "http://www.mebae-f.or.jp/houkatsu/"
+    },
+    {
+        "id":  364,
+        "prefecture":  "大阪府",
+        "city":  "大阪市平野区",
+        "area":  "平野区",
+        "name":  "平野区地域包括支援センター",
+        "tel":  "06-6795-1666",
+        "url":  "http://hirano-kushakyo.or.jp/kourei/tiikihoukatsu"
+    },
+    {
+        "id":  365,
+        "prefecture":  "大阪府",
+        "city":  "大阪市平野区",
+        "area":  "加美",
+        "name":  "加美地域包括支援センター",
+        "tel":  "06-4303-7703",
+        "url":  "https://waetsukai.jp/service/area/"
+    },
+    {
+        "id":  366,
+        "prefecture":  "大阪府",
+        "city":  "大阪市平野区",
+        "area":  "長吉",
+        "name":  "長吉地域包括支援センター",
+        "tel":  "06-6790-0766",
+        "url":  "https://eijyu.or.jp/mission/index.html#a03"
+    },
+    {
+        "id":  367,
+        "prefecture":  "大阪府",
+        "city":  "大阪市平野区",
+        "area":  "瓜破",
+        "name":  "瓜破地域包括支援センター",
+        "tel":  "06-4392-7436",
+        "url":  "https://eijyu.or.jp/detail/uriwari_houkatsu.html"
+    },
+    {
+        "id":  368,
+        "prefecture":  "大阪府",
+        "city":  "大阪市平野区",
+        "area":  "喜連",
+        "name":  "喜連地域包括支援センター",
+        "tel":  "06-6797-0555",
+        "url":  "https://yutakafukushikai.or.jp/sisetsu/kireoukatsu_shiencenter/"
+    },
+    {
+        "id":  369,
+        "prefecture":  "大阪府",
+        "city":  "大阪市西成区",
+        "area":  "西成区",
+        "name":  "西成区地域包括支援センター",
+        "tel":  "06-6656-0080",
+        "url":  "https://nishinari-shakyo.jp/soudan/houkatsu/"
+    },
+    {
+        "id":  370,
+        "prefecture":  "大阪府",
+        "city":  "大阪市西成区",
+        "area":  "玉出",
+        "name":  "玉出地域包括支援センター",
+        "tel":  "06-6651-6888",
+        "url":  "http://www.hakujuen.or.jp/zaitaku.html"
+    },
+    {
+        "id":  371,
+        "prefecture":  "大阪府",
+        "city":  "大阪市西成区",
+        "area":  "西成区北西部",
+        "name":  "西成区北西部地域包括支援センター",
+        "tel":  "06-6568-8400",
+        "url":  "http://humannet.or.jp/houkatsu/"
+    },
+    {
+        "id":  372,
+        "prefecture":  "大阪府",
+        "city":  "大阪市西成区",
+        "area":  "西成区東部",
+        "name":  "西成区東部地域包括支援センター",
+        "tel":  "06-6656-7700",
+        "url":  "http://www.ojk.or.jp/facilities/care.php#anc17"
+    },
+    {
+        "id":  934,
+        "prefecture":  "大阪府",
+        "city":  "堺市堺区",
+        "area":  "三宝・錦西・市・英彰",
+        "name":  "堺市堺第1地域包括支援センター",
+        "tel":  "072-222-8082",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  935,
+        "prefecture":  "大阪府",
+        "city":  "堺市堺区",
+        "area":  "錦・錦綾・浅香山・三国丘",
+        "name":  "堺市堺第2地域包括支援センター",
+        "tel":  "072-229-9240",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  936,
+        "prefecture":  "大阪府",
+        "city":  "堺市堺区",
+        "area":  "熊野・少林寺・安井・榎",
+        "name":  "堺市堺第3地域包括支援センター",
+        "tel":  "072-223-1500",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  937,
+        "prefecture":  "大阪府",
+        "city":  "堺市堺区",
+        "area":  "神石・新湊・大仙・大仙西",
+        "name":  "堺市堺第4地域包括支援センター",
+        "tel":  "072-275-8586",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  938,
+        "prefecture":  "大阪府",
+        "city":  "堺市中区",
+        "area":  "八田荘・八田荘西・深井・深井西",
+        "name":  "堺市中第1地域包括支援センター",
+        "tel":  "072-276-0800",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  939,
+        "prefecture":  "大阪府",
+        "city":  "堺市中区",
+        "area":  "東百舌鳥・宮園・東深井・土師",
+        "name":  "堺市中第2地域包括支援センター",
+        "tel":  "072-234-6500",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  940,
+        "prefecture":  "大阪府",
+        "city":  "堺市中区",
+        "area":  "久世・東陶器・西陶器・福田・深阪",
+        "name":  "堺市中第3地域包括支援センター",
+        "tel":  "072-234-2006",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  941,
+        "prefecture":  "大阪府",
+        "city":  "堺市東区",
+        "area":  "南八下・八下西・日置荘・日置荘西・白鷺",
+        "name":  "堺市東第1地域包括支援センター",
+        "tel":  "072-240-0018",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  942,
+        "prefecture":  "大阪府",
+        "city":  "堺市東区",
+        "area":  "南八下・八下西・日置荘・日置荘西・白鷺（相談窓口）",
+        "name":  "堺市東第1地域相談窓口",
+        "tel":  "072-286-2828",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  943,
+        "prefecture":  "大阪府",
+        "city":  "堺市東区",
+        "area":  "登美丘西・登美丘東・登美丘南・野田",
+        "name":  "堺市東第2地域包括支援センター",
+        "tel":  "072-237-0111",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  944,
+        "prefecture":  "大阪府",
+        "city":  "堺市西区",
+        "area":  "浜寺・浜寺東・浜寺石津・浜寺昭和",
+        "name":  "堺市西第1地域包括支援センター",
+        "tel":  "072-268-5056",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  945,
+        "prefecture":  "大阪府",
+        "city":  "堺市西区",
+        "area":  "鳳・鳳南・福泉・福泉上・福泉東",
+        "name":  "堺市西第2地域包括支援センター",
+        "tel":  "072-271-0048",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  946,
+        "prefecture":  "大阪府",
+        "city":  "堺市西区",
+        "area":  "津久野・向丘・平岡・家原寺・上野芝",
+        "name":  "堺市西第3地域包括支援センター",
+        "tel":  "072-260-5022",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  947,
+        "prefecture":  "大阪府",
+        "city":  "堺市南区",
+        "area":  "美木多・赤坂台・新檜尾台・城山台",
+        "name":  "堺市南第1地域包括支援センター",
+        "tel":  "072-295-1555",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  948,
+        "prefecture":  "大阪府",
+        "city":  "堺市南区",
+        "area":  "福泉中央・桃山台・原山ひかり・庭代台・御池台",
+        "name":  "堺市南第2地域包括支援センター",
+        "tel":  "072-290-7030",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  949,
+        "prefecture":  "大阪府",
+        "city":  "堺市南区",
+        "area":  "上神谷・宮山台・竹城台・竹城台東・若松台・茶山台",
+        "name":  "堺市南第3地域包括支援センター",
+        "tel":  "072-289-8085",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  950,
+        "prefecture":  "大阪府",
+        "city":  "堺市南区",
+        "area":  "三原台・泉北高倉・はるみ・槇塚台",
+        "name":  "堺市南第4地域包括支援センター",
+        "tel":  "072-291-6681",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  951,
+        "prefecture":  "大阪府",
+        "city":  "堺市北区",
+        "area":  "東浅香山・新浅香山・五箇荘・五箇荘東",
+        "name":  "堺市北第1地域包括支援センター",
+        "tel":  "072-240-0120",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  952,
+        "prefecture":  "大阪府",
+        "city":  "堺市北区",
+        "area":  "東三国丘・光竜寺・新金岡・新金岡東",
+        "name":  "堺市北第2地域包括支援センター",
+        "tel":  "072-252-0110",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  953,
+        "prefecture":  "大阪府",
+        "city":  "堺市北区",
+        "area":  "大泉・金岡・金岡南・北八下",
+        "name":  "堺市北第3地域包括支援センター",
+        "tel":  "072-257-1515",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  954,
+        "prefecture":  "大阪府",
+        "city":  "堺市北区",
+        "area":  "中百舌鳥・百舌鳥・西百舌鳥",
+        "name":  "堺市北第4地域包括支援センター",
+        "tel":  "072-276-3838",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  955,
+        "prefecture":  "大阪府",
+        "city":  "堺市美原区",
+        "area":  "美原区全域",
+        "name":  "堺市美原第1地域包括支援センター",
+        "tel":  "072-369-3070",
+        "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    }
 ]
