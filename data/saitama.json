@@ -664,5 +664,77 @@
         "name":  "越谷市南越谷地域包括支援センター",
         "tel":  "048-999-6651",
         "url":  "https://www.city.koshigaya.saitama.jp/kurashi_shisei/fukushi/koureisha/soudan/chiikihoukatsu.html"
+    },
+    {
+        "id":  926,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "新栄1〜4・長栄1〜4・清門1〜3・新善町・金明町・旭町1〜6",
+        "name":  "草加市新田西部地域包括支援センター",
+        "tel":  "048-946-0520",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  927,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "八幡町・弁天1〜6・中根1〜3・松江1〜4・栄町1〜3",
+        "name":  "草加市新田東部地域包括支援センター",
+        "tel":  "048-932-6775",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  928,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "青柳1〜8・青柳町・柿木町",
+        "name":  "草加市草加川柳地域包括支援センター",
+        "tel":  "048-932-7007",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  929,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "原町1〜3・北谷1〜3・北谷町・苗塚町・花栗1〜4・小山1〜2・松原1〜5",
+        "name":  "草加市草加安行地域包括支援センター",
+        "tel":  "048-921-2121",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  930,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "草加1〜5・西町・氷川町",
+        "name":  "草加市草加西部地域包括支援センター",
+        "tel":  "048-946-7030",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  931,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "神明1〜2・住吉1〜2・手代1〜3・中央1〜2・高砂1〜2・吉町1〜5・稲荷1〜6・松江5〜6",
+        "name":  "草加市草加東部・草加稲荷地域包括支援センター",
+        "tel":  "048-959-9133",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  932,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "柳島町・遊馬町・新里町・両新田西町・両新田東町・谷塚上町・谷塚仲町",
+        "name":  "草加市谷塚西部地域包括支援センター",
+        "tel":  "048-929-0014",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  933,
+        "prefecture":  "埼玉県",
+        "city":  "草加市",
+        "area":  "谷塚町・谷塚1〜2・瀬崎1〜7",
+        "name":  "草加市谷塚中央・谷塚東部地域包括支援センター",
+        "tel":  "048-929-3613",
+        "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
     }
 ]

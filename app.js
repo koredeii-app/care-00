@@ -501,7 +501,10 @@ const cityLinks = {
 "https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html",
 
   "越谷市":
-"https://www.city.koshigaya.saitama.jp/kurashi_shisei/fukushi/koureisha/soudan/chiikihoukatsu.html"
+"https://www.city.koshigaya.saitama.jp/kurashi_shisei/fukushi/koureisha/soudan/chiikihoukatsu.html",
+
+  "草加市":
+"https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
 
 };
 
