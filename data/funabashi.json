@@ -1,0 +1,128 @@
+[
+  {
+    "id": 791,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "米ヶ崎町・夏見・夏見台・夏見町・金杉・金杉台・金杉町・高根町・緑台",
+    "name": "船橋市中部地域包括支援センター",
+    "tel": "047-423-2551",
+    "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0001/0001/p011285.html"
+  },
+  {
+    "id": 792,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "新高根・芝山・高根台",
+    "name": "船橋市新高根・芝山、高根台地域包括支援センター",
+    "tel": "047-404-7061",
+    "url": "https://soumeikai.org/service/funabashi-shien-center/"
+  },
+  {
+    "id": 793,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "滝台・滝台町・二宮・飯山満町・七林町・薬円台・薬園台町",
+    "name": "船橋市東部地域包括支援センター",
+    "tel": "047-490-4171",
+    "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0002/0001/p011286.html"
+  },
+  {
+    "id": 794,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "前原東・前原西・中野木",
+    "name": "船橋市前原地域包括支援センター",
+    "tel": "047-403-3201",
+    "url": "https://www.wana.or.jp/maebara/"
+  },
+  {
+    "id": 795,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "田喜野井・習志野・三山",
+    "name": "船橋市三山・田喜野井地域包括支援センター",
+    "tel": "047-403-5155",
+    "url": "https://www.rikushinkai.com/shisetu_service/funabashi_center/"
+  },
+  {
+    "id": 796,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "習志野台・西習志野",
+    "name": "船橋市習志野台地域包括支援センター",
+    "tel": "047-462-0002",
+    "url": "https://www.hanawa.or.jp/kitanara/homecare-center"
+  },
+  {
+    "id": 797,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "印内・印内町・葛飾町・古作・古作町・西船・東中山・本郷町・山野町・二子町・本中山",
+    "name": "船橋市西部地域包括支援センター",
+    "tel": "047-302-2628",
+    "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0004/0001/p011288.html"
+  },
+  {
+    "id": 798,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "行田町・行田・山手・北本町・前貝塚町・旭町",
+    "name": "船橋市塚田地域包括支援センター",
+    "tel": "047-404-7221",
+    "url": "https://tsukada-houkatsu.itakura.or.jp/index.html"
+  },
+  {
+    "id": 799,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "上山町・藤原・馬込町・馬込西・丸山",
+    "name": "船橋市法典地域包括支援センター",
+    "tel": "047-430-4140",
+    "url": "http://www.engokai.or.jp/houden/"
+  },
+  {
+    "id": 800,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "栄町・潮見町・高瀬町・西浦・浜町・日の出・湊町・若松・本町3・海神・海神町・海神町東・海神町西・海神町南・南海神・南本町",
+    "name": "船橋市南部地域包括支援センター",
+    "tel": "047-436-2883",
+    "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0005/0001/p011289.html"
+  },
+  {
+    "id": 801,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "宮本・市場・東船橋・東町・駿河台・本町",
+    "name": "船橋市宮本・本町地域包括支援センター",
+    "tel": "047-401-0341",
+    "url": "https://hokatsumiyamoto.wixsite.com/my-site"
+  },
+  {
+    "id": 802,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "三咲・三咲町・南三咲・松が丘・大穴南・大穴北・大穴町",
+    "name": "船橋市北部地域包括支援センター",
+    "tel": "047-440-7935",
+    "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0003/0001/p011287.html"
+  },
+  {
+    "id": 803,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "二和東・二和西・八木が谷町・咲が丘・みやぎ台・八木が谷・高野台",
+    "name": "船橋市二和・八木が谷地域包括支援センター",
+    "tel": "047-448-7115",
+    "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0015/0001/p027801.html"
+  },
+  {
+    "id": 804,
+    "prefecture": "千葉県",
+    "city": "船橋市",
+    "area": "大神保町・金堀町・楠が山町・車方町・小野田町・小室町・古和釜町・神保町・鈴身町・坪井町・豊富町・坪井東・坪井西",
+    "name": "船橋市豊富・坪井地域包括支援センター",
+    "tel": "047-457-3331",
+    "url": "https://www.city.funabashi.lg.jp/shisetsu/hokenfukushiiryo/0002/0008/0001/p013703.html"
+  }
+]

@@ -474,7 +474,10 @@ const cityLinks = {
 "https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html",
 
   "千葉市美浜区":
-"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html"
+"https://www.city.chiba.jp/hokenfukushi/kenkofukushi/hokatsucare/anshincarecenter.html",
+
+  "船橋市":
+"https://www.city.funabashi.lg.jp/kenkou/koureisha/001/p004493.html"
 
 };
 
@@ -1464,8 +1467,9 @@ Promise.all([
   fetch("./data/osaka.json").then(r => r.json()),
   fetch("./data/kanagawa.json").then(r => r.json()),
   fetch("./data/saitama.json").then(r => r.json()),
-  fetch("./data/chiba.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba];
+  fetch("./data/chiba.json").then(r => r.json()),
+  fetch("./data/funabashi.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, funabashi]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...funabashi];
   renderScreen("start");
 });
