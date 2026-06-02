@@ -1558,8 +1558,9 @@ Promise.all([
   fetch("./data/kanagawa.json").then(r => r.json()),
   fetch("./data/saitama.json").then(r => r.json()),
   fetch("./data/chiba.json").then(r => r.json()),
-  fetch("./data/shizuoka.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka];
+  fetch("./data/shizuoka.json").then(r => r.json()),
+  fetch("./data/niigata.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata];
   renderScreen("start");
 });
