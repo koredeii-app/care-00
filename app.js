@@ -498,7 +498,10 @@ const cityLinks = {
 "https://www.city.kashiwa.lg.jp/chikihokatsu/sodanyobo/hokatsushien.html",
 
   "所沢市":
-"https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html"
+"https://www.city.tokorozawa.saitama.jp/kenko/koureisyafukushi/soudan/houkatsu.html",
+
+  "越谷市":
+"https://www.city.koshigaya.saitama.jp/kurashi_shisei/fukushi/koureisha/soudan/chiikihoukatsu.html"
 
 };
 
