@@ -594,7 +594,10 @@ const cityLinks = {
 "https://www.city.kumamoto.jp/kiji0031758/index.html",
 
   "熊本市北区":
-"https://www.city.kumamoto.jp/kiji0031758/index.html"
+"https://www.city.kumamoto.jp/kiji0031758/index.html",
+
+  "鹿児島市":
+"https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
 
 };
 
@@ -1588,8 +1591,9 @@ Promise.all([
   fetch("./data/shizuoka.json").then(r => r.json()),
   fetch("./data/niigata.json").then(r => r.json()),
   fetch("./data/okayama.json").then(r => r.json()),
-  fetch("./data/kumamoto.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto];
+  fetch("./data/kumamoto.json").then(r => r.json()),
+  fetch("./data/kagoshima.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima];
   renderScreen("start");
 });

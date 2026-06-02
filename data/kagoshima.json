@@ -1,0 +1,182 @@
+[
+    {
+        "id":  1086,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "城南町・松原町・加治屋町・新屋敷町",
+        "name":  "鹿児島市長寿あんしん相談センター中央",
+        "tel":  "099-219-4061",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1087,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "大竜町・柳町・春日町・上竜尾町",
+        "name":  "鹿児島市長寿あんしん相談センター上町",
+        "tel":  "099-219-4815",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1088,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "鴨池1・2丁目・与次郎・天保山町・真砂",
+        "name":  "鹿児島市長寿あんしん相談センター鴨池北",
+        "tel":  "099-812-8825",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1089,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "新栄町・郡元1～3丁目・唐湊・宇宿",
+        "name":  "鹿児島市長寿あんしん相談センター鴨池南",
+        "tel":  "099-813-0880",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1090,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "薬師・城西・明和・原良・草牟田",
+        "name":  "鹿児島市長寿あんしん相談センター城西",
+        "tel":  "099-813-0130",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1091,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "武1～3丁目・田上・田上台・西陵",
+        "name":  "鹿児島市長寿あんしん相談センター武・田上",
+        "tel":  "099-284-0620",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1092,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "武岡1～6丁目・紫原7丁目",
+        "name":  "鹿児島市長寿あんしん相談センター武岡",
+        "tel":  "099-298-5801",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1093,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "自由ヶ丘・桜ヶ丘・中山",
+        "name":  "鹿児島市長寿あんしん相談センター谷山北",
+        "tel":  "099-284-5320",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1094,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "星ヶ峯1～6丁目・皇徳寺台",
+        "name":  "鹿児島市長寿あんしん相談センター星ヶ峯",
+        "tel":  "099-203-0400",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1095,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "谷山中央1～8丁目・清和・小松原",
+        "name":  "鹿児島市長寿あんしん相談センター谷山中央",
+        "tel":  "099-263-6260",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1096,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "坂之上・錦江台・光山・南栄",
+        "name":  "鹿児島市長寿あんしん相談センター谷山南",
+        "tel":  "099-297-5301",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1097,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "伊敷台1～7丁目・下伊敷・玉里団地",
+        "name":  "鹿児島市長寿あんしん相談センター伊敷台",
+        "tel":  "099-218-8760",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1098,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "西伊敷1～7丁目・伊敷・犬迫・小山田",
+        "name":  "鹿児島市長寿あんしん相談センター西伊敷",
+        "tel":  "099-295-4007",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1099,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "吉野町・大明丘1～3丁目",
+        "name":  "鹿児島市長寿あんしん相談センター吉野",
+        "tel":  "099-295-7301",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1100,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "緑ヶ丘町・川上町",
+        "name":  "鹿児島市長寿あんしん相談センター緑ヶ丘",
+        "tel":  "099-295-9870",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1101,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "桜島地区",
+        "name":  "鹿児島市長寿あんしん相談センター桜島",
+        "tel":  "099-245-2525",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1102,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "本城町・牟礼岡・宮之浦町",
+        "name":  "鹿児島市長寿あんしん相談センター吉田",
+        "tel":  "099-293-7655",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1103,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "郡山町・花尾町・川田町",
+        "name":  "鹿児島市長寿あんしん相談センター郡山",
+        "tel":  "099-245-6601",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1104,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "上谷口町・松陽台町・入佐町",
+        "name":  "鹿児島市長寿あんしん相談センター松元",
+        "tel":  "099-278-7131",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    },
+    {
+        "id":  1105,
+        "prefecture":  "鹿児島県",
+        "city":  "鹿児島市",
+        "area":  "喜入町・喜入前之浜町・喜入一倉町",
+        "name":  "鹿児島市長寿あんしん相談センター喜入",
+        "tel":  "099-343-5131",
+        "url":  "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+    }
+]
