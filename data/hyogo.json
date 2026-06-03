@@ -205,5 +205,140 @@
         "name":  "姫路市家島地域包括支援センター",
         "tel":  "079-325-0780",
         "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1463,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "城ヶ堀町・津門大塚町・戸田町",
+        "name":  "西宮市高齢者あんしん窓口安井",
+        "tel":  "0798-37-1870",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1464,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "今津巽町・今津水波町・鳴尾町",
+        "name":  "西宮市高齢者あんしん窓口今津南",
+        "tel":  "0798-32-1702",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1465,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "久保町・東川町・浜町",
+        "name":  "西宮市高齢者あんしん窓口浜脇",
+        "tel":  "0798-35-2440",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1466,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "西宮浜",
+        "name":  "西宮市高齢者あんしん窓口西宮浜",
+        "tel":  "0798-32-6064",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1467,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "小松北町・小松南町・甲子園口",
+        "name":  "西宮市高齢者あんしん窓口小松",
+        "tel":  "0798-45-7810",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1468,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "高須町・甲子園浜・浜甲子園",
+        "name":  "西宮市高齢者あんしん窓口高須",
+        "tel":  "0798-44-4505",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1469,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "枝川町・鳴尾・甲子園",
+        "name":  "西宮市高齢者あんしん窓口浜甲子園",
+        "tel":  "0798-42-3530",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1470,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "上甲子園・甲子園七番町・平松町",
+        "name":  "西宮市高齢者あんしん窓口上甲子園",
+        "tel":  "0798-38-6031",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1471,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "芦原町・大社町・松原町",
+        "name":  "西宮市高齢者あんしん窓口深津",
+        "tel":  "0798-64-0050",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1472,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "林田町・瓦木町・神楽町",
+        "name":  "西宮市高齢者あんしん窓口瓦木",
+        "tel":  "0798-68-2702",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1473,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "石刎町・甲山町・生涯学習大学周辺",
+        "name":  "西宮市高齢者あんしん窓口甲山",
+        "tel":  "0798-71-9904",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1474,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "段上町・甲武町・高座町",
+        "name":  "西宮市高齢者あんしん窓口甲武",
+        "tel":  "0798-54-8883",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1475,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "上甲東園・甲東園・仁川",
+        "name":  "西宮市高齢者あんしん窓口甲東",
+        "tel":  "0798-57-5280",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1476,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "名塩さくら台・名塩・塩瀬町",
+        "name":  "西宮市高齢者あんしん窓口塩瀬",
+        "tel":  "0797-63-3320",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1477,
+        "prefecture":  "兵庫県",
+        "city":  "西宮市",
+        "area":  "山口町上山口・山口町下山口・山口町阪神",
+        "name":  "西宮市高齢者あんしん窓口山口",
+        "tel":  "078-903-0525",
+        "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
     }
 ]
