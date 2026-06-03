@@ -597,7 +597,10 @@ const cityLinks = {
 "https://www.city.kumamoto.jp/kiji0031758/index.html",
 
   "鹿児島市":
-"https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html"
+"https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/tiikihoukatu/kenko/fukushi/shisetsu/sodan-center/index.html",
+
+  "金沢市":
+"https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
 
 };
 
@@ -1592,8 +1595,9 @@ Promise.all([
   fetch("./data/niigata.json").then(r => r.json()),
   fetch("./data/okayama.json").then(r => r.json()),
   fetch("./data/kumamoto.json").then(r => r.json()),
-  fetch("./data/kagoshima.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima]) => {
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima];
+  fetch("./data/kagoshima.json").then(r => r.json()),
+  fetch("./data/ishikawa.json").then(r => r.json())
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa]) => {
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa];
   renderScreen("start");
 });

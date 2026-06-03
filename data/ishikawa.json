@@ -1,0 +1,182 @@
+[
+    {
+        "id":  1106,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "森本",
+        "name":  "金沢市地域包括支援センター きしかわ",
+        "tel":  "076-257-7878",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1107,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "小坂・千坂",
+        "name":  "金沢市地域包括支援センター ふくひさ",
+        "tel":  "076-293-2913",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1108,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "浅野・森山・夕日寺",
+        "name":  "金沢市地域包括支援センター かすが",
+        "tel":  "076-253-4165",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1109,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "長町・松ヶ枝・長土塀・芳斉・此花・瓢箪・馬場",
+        "name":  "金沢市地域包括支援センター おおてまち",
+        "tel":  "076-263-5517",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1110,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "材木・味噌蔵",
+        "name":  "金沢市地域包括支援センター さくらまち",
+        "tel":  "076-222-5722",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1111,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "犀川・湯涌・浅川",
+        "name":  "金沢市地域包括支援センター たがみ",
+        "tel":  "076-231-8025",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1112,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "諸江・浅野川・川北",
+        "name":  "金沢市地域包括支援センター もろえ",
+        "tel":  "076-293-5084",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1113,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "鞍月・粟崎・大野・金石",
+        "name":  "金沢市地域包括支援センター くらつき",
+        "tel":  "076-237-8063",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1114,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "大徳",
+        "name":  "金沢市地域包括支援センター えきにしほんまち",
+        "tel":  "076-233-1873",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1115,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "長田・戸板・西",
+        "name":  "金沢市地域包括支援センター ひろおか",
+        "tel":  "076-234-2129",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1116,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "米丸・新神田",
+        "name":  "金沢市地域包括支援センター まぎら",
+        "tel":  "076-272-8358",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1117,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "二塚・安原",
+        "name":  "金沢市地域包括支援センター きたづか",
+        "tel":  "076-240-4604",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1118,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "新竪・菊川・小立野",
+        "name":  "金沢市地域包括支援センター とびうめ",
+        "tel":  "076-231-3377",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1119,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "崎浦・内川",
+        "name":  "金沢市地域包括支援センター みつくちしんまち",
+        "tel":  "076-263-7163",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1120,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "十一屋・泉野・長坂台",
+        "name":  "金沢市地域包括支援センター ながさか",
+        "tel":  "076-280-5111",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1121,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "野町・中村・弥生",
+        "name":  "金沢市地域包括支援センター いずみの",
+        "tel":  "076-259-0522",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1122,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "三馬・米泉",
+        "name":  "金沢市地域包括支援センター ありまつ",
+        "tel":  "076-242-5510",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1123,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "富樫・伏見台",
+        "name":  "金沢市地域包括支援センター やましな",
+        "tel":  "076-241-8165",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1124,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "額・扇台・四十万",
+        "name":  "金沢市地域包括支援センター ぬか",
+        "tel":  "076-225-5031",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    },
+    {
+        "id":  1125,
+        "prefecture":  "石川県",
+        "city":  "金沢市",
+        "area":  "押野・西南部・三和",
+        "name":  "金沢市地域包括支援センター かみあらや",
+        "tel":  "076-269-0850",
+        "url":  "https://www.city.kanazawa.ishikawa.jp/kenkou/senior/support.html"
+    }
+]
