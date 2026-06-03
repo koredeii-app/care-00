@@ -1,0 +1,533 @@
+[
+    {
+        "id":  1247,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "勝馬・西戸崎・志賀島・奈多・三苫・和白",
+        "name":  "いきいきセンターふくおか 東第1",
+        "tel":  "092-608-4633",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1248,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "勝馬・西戸崎・志賀島・奈多・三苫・和白",
+        "name":  "いきいきセンターふくおか 東第1支所",
+        "tel":  "092-603-1607",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1249,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "美和台・和白東",
+        "name":  "いきいきセンターふくおか 東第2",
+        "tel":  "092-605-5411",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1250,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "香椎・香住丘",
+        "name":  "いきいきセンターふくおか 東第3",
+        "tel":  "092-673-3088",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1251,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "香陵・千早・千早西",
+        "name":  "いきいきセンターふくおか 東第4",
+        "tel":  "092-663-5711",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1252,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "舞松原・若宮",
+        "name":  "いきいきセンターふくおか 東第5",
+        "tel":  "092-665-5011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1253,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "青葉・多々良・八田",
+        "name":  "いきいきセンターふくおか 東第6",
+        "tel":  "092-515-1021",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1254,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "名島",
+        "name":  "いきいきセンターふくおか 東第7",
+        "tel":  "092-661-3200",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1255,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "箱崎・東箱崎・馬出",
+        "name":  "いきいきセンターふくおか 東第8",
+        "tel":  "092-631-3011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1256,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "香椎下原・香椎東",
+        "name":  "いきいきセンターふくおか 東第9",
+        "tel":  "092-692-9991",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1257,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "香椎浜・城浜・照葉・照葉北・照葉はばたき",
+        "name":  "いきいきセンターふくおか 東第10",
+        "tel":  "092-674-2511",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1258,
+        "prefecture":  "福岡県",
+        "city":  "福岡市東区",
+        "area":  "筥松・松島",
+        "name":  "いきいきセンターふくおか 東第11",
+        "tel":  "092-409-4589",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1259,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "千代・博多",
+        "name":  "いきいきセンターふくおか 博多第1",
+        "tel":  "092-271-1155",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1260,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "堅粕・東光",
+        "name":  "いきいきセンターふくおか 博多第2",
+        "tel":  "092-433-3346",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1261,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "住吉・春住・東住吉",
+        "name":  "いきいきセンターふくおか 博多第3",
+        "tel":  "092-474-8588",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1262,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "月隈・東月隈・席田",
+        "name":  "いきいきセンターふくおか 博多第4",
+        "tel":  "092-514-1224",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1263,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "板付・板付北",
+        "name":  "いきいきセンターふくおか 博多第5",
+        "tel":  "092-592-8011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1264,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "那珂・宮竹・弥生",
+        "name":  "いきいきセンターふくおか 博多第6",
+        "tel":  "092-409-2154",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1265,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "三筑・那珂南",
+        "name":  "いきいきセンターふくおか 博多第7",
+        "tel":  "092-558-4140",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1266,
+        "prefecture":  "福岡県",
+        "city":  "福岡市博多区",
+        "area":  "東吉塚・吉塚",
+        "name":  "いきいきセンターふくおか 博多第8",
+        "tel":  "092-409-0639",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1267,
+        "prefecture":  "福岡県",
+        "city":  "福岡市中央区",
+        "area":  "当仁・福浜・南当仁",
+        "name":  "いきいきセンターふくおか 中央第1",
+        "tel":  "092-762-8511",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1268,
+        "prefecture":  "福岡県",
+        "city":  "福岡市中央区",
+        "area":  "舞鶴",
+        "name":  "いきいきセンターふくおか 中央第2",
+        "tel":  "092-734-8011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1269,
+        "prefecture":  "福岡県",
+        "city":  "福岡市中央区",
+        "area":  "赤坂・警固・高宮・春吉",
+        "name":  "いきいきセンターふくおか 中央第3",
+        "tel":  "092-406-2525",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1270,
+        "prefecture":  "福岡県",
+        "city":  "福岡市中央区",
+        "area":  "草ケ江・笹丘・鳥飼",
+        "name":  "いきいきセンターふくおか 中央第4",
+        "tel":  "092-739-7410",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1271,
+        "prefecture":  "福岡県",
+        "city":  "福岡市中央区",
+        "area":  "小笹・平尾",
+        "name":  "いきいきセンターふくおか 中央第5",
+        "tel":  "092-791-1179",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1272,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "塩原・玉川",
+        "name":  "いきいきセンターふくおか 南第1",
+        "tel":  "092-541-8011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1273,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "長住・長丘・西長住",
+        "name":  "いきいきセンターふくおか 南第2",
+        "tel":  "092-557-8522",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1274,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "野多目・三宅",
+        "name":  "いきいきセンターふくおか 南第3",
+        "tel":  "092-553-8911",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1275,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "曰佐・高木・宮竹・横手",
+        "name":  "いきいきセンターふくおか 南第4",
+        "tel":  "092-588-8333",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1276,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "弥永・弥永西",
+        "name":  "いきいきセンターふくおか 南第5",
+        "tel":  "092-588-0710",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1277,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "鶴田・老司",
+        "name":  "いきいきセンターふくおか 南第6",
+        "tel":  "092-567-8355",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1278,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "柏原・花畑",
+        "name":  "いきいきセンターふくおか 南第7",
+        "tel":  "092-564-2611",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1279,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "大池・若久",
+        "name":  "いきいきセンターふくおか 南第8",
+        "tel":  "092-555-4663",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1280,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "大楠・西高宮",
+        "name":  "いきいきセンターふくおか 南第9",
+        "tel":  "092-523-2510",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1281,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "筑紫丘・東若久",
+        "name":  "いきいきセンターふくおか 南第10",
+        "tel":  "092-555-2856",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1282,
+        "prefecture":  "福岡県",
+        "city":  "福岡市南区",
+        "area":  "西花畑・東花畑",
+        "name":  "いきいきセンターふくおか 南第11",
+        "tel":  "092-557-1011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1283,
+        "prefecture":  "福岡県",
+        "city":  "福岡市城南区",
+        "area":  "城南・鳥飼・別府",
+        "name":  "いきいきセンターふくおか 城南第1",
+        "tel":  "092-847-8011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1284,
+        "prefecture":  "福岡県",
+        "city":  "福岡市城南区",
+        "area":  "金山・七隈",
+        "name":  "いきいきセンターふくおか 城南第2",
+        "tel":  "092-866-8511",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1285,
+        "prefecture":  "福岡県",
+        "city":  "福岡市城南区",
+        "area":  "片江・南片江",
+        "name":  "いきいきセンターふくおか 城南第3",
+        "tel":  "092-865-8311",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1286,
+        "prefecture":  "福岡県",
+        "city":  "福岡市城南区",
+        "area":  "堤・堤丘・西長住",
+        "name":  "いきいきセンターふくおか 城南第4",
+        "tel":  "092-874-2911",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1287,
+        "prefecture":  "福岡県",
+        "city":  "福岡市城南区",
+        "area":  "田島・長尾",
+        "name":  "いきいきセンターふくおか 城南第5",
+        "tel":  "092-834-5234",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1288,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "高取・室見",
+        "name":  "いきいきセンターふくおか 早良第1",
+        "tel":  "092-846-8011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1289,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "大原・小田部・原・原北",
+        "name":  "いきいきセンターふくおか 早良第2",
+        "tel":  "092-834-7796",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1290,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "有住・原西",
+        "name":  "いきいきセンターふくおか 早良第3",
+        "tel":  "092-832-8433",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1291,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "有田・賀茂",
+        "name":  "いきいきセンターふくおか 早良第4",
+        "tel":  "092-874-2711",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1292,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "飯倉・飯倉中央・飯原",
+        "name":  "いきいきセンターふくおか 早良第5",
+        "tel":  "092-852-3011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1293,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "入部・四箇田",
+        "name":  "いきいきセンターふくおか 早良第6",
+        "tel":  "092-804-8411",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1294,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "内野・早良・脇山・曲渕",
+        "name":  "いきいきセンターふくおか 早良第7",
+        "tel":  "092-834-8721",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1295,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "西新・百道・百道浜",
+        "name":  "いきいきセンターふくおか 早良第8",
+        "tel":  "092-834-2325",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1296,
+        "prefecture":  "福岡県",
+        "city":  "福岡市早良区",
+        "area":  "田隈・田村・野芥",
+        "name":  "いきいきセンターふくおか 早良第9",
+        "tel":  "092-863-8011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1297,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "愛宕・愛宕浜・小呂・能古・姪北",
+        "name":  "いきいきセンターふくおか 西第1",
+        "tel":  "092-881-8011",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1298,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "内浜・玄界・福重・姪浜",
+        "name":  "いきいきセンターふくおか 西第2",
+        "tel":  "092-885-8911",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1299,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "城原・西陵",
+        "name":  "いきいきセンターふくおか 西第3",
+        "tel":  "092-882-7080",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1300,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "壱岐南・金武",
+        "name":  "いきいきセンターふくおか 西第4",
+        "tel":  "092-892-2121",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1301,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "今宿・今津・北崎・玄洋",
+        "name":  "いきいきセンターふくおか 西第5",
+        "tel":  "092-807-6811",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1302,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "今宿・今津・北崎・玄洋",
+        "name":  "いきいきセンターふくおか 西第5北崎支所",
+        "tel":  "092-805-2611",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1303,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "石丸・下山門",
+        "name":  "いきいきセンターふくおか 西第6",
+        "tel":  "092-834-2280",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1304,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "壱岐・壱岐東",
+        "name":  "いきいきセンターふくおか 西第7",
+        "tel":  "092-812-5711",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1305,
+        "prefecture":  "福岡県",
+        "city":  "福岡市西区",
+        "area":  "西都・西都北・周船寺・元岡",
+        "name":  "いきいきセンターふくおか 西第8",
+        "tel":  "092-834-8547",
+        "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    }
+]
