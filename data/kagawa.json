@@ -1,0 +1,65 @@
+[
+    {
+        "id":  1478,
+        "prefecture":  "香川県",
+        "city":  "高松市",
+        "area":  "日新・二番丁・亀阜・四番丁・築地・花園・松島・栗林・女木・男木・木太",
+        "name":  "高松市地域包括支援センターあんしんサポート（中央）",
+        "tel":  "087-839-2811",
+        "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    },
+    {
+        "id":  1479,
+        "prefecture":  "香川県",
+        "city":  "高松市",
+        "area":  "鶴尾・太田・太田南・一宮・林・三谷・仏生山・多肥",
+        "name":  "高松市地域包括支援センターあんしんサポート仏生山サブセンター",
+        "tel":  "087-889-7788",
+        "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    },
+    {
+        "id":  1480,
+        "prefecture":  "香川県",
+        "city":  "高松市",
+        "area":  "前田・川添・川島・十河・西植田・東植田",
+        "name":  "高松市地域包括支援センターあんしんサポート山田サブセンター",
+        "tel":  "087-848-6451",
+        "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    },
+    {
+        "id":  1481,
+        "prefecture":  "香川県",
+        "city":  "高松市",
+        "area":  "香西・弦打・鬼無・下笠居",
+        "name":  "高松市地域包括支援センターあんしんサポート勝賀サブセンター",
+        "tel":  "087-882-7401",
+        "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    },
+    {
+        "id":  1482,
+        "prefecture":  "香川県",
+        "city":  "高松市",
+        "area":  "古高松・屋島・牟礼・庵治",
+        "name":  "高松市地域包括支援センターあんしんサポート牟礼サブセンター",
+        "tel":  "087-845-5711",
+        "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    },
+    {
+        "id":  1483,
+        "prefecture":  "香川県",
+        "city":  "高松市",
+        "area":  "川岡・円座・檀紙・国分寺",
+        "name":  "高松市地域包括支援センターあんしんサポート国分寺サブセンター",
+        "tel":  "087-874-8961",
+        "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    },
+    {
+        "id":  1484,
+        "prefecture":  "香川県",
+        "city":  "高松市",
+        "area":  "塩江・香川・香南",
+        "name":  "高松市地域包括支援センター香川",
+        "tel":  "087-879-0991",
+        "url":  "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kenkou/koreisha_shien/sodan/hokatsu/h_hokatsu20180202.html"
+    }
+]
