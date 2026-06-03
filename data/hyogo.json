@@ -1,0 +1,209 @@
+[
+    {
+        "id":  1440,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "白鷺・船場・城西",
+        "name":  "姫路市白鷺・琴陵地域包括支援センター",
+        "tel":  "079-299-3939",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1441,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "城東・東・城乾・野里",
+        "name":  "姫路市城乾・東光地域包括支援センター",
+        "tel":  "079-289-1703",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1442,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "荒川・手柄・城陽",
+        "name":  "姫路市山陽地域包括支援センター",
+        "tel":  "079-283-1511",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1443,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "高岡・高岡西",
+        "name":  "姫路市高岡地域包括支援センター",
+        "tel":  "079-290-9990",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1444,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "安室東・安室",
+        "name":  "姫路市安室地域包括支援センター",
+        "tel":  "079-291-5757",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1445,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "花田・谷外・谷内",
+        "name":  "姫路市花田・城山地域包括支援センター",
+        "tel":  "079-253-8178",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1446,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "四郷・別所・御国野",
+        "name":  "姫路市四郷・東地域包括支援センター",
+        "tel":  "079-252-8009",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1447,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "曽左・峰相・林田・伊勢",
+        "name":  "姫路市書写・林田地域包括支援センター",
+        "tel":  "079-266-5885",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1448,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "白鳥・青山・太市",
+        "name":  "姫路市大白書地域包括支援センター",
+        "tel":  "079-267-3929",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1449,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "白浜・八木・糸引",
+        "name":  "姫路市灘地域包括支援センター",
+        "tel":  "079-247-3355",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1450,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "的形・大塩",
+        "name":  "姫路市大的地域包括支援センター",
+        "tel":  "079-254-3811",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1451,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "津田・英賀保",
+        "name":  "姫路市飾磨西地域包括支援センター",
+        "tel":  "079-240-6528",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1452,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "妻鹿・高浜・飾磨",
+        "name":  "姫路市飾磨地域包括支援センター",
+        "tel":  "079-231-4302",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1453,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "大津・南大津・大津茂",
+        "name":  "姫路市大津地域包括支援センター",
+        "tel":  "079-236-3170",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1454,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "広畑・広畑第二・八幡",
+        "name":  "姫路市広畑地域包括支援センター",
+        "tel":  "079-236-8114",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1455,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "旭陽・勝原・余部",
+        "name":  "姫路市朝日地域包括支援センター",
+        "tel":  "079-273-1610",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1456,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "網干・網干西",
+        "name":  "姫路市網干地域包括支援センター",
+        "tel":  "079-272-6936",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1457,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "広峰・城北・水上・増位",
+        "name":  "姫路市増位・広嶺地域包括支援センター",
+        "tel":  "079-225-6766",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1458,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "砥堀・豊富・山田・船津",
+        "name":  "姫路市北地域包括支援センター",
+        "tel":  "079-264-6153",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1459,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "香呂・中寺・香呂南",
+        "name":  "姫路市香寺地域包括支援センター",
+        "tel":  "079-232-3337",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1460,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "置塩・古知・前之庄・莇野・上菅・菅生",
+        "name":  "姫路市夢前地域包括支援センター",
+        "tel":  "079-290-8866",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1461,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "安富南・安富北",
+        "name":  "姫路市安富地域包括支援センター",
+        "tel":  "0790-66-4357",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    },
+    {
+        "id":  1462,
+        "prefecture":  "兵庫県",
+        "city":  "姫路市",
+        "area":  "家島・坊勢",
+        "name":  "姫路市家島地域包括支援センター",
+        "tel":  "079-325-0780",
+        "url":  "https://www.city.himeji.lg.jp/kurashi/0000006172.html"
+    }
+]
