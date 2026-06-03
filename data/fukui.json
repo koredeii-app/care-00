@@ -1,0 +1,119 @@
+[
+    {
+        "id":  1419,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "豊・木田",
+        "name":  "ほやねっと明倫",
+        "tel":  "0776-33-5777",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1420,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "足羽・湊",
+        "name":  "ほやねっとあたご",
+        "tel":  "0776-33-6800",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1421,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "春山・宝永・松本",
+        "name":  "ほやねっと中央北",
+        "tel":  "0776-28-7271",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1422,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "順化・日之出・旭",
+        "name":  "ほやねっと不死鳥",
+        "tel":  "0776-20-5683",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1423,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "和田・円山",
+        "name":  "ほやねっとあずま",
+        "tel":  "0776-28-8511",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1424,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "啓蒙・岡保・東藤島",
+        "name":  "ほやねっと大東",
+        "tel":  "0776-53-4092",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1425,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "中藤島・森田",
+        "name":  "ほやねっと九頭竜",
+        "tel":  "0776-57-0040",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1426,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "西藤島・河合・明新",
+        "name":  "ほやねっと北",
+        "tel":  "0776-25-2510",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1427,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "清明・麻生津",
+        "name":  "ほやねっとみなみ",
+        "tel":  "0776-43-1316",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1428,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "社南・社北・社西",
+        "name":  "ほやねっと社",
+        "tel":  "0776-36-1246",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1429,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "日新・東安居・安居・一光・殿下・越廼・清水西・清水東・清水南・清水北",
+        "name":  "ほやねっと光",
+        "tel":  "0776-35-0313",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1430,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "大安寺・国見・鶉・棗・鷹巣・本郷・宮ノ下",
+        "name":  "ほやねっと川西",
+        "tel":  "0776-97-8003",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    },
+    {
+        "id":  1431,
+        "prefecture":  "福井県",
+        "city":  "福井市",
+        "area":  "酒生・一乗・上文殊・文殊・六条・東郷・美山",
+        "name":  "ほやねっと東足羽",
+        "tel":  "0776-41-4135",
+        "url":  "https://www.city.fukui.lg.jp/fukusi/kaigo/center/houkatsu2.html"
+    }
+]
