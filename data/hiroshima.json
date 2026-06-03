@@ -24,7 +24,7 @@
         "area":  "国泰寺",
         "name":  "国泰寺地域包括支援センター",
         "tel":  "082-249-0600",
-        "url":  "https://www.suiseikai.jp/support.html"
+        "url":  "https://www.suiseikai.jp/support/"
     },
     {
         "id":  1309,
@@ -330,7 +330,7 @@
         "area":  "湯来・砂谷",
         "name":  "湯来・砂谷地域包括支援センター",
         "tel":  "0829-86-1241",
-        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+        "url":  "https://www.city.hiroshima.lg.jp/saekiku/kenkou_kosodate/1027826/1027827/1007867.html"
     },
     {
         "id":  1343,
@@ -339,7 +339,7 @@
         "area":  "五月が丘・美鈴が丘",
         "name":  "五月が丘・美鈴が丘地域包括支援センター",
         "tel":  "082-208-5017",
-        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+        "url":  "https://www.city.hiroshima.lg.jp/saekiku/kenkou_kosodate/1027826/1027827/1007866.html"
     },
     {
         "id":  1344,
@@ -357,7 +357,7 @@
         "area":  "城山・五日市観音",
         "name":  "城山・五日市観音地域包括支援センター",
         "tel":  "082-924-7755",
-        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+        "url":  "https://www.city.hiroshima.lg.jp/saekiku/kenkou_kosodate/1027826/1027827/1007865.html"
     },
     {
         "id":  1346,
@@ -366,7 +366,7 @@
         "area":  "五日市",
         "name":  "五日市地域包括支援センター",
         "tel":  "082-924-0053",
-        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+        "url":  "https://www.city.hiroshima.lg.jp/saekiku/kenkou_kosodate/1027826/1027827/1007864.html"
     },
     {
         "id":  1347,
@@ -375,6 +375,6 @@
         "area":  "五日市南",
         "name":  "五日市南地域包括支援センター",
         "tel":  "082-924-8051",
-        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+        "url":  "https://www.city.hiroshima.lg.jp/saekiku/kenkou_kosodate/1027826/1027827/1007863.html"
     }
 ]
