@@ -1,0 +1,74 @@
+[
+    {
+        "id":  1432,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "朝酌・川津・本庄・持田・島根・美保関・八束",
+        "name":  "松東地域包括支援センター",
+        "tel":  "0852-24-1810",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    },
+    {
+        "id":  1433,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "朝酌・川津・本庄・持田・島根・美保関・八束（美保関地区）",
+        "name":  "松東地域包括支援センターサテライト",
+        "tel":  "0852-72-9355",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    },
+    {
+        "id":  1434,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "城北・城西・城東・白潟・朝日・雑賀",
+        "name":  "中央地域包括支援センター",
+        "tel":  "0852-24-6878",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    },
+    {
+        "id":  1435,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "法吉・生馬・古江・秋鹿・大野・鹿島",
+        "name":  "松北地域包括支援センター",
+        "tel":  "0852-82-3160",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    },
+    {
+        "id":  1436,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "津田・大庭・古志原",
+        "name":  "松南第1地域包括支援センター",
+        "tel":  "0852-60-0783",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    },
+    {
+        "id":  1437,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "竹矢・八雲・東出雲",
+        "name":  "松南第2地域包括支援センター",
+        "tel":  "0852-52-9570",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    },
+    {
+        "id":  1438,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "乃木・忌部・玉湯・宍道",
+        "name":  "湖南地域包括支援センター",
+        "tel":  "0852-24-1830",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    },
+    {
+        "id":  1439,
+        "prefecture":  "島根県",
+        "city":  "松江市",
+        "area":  "乃木・忌部・玉湯・宍道（宍道地区）",
+        "name":  "湖南地域包括支援センターサテライト",
+        "tel":  "0852-66-9355",
+        "url":  "https://www.city.matsue.lg.jp/soshikikarasagasu/kenkofukushibu_kaigohokenka/koreishafukushi_kaigo/1/3/513.html"
+    }
+]
