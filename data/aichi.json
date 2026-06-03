@@ -1,0 +1,263 @@
+[
+    {
+        "id":  1218,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市千種区",
+        "area":  "上野・自由ヶ丘・大和",
+        "name":  "千種区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-781-8343",
+        "url":  "https://www.nrs.or.jp/ikiiki/about/chikusa/"
+    },
+    {
+        "id":  1219,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市千種区",
+        "area":  "内山・千石・高見",
+        "name":  "千種区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-763-1530",
+        "url":  "https://www.chikusa-shakyo.jp/seibu/"
+    },
+    {
+        "id":  1220,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市東区",
+        "area":  "区内全域",
+        "name":  "東区いきいき支援センター（外部リンク）",
+        "tel":  "052-932-8236",
+        "url":  "https://www.higashi-fukushi.com/koreisya.html#02"
+    },
+    {
+        "id":  1221,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市北区",
+        "area":  "飯田・城北・杉村",
+        "name":  "北区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-991-5432",
+        "url":  "https://www.shisuikai.or.jp/honest/19-kitakutobu-ikiiki.html"
+    },
+    {
+        "id":  1222,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市北区",
+        "area":  "味鋺・大杉・川中",
+        "name":  "北区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-915-7545",
+        "url":  "http://kitashakyo.jp/wp342/senior/ikiiki/"
+    },
+    {
+        "id":  1223,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市西区",
+        "area":  "浮野・大野木・中小田井",
+        "name":  "西区北部いきいき支援センター（外部リンク）",
+        "tel":  "052-505-8343",
+        "url":  "https://kakurenbo.or.jp/publics/index/135/"
+    },
+    {
+        "id":  1224,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市西区",
+        "area":  "稲生・榎・上名古屋",
+        "name":  "西区南部いきいき支援センター（外部リンク）",
+        "tel":  "052-532-9079",
+        "url":  "http://www.nishiku-shakyo.jp/"
+    },
+    {
+        "id":  1225,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市中村区",
+        "area":  "稲西・稲葉地・諏訪",
+        "name":  "中村区北部いきいき支援センター（外部リンク）",
+        "tel":  "052-486-2133",
+        "url":  "http://nakamura-shakyo.or.jp/?page_id=21"
+    },
+    {
+        "id":  1226,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市中村区",
+        "area":  "岩塚・米野・笹島",
+        "name":  "中村区南部いきいき支援センター（外部リンク）",
+        "tel":  "052-483-6866",
+        "url":  "https://www.nrs.or.jp/ikiiki/about/nakamura/"
+    },
+    {
+        "id":  1227,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市中区",
+        "area":  "区内全域",
+        "name":  "中区いきいき支援センター（外部リンク）",
+        "tel":  "052-331-9674",
+        "url":  "http://www.nakaku-ikiiki.jp/"
+    },
+    {
+        "id":  1228,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市昭和区",
+        "area":  "伊勝・川原・滝川",
+        "name":  "昭和区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-861-9335",
+        "url":  "http://tsukumokai.jp/"
+    },
+    {
+        "id":  1229,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市昭和区",
+        "area":  "御器所・松栄・白金",
+        "name":  "昭和区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-884-5513",
+        "url":  "https://www.showaku-shakyo.jp/support/"
+    },
+    {
+        "id":  1230,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市瑞穂区",
+        "area":  "汐路・豊岡・中根",
+        "name":  "瑞穂区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-858-4008",
+        "url":  "http://mizuhoikiiki.sakura.ne.jp/"
+    },
+    {
+        "id":  1231,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市瑞穂区",
+        "area":  "井戸田・高田・穂波",
+        "name":  "瑞穂区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-872-1705",
+        "url":  "http://mizuhoikiiki.sakura.ne.jp/"
+    },
+    {
+        "id":  1232,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市熱田区",
+        "area":  "区内全域",
+        "name":  "熱田区いきいき支援センター（外部リンク）",
+        "tel":  "052-671-3195",
+        "url":  "https://atuta-shakyo.jp/ikiikisien.html"
+    },
+    {
+        "id":  1233,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市中川区",
+        "area":  "愛知・篠原・昭和橋",
+        "name":  "中川区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-354-8343",
+        "url":  "https://www.nrs.or.jp/ikiiki/about/nakagawa/"
+    },
+    {
+        "id":  1234,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市中川区",
+        "area":  "赤星・荒子・五反田",
+        "name":  "中川区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-352-8258",
+        "url":  "http://www.nakagawashakyo.jp/m5/m5f.htm"
+    },
+    {
+        "id":  1235,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市港区",
+        "area":  "稲永・大手・港楽",
+        "name":  "港区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-651-0568",
+        "url":  "https://minato-shakyo-jp.secure-web.jp/?p=center"
+    },
+    {
+        "id":  1236,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市港区",
+        "area":  "小碓・港西・正保",
+        "name":  "港区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-381-3260",
+        "url":  "https://www.shoumei.or.jp/f_ikiiki.html"
+    },
+    {
+        "id":  1237,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市南区",
+        "area":  "大磯・春日野・菊住",
+        "name":  "南区北部いきいき支援センター（外部リンク）",
+        "tel":  "052-811-9377",
+        "url":  "http://www.zenjokai.jp/ikiiki.html"
+    },
+    {
+        "id":  1238,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市南区",
+        "area":  "笠寺・柴田・大生",
+        "name":  "南区南部いきいき支援センター（外部リンク）",
+        "tel":  "052-819-5050",
+        "url":  "https://minami-ikiiki.jp/"
+    },
+    {
+        "id":  1239,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市守山区",
+        "area":  "天子田・大森・小幡",
+        "name":  "守山区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-758-2013",
+        "url":  "http://www.moriyama-shakyo.jp/ikiiki/"
+    },
+    {
+        "id":  1240,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市守山区",
+        "area":  "小幡北・白沢・瀬古",
+        "name":  "守山区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-758-5560",
+        "url":  "http://www.moriyamaseibu.com/"
+    },
+    {
+        "id":  1241,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市緑区",
+        "area":  "旭出・浦里・大清水",
+        "name":  "緑区北部いきいき支援センター（外部リンク）",
+        "tel":  "052-899-2002",
+        "url":  "https://nmidori-shakyo.jp/ikiiki.html"
+    },
+    {
+        "id":  1242,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市緑区",
+        "area":  "相原・有松・大高",
+        "name":  "緑区南部いきいき支援センター（外部リンク）",
+        "tel":  "052-624-8343",
+        "url":  "https://www.nrs.or.jp/ikiiki/about/midori/"
+    },
+    {
+        "id":  1243,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市名東区",
+        "area":  "猪高・猪子石・香流",
+        "name":  "名東区北部いきいき支援センター（外部リンク）",
+        "tel":  "052-726-8777",
+        "url":  "http://meito-shakyo.or.jp/other-business-index/mt-north-iki2center/"
+    },
+    {
+        "id":  1244,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市名東区",
+        "area":  "梅森坂・上社・貴船",
+        "name":  "名東区南部いきいき支援センター（外部リンク）",
+        "tel":  "052-720-6121",
+        "url":  "https://www.keimeikai.or.jp/home-services/ikiiki-supportcenter/"
+    },
+    {
+        "id":  1245,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市天白区",
+        "area":  "相生・植田・原",
+        "name":  "天白区東部いきいき支援センター（外部リンク）",
+        "tel":  "052-809-5555",
+        "url":  "https://www.tenpaku-shakyo.com/support/aid/"
+    },
+    {
+        "id":  1246,
+        "prefecture":  "愛知県",
+        "city":  "名古屋市天白区",
+        "area":  "大坪・表山・天白",
+        "name":  "天白区西部いきいき支援センター（外部リンク）",
+        "tel":  "052-839-3663",
+        "url":  "http://www.yagotofukushikai.or.jp/facility_support.html"
+    }
+]
