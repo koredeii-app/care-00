@@ -1,0 +1,164 @@
+[
+    {
+        "id":  1359,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "石嶺町2・3・4丁目",
+        "name":  "那覇市地域包括支援センター石嶺",
+        "tel":  "098-886-7987",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1360,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "石嶺町1丁目・赤平町・儀保町・久場川町・平良町・大名町",
+        "name":  "那覇市地域包括支援センター大名",
+        "tel":  "098-886-5177",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1361,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "池端町・大中町・金城町・寒川町・鳥堀町・当蔵町・桃原町・真和志町・山川町",
+        "name":  "那覇市地域包括支援センター城西",
+        "tel":  "098-887-7700",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1362,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "繁多川・識名2・3丁目",
+        "name":  "那覇市地域包括支援センター繁多川",
+        "tel":  "098-963-6478",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1363,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "大道・松川・三原1・2丁目",
+        "name":  "那覇市地域包括支援センター松川",
+        "tel":  "098-882-1622",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1364,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "末吉町・松島・真嘉比・古島",
+        "name":  "那覇市地域包括支援センター松島",
+        "tel":  "098-882-2266",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1365,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "寄宮・長田・三原3丁目・上間1丁目・識名1・4丁目",
+        "name":  "那覇市地域包括支援センター識名",
+        "tel":  "098-987-1010",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1366,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "安里・壷屋・牧志3丁目・樋川2丁目・寄宮1・2丁目",
+        "name":  "那覇市地域包括支援センター安里",
+        "tel":  "098-987-9512",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1367,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "与儀・古波蔵・樋川1丁目",
+        "name":  "那覇市地域包括支援センター古波蔵",
+        "tel":  "098-855-6254",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1368,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "国場・仲井真・真地・字上間・字識名",
+        "name":  "那覇市地域包括支援センター国場",
+        "tel":  "098-851-9308",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1369,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "銘苅・天久1・2丁目・おもろまち3・4丁目",
+        "name":  "那覇市地域包括支援センター新都心",
+        "tel":  "098-941-2252",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1370,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "字天久・安謝・曙・港町",
+        "name":  "那覇市地域包括支援センター安謝",
+        "tel":  "098-860-3747",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1371,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "おもろまち1・2丁目・上之屋・泊・久茂地・前島1・2丁目・牧志1・2丁目",
+        "name":  "那覇市地域包括支援センター泊",
+        "tel":  "098-860-5121",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1372,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "前島3丁目・松山・若狭・久米・辻・通堂町・西・東町",
+        "name":  "那覇市地域包括支援センター若狭",
+        "tel":  "098-863-1165",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1373,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "松尾・楚辺・壷川・旭町・泉崎",
+        "name":  "那覇市地域包括支援センター城岳",
+        "tel":  "098-863-3660",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1374,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "奥武山町・山下町・垣花町・鏡原町・住吉町・赤嶺・安次嶺・金城・田原1丁目・宇栄原1〜3丁目",
+        "name":  "那覇市地域包括支援センターかなぐすく",
+        "tel":  "098-852-0777",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1375,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "字田原・田原2〜4丁目・字小禄・小禄1・4・5丁目",
+        "name":  "那覇市地域包括支援センター小禄",
+        "tel":  "098-858-0096",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    },
+    {
+        "id":  1376,
+        "prefecture":  "沖縄県",
+        "city":  "那覇市",
+        "area":  "小禄2・3丁目・宇栄原4〜6丁目・字高良・高良1・2丁目・具志・宮城",
+        "name":  "那覇市地域包括支援センター高良",
+        "tel":  "098-859-6633",
+        "url":  "https://www.city.naha.okinawa.jp/fukusi/koureisyafukusi/1003180/1003183.html"
+    }
+]
