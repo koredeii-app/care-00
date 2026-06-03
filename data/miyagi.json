@@ -1,0 +1,479 @@
+[
+    {
+        "id":  1165,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "上杉山中学校区",
+        "name":  "上杉地域包括支援センター",
+        "tel":  "022-221-5569",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1166,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "第一中学校区（国見）",
+        "name":  "国見地域包括支援センター",
+        "tel":  "022-727-8923",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1167,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "第二中学校区（木町通）",
+        "name":  "木町通地域包括支援センター",
+        "tel":  "022-216-3722",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1168,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "北仙台・双葉ヶ丘",
+        "name":  "双葉ヶ丘地域包括支援センター",
+        "tel":  "022-275-3881",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1169,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "三条・荒巻",
+        "name":  "葉山地域包括支援センター",
+        "tel":  "022-273-4910",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1170,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "台原中学校区",
+        "name":  "台原地域包括支援センター",
+        "tel":  "022-727-5360",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1171,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "五城中学校区（花京院・一番町）",
+        "name":  "花京院地域包括支援センター",
+        "tel":  "022-716-5390",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1172,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "広陵・大沢",
+        "name":  "大沢広陵地域包括支援センター",
+        "tel":  "022-399-6154",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1173,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "広瀬・錦ケ丘",
+        "name":  "あやし地域包括支援センター",
+        "tel":  "022-392-2230",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1174,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "吉成・中山",
+        "name":  "国見ヶ丘地域包括支援センター",
+        "tel":  "022-303-3805",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1175,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "南吉成・折立",
+        "name":  "南吉成地域包括支援センター",
+        "tel":  "022-719-5733",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1176,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "桜ヶ丘中学校区",
+        "name":  "桜ヶ丘地域包括支援センター",
+        "tel":  "022-303-5870",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1177,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "幸町・鶴谷",
+        "name":  "小松島地域包括支援センター",
+        "tel":  "022-233-6954",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1178,
+        "prefecture":  "宮城県",
+        "city":  "仙台市青葉区",
+        "area":  "五橋中学校区",
+        "name":  "五橋地域包括支援センター",
+        "tel":  "022-716-5460",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/aobaku.html"
+    },
+    {
+        "id":  1179,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "岩切中学校区",
+        "name":  "岩切地域包括支援センター",
+        "tel":  "022-255-2524",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1180,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "東仙台中学校区",
+        "name":  "東仙台地域包括支援センター",
+        "tel":  "050-3317-7065",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1181,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "原町・宮城野・東宮城野",
+        "name":  "宮城野地域包括支援センター",
+        "tel":  "022-355-2381",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1182,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "榴岡・連坊小路",
+        "name":  "榴岡地域包括支援センター",
+        "tel":  "022-297-5906",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1183,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "中野・高砂（七北田川左岸）",
+        "name":  "高砂地域包括支援センター",
+        "tel":  "022-388-7828",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1184,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "田子・高砂（七北田川右岸）",
+        "name":  "福田町地域包括支援センター",
+        "tel":  "022-388-6101",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1185,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "西山中学校区（燕沢）",
+        "name":  "燕沢地域包括支援センター",
+        "tel":  "022-388-3690",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1186,
+        "prefecture":  "宮城県",
+        "city":  "仙台市宮城野区",
+        "area":  "鶴ヶ谷・西山（一部）",
+        "name":  "鶴ヶ谷地域包括支援センター",
+        "tel":  "022-388-3801",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/miyaginoku.html"
+    },
+    {
+        "id":  1187,
+        "prefecture":  "宮城県",
+        "city":  "仙台市若林区",
+        "area":  "六郷中学校区",
+        "name":  "六郷地域包括支援センター",
+        "tel":  "022-289-2111",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/wakabayashiku.html"
+    },
+    {
+        "id":  1188,
+        "prefecture":  "宮城県",
+        "city":  "仙台市若林区",
+        "area":  "沖野中学校区",
+        "name":  "沖野地域包括支援センター",
+        "tel":  "022-294-0380",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/wakabayashiku.html"
+    },
+    {
+        "id":  1189,
+        "prefecture":  "宮城県",
+        "city":  "仙台市若林区",
+        "area":  "八軒中学校区（河原町）",
+        "name":  "河原町地域包括支援センター",
+        "tel":  "022-262-1180",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/wakabayashiku.html"
+    },
+    {
+        "id":  1190,
+        "prefecture":  "宮城県",
+        "city":  "仙台市若林区",
+        "area":  "七郷中学校区",
+        "name":  "七郷地域包括支援センター",
+        "tel":  "022-290-6761",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/wakabayashiku.html"
+    },
+    {
+        "id":  1191,
+        "prefecture":  "宮城県",
+        "city":  "仙台市若林区",
+        "area":  "蒲町・大和蒲町",
+        "name":  "大和蒲町地域包括支援センター",
+        "tel":  "022-783-6656",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/wakabayashiku.html"
+    },
+    {
+        "id":  1192,
+        "prefecture":  "宮城県",
+        "city":  "仙台市若林区",
+        "area":  "南小泉中学校区（遠見塚）",
+        "name":  "遠見塚地域包括支援センター",
+        "tel":  "022-781-3877",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/wakabayashiku.html"
+    },
+    {
+        "id":  1193,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "愛宕中学校区",
+        "name":  "愛宕橋地域包括支援センター",
+        "tel":  "022-215-8822",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1194,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "八木山中学校区",
+        "name":  "八木山地域包括支援センター",
+        "tel":  "022-229-0811",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1195,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "西多賀中学校区",
+        "name":  "西多賀地域包括支援センター",
+        "tel":  "022-307-3383",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1196,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "長町中学校区",
+        "name":  "長町地域包括支援センター",
+        "tel":  "022-304-2154",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1197,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "郡山中学校区",
+        "name":  "郡山地域包括支援センター",
+        "tel":  "022-748-0455",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1198,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "山田・人来田",
+        "name":  "山田地域包括支援センター",
+        "tel":  "022-307-4440",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1199,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "柳生中学校区（西中田）",
+        "name":  "西中田地域包括支援センター",
+        "tel":  "022-741-5290",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1200,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "中田・袋原",
+        "name":  "中田地域包括支援センター",
+        "tel":  "022-393-6533",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1201,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "袋原中学校区（東中田）",
+        "name":  "東中田地域包括支援センター",
+        "tel":  "022-242-6351",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1202,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "富沢・長町南",
+        "name":  "富沢地域包括支援センター",
+        "tel":  "022-398-5960",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1203,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "茂庭台・生出",
+        "name":  "茂庭地域包括支援センター",
+        "tel":  "022-281-4115",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1204,
+        "prefecture":  "宮城県",
+        "city":  "仙台市太白区",
+        "area":  "秋保中学校区",
+        "name":  "秋保地域包括支援センター",
+        "tel":  "022-399-2205",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/taihakuku.html"
+    },
+    {
+        "id":  1205,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "七北田中学校区",
+        "name":  "泉中央地域包括支援センター",
+        "tel":  "022-372-8079",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1206,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "将監・将監東",
+        "name":  "将監地域包括支援センター",
+        "tel":  "022-772-5501",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1207,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "寺岡中学校区",
+        "name":  "寺岡地域包括支援センター",
+        "tel":  "022-378-8886",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1208,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "高森・将監東（一部）",
+        "name":  "高森地域包括支援センター",
+        "tel":  "022-341-3665",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1209,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "鶴が丘中学校区",
+        "name":  "松森地域包括支援センター",
+        "tel":  "022-772-6220",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1210,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "松陵中学校区",
+        "name":  "松陵地域包括支援センター",
+        "tel":  "022-343-9460",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1211,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "向陽台中学校区",
+        "name":  "向陽台地域包括支援センター",
+        "tel":  "022-343-1512",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1212,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "南光台・南光台東",
+        "name":  "南光台地域包括支援センター",
+        "tel":  "022-251-8850",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1213,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "八乙女中学校区",
+        "name":  "八乙女地域包括支援センター",
+        "tel":  "022-301-9811",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1214,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "加茂中学校区",
+        "name":  "虹の丘・加茂地域包括支援センター",
+        "tel":  "022-373-9333",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1215,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "長命ケ丘中学校区",
+        "name":  "長命ケ丘地域包括支援センター",
+        "tel":  "022-725-3068",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1216,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "根白石・館・住吉台",
+        "name":  "根白石地域包括支援センター",
+        "tel":  "022-376-8310",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    },
+    {
+        "id":  1217,
+        "prefecture":  "宮城県",
+        "city":  "仙台市泉区",
+        "area":  "南中山中学校区",
+        "name":  "南中山地域包括支援センター",
+        "tel":  "022-343-5561",
+        "url":  "https://www.city.sendai.jp/hokatsushien/kurashi/kenkotofukushi/korenokata/hokatsushien/izumiku.html"
+    }
+]
