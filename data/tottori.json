@@ -1,0 +1,92 @@
+[
+    {
+        "id":  1377,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "北中学校区・中ノ郷中学校区",
+        "name":  "鳥取北地域包括支援センター",
+        "tel":  "0857-20-2205",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1378,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "南中学校区",
+        "name":  "鳥取南地域包括支援センター",
+        "tel":  "0857-54-1023",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1379,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "桜ヶ丘中学校区",
+        "name":  "鳥取桜ヶ丘地域包括支援センター",
+        "tel":  "0857-51-1250",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1380,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "西中学校区",
+        "name":  "鳥取西地域包括支援センター",
+        "tel":  "0857-50-0717",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1381,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "東中学校区",
+        "name":  "鳥取東地域包括支援センター",
+        "tel":  "0857-30-5711",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1382,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "江山学園・高草中学校区・湖南学園校区",
+        "name":  "鳥取高草地域包括支援センター",
+        "tel":  "0857-51-8112",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1383,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "湖東中学校区",
+        "name":  "鳥取湖東地域包括支援センター",
+        "tel":  "0857-30-0080",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1384,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "国府中学校・福部未来学園校区",
+        "name":  "鳥取市東部地域包括支援センター",
+        "tel":  "0857-50-0280",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1385,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "河原中学校・千代南中学校区",
+        "name":  "鳥取市南部地域包括支援センター",
+        "tel":  "0858-76-2351",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    },
+    {
+        "id":  1386,
+        "prefecture":  "鳥取県",
+        "city":  "鳥取市",
+        "area":  "気高中学校・鹿野学園・青谷中学校区",
+        "name":  "鳥取市西部地域包括支援センター",
+        "tel":  "0857-30-7780",
+        "url":  "https://www.city.tottori.lg.jp/www/contents/1397564164968/index.html"
+    }
+]

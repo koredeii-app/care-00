@@ -1148,9 +1148,10 @@ Promise.all([
   fetch("./data/hiroshima.json").then(r => r.json()),
   fetch("./data/iwate.json").then(r => r.json()),
   fetch("./data/okinawa.json").then(r => r.json()),
+  fetch("./data/tottori.json").then(r => r.json()),
   fetch("./data/citylinks.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, links]) => {
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, links]) => {
   cityLinks = links;
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa];
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori];
   renderScreen("start");
 });
