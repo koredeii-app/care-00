@@ -1,0 +1,101 @@
+[
+    {
+        "id":  1348,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "西厨川・桜城",
+        "name":  "盛岡駅西口地域包括支援センター",
+        "tel":  "019-606-3361",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028234.html"
+    },
+    {
+        "id":  1349,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "仁王・上田",
+        "name":  "仁王・上田地域包括支援センター",
+        "tel":  "019-661-9700",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028235.html"
+    },
+    {
+        "id":  1350,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "米内・山岸",
+        "name":  "浅岸和敬荘地域包括支援センター",
+        "tel":  "019-622-1711",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028236.html"
+    },
+    {
+        "id":  1351,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "松園",
+        "name":  "松園・緑が丘地域包括支援センター",
+        "tel":  "019-663-8181",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028237.html"
+    },
+    {
+        "id":  1352,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "簗川・中野",
+        "name":  "五月園地域包括支援センター",
+        "tel":  "019-613-6161",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028238.html"
+    },
+    {
+        "id":  1353,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "青山・東厨川",
+        "name":  "青山和敬荘地域包括支援センター",
+        "tel":  "019-648-8622",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028239.html"
+    },
+    {
+        "id":  1354,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "みたけ・北厨川",
+        "name":  "みたけ・北厨川地域包括支援センター",
+        "tel":  "019-648-8834",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028240.html"
+    },
+    {
+        "id":  1355,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "本宮・仙北",
+        "name":  "イーハトーブ地域包括支援センター",
+        "tel":  "019-636-3720",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028241.html"
+    },
+    {
+        "id":  1356,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "見前・津志田",
+        "name":  "地域包括支援センター川久保",
+        "tel":  "019-635-1682",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028242.html"
+    },
+    {
+        "id":  1357,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "永井",
+        "name":  "飯岡・永井地域包括支援センター",
+        "tel":  "019-656-7710",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028243.html"
+    },
+    {
+        "id":  1358,
+        "prefecture":  "岩手県",
+        "city":  "盛岡市",
+        "area":  "巻堀・好摩",
+        "name":  "玉山地域包括支援センター",
+        "tel":  "019-682-0088",
+        "url":  "https://www.city.morioka.iwate.jp/shisetsu/fukushi/1028233/1028244.html"
+    }
+]
