@@ -1,0 +1,380 @@
+[
+    {
+        "id":  1306,
+        "prefecture":  "広島県",
+        "city":  "広島市中区",
+        "area":  "基町小学校区",
+        "name":  "基町地域包括支援センター",
+        "tel":  "082-502-7955",
+        "url":  "https://www.city.hiroshima.med.or.jp/hma/youyou/houkatu_moto.html"
+    },
+    {
+        "id":  1307,
+        "prefecture":  "広島県",
+        "city":  "広島市中区",
+        "area":  "幟町（基町小学校区を除く）",
+        "name":  "幟町地域包括支援センター",
+        "tel":  "082-222-6608",
+        "url":  "https://nurse-hiroshima.or.jp/houkan/center/"
+    },
+    {
+        "id":  1308,
+        "prefecture":  "広島県",
+        "city":  "広島市中区",
+        "area":  "国泰寺",
+        "name":  "国泰寺地域包括支援センター",
+        "tel":  "082-249-0600",
+        "url":  "https://www.suiseikai.jp/support.html"
+    },
+    {
+        "id":  1309,
+        "prefecture":  "広島県",
+        "city":  "広島市中区",
+        "area":  "吉島",
+        "name":  "吉島地域包括支援センター",
+        "tel":  "082-545-1123",
+        "url":  "https://yoshijima-hokatsu.jimdofree.com/"
+    },
+    {
+        "id":  1310,
+        "prefecture":  "広島県",
+        "city":  "広島市中区",
+        "area":  "江波",
+        "name":  "江波地域包括支援センター",
+        "tel":  "082-296-4833",
+        "url":  "https://www.city.hiroshima.med.or.jp/hma/youyou/houkatu_eba.html"
+    },
+    {
+        "id":  1311,
+        "prefecture":  "広島県",
+        "city":  "広島市東区",
+        "area":  "福木・温品",
+        "name":  "福木・温品地域包括支援センター",
+        "tel":  "082-280-2330",
+        "url":  "https://takamasa.or.jp/home-service/community/"
+    },
+    {
+        "id":  1312,
+        "prefecture":  "広島県",
+        "city":  "広島市東区",
+        "area":  "戸坂",
+        "name":  "戸坂地域包括支援センター",
+        "tel":  "082-516-0051",
+        "url":  "https://hesakahokatu.com/"
+    },
+    {
+        "id":  1313,
+        "prefecture":  "広島県",
+        "city":  "広島市東区",
+        "area":  "牛田・早稲田",
+        "name":  "牛田・早稲田地域包括支援センター",
+        "tel":  "082-228-2033",
+        "url":  "https://komyogakuen.jp/ushita-houkatsu/"
+    },
+    {
+        "id":  1314,
+        "prefecture":  "広島県",
+        "city":  "広島市東区",
+        "area":  "二葉",
+        "name":  "二葉地域包括支援センター",
+        "tel":  "082-263-3864",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    },
+    {
+        "id":  1315,
+        "prefecture":  "広島県",
+        "city":  "広島市南区",
+        "area":  "大州",
+        "name":  "大州地域包括支援センター",
+        "tel":  "082-581-6025",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    },
+    {
+        "id":  1316,
+        "prefecture":  "広島県",
+        "city":  "広島市南区",
+        "area":  "段原",
+        "name":  "段原地域包括支援センター",
+        "tel":  "082-261-8588",
+        "url":  "https://joukou.or.jp/shisetsu/danbara/"
+    },
+    {
+        "id":  1317,
+        "prefecture":  "広島県",
+        "city":  "広島市南区",
+        "area":  "翠町",
+        "name":  "翠町地域包括支援センター",
+        "tel":  "082-252-5500",
+        "url":  "https://sites.google.com/view/midorimati-houkatu/"
+    },
+    {
+        "id":  1318,
+        "prefecture":  "広島県",
+        "city":  "広島市南区",
+        "area":  "仁保・楠那",
+        "name":  "仁保・楠那地域包括支援センター",
+        "tel":  "082-286-6112",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    },
+    {
+        "id":  1319,
+        "prefecture":  "広島県",
+        "city":  "広島市南区",
+        "area":  "宇品・似島",
+        "name":  "宇品・似島地域包括支援センター",
+        "tel":  "082-252-6456",
+        "url":  "https://wakoen.or.jp/publics/index/36/"
+    },
+    {
+        "id":  1320,
+        "prefecture":  "広島県",
+        "city":  "広島市西区",
+        "area":  "中広",
+        "name":  "中広地域包括支援センター",
+        "tel":  "082-509-0288",
+        "url":  "https://nakahirochiikihoukatu.com/"
+    },
+    {
+        "id":  1321,
+        "prefecture":  "広島県",
+        "city":  "広島市西区",
+        "area":  "観音",
+        "name":  "観音地域包括支援センター",
+        "tel":  "082-292-3582",
+        "url":  "http://www.hch.coop/hch/kaigo/kannonnhoukatu/index.html"
+    },
+    {
+        "id":  1322,
+        "prefecture":  "広島県",
+        "city":  "広島市西区",
+        "area":  "己斐・己斐上",
+        "name":  "己斐・己斐上地域包括支援センター",
+        "tel":  "082-275-0087",
+        "url":  "https://www.habatakinosato.jp/houkatsu/"
+    },
+    {
+        "id":  1323,
+        "prefecture":  "広島県",
+        "city":  "広島市西区",
+        "area":  "古田",
+        "name":  "古田地域包括支援センター",
+        "tel":  "082-272-5173",
+        "url":  "https://dohen.or.jp/furuta/"
+    },
+    {
+        "id":  1324,
+        "prefecture":  "広島県",
+        "city":  "広島市西区",
+        "area":  "庚午",
+        "name":  "庚午地域包括支援センター",
+        "tel":  "082-507-1210",
+        "url":  "https://dohen.or.jp/kougo/"
+    },
+    {
+        "id":  1325,
+        "prefecture":  "広島県",
+        "city":  "広島市西区",
+        "area":  "井口台・井口",
+        "name":  "井口台・井口地域包括支援センター",
+        "tel":  "082-501-6681",
+        "url":  "https://dohen.or.jp/inokuchidaiinokuchi/"
+    },
+    {
+        "id":  1326,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐南区",
+        "area":  "城山北・城南",
+        "name":  "城山北・城南地域包括支援センター",
+        "tel":  "082-831-1157",
+        "url":  "http://kawauchinosato.net/service/houkatsu"
+    },
+    {
+        "id":  1327,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐南区",
+        "area":  "安佐・安佐南",
+        "name":  "安佐・安佐南地域包括支援センター",
+        "tel":  "082-879-1876",
+        "url":  "http://www.hiroshimairyo.coop/blog/houkatu/"
+    },
+    {
+        "id":  1328,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐南区",
+        "area":  "高取北・安西",
+        "name":  "高取北・安西地域包括支援センター",
+        "tel":  "082-878-9401",
+        "url":  "http://www.jikouen.jp/takatorikitahoukatu.html"
+    },
+    {
+        "id":  1329,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐南区",
+        "area":  "東原・祇園東",
+        "name":  "東原・祇園東地域包括支援センター",
+        "tel":  "082-850-2220",
+        "url":  "http://www.jikouen.jp/higashiharahoukatu.html"
+    },
+    {
+        "id":  1330,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐南区",
+        "area":  "祇園・長束",
+        "name":  "祇園・長束地域包括支援センター",
+        "tel":  "082-875-0511",
+        "url":  "http://www.yuuaien.jp/support"
+    },
+    {
+        "id":  1331,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐南区",
+        "area":  "戸山・伴・大塚",
+        "name":  "戸山・伴・大塚地域包括支援センター",
+        "tel":  "082-849-5860",
+        "url":  "http://www.warakusou.or.jp/service/local.html"
+    },
+    {
+        "id":  1332,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐北区",
+        "area":  "白木",
+        "name":  "白木地域包括支援センター",
+        "tel":  "082-828-3361",
+        "url":  "https://shirakichiikihokatsu.jimdofree.com/"
+    },
+    {
+        "id":  1333,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐北区",
+        "area":  "高陽・亀崎・落合",
+        "name":  "高陽・亀崎・落合地域包括支援センター",
+        "tel":  "082-841-5533",
+        "url":  "https://www.koyochiikihokatsu.net/"
+    },
+    {
+        "id":  1334,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐北区",
+        "area":  "口田",
+        "name":  "口田地域包括支援センター",
+        "tel":  "082-842-8818",
+        "url":  "http://www.usuikai.jp/kuchita/"
+    },
+    {
+        "id":  1335,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐北区",
+        "area":  "三入・可部",
+        "name":  "三入・可部地域包括支援センター",
+        "tel":  "082-516-6611",
+        "url":  "https://www.dohen.or.jp/miirikabe/"
+    },
+    {
+        "id":  1336,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐北区",
+        "area":  "亀山",
+        "name":  "亀山地域包括支援センター",
+        "tel":  "082-819-0771",
+        "url":  "https://www.dohen.or.jp/kameyama/"
+    },
+    {
+        "id":  1337,
+        "prefecture":  "広島県",
+        "city":  "広島市安佐北区",
+        "area":  "清和・日浦",
+        "name":  "清和・日浦地域包括支援センター",
+        "tel":  "082-810-4688",
+        "url":  "https://www.igl.or.jp/kourei/tiiki.html"
+    },
+    {
+        "id":  1338,
+        "prefecture":  "広島県",
+        "city":  "広島市安芸区",
+        "area":  "瀬野川東",
+        "name":  "瀬野川東地域包括支援センター",
+        "tel":  "082-820-3711",
+        "url":  "https://hatano-group.jp/pages/51/"
+    },
+    {
+        "id":  1339,
+        "prefecture":  "広島県",
+        "city":  "広島市安芸区",
+        "area":  "瀬野川・船越",
+        "name":  "瀬野川・船越地域包括支援センター",
+        "tel":  "082-893-1839",
+        "url":  "https://jiraku.or.jp/service/counter/shien_center/"
+    },
+    {
+        "id":  1340,
+        "prefecture":  "広島県",
+        "city":  "広島市安芸区",
+        "area":  "阿戸・矢野",
+        "name":  "阿戸・矢野地域包括支援センター",
+        "tel":  "082-889-6605",
+        "url":  "https://www.kunikusa.or.jp/service/consultation-ato/"
+    },
+    {
+        "id":  1341,
+        "prefecture":  "広島県",
+        "city":  "広島市安芸区",
+        "area":  "阿戸・矢野（阿戸地区）",
+        "name":  "阿戸・矢野地域包括支援センター阿戸連絡所",
+        "tel":  "082-856-0613",
+        "url":  "https://www.kunikusa.or.jp/service/consultation-ato/"
+    },
+    {
+        "id":  1342,
+        "prefecture":  "広島県",
+        "city":  "広島市佐伯区",
+        "area":  "湯来・砂谷",
+        "name":  "湯来・砂谷地域包括支援センター",
+        "tel":  "0829-86-1241",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    },
+    {
+        "id":  1343,
+        "prefecture":  "広島県",
+        "city":  "広島市佐伯区",
+        "area":  "五月が丘・美鈴が丘",
+        "name":  "五月が丘・美鈴が丘地域包括支援センター",
+        "tel":  "082-208-5017",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    },
+    {
+        "id":  1344,
+        "prefecture":  "広島県",
+        "city":  "広島市佐伯区",
+        "area":  "三和",
+        "name":  "三和地域包括支援センター",
+        "tel":  "082-926-0025",
+        "url":  "http://www.jikouen.jp/sannwa.html"
+    },
+    {
+        "id":  1345,
+        "prefecture":  "広島県",
+        "city":  "広島市佐伯区",
+        "area":  "城山・五日市観音",
+        "name":  "城山・五日市観音地域包括支援センター",
+        "tel":  "082-924-7755",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    },
+    {
+        "id":  1346,
+        "prefecture":  "広島県",
+        "city":  "広島市佐伯区",
+        "area":  "五日市",
+        "name":  "五日市地域包括支援センター",
+        "tel":  "082-924-0053",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    },
+    {
+        "id":  1347,
+        "prefecture":  "広島県",
+        "city":  "広島市佐伯区",
+        "area":  "五日市南",
+        "name":  "五日市南地域包括支援センター",
+        "tel":  "082-924-8051",
+        "url":  "https://www.city.hiroshima.lg.jp/site/koureisha/804.html"
+    }
+]
