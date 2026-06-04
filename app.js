@@ -1166,9 +1166,19 @@ Promise.all([
   fetch("./data/nagano.json").then(r => r.json()),
   fetch("./data/kofu.json").then(r => r.json()),
   fetch("./data/yamaguchi.json").then(r => r.json()),
+  fetch("./data/fukushima.json").then(r => r.json()),
+  fetch("./data/mito.json").then(r => r.json()),
+  fetch("./data/utsunomiya.json").then(r => r.json()),
+  fetch("./data/maebashi.json").then(r => r.json()),
+  fetch("./data/gifu.json").then(r => r.json()),
+  fetch("./data/tsu.json").then(r => r.json()),
+  fetch("./data/otsu.json").then(r => r.json()),
+  fetch("./data/kyoto.json").then(r => r.json()),
+  fetch("./data/nara.json").then(r => r.json()),
+  fetch("./data/wakayama.json").then(r => r.json()),
   fetch("./data/citylinks.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, kochi, saga, toyama, nagano, kofu, yamaguchi, links]) => {
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, kochi, saga, toyama, nagano, kofu, yamaguchi, fukushima, mito, utsunomiya, maebashi, gifu, tsu, otsu, kyoto, nara, wakayama, links]) => {
   cityLinks = links;
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima, ...kochi, ...saga, ...toyama, ...nagano, ...kofu, ...yamaguchi];
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima, ...kochi, ...saga, ...toyama, ...nagano, ...kofu, ...yamaguchi, ...fukushima, ...mito, ...utsunomiya, ...maebashi, ...gifu, ...tsu, ...otsu, ...kyoto, ...nara, ...wakayama];
   renderScreen("start");
 });
