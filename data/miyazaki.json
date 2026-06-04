@@ -1,0 +1,173 @@
+[
+    {
+        "id":  1555,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "小戸・橘",
+        "name":  "宮崎市小戸・橘地区地域包括支援センター",
+        "tel":  "0985-29-5073",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1556,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "中央東・檍北",
+        "name":  "宮崎市中央東・檍北地区地域包括支援センター",
+        "tel":  "0985-60-0828",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1557,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "中央西",
+        "name":  "宮崎市中央西地区地域包括支援センター",
+        "tel":  "0985-64-8597",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1558,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "檍南",
+        "name":  "宮崎市檍南地区地域包括支援センター",
+        "tel":  "0985-23-0001",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1559,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "東大宮",
+        "name":  "宮崎市東大宮地区地域包括支援センター",
+        "tel":  "0985-22-0808",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1560,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "大宮",
+        "name":  "宮崎市大宮地区地域包括支援センター",
+        "tel":  "0985-61-1789",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1561,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "住吉",
+        "name":  "宮崎市住吉地区地域包括支援センター",
+        "tel":  "0985-65-8080",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1562,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "北",
+        "name":  "宮崎市北地区地域包括支援センター",
+        "tel":  "0985-36-0902",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1563,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "大塚台・生目台",
+        "name":  "宮崎市大塚台・生目台地区地域包括支援センター",
+        "tel":  "0985-62-3671",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1564,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "生目・小松台",
+        "name":  "宮崎市生目・小松台地区地域包括支援センター",
+        "tel":  "0985-62-3855",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1565,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "大塚",
+        "name":  "宮崎市大塚地区地域包括支援センター",
+        "tel":  "0985-65-8181",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1566,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "大淀",
+        "name":  "宮崎市大淀地区地域包括支援センター",
+        "tel":  "0985-55-1010",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1567,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "赤江",
+        "name":  "宮崎市赤江地区地域包括支援センター",
+        "tel":  "0985-63-5310",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1568,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "本郷",
+        "name":  "宮崎市本郷地区地域包括支援センター",
+        "tel":  "0985-72-6001",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1569,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "木花・青島",
+        "name":  "宮崎市木花・青島地区地域包括支援センター",
+        "tel":  "0985-63-8111",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1570,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "佐土原",
+        "name":  "宮崎市佐土原地区地域包括支援センター",
+        "tel":  "0985-48-7007",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1571,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "清武",
+        "name":  "宮崎市清武地区地域包括支援センター",
+        "tel":  "0985-55-6330",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1572,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "高岡",
+        "name":  "宮崎市高岡地区地域包括支援センター",
+        "tel":  "0985-30-9426",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    },
+    {
+        "id":  1573,
+        "prefecture":  "宮崎県",
+        "city":  "宮崎市",
+        "area":  "田野",
+        "name":  "宮崎市田野地区地域包括支援センター",
+        "tel":  "0985-86-5115",
+        "url":  "https://www.city.miyazaki.miyazaki.jp/gurumin/center/219660.html"
+    }
+]
