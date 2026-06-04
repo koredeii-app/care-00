@@ -736,5 +736,41 @@
         "name":  "草加市谷塚中央・谷塚東部地域包括支援センター",
         "tel":  "048-929-3613",
         "url":  "https://www.city.soka.saitama.jp/cont/s1511/040/PAGE000000000000079970.html"
+    },
+    {
+        "id":  1893,
+        "prefecture":  "埼玉県",
+        "city":  "戸田市",
+        "area":  "美女木・笹目・早瀬",
+        "name":  "戸田市立地域包括支援センター",
+        "tel":  "048-422-8821",
+        "url":  "https://www.city.toda.saitama.jp/site/medicalcenter/iry-sinryo-chiiki-top.html"
+    },
+    {
+        "id":  1894,
+        "prefecture":  "埼玉県",
+        "city":  "戸田市",
+        "area":  "本町・南町・上戸田・下戸田",
+        "name":  "戸田市中央地域包括支援センター",
+        "tel":  "048-432-6088",
+        "url":  "https://www.city.toda.saitama.jp/soshiki/234/chojukaigo-chiikihokatucenter.html"
+    },
+    {
+        "id":  1895,
+        "prefecture":  "埼玉県",
+        "city":  "戸田市",
+        "area":  "喜沢・中町・下前・川岸",
+        "name":  "戸田市東部地域包括支援センター",
+        "tel":  "048-434-6233",
+        "url":  "https://www.city.toda.saitama.jp/soshiki/234/chojukaigo-chiikihokatucenter.html"
+    },
+    {
+        "id":  1896,
+        "prefecture":  "埼玉県",
+        "city":  "戸田市",
+        "area":  "新曽・新曽南・氷川町・下笹目",
+        "name":  "戸田市新曽地域包括支援センター",
+        "tel":  "048-446-6767",
+        "url":  "https://www.city.toda.saitama.jp/soshiki/234/chojukaigo-chiikihokatucenter.html"
     }
 ]
