@@ -340,5 +340,113 @@
         "name":  "西宮市高齢者あんしん窓口山口",
         "tel":  "078-903-0525",
         "url":  "https://www.nishi.or.jp/kenko/koreishafukushi/sodammadoguchi/hokatsu.html"
+    },
+    {
+        "id":  1505,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "中央西",
+        "name":  "中央西地域包括支援センター",
+        "tel":  "06-6430-5615",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041tyuo.html"
+    },
+    {
+        "id":  1506,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "中央東",
+        "name":  "中央東地域包括支援センター",
+        "tel":  "06-4868-8300",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041tyuo.html"
+    },
+    {
+        "id":  1507,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "小田北",
+        "name":  "小田北地域包括支援センター",
+        "tel":  "06-6498-5111",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041oda.html"
+    },
+    {
+        "id":  1508,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "小田南",
+        "name":  "小田南地域包括支援センター",
+        "tel":  "06-6488-0180",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041oda.html"
+    },
+    {
+        "id":  1509,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "大庄北",
+        "name":  "大庄北地域包括支援センター",
+        "tel":  "06-6430-0511",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041oosyo.html"
+    },
+    {
+        "id":  1510,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "大庄南",
+        "name":  "大庄南地域包括支援センター",
+        "tel":  "06-6417-0125",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041oosyo.html"
+    },
+    {
+        "id":  1511,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "立花北",
+        "name":  "立花北地域包括支援センター",
+        "tel":  "06-6480-7553",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041tatibana.html"
+    },
+    {
+        "id":  1512,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "立花南",
+        "name":  "立花南地域包括支援センター",
+        "tel":  "06-6428-7112",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041tatibana.html"
+    },
+    {
+        "id":  1513,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "武庫東",
+        "name":  "武庫東地域包括支援センター",
+        "tel":  "06-4962-5308",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041muko.html"
+    },
+    {
+        "id":  1514,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "武庫西",
+        "name":  "武庫西地域包括支援センター",
+        "tel":  "06-6438-3955",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041muko.html"
+    },
+    {
+        "id":  1515,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "園田北",
+        "name":  "園田北地域包括支援センター",
+        "tel":  "06-6498-0826",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041sonoda.html"
+    },
+    {
+        "id":  1516,
+        "prefecture":  "兵庫県",
+        "city":  "尼崎市",
+        "area":  "園田南",
+        "name":  "園田南地域包括支援センター",
+        "tel":  "06-6494-8087",
+        "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041sonoda.html"
     }
 ]
