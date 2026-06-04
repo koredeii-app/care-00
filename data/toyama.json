@@ -1,0 +1,290 @@
+[
+    {
+        "id":  1620,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "水橋北",
+        "name":  "富山市水橋北地域包括支援センター",
+        "tel":  "076-478-0311",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1621,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "水橋南",
+        "name":  "富山市水橋南地域包括支援センター",
+        "tel":  "076-479-2299",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1622,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "大広田・浜黒崎",
+        "name":  "富山市大広田・浜黒崎地域包括支援センター",
+        "tel":  "076-437-8022",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1623,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "岩瀬・萩浦",
+        "name":  "富山市岩瀬・萩浦地域包括支援センター",
+        "tel":  "076-438-8483",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1624,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "和合",
+        "name":  "富山市和合地域包括支援センター",
+        "tel":  "076-435-0524",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1625,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "針原",
+        "name":  "富山市針原地域包括支援センター",
+        "tel":  "076-451-1200",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1626,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "新庄",
+        "name":  "富山市新庄地域包括支援センター",
+        "tel":  "076-451-8014",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1627,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "豊田",
+        "name":  "富山市豊田地域包括支援センター",
+        "tel":  "076-433-7870",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1628,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "広田",
+        "name":  "富山市広田地域包括支援センター",
+        "tel":  "076-411-0231",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1629,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "奥田北",
+        "name":  "富山市奥田北地域包括支援センター",
+        "tel":  "076-433-8808",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1630,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "奥田",
+        "name":  "富山市奥田地域包括支援センター",
+        "tel":  "076-432-5762",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1631,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "百塚",
+        "name":  "富山市百塚地域包括支援センター",
+        "tel":  "076-433-8266",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1632,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "呉羽",
+        "name":  "富山市呉羽地域包括支援センター",
+        "tel":  "076-436-2117",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1633,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "神明・五福",
+        "name":  "富山市神明・五福地域包括支援センター",
+        "tel":  "076-433-8857",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1634,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "愛宕・安野屋",
+        "name":  "富山市愛宕・安野屋地域包括支援センター",
+        "tel":  "076-433-2405",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1635,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "まちなか",
+        "name":  "富山市まちなか地域包括支援センター",
+        "tel":  "076-461-8151",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1636,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "柳町・清水町",
+        "name":  "富山市柳町・清水町地域包括支援センター",
+        "tel":  "076-492-6611",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1637,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "東部・山室",
+        "name":  "富山市東部・山室地域包括支援センター",
+        "tel":  "076-494-1220",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1638,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "藤ノ木・山室中部",
+        "name":  "富山市藤ノ木・山室中部地域包括支援センター",
+        "tel":  "076-492-3146",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1639,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "堀川・光陽",
+        "name":  "富山市堀川・光陽地域包括支援センター",
+        "tel":  "076-493-9111",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1640,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "蜷川",
+        "name":  "富山市蜷川地域包括支援センター",
+        "tel":  "076-429-6602",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1641,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "堀川南",
+        "name":  "富山市堀川南地域包括支援センター",
+        "tel":  "076-411-7373",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1642,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "太田",
+        "name":  "富山市太田地域包括支援センター",
+        "tel":  "076-422-3283",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1643,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "月岡",
+        "name":  "富山市月岡地域包括支援センター",
+        "tel":  "076-429-7151",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1644,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "新保・熊野",
+        "name":  "富山市新保・熊野地域包括支援センター",
+        "tel":  "076-429-6676",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1645,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "大沢野・細入",
+        "name":  "富山市大沢野・細入地域包括支援センター",
+        "tel":  "076-467-3590",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1646,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "大久保・船峅",
+        "name":  "富山市大久保・船峅地域包括支援センター",
+        "tel":  "076-468-8180",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1647,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "大山",
+        "name":  "富山市大山地域包括支援センター",
+        "tel":  "076-483-4188",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1648,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "八尾北・山田",
+        "name":  "富山市八尾北・山田地域包括支援センター",
+        "tel":  "076-454-6066",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1649,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "八尾南",
+        "name":  "富山市八尾南地域包括支援センター",
+        "tel":  "076-454-5506",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1650,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "婦中東",
+        "name":  "富山市婦中東地域包括支援センター",
+        "tel":  "076-466-0620",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    },
+    {
+        "id":  1651,
+        "prefecture":  "富山県",
+        "city":  "富山市",
+        "area":  "婦中西",
+        "name":  "富山市婦中西地域包括支援センター",
+        "tel":  "076-469-1050",
+        "url":  "https://www.city.toyama.lg.jp/health/kourei/1010504/1003641.html"
+    }
+]
