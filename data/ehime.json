@@ -1,0 +1,137 @@
+[
+    {
+        "id":  1517,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "湯築・桑原・道後",
+        "name":  "松山市地域包括支援センター湯築・桑原・道後",
+        "tel":  "089-993-5666",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1518,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "五明・伊台・湯山",
+        "name":  "松山市地域包括支援センター五明・伊台・湯山（サブセンター）",
+        "tel":  "089-993-5661",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1519,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "石井・浮穴・久谷",
+        "name":  "松山市地域包括支援センター石井・浮穴・久谷",
+        "tel":  "089-957-0808",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1520,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "浮穴・久谷",
+        "name":  "松山市地域包括支援センター浮穴・久谷（サブセンター）",
+        "tel":  "089-905-8889",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1521,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "小野・久米",
+        "name":  "松山市地域包括支援センター小野・久米",
+        "tel":  "089-970-3761",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1522,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "東・拓南",
+        "name":  "松山市地域包括支援センター東・拓南",
+        "tel":  "089-915-7760",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1523,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "雄郡・新玉",
+        "name":  "松山市地域包括支援センター雄郡・新玉",
+        "tel":  "089-993-7220",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1524,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "味酒・清水",
+        "name":  "松山市地域包括支援センター味酒・清水",
+        "tel":  "089-911-1135",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1525,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "垣生・余土",
+        "name":  "松山市地域包括支援センター垣生・余土",
+        "tel":  "089-989-7600",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1526,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "生石・味生",
+        "name":  "松山市地域包括支援センター生石・味生",
+        "tel":  "089-953-3888",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1527,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "三津浜",
+        "name":  "松山市地域包括支援センター三津浜",
+        "tel":  "089-953-1130",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1528,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "中島",
+        "name":  "松山市地域包括支援センター中島",
+        "tel":  "089-997-0454",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1529,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "潮見・久枝",
+        "name":  "松山市地域包括支援センター潮見・久枝",
+        "tel":  "089-994-8765",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1530,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "和気・堀江",
+        "name":  "松山市地域包括支援センター和気・堀江",
+        "tel":  "089-911-8005",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    },
+    {
+        "id":  1531,
+        "prefecture":  "愛媛県",
+        "city":  "松山市",
+        "area":  "北条",
+        "name":  "松山市地域包括支援センター北条",
+        "tel":  "089-992-0117",
+        "url":  "https://www.city.matsuyama.ehime.jp/kurashi/kaigohoken/koureisyashien/shien_center/houkatsu.html"
+    }
+]
