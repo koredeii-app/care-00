@@ -1165,9 +1165,10 @@ Promise.all([
   fetch("./data/toyama.json").then(r => r.json()),
   fetch("./data/nagano.json").then(r => r.json()),
   fetch("./data/kofu.json").then(r => r.json()),
+  fetch("./data/yamaguchi.json").then(r => r.json()),
   fetch("./data/citylinks.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, kochi, saga, toyama, nagano, kofu, links]) => {
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, kochi, saga, toyama, nagano, kofu, yamaguchi, links]) => {
   cityLinks = links;
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima, ...kochi, ...saga, ...toyama, ...nagano, ...kofu];
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima, ...kochi, ...saga, ...toyama, ...nagano, ...kofu, ...yamaguchi];
   renderScreen("start");
 });

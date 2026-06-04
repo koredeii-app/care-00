@@ -1,0 +1,92 @@
+[
+    {
+        "id":  1681,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "大殿・白石・湯田",
+        "name":  "山口市中央地域包括支援センター",
+        "tel":  "083-934-3338",
+        "url":  "https://www.city.yamaguchi.lg.jp/site/korei/4741.html"
+    },
+    {
+        "id":  1682,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "小鯖・大内",
+        "name":  "山口市北東地域包括支援センター",
+        "tel":  "083-941-6672",
+        "url":  "https://www.city.yamaguchi.lg.jp/site/korei/4741.html"
+    },
+    {
+        "id":  1683,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "仁保・宮野",
+        "name":  "山口市北東第２地域包括支援センター",
+        "tel":  "083-929-1414",
+        "url":  "https://www.city.yamaguchi.lg.jp/site/korei/4741.html"
+    },
+    {
+        "id":  1684,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "吉敷・平川・大歳",
+        "name":  "山口市鴻南地域包括支援センター",
+        "tel":  "083-934-3333",
+        "url":  "https://www.city.yamaguchi.lg.jp/site/korei/4741.html"
+    },
+    {
+        "id":  1685,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "小郡",
+        "name":  "山口市川西地域包括支援センター",
+        "tel":  "083-976-5711",
+        "url":  "https://www.city.yamaguchi.lg.jp/site/korei/4741.html"
+    },
+    {
+        "id":  1686,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "嘉川・佐山・阿知須",
+        "name":  "山口市川西第２地域包括支援センター",
+        "tel":  "0836-39-9012",
+        "url":  "https://www.city.yamaguchi.lg.jp/site/korei/4741.html"
+    },
+    {
+        "id":  1687,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "陶・鋳銭司・名田島・秋穂",
+        "name":  "山口市川東地域包括支援センター",
+        "tel":  "083-986-2077",
+        "url":  "https://www.city.yamaguchi.lg.jp/site/korei/4741.html"
+    },
+    {
+        "id":  1688,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "徳地",
+        "name":  "山口市基幹型地域包括支援センター徳地分室",
+        "tel":  "0835-52-0670",
+        "url":  "https://www.city.yamaguchi.lg.jp/map/korei/7259.html"
+    },
+    {
+        "id":  1689,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "阿東",
+        "name":  "山口市基幹型地域包括支援センター阿東分室",
+        "tel":  "083-956-0995",
+        "url":  "https://www.city.yamaguchi.lg.jp/map/korei/7260.html"
+    },
+    {
+        "id":  1690,
+        "prefecture":  "山口県",
+        "city":  "山口市",
+        "area":  "市内全域",
+        "name":  "山口市基幹型地域包括支援センター",
+        "tel":  "083-934-2758",
+        "url":  "https://www.city.yamaguchi.lg.jp/map/korei/7258.html"
+    }
+]
