@@ -63,6 +63,28 @@ h1 {
 }
 
 /*
+  アプリサブタイトル
+*/
+.app-subtitle {
+
+  margin-top:
+    -12px;
+
+  margin-bottom:
+    16px;
+
+  font-size:
+    13px;
+
+  text-align:
+    center;
+
+  color:
+    #78909c;
+
+}
+
+/*
   説明文
 */
 .notice {
