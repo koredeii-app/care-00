@@ -1159,9 +1159,10 @@ Promise.all([
   fetch("./data/ehime.json").then(r => r.json()),
   fetch("./data/oita.json").then(r => r.json()),
   fetch("./data/miyazaki.json").then(r => r.json()),
+  fetch("./data/tokushima.json").then(r => r.json()),
   fetch("./data/citylinks.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, links]) => {
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, links]) => {
   cityLinks = links;
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki];
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima];
   renderScreen("start");
 });

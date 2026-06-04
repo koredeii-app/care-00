@@ -1,0 +1,137 @@
+[
+    {
+        "id":  1574,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "内町",
+        "name":  "徳島市地域包括支援センター",
+        "tel":  "0120-24-6423",
+        "url":  "http://www.tokushimashi-med.or.jp/houkatsu.html"
+    },
+    {
+        "id":  1575,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "渭東・沖洲",
+        "name":  "白寿会在宅介護支援センター",
+        "tel":  "0120-26-8910",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1576,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "上八万・入田・八万西部",
+        "name":  "光風会在宅介護支援センター",
+        "tel":  "0120-13-1452",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1577,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "川内・応神",
+        "name":  "青香福祉会在宅介護支援センター",
+        "tel":  "0120-65-8011",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1578,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "津田・勝占東部",
+        "name":  "大神子園在宅介護支援センター",
+        "tel":  "0120-62-6061",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1579,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "加茂名",
+        "name":  "エルダリー在宅介護支援センター",
+        "tel":  "0120-30-6619",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1580,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "多家良・勝占中西部",
+        "name":  "平成在宅介護支援センター",
+        "tel":  "0120-87-0151",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1581,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "国府・南井上・北井上",
+        "name":  "国府フェニックス在宅介護支援センター",
+        "tel":  "0120-42-7172",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1582,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "八万東部",
+        "name":  "在宅介護支援センターピア",
+        "tel":  "0120-69-3339",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1583,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "加茂",
+        "name":  "水の都在宅介護支援センター",
+        "tel":  "0120-70-3369",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1584,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "佐古",
+        "name":  "社会福祉法人飛鳥在宅介護支援センター",
+        "tel":  "0120-57-0083",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1585,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "渭北",
+        "name":  "健生さわやか在宅介護支援センター",
+        "tel":  "0120-18-5506",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1586,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "不動",
+        "name":  "白寿会西部在宅介護支援センター",
+        "tel":  "0120-87-4215",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1587,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "昭和",
+        "name":  "在宅介護支援センターてらさわ",
+        "tel":  "0120-57-2636",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    },
+    {
+        "id":  1588,
+        "prefecture":  "徳島県",
+        "city":  "徳島市",
+        "area":  "新町・西富田・東富田",
+        "name":  "在宅介護支援センターとみだ",
+        "tel":  "0120-65-0070",
+        "url":  "https://www.city.tokushima.tokushima.jp/kenko_fukushi/kourei_fukushi/zaitaku_shien/chiiki_center.html"
+    }
+]
