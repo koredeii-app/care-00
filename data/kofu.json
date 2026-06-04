@@ -1,0 +1,83 @@
+[
+    {
+        "id":  1672,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "中央",
+        "name":  "甲府市中央地域包括支援センター",
+        "tel":  "055-225-2345",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/chuo.html"
+    },
+    {
+        "id":  1673,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "東",
+        "name":  "甲府市東地域包括支援センター",
+        "tel":  "055-233-6421",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/higashi.html"
+    },
+    {
+        "id":  1674,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "西",
+        "name":  "甲府市西地域包括支援センター",
+        "tel":  "055-220-7677",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/nishi.html"
+    },
+    {
+        "id":  1675,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "南",
+        "name":  "甲府市南地域包括支援センター",
+        "tel":  "055-242-2055",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/minami.html"
+    },
+    {
+        "id":  1676,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "北東",
+        "name":  "甲府市北東地域包括支援センター",
+        "tel":  "055-252-3398",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/hokuto.html"
+    },
+    {
+        "id":  1677,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "北西",
+        "name":  "甲府市北西地域包括支援センター",
+        "tel":  "055-252-4165",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/hokuse.html"
+    },
+    {
+        "id":  1678,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "南東",
+        "name":  "甲府市南東地域包括支援センター",
+        "tel":  "055-223-0103",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/nanto.html"
+    },
+    {
+        "id":  1679,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "南西",
+        "name":  "甲府市南西地域包括支援センター",
+        "tel":  "055-220-2315",
+        "url":  "https://sasamotokai.net/sasamotokai/nansei-shien-cc"
+    },
+    {
+        "id":  1680,
+        "prefecture":  "山梨県",
+        "city":  "甲府市",
+        "area":  "笛南",
+        "name":  "甲府市笛南地域包括支援センター",
+        "tel":  "055-266-4220",
+        "url":  "https://www.city.kofu.yamanashi.jp/kaigohoken/shisetsu/hoken/tekinan.html"
+    }
+]
