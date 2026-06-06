@@ -988,5 +988,122 @@
         "name":  "地域包括支援センター くつろぎ",
         "tel":  "06-6730-7715",
         "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  978,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "樟葉北・樟葉・樟葉南",
+        "name":  "枚方市地域包括支援センター はなまる",
+        "tel":  "072-856-9177",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  979,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "樟葉西・牧野",
+        "name":  "枚方市地域包括支援センター 社協ふれあい",
+        "tel":  "072-850-0344",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  980,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "船橋・招堤・平野・殿山第二",
+        "name":  "枚方市地域包括支援センター 聖徳園",
+        "tel":  "072-836-5555",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  981,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "小倉・西牧野・殿山第一・磯島",
+        "name":  "枚方市地域包括支援センター 安心苑",
+        "tel":  "072-807-3555",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  982,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "交北・山田・山田東・禁野",
+        "name":  "枚方市地域包括支援センター サール・ナート",
+        "tel":  "072-890-7770",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  983,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "桜丘・桜丘北・中宮・明倫",
+        "name":  "枚方市地域包括支援センター 松徳会",
+        "tel":  "072-805-2165",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  984,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "蹉跎・蹉跎西・蹉跎東・伊加賀",
+        "name":  "枚方市地域包括支援センター 美郷会",
+        "tel":  "072-837-3288",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  985,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "山之上・枚方・枚方第二",
+        "name":  "枚方市地域包括支援センター みどり",
+        "tel":  "072-845-2002",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  986,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "香陽・香里・開成・五常",
+        "name":  "枚方市地域包括支援センター アイリス",
+        "tel":  "072-853-1300",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  987,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "春日・川越・東香里",
+        "name":  "枚方市地域包括支援センター 大阪高齢者生協",
+        "tel":  "072-854-8770",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  988,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "菅原・西長尾・長尾",
+        "name":  "枚方市地域包括支援センター パナソニック エイジフリー",
+        "tel":  "072-864-5607",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  989,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "田口山・藤阪・菅原東",
+        "name":  "枚方市地域包括支援センター 大潤会",
+        "tel":  "072-857-0330",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  990,
+        "prefecture":  "大阪府",
+        "city":  "枚方市",
+        "area":  "津田・津田南・氷室",
+        "name":  "枚方市地域包括支援センター 東香会",
+        "tel":  "072-897-7800",
+        "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
     }
 ]
