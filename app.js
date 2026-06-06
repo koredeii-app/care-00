@@ -843,6 +843,11 @@ function renderCenterInfo(card) {
     ["無し", "担当者がいる"]
   );
 
+  const careAssessmentSelect = createSelect(
+    "介護認定",
+    ["なし", "要支援1", "要支援2", "要介護1", "要介護2", "要介護3", "要介護4", "要介護5"]
+  );
+
   /*
     症状チェック項目
   */
@@ -1027,6 +1032,7 @@ function renderCenterInfo(card) {
     const relationship = relationshipSelect.value;
     const living = livingSelect.value;
     const careManager = careManagerSelect.value;
+    const careAssessment = careAssessmentSelect.value;
 
     const symptoms =
       checkboxRefs
@@ -1035,7 +1041,7 @@ function renderCenterInfo(card) {
 
     if (
       !age && !gender && !since && !relationship &&
-      !living && !careManager && symptoms.length === 0
+      !living && !careManager && !careAssessment && symptoms.length === 0
     ) {
       return prefix
         ? prefix + "\n（詳細情報を選択すると追加されます）"
@@ -1068,6 +1074,12 @@ function renderCenterInfo(card) {
       s += "ケアマネージャーの担当者がいます。";
     }
 
+    if (careAssessment === "なし") {
+      s += "介護認定はありません。";
+    } else if (careAssessment) {
+      s += "介護認定は" + careAssessment + "です。";
+    }
+
     if (relationship) {
       s += "私は対象者の" + relationship + "です。";
     }
@@ -1087,8 +1099,9 @@ function renderCenterInfo(card) {
       since:        sinceSelect.value,
       relationship: relationshipSelect.value,
       living:       livingSelect.value,
-      careManager:  careManagerSelect.value,
-      symptoms:     checkboxRefs.filter(r => r.checkbox.checked).map(r => r.sentence)
+      careManager:      careManagerSelect.value,
+      careAssessment:   careAssessmentSelect.value,
+      symptoms:         checkboxRefs.filter(r => r.checkbox.checked).map(r => r.sentence)
     };
 
     sentenceBox.textContent = buildSentence();
@@ -1099,7 +1112,8 @@ function renderCenterInfo(card) {
       !!sinceSelect.value &&
       !!relationshipSelect.value &&
       !!livingSelect.value &&
-      !!careManagerSelect.value;
+      !!careManagerSelect.value &&
+      !!careAssessmentSelect.value;
 
     callButton.disabled = !allSelected;
 
@@ -1120,6 +1134,7 @@ function renderCenterInfo(card) {
   relationshipSelect.onchange = update;
   livingSelect.onchange = update;
   careManagerSelect.onchange = update;
+  careAssessmentSelect.onchange = update;
   checkboxRefs.forEach(r => {
     r.checkbox.onchange = update;
   });
@@ -1202,6 +1217,7 @@ function renderCenterInfo(card) {
   card.appendChild(relationshipSelect);
   card.appendChild(livingSelect);
   card.appendChild(careManagerSelect);
+  card.appendChild(careAssessmentSelect);
   card.appendChild(checkContainer);
   card.appendChild(pastIllnessInput);
   card.appendChild(ongoingIllnessInput);
@@ -1219,7 +1235,8 @@ function renderCenterInfo(card) {
   if (savedFormValues.since)        sinceSelect.value        = savedFormValues.since;
   if (savedFormValues.relationship) relationshipSelect.value = savedFormValues.relationship;
   if (savedFormValues.living)       livingSelect.value       = savedFormValues.living;
-  if (savedFormValues.careManager)  careManagerSelect.value  = savedFormValues.careManager;
+  if (savedFormValues.careManager)    careManagerSelect.value    = savedFormValues.careManager;
+  if (savedFormValues.careAssessment) careAssessmentSelect.value = savedFormValues.careAssessment;
   if (savedFormValues.symptoms) {
     savedFormValues.symptoms.forEach(s => {
       const ref = checkboxRefs.find(r => r.sentence === s);
