@@ -777,7 +777,7 @@ function renderCenterInfo(card) {
     telLink.style.fontWeight = "bold";
     telLink.style.color = "#0277bd";
     telLink.style.textDecoration = "none";
-    telLink.style.display = "block";
+    telLink.style.display = "inline-block";
     telLink.style.padding = "6px 0";
 
     row.appendChild(telLink);
