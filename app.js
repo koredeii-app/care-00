@@ -794,36 +794,15 @@ function renderCenterInfo(card) {
     document.createElement("div");
 
   prepSeparator.textContent =
-    "▼ 電話で伝える内容を事前に整理したい方はこちら";
+    "▼ 事前に整理したい方はこちら";
 
-  prepSeparator.style.fontSize = "14px";
+  prepSeparator.style.fontSize = "17px";
   prepSeparator.style.color = "#78909c";
   prepSeparator.style.textAlign = "center";
   prepSeparator.style.padding = "12px 0";
   prepSeparator.style.marginBottom = "16px";
   prepSeparator.style.borderTop = "1px solid #eceff1";
   prepSeparator.style.borderBottom = "1px solid #eceff1";
-
-  /*
-    準備ヘッダー
-  */
-  const prepHeader =
-    document.createElement("div");
-
-  prepHeader.textContent =
-    "電話で伝える内容を準備しましょう";
-
-  prepHeader.style.fontSize =
-    "16px";
-
-  prepHeader.style.fontWeight =
-    "bold";
-
-  prepHeader.style.marginBottom =
-    "16px";
-
-  prepHeader.style.color =
-    "#37474f";
 
   /*
     プルダウン
@@ -957,6 +936,51 @@ function renderCenterInfo(card) {
     checkContainer.appendChild(label);
 
   });
+
+  /*
+    病歴テキストボックス
+  */
+  function createMedicalInput(labelText) {
+
+    const wrapper =
+      document.createElement("div");
+
+    wrapper.style.marginBottom = "16px";
+
+    const lbl =
+      document.createElement("div");
+
+    lbl.textContent = labelText;
+    lbl.style.fontSize = "14px";
+    lbl.style.fontWeight = "bold";
+    lbl.style.color = "#37474f";
+    lbl.style.marginBottom = "6px";
+
+    const input =
+      document.createElement("input");
+
+    input.type = "text";
+    input.style.width = "100%";
+    input.style.boxSizing = "border-box";
+    input.style.padding = "10px 12px";
+    input.style.fontSize = "15px";
+    input.style.border = "1px solid #cfd8dc";
+    input.style.borderRadius = "8px";
+    input.style.color = "#37474f";
+    input.style.background = "#fafafa";
+
+    wrapper.appendChild(lbl);
+    wrapper.appendChild(input);
+
+    return wrapper;
+
+  }
+
+  const pastIllnessInput =
+    createMedicalInput("以前かかって完治した病気");
+
+  const ongoingIllnessInput =
+    createMedicalInput("治療を継続している病気");
 
   /*
     文章表示ボックス
@@ -1172,7 +1196,6 @@ function renderCenterInfo(card) {
   card.appendChild(callPrompt);
   card.appendChild(phoneSection);
   card.appendChild(prepSeparator);
-  card.appendChild(prepHeader);
   card.appendChild(ageSelect);
   card.appendChild(genderSelect);
   card.appendChild(sinceSelect);
@@ -1180,6 +1203,8 @@ function renderCenterInfo(card) {
   card.appendChild(livingSelect);
   card.appendChild(careManagerSelect);
   card.appendChild(checkContainer);
+  card.appendChild(pastIllnessInput);
+  card.appendChild(ongoingIllnessInput);
   card.appendChild(sentenceBox);
   card.appendChild(callButton);
   card.appendChild(link);
