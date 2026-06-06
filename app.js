@@ -1061,7 +1061,7 @@ function renderCenterInfo(card) {
     if (!isSelf) s += "対象者は";
 
     if (age || gender) {
-      s += "、" + age + gender + "で";
+      s += (isSelf ? "" : "、") + age + gender + "で";
     }
 
     if (since || symptoms.length > 0) {
