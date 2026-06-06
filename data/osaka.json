@@ -1105,5 +1105,131 @@
         "name":  "枚方市地域包括支援センター 東香会",
         "tel":  "072-897-7800",
         "url":  "https://www.city.hirakata.osaka.jp/kourei/0000002638.html"
+    },
+    {
+        "id":  991,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "桜塚・克明・南桜塚",
+        "name":  "豊中市地域包括支援センター 中央",
+        "tel":  "06-6841-9384",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  992,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "刀根山・大池・桜井谷・桜井谷東",
+        "name":  "豊中市地域包括支援センター 柴原",
+        "tel":  "06-6850-3451",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  993,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "上野・東豊台・東豊中",
+        "name":  "豊中市地域包括支援センター 少路",
+        "tel":  "06-6854-7878",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  994,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "北丘・東丘・西丘",
+        "name":  "豊中市地域包括支援センター 千里",
+        "tel":  "06-6155-1030",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  995,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "寺内・緑地・北条",
+        "name":  "豊中市地域包括支援センター 緑地",
+        "tel":  "06-6867-0577",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  996,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "豊島・豊島北・中豊島",
+        "name":  "豊中市地域包括支援センター 服部",
+        "tel":  "06-6865-1278",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  997,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "庄内よつば学園・庄内さくら学園",
+        "name":  "豊中市地域包括支援センター 庄内",
+        "tel":  "06-6335-0787",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  998,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "熊野田・泉丘",
+        "name":  "豊中市地域包括支援センター 中央（熊野田分室）",
+        "tel":  "06-4865-5160",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  999,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "螢池・箕輪",
+        "name":  "豊中市地域包括支援センター 柴原（螢池分室）",
+        "tel":  "06-6836-9764",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  1000,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "北緑丘・野畑・少路",
+        "name":  "豊中市地域包括支援センター 少路（北緑丘分室）",
+        "tel":  "06-6854-7808",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  1001,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "南丘・新田・新田南・東泉丘",
+        "name":  "豊中市地域包括支援センター 千里（南丘分室）",
+        "tel":  "06-6833-5565",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  1002,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "小曽根・高川・豊南",
+        "name":  "豊中市地域包括支援センター 緑地（高川分室）",
+        "tel":  "06-7650-8513",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  1003,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "原田・豊島西",
+        "name":  "豊中市地域包括支援センター 服部（原田分室）",
+        "tel":  "06-6849-2278",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  1004,
+        "prefecture":  "大阪府",
+        "city":  "豊中市",
+        "area":  "庄内（野田・島田・庄内地区）",
+        "name":  "豊中市地域包括支援センター 庄内（幸町分室）",
+        "tel":  "06-6336-0222",
+        "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
     }
 ]
