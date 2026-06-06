@@ -142,5 +142,230 @@
         "name":  "岡山市南区南地域包括支援センター市場分室",
         "tel":  "086-239-9151",
         "url":  "https://www.city.okayama.jp/kurashi/0000004155.html"
+    },
+    {
+        "id": 1920,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "倉敷東小・万寿小・万寿東小・菅生小一部",
+        "name": "高齢者支援センター倉敷中部",
+        "tel": "086-430-6703",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1921,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "倉敷西小・粒江小",
+        "name": "高齢者支援センター倉敷南",
+        "tel": "086-420-1355",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1922,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "老松小・中洲小",
+        "name": "高齢者支援センター老松・中洲",
+        "tel": "086-427-1191",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1923,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "大高小・葦高小・倉敷南小",
+        "name": "高齢者支援センター大高",
+        "tel": "086-427-8811",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1924,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "中島小・西阿知小・連島北小一部",
+        "name": "高齢者支援センター倉敷西",
+        "tel": "086-466-3156",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1925,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "帯江小・豊洲小",
+        "name": "高齢者支援センター帯江・豊洲",
+        "tel": "086-429-2714",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1926,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "中庄小",
+        "name": "高齢者支援センター中庄",
+        "tel": "086-461-2357",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1927,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "茶屋町小・天城小",
+        "name": "高齢者支援センター天城・茶屋町",
+        "tel": "086-428-1661",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1928,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "庄小一部（上東地区他）",
+        "name": "高齢者支援センター庄北",
+        "tel": "086-461-0085",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1929,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "庄小一部（下庄地区他）・菅生小一部",
+        "name": "高齢者支援センター倉敷北",
+        "tel": "086-463-7760",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1930,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "第四福田小・第五福田小・水島小",
+        "name": "高齢者支援センター水島",
+        "tel": "086-446-6511",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1931,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "第一福田小・第二福田小・第三福田小",
+        "name": "高齢者支援センター福田",
+        "tel": "086-455-5132",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1932,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "連島東小・旭丘小他",
+        "name": "高齢者支援センター連島",
+        "tel": "086-444-3200",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1933,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "琴浦東小・琴浦西小一部他",
+        "name": "高齢者支援センター琴浦",
+        "tel": "086-473-9001",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1934,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "児島小・緑丘小・琴浦西小一部",
+        "name": "高齢者支援センター児島中部",
+        "tel": "086-473-0847",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1935,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "味野小・本荘小",
+        "name": "高齢者支援センター児島西",
+        "tel": "086-472-0221",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1936,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "赤崎小",
+        "name": "高齢者支援センター赤崎",
+        "tel": "086-472-2941",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1937,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "下津井東小・下津井西小",
+        "name": "高齢者支援センター下津井",
+        "tel": "086-479-8271",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1938,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "郷内小",
+        "name": "高齢者支援センター郷内",
+        "tel": "086-470-2005",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1939,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "上成小・乙島小・乙島東小",
+        "name": "高齢者支援センター玉島東",
+        "tel": "086-523-6235",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1940,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "玉島小・柏島小",
+        "name": "高齢者支援センター玉島中部",
+        "tel": "086-523-5322",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1941,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "玉島南小・沙美小・南浦小",
+        "name": "高齢者支援センター玉島南",
+        "tel": "086-528-3266",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1942,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "長尾小・富田小・穂井田小",
+        "name": "高齢者支援センター玉島北",
+        "tel": "086-525-1339",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1943,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "船穂小・柳井原小",
+        "name": "高齢者支援センター船穂",
+        "tel": "086-552-9005",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
+    },
+    {
+        "id": 1944,
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "area": "川辺小・岡田小他5校",
+        "name": "高齢者支援センター真備",
+        "tel": "086-698-5999",
+        "url": "https://www.city.kurashiki.okayama.jp/fukushi/elderly/1004080/1004706.html"
     }
 ]
