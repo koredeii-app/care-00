@@ -529,5 +529,221 @@
         "name":  "いきいきセンターふくおか 西第8",
         "tel":  "092-834-8547",
         "url":  "https://www.city.fukuoka.lg.jp/fukushi/chiikihoken/health/00/04/4-030101-1_2.html"
+    },
+    {
+        "id":  1306,
+        "prefecture":  "福岡県",
+        "city":  "北九州市門司区",
+        "area":  "大積・白野江・柄杓田・松ケ江北・松ケ江南",
+        "name":  "地域包括支援センター 門司1",
+        "tel":  "093-481-1028",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1307,
+        "prefecture":  "福岡県",
+        "city":  "北九州市門司区",
+        "area":  "田野浦・港が丘・門司中央・門司海青・小森江",
+        "name":  "地域包括支援センター 門司2",
+        "tel":  "093-331-2041",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1308,
+        "prefecture":  "福岡県",
+        "city":  "北九州市門司区",
+        "area":  "大里東・大里南・大里柳・西門司・萩ケ丘・藤松・小森江",
+        "name":  "地域包括支援センター 門司3",
+        "tel":  "093-391-2017",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1309,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉北区",
+        "area":  "足原・霧丘・桜丘・寿山・富野",
+        "name":  "地域包括支援センター 小倉北1",
+        "tel":  "093-562-2515",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1310,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉北区",
+        "area":  "藍島・足立・貴船・小倉中央・三郎丸・中島・城野",
+        "name":  "地域包括支援センター 小倉北2",
+        "tel":  "093-562-2516",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1311,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉北区",
+        "area":  "到津・井堀・中井・西小倉・日明・高見",
+        "name":  "地域包括支援センター 小倉北3",
+        "tel":  "093-591-3014",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1312,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉北区",
+        "area":  "泉台・今町・清水・南丘・南小倉",
+        "name":  "地域包括支援センター 小倉北4",
+        "tel":  "093-591-3015",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1313,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉南区",
+        "area":  "朽網・曽根・曽根東・田原・貫・東朽網",
+        "name":  "地域包括支援センター 小倉南1",
+        "tel":  "093-475-7392",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1314,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉南区",
+        "area":  "葛原・高蔵・沼・湯川・吉田",
+        "name":  "地域包括支援センター 小倉南2",
+        "tel":  "093-923-7039",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1315,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉南区",
+        "area":  "北方・城野・横代・若園・霧丘",
+        "name":  "地域包括支援センター 小倉南3",
+        "tel":  "093-952-5128",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1316,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉南区",
+        "area":  "企救丘・広徳・志井・徳力・長尾・守恒・南丘",
+        "name":  "地域包括支援センター 小倉南4",
+        "tel":  "093-923-7052",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1317,
+        "prefecture":  "福岡県",
+        "city":  "北九州市小倉南区",
+        "area":  "市丸・合馬・長行・新道寺・すがお",
+        "name":  "地域包括支援センター 小倉南5",
+        "tel":  "093-451-3109",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1318,
+        "prefecture":  "福岡県",
+        "city":  "北九州市若松区",
+        "area":  "赤崎・くきのうみ・小石・深町・藤木・若松中央",
+        "name":  "地域包括支援センター 若松1",
+        "tel":  "093-751-5281",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1319,
+        "prefecture":  "福岡県",
+        "city":  "北九州市若松区",
+        "area":  "青葉・江川・鴨生田・高須・花房・二島・ひびきの",
+        "name":  "地域包括支援センター 若松2",
+        "tel":  "093-701-1035",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1320,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡東区",
+        "area":  "祝町・枝光・高槻・高見・槻田・ひびきが丘",
+        "name":  "地域包括支援センター 八幡東1",
+        "tel":  "093-663-3305",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1321,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡東区",
+        "area":  "大蔵・河内・皿倉・花尾・八幡",
+        "name":  "地域包括支援センター 八幡東2",
+        "tel":  "093-661-5132",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1322,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡西区",
+        "area":  "赤坂・浅川・医生丘・折尾東・本城・光貞・ひびきの",
+        "name":  "地域包括支援センター 八幡西1",
+        "tel":  "093-601-5402",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1323,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡西区",
+        "area":  "永犬丸・永犬丸西・折尾西・則松・八枝",
+        "name":  "地域包括支援センター 八幡西2",
+        "tel":  "093-644-7623",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1324,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡西区",
+        "area":  "青山・穴生・熊西・竹末・萩原・引野",
+        "name":  "地域包括支援センター 八幡西3",
+        "tel":  "093-621-5032",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1325,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡西区",
+        "area":  "黒畑・黒崎中央・筒井・鳴水・花尾",
+        "name":  "地域包括支援センター 八幡西4",
+        "tel":  "093-621-5053",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1326,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡西区",
+        "area":  "大原・上津役・塔野・中尾・八児",
+        "name":  "地域包括支援センター 八幡西5",
+        "tel":  "093-611-5063",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1327,
+        "prefecture":  "福岡県",
+        "city":  "北九州市八幡西区",
+        "area":  "池田・香月・楠橋・木屋瀬・千代・星ヶ丘",
+        "name":  "地域包括支援センター 八幡西6",
+        "tel":  "093-617-2752",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1328,
+        "prefecture":  "福岡県",
+        "city":  "北九州市戸畑区",
+        "area":  "あやめが丘・戸畑中央・中原",
+        "name":  "地域包括支援センター 戸畑1",
+        "tel":  "093-861-2166",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
+    },
+    {
+        "id":  1329,
+        "prefecture":  "福岡県",
+        "city":  "北九州市戸畑区",
+        "area":  "一枝・大谷・鞘ケ谷・天籟寺・牧山",
+        "name":  "地域包括支援センター 戸畑2",
+        "tel":  "093-861-2165",
+        "url":  "https://www.city.kitakyushu.lg.jp/contents/924_11803.html"
     }
 ]
