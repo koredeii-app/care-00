@@ -1366,5 +1366,140 @@
         "name":  "吹田市地域包括支援センター 津雲台・藤白台",
         "tel":  "06-7654-5350",
         "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id": 1295,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "八尾中学校区",
+        "name": "高齢者あんしんセンター萱振苑",
+        "tel": "072-928-7080",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1296,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "桂中学校区",
+        "name": "高齢者あんしんセンタースローライフ北",
+        "tel": "072-924-3344",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1297,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "上之島中学校区",
+        "name": "高齢者あんしんセンタースローライフ八尾",
+        "tel": "072-990-1220",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1298,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "龍華中学校区",
+        "name": "高齢者あんしんセンターりゅうげ",
+        "tel": "072-943-0261",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1299,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "亀井中学校区",
+        "name": "高齢者あんしんセンターホーム太子堂",
+        "tel": "072-996-0262",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1300,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "久宝寺中学校区",
+        "name": "高齢者あんしんセンター久宝寺愛の郷",
+        "tel": "072-990-0337",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1301,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "志紀中学校区",
+        "name": "高齢者あんしんセンター楽寿",
+        "tel": "072-920-3612",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1302,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "大正中学校区",
+        "name": "高齢者あんしんセンターあおぞら",
+        "tel": "072-948-8222",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1303,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "曙川南中学校区",
+        "name": "高齢者あんしんセンター緑風園",
+        "tel": "072-949-6670",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1304,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "成法中学校区",
+        "name": "高齢者あんしんセンター長生園",
+        "tel": "072-991-0182",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1305,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "曙川中学校区",
+        "name": "高齢者あんしんセンターサポートやお",
+        "tel": "072-925-1199",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1306,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "高美中学校区",
+        "name": "高齢者あんしんセンター成法苑",
+        "tel": "072-994-8030",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1307,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "高安中学校区",
+        "name": "高齢者あんしんセンター寿光園",
+        "tel": "072-940-5505",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1308,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "南高安中学校区",
+        "name": "高齢者あんしんセンター信貴の里",
+        "tel": "072-940-5727",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1309,
+        "prefecture": "大阪府",
+        "city": "八尾市",
+        "area": "東中学校区",
+        "name": "高齢者あんしんセンター中谷",
+        "tel": "072-943-0801",
+        "url": "https://www.city.yao.osaka.jp/0000008231.html"
     }
 ]
