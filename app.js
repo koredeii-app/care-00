@@ -94,6 +94,40 @@ const screens = {
 
         concern:
           "unsure"
+      },
+
+      {
+        text:
+          "家族に迷惑をかけたくない",
+
+        description:
+          "お金や病気のことで心配をかけたくない",
+
+        color:
+          "#1565c0",
+
+        next:
+          "regionSelect",
+
+        concern:
+          "family_burden"
+      },
+
+      {
+        text:
+          "自分１人だけだから、今後が心配",
+
+        description:
+          "病気やケガなど、今後のことがどうすればいいか分からない",
+
+        color:
+          "#2e7d32",
+
+        next:
+          "regionSelect",
+
+        concern:
+          "solo_future"
       }
 
     ]
@@ -131,14 +165,18 @@ const concernIntros = {
   forgetfulness: "認知症の疑いがある場合も、まず電話で話せます",
   caregiving:    "すでに介護している方からの相談も歓迎されています",
   living_alone:  "見守りや生活支援の相談もできます",
-  unsure:        "「まだ早いかな」という段階が、一番相談しやすい時期です"
+  unsure:        "「まだ早いかな」という段階が、一番相談しやすい時期です",
+  family_burden: "一人で抱え込まず、まず話してみることから始められます",
+  solo_future:   "将来への備えについて、具体的な選択肢を一緒に考えられます"
 };
 
 const concernPrefixes = {
   forgetfulness: "認知症の様な感じがするので、どうすればいいか相談をしたいです。",
   caregiving:    "介護で疲れているので、何か支援が無いか相談したいです。",
   living_alone:  "親の生活が心配で、何か見守りや支援が無いか相談したいです。",
-  unsure:        "まだ大変な状態ではないけれど、今後に備えて相談したいです。"
+  unsure:        "まだ大変な状態ではないけれど、今後に備えて相談したいです。",
+  family_burden: "家族に心配や迷惑をかけたくないのですが、お金や病気のことで相談したいです。",
+  solo_future:   "一人暮らしで、病気やケガなど今後のことが不安なので相談したいです。"
 };
 
 /*
