@@ -259,5 +259,257 @@
         "name": "天白区西部いきいき支援センター",
         "tel": "052-839-3663",
         "url": "http://www.yagotofukushikai.or.jp/facility_support.html"
+    },
+    {
+        "id": 1247,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "逢妻地区",
+        "name": "ほっとかん地域包括支援センター",
+        "tel": "0565-36-3006",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1248,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "旭地区",
+        "name": "ぬくもりの里包括支援センター",
+        "tel": "0565-68-2338",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1249,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "朝日丘地区",
+        "name": "社協包括支援センター",
+        "tel": "0565-32-4342",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1250,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "足助地区",
+        "name": "足助地域包括支援センター",
+        "tel": "0565-62-0683",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1251,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "井郷地区",
+        "name": "豊田福寿園地域包括支援センター",
+        "tel": "0565-45-5357",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1252,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "石野地区",
+        "name": "石野の里地域包括支援センター",
+        "tel": "0565-78-6711",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1253,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "稲武地区",
+        "name": "いなぶ包括支援センター",
+        "tel": "0565-82-2530",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1254,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "梅坪台地区",
+        "name": "豊田地域ケア支援センター",
+        "tel": "0565-34-3209",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1255,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "小原地区",
+        "name": "ふくしの里包括支援センター",
+        "tel": "0565-65-1600",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1256,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "上郷地区",
+        "name": "地域包括支援センターかずえの郷",
+        "tel": "0565-21-6725",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1257,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "猿投地区",
+        "name": "地域包括支援センター猿投の楽園",
+        "tel": "0565-45-3717",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1258,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "猿投台地区",
+        "name": "こささの里地域包括支援センター",
+        "tel": "0565-46-9677",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1259,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "下山地区",
+        "name": "まどいの丘包括支援センター",
+        "tel": "0565-90-4335",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1260,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "浄水地区",
+        "name": "豊田厚生地域包括支援センター",
+        "tel": "0565-43-5022",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1261,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "末野原地区",
+        "name": "みなみ福寿園地域包括支援センター",
+        "tel": "0565-24-5000",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1262,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "崇化館地区",
+        "name": "ひまわり邸地域包括支援センター",
+        "tel": "0565-33-0801",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1263,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "高岡地区",
+        "name": "わかばやし園地域包括支援センター",
+        "tel": "0565-51-1255",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1264,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "高橋地区",
+        "name": "地域包括支援センターくらがいけ",
+        "tel": "0565-80-1244",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1265,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "藤岡地区",
+        "name": "ふじのさと包括支援センター",
+        "tel": "0565-76-5294",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1266,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "藤岡南地区",
+        "name": "地域包括支援センター藤岡の楽園",
+        "tel": "0565-75-1258",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1267,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "豊南地区",
+        "name": "トヨタ地域包括支援センター",
+        "tel": "0565-24-0623",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1268,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "保見地区",
+        "name": "地域包括支援センター保見の里",
+        "tel": "0565-48-3004",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1269,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "前林地区",
+        "name": "つつみ園地域包括支援センター",
+        "tel": "0565-51-5206",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1270,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "益富地区",
+        "name": "地域包括支援センター益富の楽園",
+        "tel": "0565-41-7788",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1271,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "松平地区",
+        "name": "笑いの家地域包括支援センター",
+        "tel": "0565-58-5152",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1272,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "美里地区",
+        "name": "地域包括支援センターとよた苑",
+        "tel": "0565-87-3700",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1273,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "竜神地区",
+        "name": "ひまわりの街地域包括支援センター",
+        "tel": "0565-47-8158",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1274,
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "area": "若園地区",
+        "name": "みのり園地域包括支援センター",
+        "tel": "0565-53-6361",
+        "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
     }
 ]
