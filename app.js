@@ -702,6 +702,17 @@ function renderCenterInfo(card) {
   /*
     電話番号
   */
+  const callPrompt =
+    document.createElement("div");
+
+  callPrompt.textContent =
+    "今すぐ相談したい方は、下の電話番号を押してください";
+
+  callPrompt.style.fontSize = "14px";
+  callPrompt.style.fontWeight = "bold";
+  callPrompt.style.color = "#1565c0";
+  callPrompt.style.marginBottom = "10px";
+
   const phoneSection =
     document.createElement("div");
 
@@ -717,19 +728,43 @@ function renderCenterInfo(card) {
     const row =
       document.createElement("div");
 
-    row.textContent =
+    const telLink =
+      document.createElement("a");
+
+    telLink.href = "tel:" + p.number;
+    telLink.textContent =
       p.label + " : " + p.number;
 
-    row.style.fontSize = "18px";
-    row.style.color = "#546e7a";
+    telLink.style.fontSize = "20px";
+    telLink.style.fontWeight = "bold";
+    telLink.style.color = "#0277bd";
+    telLink.style.textDecoration = "none";
+    telLink.style.display = "block";
+    telLink.style.padding = "6px 0";
+
+    row.appendChild(telLink);
 
     if (i < phoneEntries.length - 1) {
-      row.style.marginBottom = "8px";
+      row.style.marginBottom = "4px";
     }
 
     phoneSection.appendChild(row);
 
   });
+
+  const prepSeparator =
+    document.createElement("div");
+
+  prepSeparator.textContent =
+    "▼ 電話で伝える内容を事前に整理したい方はこちら";
+
+  prepSeparator.style.fontSize = "14px";
+  prepSeparator.style.color = "#78909c";
+  prepSeparator.style.textAlign = "center";
+  prepSeparator.style.padding = "12px 0";
+  prepSeparator.style.marginBottom = "16px";
+  prepSeparator.style.borderTop = "1px solid #eceff1";
+  prepSeparator.style.borderBottom = "1px solid #eceff1";
 
   /*
     準備ヘッダー
@@ -1096,7 +1131,9 @@ function renderCenterInfo(card) {
   /*
     配置
   */
+  card.appendChild(callPrompt);
   card.appendChild(phoneSection);
+  card.appendChild(prepSeparator);
   card.appendChild(prepHeader);
   card.appendChild(ageSelect);
   card.appendChild(genderSelect);
