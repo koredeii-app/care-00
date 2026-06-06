@@ -1501,5 +1501,117 @@
         "name": "高齢者あんしんセンター中谷",
         "tel": "072-943-0801",
         "url": "https://www.city.yao.osaka.jp/0000008231.html"
+    },
+    {
+        "id": 1908,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "安岡寺町・大字原・樫田地区",
+        "name": "高槻北地域包括支援センター",
+        "tel": "072-687-0303",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1909,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "浦堂・黄金の里・松が丘",
+        "name": "清水地域包括支援センター",
+        "tel": "072-680-2239",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1910,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "安満地区・美しが丘・日吉台",
+        "name": "日吉台東地域包括支援センター",
+        "tel": "072-689-0184",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1911,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "井尻・上牧町・五領町",
+        "name": "五領・上牧地域包括支援センター",
+        "tel": "072-660-3100",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1912,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "天川町・大手町・本町",
+        "name": "天川地域包括支援センター",
+        "tel": "072-669-5703",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1913,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "大冠町・大塚町・東和町",
+        "name": "冠・大塚地域包括支援センター",
+        "tel": "072-662-6363",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1914,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "川添・栄町・芝生町",
+        "name": "富田南・下田部地域包括支援センター",
+        "tel": "072-673-7011",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1915,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "三島江・唐崎・柱本",
+        "name": "三箇牧地域包括支援センター",
+        "tel": "072-679-1770",
+        "phones": [
+            { "label": "電話番号1", "number": "072-679-1770" },
+            { "label": "電話番号2", "number": "072-679-1771" }
+        ],
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1916,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "城西町・高槻町・津之江町",
+        "name": "高槻中央地域包括支援センター",
+        "tel": "072-676-9522",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1917,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "富田町・昭和台町・柳川町",
+        "name": "富田地域包括支援センター",
+        "tel": "072-694-2434",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1918,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "郡家新町・川西町・芥川町",
+        "name": "郡家地域包括支援センター",
+        "tel": "072-681-8181",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
+    },
+    {
+        "id": 1919,
+        "prefecture": "大阪府",
+        "city": "高槻市",
+        "area": "阿武野・奈佐原・氷室町",
+        "name": "阿武山地域包括支援センター",
+        "tel": "072-692-3112",
+        "url": "https://www.city.takatsuki.osaka.jp/site/koreisha-ikiiki/2471.html"
     }
 ]
