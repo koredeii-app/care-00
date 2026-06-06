@@ -840,7 +840,7 @@ function renderCenterInfo(card) {
 
   const careManagerSelect = createSelect(
     "ケアマネージャー",
-    ["無し", "担当者がいる"]
+    ["なし", "担当者がいる"]
   );
 
   const careAssessmentSelect = createSelect(
