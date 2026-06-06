@@ -772,5 +772,104 @@
         "name":  "戸田市新曽地域包括支援センター",
         "tel":  "048-446-6767",
         "url":  "https://www.city.toda.saitama.jp/soshiki/234/chojukaigo-chiikihokatucenter.html"
+    },
+    {
+        "id": 1897,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "北部地域",
+        "name": "川越市地域包括支援センター きた",
+        "tel": "049-299-6760",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1898,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "中央東部地域",
+        "name": "川越市地域包括支援センター 中央ひがし",
+        "tel": "049-227-7878",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1899,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "中央西部地域",
+        "name": "川越市地域包括支援センター 中央にし",
+        "tel": "049-229-5332",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1900,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "東部地域",
+        "name": "川越市地域包括支援センター ひがし",
+        "tel": "049-235-7731",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1901,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "東部地域（鴨田地区）",
+        "name": "川越市地域包括支援センター ひがし分室",
+        "tel": "049-298-7807",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1902,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "高階地域",
+        "name": "川越市地域包括支援センター たかしな",
+        "tel": "049-291-6003",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1903,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "南部地域",
+        "name": "川越市地域包括支援センター みなみ",
+        "tel": "049-241-3676",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1904,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "大東地域",
+        "name": "川越市地域包括支援センター だいとう",
+        "tel": "049-249-7766",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1905,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "かすみ野地域",
+        "name": "川越市地域包括支援センター かすみ",
+        "tel": "049-234-8181",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1906,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "西部地域",
+        "name": "川越市地域包括支援センター にし",
+        "tel": "049-239-0003",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
+    },
+    {
+        "id": 1907,
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "area": "西部地域（霞ケ関地区）",
+        "name": "川越市地域包括支援センター にし分室",
+        "tel": "049-299-6161",
+        "url": "https://www.city.kawagoe.saitama.jp/kenko/fukushi/1006925/1006927.html"
     }
 ]
