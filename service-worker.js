@@ -1,5 +1,5 @@
 const CACHE_NAME =
-  "support-app-v4";
+  "support-app-v5";
 
 const urlsToCache = [
 

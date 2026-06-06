@@ -448,5 +448,689 @@
         "name":  "園田南地域包括支援センター",
         "tel":  "06-6494-8087",
         "url":  "https://www.city.amagasaki.hyogo.jp/kurashi/koreisya/sisetu/061sisetu02/041sonoda.html"
+    },
+    {
+        "id":  1517,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "本山東部",
+        "name":  "東灘区 本山東部あんしんすこやかセンター",
+        "tel":  "078-451-0054",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada01.html"
+    },
+    {
+        "id":  1518,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "本庄・深江",
+        "name":  "東灘区 本庄あんしんすこやかセンター",
+        "tel":  "078-431-8181",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada02.html"
+    },
+    {
+        "id":  1519,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "本山南部",
+        "name":  "東灘区 本山南部あんしんすこやかセンター",
+        "tel":  "078-413-2650",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada03.html"
+    },
+    {
+        "id":  1520,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "本山西部",
+        "name":  "東灘区 本山西部あんしんすこやかセンター",
+        "tel":  "078-435-1855",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada04.html"
+    },
+    {
+        "id":  1521,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "魚崎北部",
+        "name":  "東灘区 魚崎北部あんしんすこやかセンター",
+        "tel":  "078-435-6677",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada05.html"
+    },
+    {
+        "id":  1522,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "魚崎南部",
+        "name":  "東灘区 魚崎南部あんしんすこやかセンター",
+        "tel":  "078-452-6830",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada06.html"
+    },
+    {
+        "id":  1523,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "住吉北部",
+        "name":  "東灘区 住吉北部あんしんすこやかセンター",
+        "tel":  "078-851-1155",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada07.html"
+    },
+    {
+        "id":  1524,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "住吉南部",
+        "name":  "東灘区 住吉南部あんしんすこやかセンター",
+        "tel":  "078-842-3894",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada08.html"
+    },
+    {
+        "id":  1525,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "御影北部",
+        "name":  "東灘区 御影北部あんしんすこやかセンター",
+        "tel":  "078-843-2207",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada09.html"
+    },
+    {
+        "id":  1526,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "御影南部",
+        "name":  "東灘区 御影南部あんしんすこやかセンター",
+        "tel":  "078-854-2180",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada10.html"
+    },
+    {
+        "id":  1527,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市東灘区",
+        "area":  "六甲アイランド",
+        "name":  "東灘区 六甲アイランドあんしんすこやかセンター",
+        "tel":  "078-857-7381",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/higasinada11.html"
+    },
+    {
+        "id":  1528,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市灘区",
+        "area":  "高羽",
+        "name":  "灘区 高羽あんしんすこやかセンター",
+        "tel":  "078-857-6611",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nada01.html"
+    },
+    {
+        "id":  1529,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市灘区",
+        "area":  "六甲摩耶",
+        "name":  "灘区 六甲摩耶あんしんすこやかセンター",
+        "tel":  "078-224-5050",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nada02.html"
+    },
+    {
+        "id":  1530,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市灘区",
+        "area":  "六甲",
+        "name":  "灘区 六甲あんしんすこやかセンター",
+        "tel":  "078-882-7859",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nada03.html"
+    },
+    {
+        "id":  1531,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市灘区",
+        "area":  "大石",
+        "name":  "灘区 大石あんしんすこやかセンター",
+        "tel":  "078-821-3838",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nada04.html"
+    },
+    {
+        "id":  1532,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市灘区",
+        "area":  "篠原",
+        "name":  "灘区 篠原あんしんすこやかセンター",
+        "tel":  "078-871-9015",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nada05.html"
+    },
+    {
+        "id":  1533,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市灘区",
+        "area":  "王子",
+        "name":  "灘区 王子あんしんすこやかセンター",
+        "tel":  "078-801-5441",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nada06.html"
+    },
+    {
+        "id":  1534,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市灘区",
+        "area":  "西灘",
+        "name":  "灘区 西灘あんしんすこやかセンター",
+        "tel":  "078-803-3130",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nada07.html"
+    },
+    {
+        "id":  1535,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市中央区",
+        "area":  "新神戸",
+        "name":  "中央区 新神戸あんしんすこやかセンター",
+        "tel":  "078-241-3747",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/chuo01.html"
+    },
+    {
+        "id":  1536,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市中央区",
+        "area":  "春日野",
+        "name":  "中央区 春日野あんしんすこやかセンター",
+        "tel":  "078-251-8801",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/chuo02.html"
+    },
+    {
+        "id":  1537,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市中央区",
+        "area":  "脇の浜",
+        "name":  "中央区 脇の浜あんしんすこやかセンター",
+        "tel":  "078-221-1661",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/chuo03.html"
+    },
+    {
+        "id":  1538,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市中央区",
+        "area":  "三宮",
+        "name":  "中央区 三宮あんしんすこやかセンター",
+        "tel":  "078-271-0185",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/chuo04.html"
+    },
+    {
+        "id":  1539,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市中央区",
+        "area":  "元町山手",
+        "name":  "中央区 元町山手あんしんすこやかセンター",
+        "tel":  "078-367-3890",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/chuo05.html"
+    },
+    {
+        "id":  1540,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市中央区",
+        "area":  "ハーバーランド",
+        "name":  "中央区 ハーバーランドあんしんすこやかセンター",
+        "tel":  "078-651-7168",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/chuo06.html"
+    },
+    {
+        "id":  1541,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市中央区",
+        "area":  "港島",
+        "name":  "中央区 港島あんしんすこやかセンター",
+        "tel":  "078-304-2255",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/chuo07.html"
+    },
+    {
+        "id":  1542,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "兵庫平野",
+        "name":  "兵庫区 兵庫平野あんしんすこやかセンター",
+        "tel":  "078-574-4812",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo01.html"
+    },
+    {
+        "id":  1543,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "みなとがわ",
+        "name":  "兵庫区 みなとがわあんしんすこやかセンター",
+        "tel":  "078-521-9138",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo02.html"
+    },
+    {
+        "id":  1544,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "荒田",
+        "name":  "兵庫区 荒田あんしんすこやかセンター",
+        "tel":  "078-511-1900",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo03.html"
+    },
+    {
+        "id":  1545,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "新開地",
+        "name":  "兵庫区 新開地あんしんすこやかセンター",
+        "tel":  "078-577-1445",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo04.html"
+    },
+    {
+        "id":  1546,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "夢野の丘",
+        "name":  "兵庫区 夢野の丘あんしんすこやかセンター",
+        "tel":  "078-521-1308",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo05.html"
+    },
+    {
+        "id":  1547,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "中道",
+        "name":  "兵庫区 中道あんしんすこやかセンター",
+        "tel":  "078-575-9300",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo06.html"
+    },
+    {
+        "id":  1548,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "キャナルタウン",
+        "name":  "兵庫区 キャナルタウンあんしんすこやかセンター",
+        "tel":  "078-681-1515",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo07.html"
+    },
+    {
+        "id":  1549,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市兵庫区",
+        "area":  "浜山",
+        "name":  "兵庫区 浜山あんしんすこやかセンター",
+        "tel":  "078-671-8731",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/hyogo08.html"
+    },
+    {
+        "id":  1550,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市長田区",
+        "area":  "丸山",
+        "name":  "長田区 丸山あんしんすこやかセンター",
+        "tel":  "078-612-5530",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nagata01.html"
+    },
+    {
+        "id":  1551,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市長田区",
+        "area":  "名倉",
+        "name":  "長田区 名倉あんしんすこやかセンター",
+        "tel":  "078-646-0151",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nagata02.html"
+    },
+    {
+        "id":  1552,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市長田区",
+        "area":  "池田宮川",
+        "name":  "長田区 池田宮川あんしんすこやかセンター",
+        "tel":  "078-631-9690",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nagata03.html"
+    },
+    {
+        "id":  1553,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市長田区",
+        "area":  "御蔵",
+        "name":  "長田区 御蔵あんしんすこやかセンター",
+        "tel":  "078-575-8835",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nagata04.html"
+    },
+    {
+        "id":  1554,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市長田区",
+        "area":  "西代",
+        "name":  "長田区 西代あんしんすこやかセンター",
+        "tel":  "078-643-4700",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nagata05.html"
+    },
+    {
+        "id":  1555,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市長田区",
+        "area":  "真野真陽",
+        "name":  "長田区 真野真陽あんしんすこやかセンター",
+        "tel":  "078-611-2020",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nagata06.html"
+    },
+    {
+        "id":  1556,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市長田区",
+        "area":  "新長田",
+        "name":  "長田区 新長田あんしんすこやかセンター",
+        "tel":  "078-642-0080",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nagata07.html"
+    },
+    {
+        "id":  1557,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "白川",
+        "name":  "須磨区 白川あんしんすこやかセンター",
+        "tel":  "078-793-8075",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma01.html"
+    },
+    {
+        "id":  1558,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "名谷",
+        "name":  "須磨区 名谷あんしんすこやかセンター",
+        "tel":  "078-797-7988",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma02.html"
+    },
+    {
+        "id":  1559,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "妙法寺",
+        "name":  "須磨区 妙法寺あんしんすこやかセンター",
+        "tel":  "078-747-2521",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma03.html"
+    },
+    {
+        "id":  1560,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "名谷南",
+        "name":  "須磨区 名谷南あんしんすこやかセンター",
+        "tel":  "078-795-8181",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma04.html"
+    },
+    {
+        "id":  1561,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "板宿",
+        "name":  "須磨区 板宿あんしんすこやかセンター",
+        "tel":  "078-731-6700",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma05.html"
+    },
+    {
+        "id":  1562,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "離宮",
+        "name":  "須磨区 離宮あんしんすこやかセンター",
+        "tel":  "078-798-5760",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma06.html"
+    },
+    {
+        "id":  1563,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "たかとり",
+        "name":  "須磨区 たかとりあんしんすこやかセンター",
+        "tel":  "078-731-8165",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma07.html"
+    },
+    {
+        "id":  1564,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市須磨区",
+        "area":  "西須磨",
+        "name":  "須磨区 西須磨あんしんすこやかセンター",
+        "tel":  "078-737-0505",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/suma08.html"
+    },
+    {
+        "id":  1565,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "桃山台",
+        "name":  "垂水区 桃山台あんしんすこやかセンター",
+        "tel":  "078-751-0706",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi01.html"
+    },
+    {
+        "id":  1566,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "塩屋",
+        "name":  "垂水区 塩屋あんしんすこやかセンター",
+        "tel":  "078-755-2280",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi02.html"
+    },
+    {
+        "id":  1567,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "東垂水",
+        "name":  "垂水区 東垂水あんしんすこやかセンター",
+        "tel":  "078-751-4165",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi03-05.html"
+    },
+    {
+        "id":  1568,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "垂水名谷",
+        "name":  "垂水区 垂水名谷あんしんすこやかセンター",
+        "tel":  "078-706-9475",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi04.html"
+    },
+    {
+        "id":  1569,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "平磯",
+        "name":  "垂水区 平磯あんしんすこやかセンター",
+        "tel":  "078-751-1299",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi06.html"
+    },
+    {
+        "id":  1570,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "本多聞",
+        "name":  "垂水区 本多聞あんしんすこやかセンター",
+        "tel":  "078-783-5030",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi07-08.html"
+    },
+    {
+        "id":  1571,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "舞子台",
+        "name":  "垂水区 舞子台あんしんすこやかセンター",
+        "tel":  "078-787-3303",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi09.html"
+    },
+    {
+        "id":  1572,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "神陵台",
+        "name":  "垂水区 神陵台あんしんすこやかセンター",
+        "tel":  "078-787-2017",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi10.html"
+    },
+    {
+        "id":  1573,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市垂水区",
+        "area":  "舞子",
+        "name":  "垂水区 舞子あんしんすこやかセンター",
+        "tel":  "078-787-5231",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/tarumi11.html"
+    },
+    {
+        "id":  1574,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "道場",
+        "name":  "北区 道場あんしんすこやかセンター",
+        "tel":  "078-277-1678",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita01.html"
+    },
+    {
+        "id":  1575,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "ありの",
+        "name":  "北区 ありのあんしんすこやかセンター",
+        "tel":  "078-984-5118",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita02.html"
+    },
+    {
+        "id":  1576,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "八多淡河",
+        "name":  "北区 八多淡河あんしんすこやかセンター",
+        "tel":  "078-950-9165",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita03.html"
+    },
+    {
+        "id":  1577,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "有馬",
+        "name":  "北区 有馬あんしんすこやかセンター",
+        "tel":  "078-983-1611",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita04.html"
+    },
+    {
+        "id":  1578,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "谷上",
+        "name":  "北区 谷上あんしんすこやかセンター",
+        "tel":  "078-583-2666",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita05.html"
+    },
+    {
+        "id":  1579,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "神戸北町",
+        "name":  "北区 神戸北町あんしんすこやかセンター",
+        "tel":  "078-582-2874",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita06.html"
+    },
+    {
+        "id":  1580,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "北鈴蘭台",
+        "name":  "北区 北鈴蘭台あんしんすこやかセンター",
+        "tel":  "078-597-8889",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita07.html"
+    },
+    {
+        "id":  1581,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "鈴蘭台",
+        "name":  "北区 鈴蘭台あんしんすこやかセンター",
+        "tel":  "078-592-9604",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita08.html"
+    },
+    {
+        "id":  1582,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "五葉",
+        "name":  "北区 五葉あんしんすこやかセンター",
+        "tel":  "078-596-5315",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita09.html"
+    },
+    {
+        "id":  1583,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市北区",
+        "area":  "しあわせの村",
+        "name":  "北区 しあわせの村あんしんすこやかセンター",
+        "tel":  "078-743-8208",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/kita10.html"
+    },
+    {
+        "id":  1584,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "押部",
+        "name":  "西区 押部あんしんすこやかセンター",
+        "tel":  "078-998-3020",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi01.html"
+    },
+    {
+        "id":  1585,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "西神南",
+        "name":  "西区 西神南あんしんすこやかセンター",
+        "tel":  "078-990-4165",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi02.html"
+    },
+    {
+        "id":  1586,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "伊川谷",
+        "name":  "西区 伊川谷あんしんすこやかセンター",
+        "tel":  "078-974-8076",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi03.html"
+    },
+    {
+        "id":  1587,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "西神中央",
+        "name":  "西区 西神中央あんしんすこやかセンター",
+        "tel":  "078-996-2376",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi04.html"
+    },
+    {
+        "id":  1588,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "神出",
+        "name":  "西区 神出あんしんすこやかセンター",
+        "tel":  "078-964-2481",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi05.html"
+    },
+    {
+        "id":  1589,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "岩岡",
+        "name":  "西区 岩岡あんしんすこやかセンター",
+        "tel":  "078-969-2775",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi06.html"
+    },
+    {
+        "id":  1590,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "平野西神",
+        "name":  "西区 平野西神あんしんすこやかセンター",
+        "tel":  "078-961-1299",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi07.html"
+    },
+    {
+        "id":  1591,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "玉津",
+        "name":  "西区 玉津あんしんすこやかセンター",
+        "tel":  "078-926-1813",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi08.html"
+    },
+    {
+        "id":  1592,
+        "prefecture":  "兵庫県",
+        "city":  "神戸市西区",
+        "area":  "学園都市",
+        "name":  "西区 学園都市あんしんすこやかセンター",
+        "tel":  "078-794-3130",
+        "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi09.html"
     }
 ]
