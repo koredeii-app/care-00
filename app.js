@@ -175,8 +175,8 @@ const concernPrefixes = {
   caregiving:    "介護で疲れているので、何か支援が無いか相談したいです。",
   living_alone:  "親の生活が心配で、何か見守りや支援が無いか相談したいです。",
   unsure:        "まだ大変な状態ではないけれど、今後に備えて相談したいです。",
-  family_burden: "家族に心配や迷惑をかけたくないのですが、お金や病気のことで相談したいです。",
-  solo_future:   "一人暮らしで、病気やケガなど今後のことが不安なので相談したいです。"
+  family_burden: "家族に心配をかけたくないのですが、今後の事で相談したいです。",
+  solo_future:   "今後の事で相談したいです。"
 };
 
 /*
@@ -830,7 +830,7 @@ function renderCenterInfo(card) {
 
   const relationshipSelect = createSelect(
     "対象者との関係",
-    ["娘", "息子", "きょうだい", "親", "親戚", "知人", "近隣者"]
+    ["本人", "娘", "息子", "きょうだい", "親", "親戚", "知人", "近隣者"]
   );
 
   const livingSelect = createSelect(
@@ -871,6 +871,10 @@ function renderCenterInfo(card) {
     {
       label: "お金の管理ができていない。",
       sentence: "お金の管理ができていない"
+    },
+    {
+      label: "色々と不安になっている。",
+      sentence: "色々と不安になっている"
     }
   ];
 
@@ -1048,7 +1052,13 @@ function renderCenterInfo(card) {
         : "（情報を選択すると、ここに文章が表示されます）";
     }
 
-    let s = prefix ? prefix + "\n対象者は" : "対象者は";
+    const isSelf =
+      selectedConcern === "family_burden" ||
+      selectedConcern === "solo_future";
+
+    let s = prefix ? prefix + "\n" : "";
+
+    if (!isSelf) s += "対象者は";
 
     if (age || gender) {
       s += "、" + age + gender + "で";
@@ -1080,7 +1090,7 @@ function renderCenterInfo(card) {
       s += "介護認定は" + careAssessment + "です。";
     }
 
-    if (relationship) {
+    if (relationship && relationship !== "本人") {
       s += "私は対象者の" + relationship + "です。";
     }
 
@@ -1257,6 +1267,12 @@ function renderCenterInfo(card) {
     if (!savedFormValues.careManager)  careManagerSelect.value  = "無し";
   } else if (selectedConcern === "living_alone") {
     if (!savedFormValues.living) livingSelect.value = "一人暮らし";
+  } else if (
+    selectedConcern === "family_burden" ||
+    selectedConcern === "solo_future"
+  ) {
+    if (!savedFormValues.living)       livingSelect.value       = "一人暮らし";
+    if (!savedFormValues.relationship) relationshipSelect.value = "本人";
   }
 
   update();
