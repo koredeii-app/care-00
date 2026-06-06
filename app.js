@@ -818,7 +818,7 @@ function renderCenterInfo(card) {
   );
 
   const sinceSelect = createSelect(
-    "いつ頃から",
+    "いつ頃からですか？",
     [
       "数日位前から",
       "1〜2カ月位前から",
@@ -829,22 +829,22 @@ function renderCenterInfo(card) {
   );
 
   const relationshipSelect = createSelect(
-    "対象者との関係",
+    "対象者との関係は？",
     ["本人", "娘", "息子", "きょうだい", "親", "親戚", "知人", "近隣者"]
   );
 
   const livingSelect = createSelect(
-    "住まい",
+    "住まいの状況は？",
     ["同居", "一人暮らし","私以外の人と同居"]
   );
 
   const careManagerSelect = createSelect(
-    "ケアマネージャー",
+    "ケアマネージャーは？",
     ["なし", "担当者がいる"]
   );
 
   const careAssessmentSelect = createSelect(
-    "介護認定",
+    "介護認定の状況は？",
     ["なし", "要支援1", "要支援2", "要介護1", "要介護2", "要介護3", "要介護4", "要介護5"]
   );
 
