@@ -790,5 +790,203 @@
         "name":  "堺市美原第1地域包括支援センター",
         "tel":  "072-369-3070",
         "url":  "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/soudan/chiikishien.html"
+    },
+    {
+        "id":  956,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "孔舎衙",
+        "name":  "地域包括支援センター ビオスの丘",
+        "tel":  "072-986-0211",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  957,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "石切",
+        "name":  "地域包括支援センター 布市福寿苑",
+        "tel":  "072-983-2255",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  958,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "枚岡",
+        "name":  "地域包括支援センター 千寿園",
+        "tel":  "072-983-7725",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  959,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "縄手北",
+        "name":  "地域包括支援センター 福寿苑",
+        "tel":  "072-985-7772",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  960,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "縄手",
+        "name":  "地域包括支援センター 四条",
+        "tel":  "072-940-7568",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  961,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "縄手南",
+        "name":  "地域包括支援センター なるかわ苑",
+        "tel":  "072-986-3680",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  962,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "池島",
+        "name":  "地域包括支援センター 池島",
+        "tel":  "072-929-8267",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  963,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "盾津東",
+        "name":  "地域包括支援センター みのわの里",
+        "tel":  "072-964-0308",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  964,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "盾津",
+        "name":  "地域包括支援センター 春光園",
+        "tel":  "072-960-8666",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  965,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "英田",
+        "name":  "地域包括支援センター アーバンケア島之内",
+        "tel":  "072-960-6072",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  966,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "玉川",
+        "name":  "基幹型地域包括支援センター 東大阪市社会福祉協議会角田",
+        "tel":  "072-963-6663",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  967,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "花園",
+        "name":  "地域包括支援センター 向日葵",
+        "tel":  "072-966-2018",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  968,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "若江",
+        "name":  "地域包括支援センター アンパス東大阪",
+        "tel":  "06-4307-0165",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  969,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "意岐部",
+        "name":  "地域包括支援センター サンホーム",
+        "tel":  "06-7670-3700",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  970,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "楠根",
+        "name":  "地域包括支援センター アーバンケア稲田",
+        "tel":  "06-6748-8009",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  971,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "新喜多",
+        "name":  "地域包括支援センター アーバンケア新喜多",
+        "tel":  "06-6784-0001",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  972,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "高井田",
+        "name":  "地域包括支援センター レーベンズポルト",
+        "tel":  "06-6782-1313",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  973,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "小阪",
+        "name":  "地域包括支援センター ヴェルディ八戸ノ里",
+        "tel":  "06-6727-0213",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  974,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "布施",
+        "name":  "地域包括支援センター たちばなの里",
+        "tel":  "06-6224-5111",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  975,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "長瀬",
+        "name":  "地域包括支援センター イースタンビラ",
+        "tel":  "06-6728-3099",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  976,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "上小阪",
+        "name":  "地域包括支援センター 上小阪",
+        "tel":  "06-6726-3040",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
+    },
+    {
+        "id":  977,
+        "prefecture":  "大阪府",
+        "city":  "東大阪市",
+        "area":  "金岡",
+        "name":  "基幹型地域包括支援センター 東大阪市社会福祉協議会荒川",
+        "tel":  "06-6726-2533",
+        "url":  "https://www.city.higashiosaka.lg.jp/0000004804.html"
     }
 ]
