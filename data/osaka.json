@@ -1231,5 +1231,140 @@
         "name":  "豊中市地域包括支援センター 庄内（幸町分室）",
         "tel":  "06-6336-0222",
         "url":  "https://www.city.toyonaka.osaka.jp/shisetsu/shogai_korei/koreishashisetsu/chiikihokatsu_center/tiikihoukatusienn.html"
+    },
+    {
+        "id":  1005,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "寿町・中の島町・内本町・川岸町・清和園町ほか",
+        "name":  "吹田市地域包括支援センター 吹一・吹六",
+        "tel":  "06-6317-5461",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1006,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "高浜町・昭和町・末広町・幸町・南正雀・平松町ほか",
+        "name":  "吹田市地域包括支援センター 吹三・東",
+        "tel":  "06-4860-8338",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1007,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "片山町・藤が丘町・山手町・上山手町・天道町ほか",
+        "name":  "吹田市地域包括支援センター 片山",
+        "tel":  "06-6310-7112",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1008,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "岸部北・岸部南・岸部中・岸部新町・原町・芝田町",
+        "name":  "吹田市地域包括支援センター 岸部",
+        "tel":  "06-6310-8626",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1009,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "泉町・西の庄町・金田町・南金田・南吹田・穂波町",
+        "name":  "吹田市地域包括支援センター 南吹田",
+        "tel":  "06-6155-5114",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1010,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "垂水町・江坂町・豊津町・江の木町・芳野町・広芝町",
+        "name":  "吹田市地域包括支援センター 豊津・江坂",
+        "tel":  "06-6310-9705",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1011,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "千里山各地区・竹谷町・佐井寺・佐井寺南が丘",
+        "name":  "吹田市地域包括支援センター 千里山東・佐井寺",
+        "tel":  "06-6386-5455",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1012,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "千里山西・千里山竹園・春日・円山町・江坂町５",
+        "name":  "吹田市地域包括支援センター 千里山西",
+        "tel":  "06-6310-8060",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1013,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "山田東１・山田西１・山田南・五月が丘各地区",
+        "name":  "吹田市地域包括支援センター 亥の子谷",
+        "tel":  "06-4864-8551",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1014,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "山田東２〜４・山田西２〜４・山田北",
+        "name":  "吹田市地域包括支援センター 山田",
+        "tel":  "06-6155-5089",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1015,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "長野東・長野西・千里丘各地区・青葉丘南・青葉丘北ほか",
+        "name":  "吹田市地域包括支援センター 千里丘",
+        "tel":  "06-6876-5021",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1016,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "津雲台１・桃山台・竹見台",
+        "name":  "吹田市地域包括支援センター 桃山台・竹見台",
+        "tel":  "06-6873-8870",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1017,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "佐竹台・高野台",
+        "name":  "吹田市地域包括支援センター 佐竹台・高野台",
+        "tel":  "06-6871-2203",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1018,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "古江台・青山台",
+        "name":  "吹田市地域包括支援センター 古江台・青山台",
+        "tel":  "06-6872-0507",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
+    },
+    {
+        "id":  1019,
+        "prefecture":  "大阪府",
+        "city":  "吹田市",
+        "area":  "津雲台２〜７・藤白台・上山田・千里万博公園・山田丘",
+        "name":  "吹田市地域包括支援センター 津雲台・藤白台",
+        "tel":  "06-7654-5350",
+        "url":  "https://www.city.suita.osaka.jp/kenko/1018656/1018717/1022524/index.html"
     }
 ]

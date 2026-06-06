@@ -808,12 +808,12 @@ function renderCenterInfo(card) {
     プルダウン
   */
   const ageSelect = createSelect(
-    "年齢を選択",
+    "対象者の年齢を選択",
     ["50代", "60代", "70代", "80代", "90代以上"]
   );
 
   const genderSelect = createSelect(
-    "性別を選択",
+    "対象者の性別を選択",
     ["男性", "女性"]
   );
 
@@ -839,12 +839,12 @@ function renderCenterInfo(card) {
   );
 
   const careManagerSelect = createSelect(
-    "ケアマネージャーは？",
+    "ケアマネージャーはいますか？",
     ["なし", "担当者がいる"]
   );
 
   const careAssessmentSelect = createSelect(
-    "介護認定の状況は？",
+    "介護認定はありますか？",
     ["なし", "要支援1", "要支援2", "要介護1", "要介護2", "要介護3", "要介護4", "要介護5"]
   );
 
