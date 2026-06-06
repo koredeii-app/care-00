@@ -1318,21 +1318,21 @@ Promise.all([
   fetch("./data/saga.json").then(r => r.json()),
   fetch("./data/toyama.json").then(r => r.json()),
   fetch("./data/nagano.json").then(r => r.json()),
-  fetch("./data/kofu.json").then(r => r.json()),
+  fetch("./data/yamanashi.json").then(r => r.json()),
   fetch("./data/yamaguchi.json").then(r => r.json()),
   fetch("./data/fukushima.json").then(r => r.json()),
-  fetch("./data/mito.json").then(r => r.json()),
-  fetch("./data/utsunomiya.json").then(r => r.json()),
-  fetch("./data/maebashi.json").then(r => r.json()),
+  fetch("./data/ibaraki.json").then(r => r.json()),
+  fetch("./data/tochigi.json").then(r => r.json()),
+  fetch("./data/gunma.json").then(r => r.json()),
   fetch("./data/gifu.json").then(r => r.json()),
-  fetch("./data/tsu.json").then(r => r.json()),
-  fetch("./data/otsu.json").then(r => r.json()),
+  fetch("./data/mie.json").then(r => r.json()),
+  fetch("./data/shiga.json").then(r => r.json()),
   fetch("./data/kyoto.json").then(r => r.json()),
   fetch("./data/nara.json").then(r => r.json()),
   fetch("./data/wakayama.json").then(r => r.json()),
   fetch("./data/citylinks.json").then(r => r.json())
-]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, kochi, saga, toyama, nagano, kofu, yamaguchi, fukushima, mito, utsunomiya, maebashi, gifu, tsu, otsu, kyoto, nara, wakayama, links]) => {
+]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, kochi, saga, toyama, nagano, yamanashi, yamaguchi, fukushima, ibaraki, tochigi, gunma, gifu, mie, shiga, kyoto, nara, wakayama, links]) => {
   cityLinks = links;
-  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima, ...kochi, ...saga, ...toyama, ...nagano, ...kofu, ...yamaguchi, ...fukushima, ...mito, ...utsunomiya, ...maebashi, ...gifu, ...tsu, ...otsu, ...kyoto, ...nara, ...wakayama];
+  centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima, ...kochi, ...saga, ...toyama, ...nagano, ...yamanashi, ...yamaguchi, ...fukushima, ...ibaraki, ...tochigi, ...gunma, ...gifu, ...mie, ...shiga, ...kyoto, ...nara, ...wakayama];
   renderScreen("start");
 });
