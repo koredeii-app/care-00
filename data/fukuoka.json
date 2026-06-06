@@ -849,7 +849,7 @@
         "area": "日吉・篠山・南薫・荘島・長門石",
         "name": "久留米中央地域包括支援センター",
         "tel": "0942-46-8711",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_center/"
     },
     {
         "id": 1331,
@@ -858,7 +858,7 @@
         "area": "京町・鳥飼・金丸",
         "name": "久留米中央第2地域包括支援センター",
         "tel": "0942-27-6860",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_center_second/"
     },
     {
         "id": 1332,
@@ -867,7 +867,7 @@
         "area": "西国分・東国分",
         "name": "久留米中央第3地域包括支援センター",
         "tel": "0942-27-6886",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_center_third/"
     },
     {
         "id": 1333,
@@ -876,7 +876,7 @@
         "area": "山川・山本・草野・善導寺・大橋",
         "name": "久留米東地域包括支援センター",
         "tel": "0942-41-5522",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_east/"
     },
     {
         "id": 1334,
@@ -885,7 +885,7 @@
         "area": "船越・水分・柴刈・川会・竹野・水縄・田主丸",
         "name": "久留米東第2地域包括支援センター",
         "tel": "0943-72-8055",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/east_second/"
     },
     {
         "id": 1335,
@@ -894,7 +894,7 @@
         "area": "城島・下田・青木・江上・浮島・犬塚・西牟田・三潴",
         "name": "久留米西地域包括支援センター",
         "tel": "0942-51-6100",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_west/"
     },
     {
         "id": 1336,
@@ -903,7 +903,7 @@
         "area": "荒木・安武・大善寺",
         "name": "久留米西第2地域包括支援センター",
         "tel": "0942-27-8569",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_west_second/"
     },
     {
         "id": 1337,
@@ -912,7 +912,7 @@
         "area": "上津・青峰・高良内",
         "name": "久留米南地域包括支援センター",
         "tel": "0942-51-2332",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_south/"
     },
     {
         "id": 1338,
@@ -921,7 +921,7 @@
         "area": "南・津福",
         "name": "久留米南第2地域包括支援センター",
         "tel": "0942-36-5311",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_south_second/"
     },
     {
         "id": 1339,
@@ -930,7 +930,7 @@
         "area": "北野・弓削・大城・金島・小森野・宮ノ陣",
         "name": "久留米北地域包括支援センター",
         "tel": "0942-23-1055",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_north/"
     },
     {
         "id": 1340,
@@ -939,6 +939,6 @@
         "area": "御井・合川",
         "name": "久留米北第2地域包括支援センター",
         "tel": "0942-65-5156",
-        "url": "https://www.city.kurume.fukuoka.jp/1070kenkou/2030koureikaigo/3080houkatsushien/houkatsu.html"
+        "url": "https://hokatu-kurume.or.jp/houkatsu_list/kurume_north_second/"
     }
 ]

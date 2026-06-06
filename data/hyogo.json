@@ -1132,5 +1132,59 @@
         "name":  "西区 学園都市あんしんすこやかセンター",
         "tel":  "078-794-3130",
         "url":  "https://www.city.kobe.lg.jp/a46210/kenko/fukushi/carenet/ansuko-center/kensaku/nisi09.html"
+    },
+    {
+        "id": 1593,
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "area": "朝霧・大蔵中学校区",
+        "name": "あさぎり・おおくら総合支援センター",
+        "tel": "078-915-0091",
+        "url": "https://www.city.akashi.lg.jp/fukushi/k_kaigo_shitsu/tiikisougousienn0216.html"
+    },
+    {
+        "id": 1594,
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "area": "錦城・衣川中学校区",
+        "name": "きんじょう・きぬがわ総合支援センター",
+        "tel": "078-915-2631",
+        "url": "https://www.city.akashi.lg.jp/fukushi/k_kaigo_shitsu/tiikisougousienn0216.html"
+    },
+    {
+        "id": 1595,
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "area": "望海・野々池中学校区",
+        "name": "にしあかし総合支援センター",
+        "tel": "078-924-9113",
+        "url": "https://www.city.akashi.lg.jp/fukushi/k_kaigo_shitsu/tiikisougousienn0216.html"
+    },
+    {
+        "id": 1596,
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "area": "大久保・大久保北・江井島・高丘中学校区",
+        "name": "おおくぼ総合支援センター",
+        "tel": "078-934-8986",
+        "url": "https://www.city.akashi.lg.jp/fukushi/k_kaigo_shitsu/tiikisougousienn0216.html"
+    },
+    {
+        "id": 1597,
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "area": "魚住東・魚住中学校区",
+        "name": "うおずみ総合支援センター",
+        "tel": "078-948-5081",
+        "url": "https://www.city.akashi.lg.jp/fukushi/k_kaigo_shitsu/tiikisougousienn0216.html"
+    },
+    {
+        "id": 1598,
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "area": "二見中学校区",
+        "name": "ふたみ総合支援センター",
+        "tel": "078-945-3170",
+        "url": "https://www.city.akashi.lg.jp/fukushi/k_kaigo_shitsu/tiikisougousienn0216.html"
     }
 ]
