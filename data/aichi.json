@@ -511,5 +511,185 @@
         "name": "みのり園地域包括支援センター",
         "tel": "0565-53-6361",
         "url": "https://www.city.toyota.aichi.jp/kurashi/fukushi/koureisha/1003145.html"
+    },
+    {
+        "id": 1275,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "梅園学区",
+        "name": "中央地域福祉センター地域包括支援センター",
+        "tel": "0564-25-3199",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1276,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "広幡・井田学区",
+        "name": "地域包括支援センターひな",
+        "tel": "0564-65-8555",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1277,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "根石・男川・生平・秦梨学区",
+        "name": "地域包括支援センター岡崎東",
+        "tel": "0564-84-5003",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1278,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "常磐南・常磐東・常磐学区",
+        "name": "地域包括支援センター真福",
+        "tel": "0564-66-2667",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1279,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "愛宕学区",
+        "name": "社会福祉協議会地域包括支援センター",
+        "tel": "0564-23-1105",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1280,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "三島・竜美丘学区",
+        "name": "地域包括支援センター竜美",
+        "tel": "0564-55-0751",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1281,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "六名・連尺学区",
+        "name": "地域包括支援センターさくらの里",
+        "tel": "0564-22-3030",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1282,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "岡崎・福岡学区",
+        "name": "地域包括支援センターなのはな苑",
+        "tel": "0564-57-8087",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1283,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "羽根・城南学区",
+        "name": "地域包括支援センタースクエアガーデン",
+        "tel": "0564-57-1133",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1284,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "上地・小豆坂学区",
+        "name": "地域包括支援センターふじ",
+        "tel": "0564-55-0192",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1285,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "美合・緑丘学区",
+        "name": "高年者センター岡崎地域包括支援センター",
+        "tel": "0564-55-8399",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1286,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "恵田・奥殿・細川・岩津学区",
+        "name": "北部地域福祉センター地域包括支援センター",
+        "tel": "0564-45-1699",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1287,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "大樹寺・大門学区",
+        "name": "地域包括支援センターさくら",
+        "tel": "0564-73-3377",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1288,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "矢作南学区",
+        "name": "地域包括支援センターやはぎ苑",
+        "tel": "0564-34-2345",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1289,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "矢作東・矢作西学区",
+        "name": "西部地域福祉センター地域包括支援センター",
+        "tel": "0564-32-0199",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1290,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "矢作北・北野学区",
+        "name": "地域包括支援センターはしめ",
+        "tel": "0564-33-5610",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1291,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "六ツ美北部・六ツ美西部学区",
+        "name": "南部地域福祉センター地域包括支援センター",
+        "tel": "0564-43-6299",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1292,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "六ツ美中部・六ツ美南部学区",
+        "name": "地域包括支援センターむつみ",
+        "tel": "0564-57-6288",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1293,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "竜谷・藤川・山中・本宿学区",
+        "name": "東部地域福祉センター地域包括支援センター",
+        "tel": "0564-48-8099",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
+    },
+    {
+        "id": 1294,
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "area": "豊富・夏山・宮崎・形埜・下山学区",
+        "name": "地域包括支援センター額田",
+        "tel": "0564-82-3129",
+        "url": "https://www.city.okazaki.lg.jp/1100/1103/1181/p002729.html"
     }
 ]

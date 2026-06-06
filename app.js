@@ -1078,7 +1078,7 @@ function renderCenterInfo(card) {
       s += "住まいは" + living + "です。";
     }
 
-    if (careManager === "無し") {
+    if (careManager === "なし") {
       s += "ケアマネージャーはいません。";
     } else if (careManager === "担当者がいる") {
       s += "ケアマネージャーの担当者がいます。";
@@ -1264,7 +1264,7 @@ function renderCenterInfo(card) {
       if (cb) cb.checkbox.checked = true;
     }
   } else if (selectedConcern === "caregiving") {
-    if (!savedFormValues.careManager)  careManagerSelect.value  = "無し";
+    if (!savedFormValues.careManager)  careManagerSelect.value  = "なし";
   } else if (selectedConcern === "living_alone") {
     if (!savedFormValues.living) livingSelect.value = "一人暮らし";
   } else if (
