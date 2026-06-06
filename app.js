@@ -702,20 +702,34 @@ function renderCenterInfo(card) {
   /*
     電話番号
   */
-  const tel =
+  const phoneSection =
     document.createElement("div");
 
-  tel.textContent =
-    "電話番号 : " + selectedCenter.tel;
-
-  tel.style.fontSize =
-    "18px";
-
-  tel.style.color =
-    "#546e7a";
-
-  tel.style.marginBottom =
+  phoneSection.style.marginBottom =
     "28px";
+
+  const phoneEntries =
+    selectedCenter.phones ||
+    [{ label: "電話番号", number: selectedCenter.tel }];
+
+  phoneEntries.forEach((p, i) => {
+
+    const row =
+      document.createElement("div");
+
+    row.textContent =
+      p.label + " : " + p.number;
+
+    row.style.fontSize = "18px";
+    row.style.color = "#546e7a";
+
+    if (i < phoneEntries.length - 1) {
+      row.style.marginBottom = "8px";
+    }
+
+    phoneSection.appendChild(row);
+
+  });
 
   /*
     準備ヘッダー
@@ -1082,7 +1096,7 @@ function renderCenterInfo(card) {
   /*
     配置
   */
-  card.appendChild(tel);
+  card.appendChild(phoneSection);
   card.appendChild(prepHeader);
   card.appendChild(ageSelect);
   card.appendChild(genderSelect);
