@@ -32,33 +32,53 @@
 1. 横浜市の公式サイトで地域包括支援センター一覧を検索・取得
 2. 公式サイトに記載がある外部リンク先（委託NPO等）も調査対象とする
 3. 各センターの個別ページURLを確認し、リンク切れをチェック
-4. `data/yokohama.json` の形式に整形する
-5. `app.js` の `cityLinks` に横浜市エントリを追加する
+4. `care-data/data/kanagawa.json` に追記する形で整形する
+5. `care-data/data/citylinks.json` に横浜市エントリを追加する
+6. care-data リポジトリを push すれば care-00・care-01 の両方に自動反映
 
 ---
 
 ## データ構造
 
+データは **care-data リポジトリのみ** で管理する。care-00・care-01 は参照するだけで、データファイルは持たない。
+
 ```
-care-00/
+care-data/                      ← 更新対象はここだけ
 ├── data/
-│   ├── {city}.json       # 各市区のセンター一覧
-│   └── citylinks.json    # 市区一覧リンク（app.js と対応）
-└── app.js                # cityLinks オブジェクトを含む
+│   ├── {都道府県}.json          # 各都道府県のセンター一覧
+│   └── citylinks.json          # 市区ごとの一覧ページURL
+└── index.html                  # GitHub Pages 用（変更不要）
 ```
 
-### JSONスキーマ（data/{city}.json）
+**公開URL（両アプリがここから fetch）**
+```
+https://koredeii-app.github.io/care-data/data/{都道府県}.json
+https://koredeii-app.github.io/care-data/data/citylinks.json
+```
+
+### JSONスキーマ（data/{都道府県}.json）
 
 ```json
 [
   {
-    "name": "センター名",
-    "area": "担当エリア（例：○○町1〜3丁目）",
-    "address": "住所（都道府県名なし・市区名から）",
-    "phone": "03-1234-5678",
-    "url": "センター個別ページURL"
+    "id": 1,
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "area": "池尻",
+    "name": "池尻あんしんすこやかセンター",
+    "tel": "03-5433-2512",
+    "url": "https://www.city.setagaya.lg.jp/..."
   }
 ]
+```
+
+### citylinks.json スキーマ
+
+```json
+{
+  "世田谷区": "https://www.city.setagaya.lg.jp/...",
+  "練馬区": "https://..."
+}
 ```
 
 ---
@@ -146,12 +166,16 @@ care-00/
 ## Agent-01 完了報告
 
 ### 収集・更新したデータ
-- `data/{city}.json` — {センター数}件
-- `app.js` cityLinks — {市区名}エントリ追加
+- `care-data/data/{都道府県}.json` — {センター数}件追加
+- `care-data/data/citylinks.json` — {市区名}エントリ追加
 
 ### データソース
-- {参照した自治体公式URL}
+- 自治体公式URL：{URL}
+- 厚生労働省照合：済（差異なし） or 済（XX件を厚労省データで上書き）
 
 ### リンク切れ・欠損（あれば）
 - {確認できなかった箇所・要確認事項}
+
+### 反映先
+- care-data を push → care-00・care-01 に自動反映
 ```

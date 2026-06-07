@@ -50,6 +50,14 @@
 
 ---
 
+## リポジトリ構成
+
+| リポジトリ | 役割 | 特記事項 |
+|-----------|------|---------|
+| care-data | 共有データ（JSONのみ） | GitHub Pages で配信。ここを更新すれば両アプリに反映 |
+| care-00 | 押すだけ相談（ボタン型UI） | 起動時に全県 JSON を一括 fetch |
+| care-01 | センター一覧（プルダウン＋フィルタ型UI） | 都道府県選択時に該当 JSON を動的 fetch |
+
 ## プロジェクト技術スタック
 
 | 技術 | 詳細 |
@@ -58,8 +66,24 @@
 | CSS | `style.css` 1ファイル・フレームワーク不使用 |
 | JavaScript | `app.js` 1ファイル・Vanilla JS・フレームワーク不使用 |
 | PWA | `manifest.json` / `service-worker.js` |
-| データ | `data/{city}.json`（JSONファイル群） |
+| データ配信 | `https://koredeii-app.github.io/care-data/data/` |
 | ホスティング | GitHub Pages（静的配信のみ） |
+
+## データ fetch パターン
+
+**care-00（一括ロード）**
+```js
+fetch("https://koredeii-app.github.io/care-data/data/tokyo.json")
+fetch("https://koredeii-app.github.io/care-data/data/osaka.json")
+// ... 全都道府県分
+```
+
+**care-01（動的ロード）**
+```js
+const DATA_BASE = 'https://koredeii-app.github.io/care-data';
+fetch(`${DATA_BASE}/data/${file}.json`)   // 選択された都道府県のみ
+fetch(`${DATA_BASE}/data/citylinks.json`) // 初期化時に1回
+```
 
 ---
 
@@ -70,6 +94,7 @@
 - フレームワーク（React / Vue / jQuery）は導入しない
 - コメントは原則なし（WHYが非自明な場合のみ1行）
 - 既存の `screens` オブジェクト構造・`cityLinks` 構造を崩さない
+- **データファイル（JSON）は care-data リポジトリを更新する**（care-00・care-01 の `data/` は触らない）
 
 ---
 

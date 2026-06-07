@@ -22,11 +22,32 @@
 | プロジェクト名 | 押すだけ相談 |
 | 目的 | 高齢者・介護者が地域包括支援センターへ相談するよう行動誘導する |
 | 技術スタック | HTML / CSS / Vanilla JS / PWA / Service Worker |
-| データ構造 | `data/{都市名}.json` — センター情報（名称・住所・電話・担当エリア） |
 | 対応範囲 | 全国47都道府県の主要市区（順次拡張中） |
-| 公開URL | `https://koredeii-app.github.io/care-00/` |
 | アナリティクス | Google Analytics（G-NVFFYV4E3Y） |
-| リポジトリ | `c:\Users\User\Documents\github\care-00` |
+
+### リポジトリ構成
+
+| リポジトリ | 役割 | ローカルパス | 公開URL |
+|-----------|------|-------------|---------|
+| care-data | **共有データ管理**（JSONのみ） | `c:\Users\User\Documents\github\care-data` | `https://koredeii-app.github.io/care-data/` |
+| care-00 | 押すだけ相談（ボタン選択型UI） | `c:\Users\User\Documents\github\care-00` | `https://koredeii-app.github.io/care-00/` |
+| care-01 | センター一覧（プルダウン＋フィルタ型UI） | `c:\Users\User\Documents\github\care-01` | `https://koredeii-app.github.io/care-01/` |
+
+### データフロー
+
+```
+care-data/data/{都道府県}.json  ←  ここだけ更新すれば両アプリに反映
+        ↑                   ↑
+     care-00              care-01
+（全件一括 fetch）    （選択時に動的 fetch）
+```
+
+### アプリの特徴
+
+| アプリ | UI特徴 | データ取得 |
+|--------|--------|-----------|
+| care-00 | ボタンを押すだけの画面遷移型 | 起動時に全県データを一括ロード |
+| care-01 | 都道府県→市区町村→地域フィルタの3層構造 | 都道府県選択時に該当JSONのみ動的ロード |
 
 ---
 
@@ -75,7 +96,8 @@
 
 ## 常に守る制約
 
-- データ追加時は `data/{city}.json` と `app.js` の `cityLinks` を **必ずセット** で更新する
+- **データ追加・修正は `care-data` リポジトリのみ** で行う（care-00・care-01 の `data/` は廃止）
+- データ追加時は `care-data/data/{city}.json` と `care-data/data/citylinks.json` を **必ずセット** で更新する
 - 施設URLは個別ページを優先し、外部リンクは施設名に `（外部リンク）` を付記する
 - セキュリティリスクがある変更は必ずAgent-04を通してから実装する
 - 社長に確認なく取り返しのつかない操作（push・削除等）は行わない
