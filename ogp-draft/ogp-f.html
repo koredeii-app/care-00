@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    background: #263238;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+  }
+  .accent {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 8px;
+    background: #8bc34a;
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 70px 100px;
+    gap: 24px;
+    flex: 1;
+  }
+  .eyebrow {
+    font-size: 18px;
+    color: #8bc34a;
+    letter-spacing: 4px;
+    font-weight: bold;
+  }
+  .title {
+    font-size: 96px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 8px;
+    line-height: 1;
+  }
+  .title span {
+    color: #8bc34a;
+  }
+  .subtitle {
+    font-size: 24px;
+    color: rgba(255,255,255,0.55);
+    letter-spacing: 3px;
+  }
+  .chips {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+  }
+  .chip {
+    background: rgba(139,195,74,0.15);
+    border: 1px solid rgba(139,195,74,0.4);
+    color: #aed581;
+    font-size: 17px;
+    padding: 7px 20px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+  }
+  .glow {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(139,195,74,0.12) 0%, transparent 70%);
+    right: -100px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="accent"></div>
+  <div class="glow"></div>
+  <div class="content">
+    <div class="eyebrow">地域包括支援センター検索</div>
+    <div class="title">押すだけ<span>.</span></div>
+    <div class="title" style="font-size:72px; margin-top:-16px;">相談</div>
+    <div class="subtitle">介護・高齢者の相談窓口をすぐ見つける</div>
+    <div class="chips">
+      <div class="chip"># 介護相談</div>
+      <div class="chip"># 認知症</div>
+      <div class="chip"># 在宅介護</div>
+      <div class="chip"># 見守り</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

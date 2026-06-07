@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    background: #fff8f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+    position: relative;
+  }
+  .top-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 12px;
+    background: linear-gradient(90deg, #8bc34a, #ffb74d, #8bc34a);
+  }
+  .bottom-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 12px;
+    background: linear-gradient(90deg, #8bc34a, #ffb74d, #8bc34a);
+  }
+  .icon-row {
+    display: flex;
+    gap: 32px;
+    font-size: 48px;
+  }
+  .title {
+    font-size: 80px;
+    font-weight: bold;
+    color: #3e2723;
+    letter-spacing: 6px;
+  }
+  .subtitle {
+    font-size: 26px;
+    color: #795548;
+    letter-spacing: 3px;
+  }
+  .steps {
+    display: flex;
+    gap: 0;
+    margin-top: 8px;
+  }
+  .step {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 19px;
+    color: #555;
+    background: white;
+    border: 1.5px solid #e0d0c0;
+    padding: 10px 22px;
+    border-radius: 4px;
+  }
+  .step + .step {
+    margin-left: -1px;
+  }
+  .step .num {
+    background: #8bc34a;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .arrow {
+    font-size: 20px;
+    color: #8bc34a;
+    margin: 0 -2px;
+    z-index: 1;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="top-bar"></div>
+  <div class="bottom-bar"></div>
+  <div class="icon-row">🏠👴📞</div>
+  <div class="title">押すだけ相談</div>
+  <div class="subtitle">地域包括支援センター検索</div>
+  <div class="steps">
+    <div class="step"><span class="num">1</span>地域を選ぶ</div>
+    <div class="arrow">›</div>
+    <div class="step"><span class="num">2</span>状況を選ぶ</div>
+    <div class="arrow">›</div>
+    <div class="step"><span class="num">3</span>そのまま電話</div>
+  </div>
+</div>
+</body>
+</html>

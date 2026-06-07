@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    background: #1a1a2e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    position: relative;
+  }
+  .dots {
+    position: absolute;
+    inset: 0;
+    background-image: radial-gradient(circle, rgba(139,195,74,0.15) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+  .top-label {
+    font-size: 20px;
+    color: #8bc34a;
+    letter-spacing: 4px;
+    font-weight: bold;
+    position: relative;
+  }
+  .title {
+    font-size: 88px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 8px;
+    position: relative;
+    text-shadow: 0 0 40px rgba(139,195,74,0.4);
+  }
+  .subtitle {
+    font-size: 26px;
+    color: rgba(255,255,255,0.6);
+    letter-spacing: 3px;
+    position: relative;
+  }
+  .tags {
+    display: flex;
+    gap: 12px;
+    position: relative;
+    margin-top: 8px;
+  }
+  .tag {
+    background: rgba(139,195,74,0.2);
+    border: 1px solid rgba(139,195,74,0.5);
+    color: #8bc34a;
+    font-size: 18px;
+    padding: 6px 20px;
+    border-radius: 999px;
+    letter-spacing: 1px;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="dots"></div>
+  <div class="top-label">📞 介護・高齢者相談</div>
+  <div class="title">押すだけ相談</div>
+  <div class="subtitle">地域包括支援センター検索</div>
+  <div class="tags">
+    <div class="tag">地域から探す</div>
+    <div class="tag">状況から探す</div>
+    <div class="tag">そのまま電話</div>
+  </div>
+</div>
+</body>
+</html>

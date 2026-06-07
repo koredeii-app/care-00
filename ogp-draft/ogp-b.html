@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+    overflow: hidden;
+  }
+  .card {
+    width: 1200px;
+    height: 630px;
+    background: #fff;
+    display: flex;
+  }
+  .left {
+    width: 480px;
+    height: 100%;
+    background: #8bc34a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    flex-shrink: 0;
+  }
+  .left .icon { font-size: 100px; }
+  .left .app-name {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 4px;
+    text-align: center;
+  }
+  .right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 60px 64px;
+    gap: 24px;
+  }
+  .label {
+    font-size: 18px;
+    color: #8bc34a;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  .main-text {
+    font-size: 38px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.5;
+    letter-spacing: 1px;
+  }
+  .desc {
+    font-size: 20px;
+    color: #666;
+    line-height: 1.8;
+  }
+  .divider {
+    width: 48px;
+    height: 4px;
+    background: #8bc34a;
+    border-radius: 2px;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="left">
+    <div class="icon">📋</div>
+    <div class="app-name">押すだけ<br>相談</div>
+  </div>
+  <div class="right">
+    <div class="label">地域包括支援センター検索</div>
+    <div class="divider"></div>
+    <div class="main-text">高齢者・介護の<br>相談窓口を<br>すぐ見つける</div>
+    <div class="desc">地域・状況を選ぶだけで<br>お近くのセンターに電話できます</div>
+  </div>
+</div>
+</body>
+</html>
