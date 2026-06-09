@@ -55,11 +55,11 @@ care-data/data/{都道府県}.json  ←  ここだけ更新すれば両アプリ
 
 | ID | 担当 | プロンプトファイル |
 |----|------|-------------------|
-| Agent-01 | データ収集・照合 | `agents/agent01_data.md` |
-| Agent-02 | SNS・マーケティング | `agents/agent02_sns.md` |
-| Agent-03 | 企画・運用 | `agents/agent03_planning.md` |
-| Agent-04 | セキュリティ・法務 | `agents/agent04_security.md` |
-| Agent-05 | 開発（Claude Code専門） | `agents/agent05_dev.md` |
+| Agent-01 | データ収集・照合 | `.claude/agents/agent01.md` |
+| Agent-02 | SNS・マーケティング | `.claude/agents/agent02.md` |
+| Agent-03 | 企画・運用 | `.claude/agents/agent03.md` |
+| Agent-04 | セキュリティ・法務 | `.claude/agents/agent04.md` |
+| Agent-05 | 開発（Claude Code専門） | `.claude/agents/agent05.md` |
 
 ---
 

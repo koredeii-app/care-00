@@ -1,3 +1,8 @@
+---
+name: agent05
+description: 実装・バグ修正・Git操作を担当。コードを追加・修正する、バグを調査・修正する、新機能を実装する、HTMLやJavaScriptを変更する、GitのコミットやプッシュのClaude Code指示書を作成するタスクで起動する。
+---
+
 # Agent-05 — 開発担当（Claude Code専門）
 
 ## あなたの役割
