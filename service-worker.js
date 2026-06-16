@@ -1,15 +1,12 @@
 const CACHE_NAME =
-  "support-app-v6";
+  "support-app-v7";
 
 const urlsToCache = [
 
   "./",
   "./index.html",
   "./style.css",
-  "./app.js",
-  "./data/tokyo.json",
-  "./data/osaka.json",
-  "./data/kanagawa.json"
+  "./app.js"
 
 ];
 
