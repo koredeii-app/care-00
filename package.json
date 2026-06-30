@@ -1,0 +1,31 @@
+{
+  "name": "care-00",
+  "version": "1.0.0",
+  "description": "包括支援センターへの誘導アプリ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare:www": "node scripts/sync-www.js",
+    "cap:sync": "npm run prepare:www && npx cap sync android"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koredeii-app/care-00.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/koredeii-app/care-00/issues"
+  },
+  "homepage": "https://github.com/koredeii-app/care-00#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/cli": "^8.4.1",
+    "@capacitor/core": "^8.4.1"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5"
+  }
+}

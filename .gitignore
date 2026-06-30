@@ -1,0 +1,16 @@
+node_modules/
+www/
+
+# Android / Capacitor build artifacts
+android/app/build/
+android/build/
+android/.gradle/
+android/captures/
+android/local.properties
+android/app/release/
+android/.idea/
+
+# Signing keys
+*.keystore
+*.jks
+key.properties
