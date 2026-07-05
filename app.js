@@ -1233,9 +1233,14 @@ function renderCenterInfo(card) {
   card.appendChild(ongoingIllnessInput);
   card.appendChild(sentenceBox);
   card.appendChild(callButton);
-  card.appendChild(link);
-  card.appendChild(fallbackNotice);
-  card.appendChild(fallbackLink);
+  if (selectedCenter.url) {
+    card.appendChild(link);
+  }
+
+  if (cityLinks[selectedCenter.city]) {
+    card.appendChild(fallbackNotice);
+    card.appendChild(fallbackLink);
+  }
 
   /*
     保存値を復元（card.appendChild後に実行）
