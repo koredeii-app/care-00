@@ -1175,8 +1175,8 @@ function renderCenterInfo(card) {
   const listHost   = (() => { try { return new URL(listUrl).hostname; } catch (e) { return ""; } })();
   const isExternal = centerHost !== listHost;
 
-  link.href = selectedCenter.url;
   link.target = "_blank";
+  link.rel = "noopener noreferrer";
   link.textContent =
     selectedCenter.name + " について確認してみる" +
     (isExternal ? "（外部サイト）" : "");
@@ -1207,10 +1207,8 @@ function renderCenterInfo(card) {
   const fallbackLink =
     document.createElement("a");
 
-  fallbackLink.href =
-    cityLinks[selectedCenter.city] || "#";
-
   fallbackLink.target = "_blank";
+  fallbackLink.rel = "noopener noreferrer";
   fallbackLink.textContent = "公式の一覧を確認する";
   fallbackLink.style.display = "block";
   fallbackLink.style.marginTop = "10px";
@@ -1234,10 +1232,12 @@ function renderCenterInfo(card) {
   card.appendChild(sentenceBox);
   card.appendChild(callButton);
   if (selectedCenter.url) {
+    link.href = selectedCenter.url;
     card.appendChild(link);
   }
 
   if (cityLinks[selectedCenter.city]) {
+    fallbackLink.href = cityLinks[selectedCenter.city];
     card.appendChild(fallbackNotice);
     card.appendChild(fallbackLink);
   }
