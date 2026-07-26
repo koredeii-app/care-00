@@ -1339,5 +1339,20 @@ Promise.all([
 ]).then(([tokyo, osaka, kanagawa, saitama, chiba, shizuoka, niigata, okayama, kumamoto, kagoshima, ishikawa, hokkaido, aomori, miyagi, aichi, fukuoka, hiroshima, iwate, okinawa, tottori, akita, yamagata, fukui, shimane, hyogo, kagawa, nagasaki, ehime, oita, miyazaki, tokushima, kochi, saga, toyama, nagano, yamanashi, yamaguchi, fukushima, ibaraki, tochigi, gunma, gifu, mie, shiga, kyoto, nara, wakayama, links]) => {
   cityLinks = links;
   centers = [...tokyo, ...osaka, ...kanagawa, ...saitama, ...chiba, ...shizuoka, ...niigata, ...okayama, ...kumamoto, ...kagoshima, ...ishikawa, ...hokkaido, ...aomori, ...miyagi, ...aichi, ...fukuoka, ...hiroshima, ...iwate, ...okinawa, ...tottori, ...akita, ...yamagata, ...fukui, ...shimane, ...hyogo, ...kagawa, ...nagasaki, ...ehime, ...oita, ...miyazaki, ...tokushima, ...kochi, ...saga, ...toyama, ...nagano, ...yamanashi, ...yamaguchi, ...fukushima, ...ibaraki, ...tochigi, ...gunma, ...gifu, ...mie, ...shiga, ...kyoto, ...nara, ...wakayama];
+  centers.forEach(c => {
+    if (!c.area && (c.name || "").includes("基幹")) c.area = "基幹型";
+  });
   renderScreen("start");
+
+  // Android バックボタン対応（Capacitor 環境のみ）
+  if (window.Capacitor) {
+    window.Capacitor.Plugins.App.addListener("backButton", () => {
+      if (historyStack.length > 0) {
+        const previous = historyStack.pop();
+        renderScreen(previous);
+      } else {
+        window.Capacitor.Plugins.App.exitApp();
+      }
+    });
+  }
 });
