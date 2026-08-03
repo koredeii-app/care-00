@@ -431,13 +431,61 @@ function renderRegionSelect(card) {
     "select";
 
   /*
-    地域
+    地域（検索ボックス＋リスト）
   */
-  const areaSelect =
-    document.createElement("select");
+  const areaWrapper = document.createElement("div");
+  areaWrapper.className = "area-list-wrapper";
+  areaWrapper.style.display = "none";
 
-  areaSelect.className =
-    "select";
+  const areaSearch = document.createElement("input");
+  areaSearch.type = "text";
+  areaSearch.className = "area-search";
+  areaSearch.placeholder = "地域を検索";
+
+  const areaList = document.createElement("div");
+  areaList.className = "area-list";
+
+  areaWrapper.appendChild(areaSearch);
+  areaWrapper.appendChild(areaList);
+
+  let currentAreas = [];
+
+  function renderAreaItems(areas) {
+    areaList.innerHTML = "";
+    areas.forEach(area => {
+      const item = document.createElement("div");
+      item.className = "area-item";
+      item.textContent = area;
+      item.onclick = () => {
+        const found = centers.find(c =>
+          c.prefecture === prefectureSelect.value &&
+          c.city === citySelect.value &&
+          c.area === area
+        );
+        if (!found) return;
+        selectedCenter = found;
+        savedRegion = {
+          prefecture: prefectureSelect.value,
+          city: citySelect.value
+        };
+        historyStack.push("regionSelect");
+        renderScreen("centerInfo");
+      };
+      areaList.appendChild(item);
+    });
+  }
+
+  function buildAreaList(areas) {
+    currentAreas = areas;
+    areaSearch.value = "";
+    renderAreaItems(areas);
+    areaWrapper.style.display = areas.length > 0 ? "block" : "none";
+  }
+
+  areaSearch.oninput = () => {
+    const q = areaSearch.value;
+    renderAreaItems(q ? currentAreas.filter(a => a.includes(q)) : currentAreas);
+  };
 
   /*
     初期表示
@@ -447,9 +495,6 @@ function renderRegionSelect(card) {
 
   citySelect.innerHTML =
     `<option value="">市区町村を選択</option>`;
-
-  areaSelect.innerHTML =
-    `<option value="">地域を選択</option>`;
 
   /*
     都道府県一覧
@@ -490,8 +535,9 @@ function renderRegionSelect(card) {
     citySelect.innerHTML =
       `<option value="">市区町村を選択</option>`;
 
-    areaSelect.innerHTML =
-      `<option value="">地域を選択</option>`;
+    areaWrapper.style.display = "none";
+    areaList.innerHTML = "";
+    areaSearch.value = "";
 
     const cities = [
       ...new Set(
@@ -525,9 +571,6 @@ function renderRegionSelect(card) {
   */
   citySelect.onchange = () => {
 
-    areaSelect.innerHTML =
-      `<option value="">地域を選択</option>`;
-
     const areas = [
       ...new Set(
         centers
@@ -539,47 +582,7 @@ function renderRegionSelect(card) {
       )
     ];
 
-    areas.forEach(area => {
-
-      const option =
-        document.createElement("option");
-
-      option.value =
-        area;
-
-      option.textContent =
-        area;
-
-      areaSelect.appendChild(option);
-
-    });
-
-  };
-
-  /*
-    地域変更 → センター情報画面へ遷移
-  */
-  areaSelect.onchange = () => {
-
-    const found =
-      centers.find(c =>
-        c.prefecture === prefectureSelect.value &&
-        c.city === citySelect.value &&
-        c.area === areaSelect.value
-      );
-
-    if (!found) return;
-
-    selectedCenter = found;
-
-    savedRegion = {
-      prefecture: prefectureSelect.value,
-      city: citySelect.value
-    };
-
-    historyStack.push("regionSelect");
-
-    renderScreen("centerInfo");
+    buildAreaList(areas);
 
   };
 
@@ -642,7 +645,7 @@ function renderRegionSelect(card) {
 
   card.appendChild(citySelect);
 
-  card.appendChild(areaSelect);
+  card.appendChild(areaWrapper);
 
 }
 /*
