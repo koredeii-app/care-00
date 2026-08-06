@@ -857,7 +857,7 @@ function renderCenterInfo(card) {
   const checkItems = [
     {
       label: "会話がかみ合わない。言動がおかしい。",
-      sentence: "会話がかみ合わない・言動がおかしい"
+      sentence: "会話がかみ合わない、言動がおかしい"
     },
     {
       label: "物忘れが多い。",
@@ -984,14 +984,14 @@ function renderCenterInfo(card) {
     wrapper.appendChild(lbl);
     wrapper.appendChild(input);
 
-    return wrapper;
+    return { wrapper, input };
 
   }
 
-  const pastIllnessInput =
+  const pastIllness =
     createMedicalInput("以前かかって完治した病気");
 
-  const ongoingIllnessInput =
+  const ongoingIllness =
     createMedicalInput("治療を継続している病気");
 
   /*
@@ -1097,6 +1097,15 @@ function renderCenterInfo(card) {
       s += "私は対象者の" + relationship + "です。";
     }
 
+    const pastIllnessVal = pastIllness.input.value.trim();
+    const ongoingIllnessVal = ongoingIllness.input.value.trim();
+    if (pastIllnessVal) {
+      s += "以前かかって完治した病気は" + pastIllnessVal + "です。";
+    }
+    if (ongoingIllnessVal) {
+      s += "現在治療中の病気は" + ongoingIllnessVal + "です。";
+    }
+
     return s;
 
   }
@@ -1107,14 +1116,16 @@ function renderCenterInfo(card) {
   function update() {
 
     savedFormValues = {
-      age:          ageSelect.value,
-      gender:       genderSelect.value,
-      since:        sinceSelect.value,
-      relationship: relationshipSelect.value,
-      living:       livingSelect.value,
-      careManager:      careManagerSelect.value,
-      careAssessment:   careAssessmentSelect.value,
-      symptoms:         checkboxRefs.filter(r => r.checkbox.checked).map(r => r.sentence)
+      age:            ageSelect.value,
+      gender:         genderSelect.value,
+      since:          sinceSelect.value,
+      relationship:   relationshipSelect.value,
+      living:         livingSelect.value,
+      careManager:    careManagerSelect.value,
+      careAssessment: careAssessmentSelect.value,
+      symptoms:       checkboxRefs.filter(r => r.checkbox.checked).map(r => r.sentence),
+      pastIllness:    pastIllness.input.value.trim(),
+      ongoingIllness: ongoingIllness.input.value.trim()
     };
 
     sentenceBox.textContent = buildSentence();
@@ -1151,6 +1162,8 @@ function renderCenterInfo(card) {
   checkboxRefs.forEach(r => {
     r.checkbox.onchange = update;
   });
+  pastIllness.input.oninput = update;
+  ongoingIllness.input.oninput = update;
 
   callButton.onclick = () => {
 
@@ -1230,8 +1243,8 @@ function renderCenterInfo(card) {
   card.appendChild(careManagerSelect);
   card.appendChild(careAssessmentSelect);
   card.appendChild(checkContainer);
-  card.appendChild(pastIllnessInput);
-  card.appendChild(ongoingIllnessInput);
+  card.appendChild(pastIllness.wrapper);
+  card.appendChild(ongoingIllness.wrapper);
   card.appendChild(sentenceBox);
   card.appendChild(callButton);
   if (selectedCenter.url) {
@@ -1255,6 +1268,8 @@ function renderCenterInfo(card) {
   if (savedFormValues.living)       livingSelect.value       = savedFormValues.living;
   if (savedFormValues.careManager)    careManagerSelect.value    = savedFormValues.careManager;
   if (savedFormValues.careAssessment) careAssessmentSelect.value = savedFormValues.careAssessment;
+  if (savedFormValues.pastIllness)    pastIllness.input.value    = savedFormValues.pastIllness;
+  if (savedFormValues.ongoingIllness) ongoingIllness.input.value = savedFormValues.ongoingIllness;
   if (savedFormValues.symptoms) {
     savedFormValues.symptoms.forEach(s => {
       const ref = checkboxRefs.find(r => r.sentence === s);
@@ -1290,6 +1305,14 @@ function renderCenterInfo(card) {
 /*
   初期表示
 */
+app.innerHTML = `
+  <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:16px;">
+    <div style="width:44px;height:44px;border:4px solid #eceff1;border-top-color:#546e7a;border-radius:50%;animation:spin 0.8s linear infinite;"></div>
+    <div style="color:#90a4ae;font-size:14px;">読み込み中...</div>
+  </div>
+  <style>@keyframes spin{to{transform:rotate(360deg)}}</style>
+`;
+
 Promise.all([
   fetch("https://koredeii-app.github.io/care-data/data/tokyo.json").then(r => r.json()),
   fetch("https://koredeii-app.github.io/care-data/data/osaka.json").then(r => r.json()),
