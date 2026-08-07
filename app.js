@@ -652,6 +652,15 @@ function renderRegionSelect(card) {
 
   card.appendChild(areaWrapper);
 
+  const areaHint = document.createElement("p");
+  areaHint.textContent =
+    "該当地域が見つからない場合、その近くの地域を選択して検索してみてください。";
+  areaHint.style.fontSize = "13px";
+  areaHint.style.color = "#90a4ae";
+  areaHint.style.lineHeight = "1.6";
+  areaHint.style.marginTop = "8px";
+  card.appendChild(areaHint);
+
 }
 /*
   センター情報・確認チェック表示
