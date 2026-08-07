@@ -250,8 +250,13 @@ function renderScreen(screenKey) {
     const description =
       document.createElement("p");
 
+    const isSoloFuture =
+      screenKey === "regionSelect" && selectedConcern === "solo_future";
+
     description.textContent =
-      screen.description;
+      isSoloFuture
+        ? "何を聞けばいいか分からなくても大丈夫です。"
+        : screen.description;
 
     description.style.whiteSpace =
       "pre-line";
@@ -1100,10 +1105,10 @@ function renderCenterInfo(card) {
     const pastIllnessVal = pastIllness.input.value.trim();
     const ongoingIllnessVal = ongoingIllness.input.value.trim();
     if (pastIllnessVal) {
-      s += "以前かかって完治した病気は" + pastIllnessVal + "です。";
+      s += "\n以前かかって完治した病気は" + pastIllnessVal + "です。";
     }
     if (ongoingIllnessVal) {
-      s += "現在治療中の病気は" + ongoingIllnessVal + "です。";
+      s += "\n現在治療中の病気は" + ongoingIllnessVal + "です。";
     }
 
     return s;
