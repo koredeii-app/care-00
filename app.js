@@ -869,15 +869,16 @@ function renderCenterInfo(card) {
   function wrapWithMark(selectEl) {
     const wrapper = document.createElement("div");
     wrapper.style.display = "flex";
-    wrapper.style.alignItems = "center";
+    wrapper.style.alignItems = "flex-start";
     wrapper.style.gap = "6px";
 
     const mark = document.createElement("span");
     mark.textContent = "※";
     mark.style.color = "#c62828";
     mark.style.fontWeight = "bold";
-    mark.style.fontSize = "16px";
+    mark.style.fontSize = "13px";
     mark.style.flexShrink = "0";
+    mark.style.paddingTop = "14px";
 
     selectEl.style.flex = "1";
     selectEl.style.width = "auto";
