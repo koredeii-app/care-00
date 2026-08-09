@@ -712,8 +712,14 @@ function renderCenterInfo(card) {
     const row = document.createElement("div");
     row.style.display = "flex";
     row.style.alignItems = "center";
-    row.style.gap = "6px";
+    row.style.gap = "4px";
     row.style.marginBottom = "2px";
+
+    const mark = document.createElement("span");
+    mark.textContent = "※";
+    mark.style.color = "#c62828";
+    mark.style.fontWeight = "bold";
+    mark.style.fontSize = "13px";
 
     const lbl = document.createElement("span");
     lbl.textContent = labelText;
@@ -721,17 +727,8 @@ function renderCenterInfo(card) {
     lbl.style.fontWeight = "bold";
     lbl.style.color = "#546e7a";
 
-    const badge = document.createElement("span");
-    badge.textContent = "必須";
-    badge.style.fontSize = "11px";
-    badge.style.color = "#fff";
-    badge.style.background = "#c62828";
-    badge.style.borderRadius = "4px";
-    badge.style.padding = "1px 6px";
-    badge.style.fontWeight = "bold";
-
+    row.appendChild(mark);
     row.appendChild(lbl);
-    row.appendChild(badge);
     wrapper.appendChild(row);
     wrapper.appendChild(selectEl);
 
@@ -1285,8 +1282,8 @@ function renderCenterInfo(card) {
     配置
   */
   const requiredNote = document.createElement("p");
-  requiredNote.textContent =
-    "※ すべての項目を入力すると「相談する」ボタンが有効になります";
+  requiredNote.innerHTML =
+    '<span style="color:#c62828;font-weight:bold;">※</span> は必須項目です。すべて入力すると「相談する」ボタンが有効になります。';
   requiredNote.style.fontSize = "13px";
   requiredNote.style.color = "#78909c";
   requiredNote.style.lineHeight = "1.6";
