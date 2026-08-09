@@ -826,17 +826,17 @@ function renderCenterInfo(card) {
     プルダウン
   */
   const ageSelect = createSelect(
-    "※ 対象者の年齢を選択",
+    "対象者の年齢を選択",
     ["50代", "60代", "70代", "80代", "90代以上"]
   );
 
   const genderSelect = createSelect(
-    "※ 対象者の性別を選択",
+    "対象者の性別を選択",
     ["男性", "女性"]
   );
 
   const sinceSelect = createSelect(
-    "※ いつ頃からですか？",
+    "いつ頃からですか？",
     [
       "数日位前から",
       "1〜2カ月位前から",
@@ -847,24 +847,45 @@ function renderCenterInfo(card) {
   );
 
   const relationshipSelect = createSelect(
-    "※ 対象者との関係は？",
+    "対象者との関係は？",
     ["本人", "娘", "息子", "きょうだい", "親", "親戚", "知人", "近隣者"]
   );
 
   const livingSelect = createSelect(
-    "※ 住まいの状況は？",
+    "住まいの状況は？",
     ["同居", "一人暮らし","私以外の人と同居"]
   );
 
   const careManagerSelect = createSelect(
-    "※ ケアマネージャーはいますか？",
+    "ケアマネージャーはいますか？",
     ["なし", "担当者がいる"]
   );
 
   const careAssessmentSelect = createSelect(
-    "※ 介護認定はありますか？",
+    "介護認定はありますか？",
     ["なし", "要支援1", "要支援2", "要介護1", "要介護2", "要介護3", "要介護4", "要介護5"]
   );
+
+  function wrapWithMark(selectEl) {
+    const wrapper = document.createElement("div");
+    wrapper.style.display = "flex";
+    wrapper.style.alignItems = "center";
+    wrapper.style.gap = "6px";
+
+    const mark = document.createElement("span");
+    mark.textContent = "※";
+    mark.style.color = "#c62828";
+    mark.style.fontWeight = "bold";
+    mark.style.fontSize = "16px";
+    mark.style.flexShrink = "0";
+
+    selectEl.style.flex = "1";
+    selectEl.style.width = "auto";
+
+    wrapper.appendChild(mark);
+    wrapper.appendChild(selectEl);
+    return wrapper;
+  }
 
   /*
     症状チェック項目
@@ -1259,13 +1280,13 @@ function renderCenterInfo(card) {
   card.appendChild(phoneSection);
   card.appendChild(prepSeparator);
   card.appendChild(requiredNote);
-  card.appendChild(ageSelect);
-  card.appendChild(genderSelect);
-  card.appendChild(sinceSelect);
-  card.appendChild(relationshipSelect);
-  card.appendChild(livingSelect);
-  card.appendChild(careManagerSelect);
-  card.appendChild(careAssessmentSelect);
+  card.appendChild(wrapWithMark(ageSelect));
+  card.appendChild(wrapWithMark(genderSelect));
+  card.appendChild(wrapWithMark(sinceSelect));
+  card.appendChild(wrapWithMark(relationshipSelect));
+  card.appendChild(wrapWithMark(livingSelect));
+  card.appendChild(wrapWithMark(careManagerSelect));
+  card.appendChild(wrapWithMark(careAssessmentSelect));
   card.appendChild(checkContainer);
   card.appendChild(pastIllness.wrapper);
   card.appendChild(ongoingIllness.wrapper);
