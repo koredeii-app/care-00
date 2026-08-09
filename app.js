@@ -701,40 +701,6 @@ function renderCenterInfo(card) {
 
   }
 
-  /*
-    必須ラベル付きプルダウンラッパー
-  */
-  function wrapRequired(selectEl, labelText) {
-
-    const wrapper = document.createElement("div");
-    wrapper.style.marginBottom = "4px";
-
-    const row = document.createElement("div");
-    row.style.display = "flex";
-    row.style.alignItems = "center";
-    row.style.gap = "4px";
-    row.style.marginBottom = "2px";
-
-    const mark = document.createElement("span");
-    mark.textContent = "※";
-    mark.style.color = "#c62828";
-    mark.style.fontWeight = "bold";
-    mark.style.fontSize = "13px";
-
-    const lbl = document.createElement("span");
-    lbl.textContent = labelText;
-    lbl.style.fontSize = "13px";
-    lbl.style.fontWeight = "bold";
-    lbl.style.color = "#546e7a";
-
-    row.appendChild(mark);
-    row.appendChild(lbl);
-    wrapper.appendChild(row);
-    wrapper.appendChild(selectEl);
-
-    return wrapper;
-
-  }
 
   /*
     担当地域
@@ -860,17 +826,17 @@ function renderCenterInfo(card) {
     プルダウン
   */
   const ageSelect = createSelect(
-    "対象者の年齢を選択",
+    "※ 対象者の年齢を選択",
     ["50代", "60代", "70代", "80代", "90代以上"]
   );
 
   const genderSelect = createSelect(
-    "対象者の性別を選択",
+    "※ 対象者の性別を選択",
     ["男性", "女性"]
   );
 
   const sinceSelect = createSelect(
-    "いつ頃からですか？",
+    "※ いつ頃からですか？",
     [
       "数日位前から",
       "1〜2カ月位前から",
@@ -881,22 +847,22 @@ function renderCenterInfo(card) {
   );
 
   const relationshipSelect = createSelect(
-    "対象者との関係は？",
+    "※ 対象者との関係は？",
     ["本人", "娘", "息子", "きょうだい", "親", "親戚", "知人", "近隣者"]
   );
 
   const livingSelect = createSelect(
-    "住まいの状況は？",
+    "※ 住まいの状況は？",
     ["同居", "一人暮らし","私以外の人と同居"]
   );
 
   const careManagerSelect = createSelect(
-    "ケアマネージャーはいますか？",
+    "※ ケアマネージャーはいますか？",
     ["なし", "担当者がいる"]
   );
 
   const careAssessmentSelect = createSelect(
-    "介護認定はありますか？",
+    "※ 介護認定はありますか？",
     ["なし", "要支援1", "要支援2", "要介護1", "要介護2", "要介護3", "要介護4", "要介護5"]
   );
 
@@ -1293,13 +1259,13 @@ function renderCenterInfo(card) {
   card.appendChild(phoneSection);
   card.appendChild(prepSeparator);
   card.appendChild(requiredNote);
-  card.appendChild(wrapRequired(ageSelect,          "対象者の年齢"));
-  card.appendChild(wrapRequired(genderSelect,       "対象者の性別"));
-  card.appendChild(wrapRequired(sinceSelect,        "いつ頃から"));
-  card.appendChild(wrapRequired(relationshipSelect, "対象者との関係"));
-  card.appendChild(wrapRequired(livingSelect,       "住まいの状況"));
-  card.appendChild(wrapRequired(careManagerSelect,  "ケアマネージャー"));
-  card.appendChild(wrapRequired(careAssessmentSelect, "介護認定"));
+  card.appendChild(ageSelect);
+  card.appendChild(genderSelect);
+  card.appendChild(sinceSelect);
+  card.appendChild(relationshipSelect);
+  card.appendChild(livingSelect);
+  card.appendChild(careManagerSelect);
+  card.appendChild(careAssessmentSelect);
   card.appendChild(checkContainer);
   card.appendChild(pastIllness.wrapper);
   card.appendChild(ongoingIllness.wrapper);
