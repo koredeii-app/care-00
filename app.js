@@ -702,6 +702,44 @@ function renderCenterInfo(card) {
   }
 
   /*
+    必須ラベル付きプルダウンラッパー
+  */
+  function wrapRequired(selectEl, labelText) {
+
+    const wrapper = document.createElement("div");
+    wrapper.style.marginBottom = "4px";
+
+    const row = document.createElement("div");
+    row.style.display = "flex";
+    row.style.alignItems = "center";
+    row.style.gap = "6px";
+    row.style.marginBottom = "2px";
+
+    const lbl = document.createElement("span");
+    lbl.textContent = labelText;
+    lbl.style.fontSize = "13px";
+    lbl.style.fontWeight = "bold";
+    lbl.style.color = "#546e7a";
+
+    const badge = document.createElement("span");
+    badge.textContent = "必須";
+    badge.style.fontSize = "11px";
+    badge.style.color = "#fff";
+    badge.style.background = "#c62828";
+    badge.style.borderRadius = "4px";
+    badge.style.padding = "1px 6px";
+    badge.style.fontWeight = "bold";
+
+    row.appendChild(lbl);
+    row.appendChild(badge);
+    wrapper.appendChild(row);
+    wrapper.appendChild(selectEl);
+
+    return wrapper;
+
+  }
+
+  /*
     担当地域
   */
   const areaLabel =
@@ -1246,16 +1284,25 @@ function renderCenterInfo(card) {
   /*
     配置
   */
+  const requiredNote = document.createElement("p");
+  requiredNote.textContent =
+    "※ すべての項目を入力すると「相談する」ボタンが有効になります";
+  requiredNote.style.fontSize = "13px";
+  requiredNote.style.color = "#78909c";
+  requiredNote.style.lineHeight = "1.6";
+  requiredNote.style.marginBottom = "16px";
+
   card.appendChild(callPrompt);
   card.appendChild(phoneSection);
   card.appendChild(prepSeparator);
-  card.appendChild(ageSelect);
-  card.appendChild(genderSelect);
-  card.appendChild(sinceSelect);
-  card.appendChild(relationshipSelect);
-  card.appendChild(livingSelect);
-  card.appendChild(careManagerSelect);
-  card.appendChild(careAssessmentSelect);
+  card.appendChild(requiredNote);
+  card.appendChild(wrapRequired(ageSelect,          "対象者の年齢"));
+  card.appendChild(wrapRequired(genderSelect,       "対象者の性別"));
+  card.appendChild(wrapRequired(sinceSelect,        "いつ頃から"));
+  card.appendChild(wrapRequired(relationshipSelect, "対象者との関係"));
+  card.appendChild(wrapRequired(livingSelect,       "住まいの状況"));
+  card.appendChild(wrapRequired(careManagerSelect,  "ケアマネージャー"));
+  card.appendChild(wrapRequired(careAssessmentSelect, "介護認定"));
   card.appendChild(checkContainer);
   card.appendChild(pastIllness.wrapper);
   card.appendChild(ongoingIllness.wrapper);
