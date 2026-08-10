@@ -47,7 +47,7 @@ const screens = {
 
       {
         text:
-          "介護がしんどい",
+          "介護がつらい",
 
         description:
           "疲れや不安がある",
