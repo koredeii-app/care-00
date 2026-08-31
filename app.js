@@ -14,6 +14,46 @@ let savedFormValues = {};
 let centers = [];
 
 /*
+  電話番号の不具合報告（Firestore）
+  ※ FirebaseコンソールでWebアプリを登録し、下記の値を実際の設定に置き換えること
+*/
+const firebaseConfig = {
+  apiKey: "AIzaSyCR2LqdYG_5VRIhfo8r_7pQUQq3UpEoxqQ",
+  authDomain: "care-00-reports.firebaseapp.com",
+  projectId: "care-00-reports",
+};
+
+let phoneReportDb = null;
+
+if (window.firebase) {
+  firebase.initializeApp(firebaseConfig);
+  phoneReportDb = firebase.firestore();
+}
+
+function submitPhoneReport(reason) {
+
+  if (!phoneReportDb) {
+    return Promise.reject(new Error("Firestore not initialized"));
+  }
+
+  const phoneEntries =
+    (selectedCenter.phones || [{ number: selectedCenter.tel }])
+      .map(p => p.number)
+      .filter(Boolean)
+      .join(", ");
+
+  return phoneReportDb.collection("phoneReports").add({
+    centerName: selectedCenter.name || "",
+    city: selectedCenter.city || "",
+    area: selectedCenter.area || "",
+    tel: phoneEntries,
+    reason: reason,
+    createdAt: firebase.firestore.FieldValue.serverTimestamp()
+  });
+
+}
+
+/*
   画面データ
 */
 const screens = {
@@ -408,6 +448,15 @@ function renderScreen(screenKey) {
 
   }
 
+  /*
+    電話番号の不具合報告（戻るボタンの下）
+  */
+  if (screenKey === "centerInfo" && selectedCenter) {
+
+    renderPhoneReportWidget(card);
+
+  }
+
   app.appendChild(card);
 
 }
@@ -662,6 +711,153 @@ function renderRegionSelect(card) {
   card.appendChild(areaHint);
 
 }
+/*
+  電話番号の不具合報告ウィジェット
+*/
+function renderPhoneReportWidget(card) {
+
+  const wrapper =
+    document.createElement("div");
+
+  wrapper.style.marginTop = "20px";
+  wrapper.style.padding = "16px";
+  wrapper.style.background = "#f5f5f5";
+  wrapper.style.borderRadius = "10px";
+
+  const title =
+    document.createElement("div");
+
+  title.textContent =
+    "記載された電話番号に繋がりませんでしたか？";
+
+  title.style.fontSize = "14px";
+  title.style.fontWeight = "bold";
+  title.style.color = "#455a64";
+  title.style.marginBottom = "10px";
+
+  wrapper.appendChild(title);
+
+  const reasons = [
+    "電話番号が間違っていた",
+    "センターが統合または廃止されていた",
+    "その他"
+  ];
+
+  let selectedReason = null;
+  const reasonButtons = [];
+
+  const reasonContainer =
+    document.createElement("div");
+
+  reasonContainer.style.display = "flex";
+  reasonContainer.style.flexDirection = "column";
+  reasonContainer.style.gap = "8px";
+  reasonContainer.style.marginBottom = "12px";
+
+  const submitButton =
+    document.createElement("button");
+
+  reasons.forEach(reason => {
+
+    const reasonButton =
+      document.createElement("button");
+
+    reasonButton.type = "button";
+    reasonButton.textContent = reason;
+
+    reasonButton.style.padding = "10px";
+    reasonButton.style.borderRadius = "8px";
+    reasonButton.style.border = "1px solid #cfd8dc";
+    reasonButton.style.background = "#ffffff";
+    reasonButton.style.color = "#37474f";
+    reasonButton.style.fontSize = "14px";
+    reasonButton.style.textAlign = "left";
+    reasonButton.style.cursor = "pointer";
+
+    reasonButton.onclick = () => {
+
+      selectedReason = reason;
+
+      reasonButtons.forEach(b => {
+        const active = b === reasonButton;
+        b.style.background = active ? "#546e7a" : "#ffffff";
+        b.style.color = active ? "#ffffff" : "#37474f";
+        b.style.borderColor = active ? "#546e7a" : "#cfd8dc";
+      });
+
+      submitButton.disabled = false;
+      submitButton.style.background = "#546e7a";
+      submitButton.style.cursor = "pointer";
+
+    };
+
+    reasonButtons.push(reasonButton);
+    reasonContainer.appendChild(reasonButton);
+
+  });
+
+  wrapper.appendChild(reasonContainer);
+
+  submitButton.type = "button";
+  submitButton.textContent = "この内容を報告する";
+  submitButton.disabled = true;
+
+  submitButton.style.width = "100%";
+  submitButton.style.padding = "12px";
+  submitButton.style.borderRadius = "8px";
+  submitButton.style.border = "none";
+  submitButton.style.background = "#b0bec5";
+  submitButton.style.color = "#ffffff";
+  submitButton.style.fontSize = "15px";
+  submitButton.style.fontWeight = "bold";
+  submitButton.style.cursor = "not-allowed";
+
+  const statusMsg =
+    document.createElement("div");
+
+  statusMsg.style.fontSize = "13px";
+  statusMsg.style.marginTop = "8px";
+  statusMsg.style.lineHeight = "1.6";
+
+  submitButton.onclick = () => {
+
+    if (!selectedReason || submitButton.disabled) return;
+
+    submitButton.disabled = true;
+    submitButton.textContent = "送信中...";
+
+    submitPhoneReport(selectedReason)
+      .then(() => {
+
+        statusMsg.style.color = "#2e7d32";
+        statusMsg.textContent =
+          "報告を受け付けました。ご協力ありがとうございます。";
+
+        submitButton.textContent = "報告済み";
+
+      })
+      .catch(() => {
+
+        statusMsg.style.color = "#c62828";
+        statusMsg.textContent =
+          "送信に失敗しました。時間をおいて再度お試しください。";
+
+        submitButton.disabled = false;
+        submitButton.style.background = "#546e7a";
+        submitButton.style.cursor = "pointer";
+        submitButton.textContent = "この内容を報告する";
+
+      });
+
+  };
+
+  wrapper.appendChild(submitButton);
+  wrapper.appendChild(statusMsg);
+
+  card.appendChild(wrapper);
+
+}
+
 /*
   センター情報・確認チェック表示
 */
