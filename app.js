@@ -1615,12 +1615,28 @@ Promise.all([
   // Android バックボタン対応（Capacitor 環境のみ）
   if (window.Capacitor) {
     window.Capacitor.Plugins.App.addListener("backButton", () => {
+
+      const privacyOverlay = document.getElementById("privacyOverlay");
+      const menuDrawer = document.getElementById("menuDrawer");
+
+      if (privacyOverlay && privacyOverlay.classList.contains("open")) {
+        privacyOverlay.classList.remove("open");
+        if (typeof openMenu === "function") openMenu();
+        return;
+      }
+
+      if (menuDrawer && menuDrawer.classList.contains("open")) {
+        if (typeof closeMenu === "function") closeMenu();
+        return;
+      }
+
       if (historyStack.length > 0) {
         const previous = historyStack.pop();
         renderScreen(previous);
       } else {
         window.Capacitor.Plugins.App.exitApp();
       }
+
     });
   }
 });

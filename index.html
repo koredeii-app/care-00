@@ -136,14 +136,23 @@
     </div>
 
     <div class="menu-section">
-      <a href="privacy.html">プライバシーポリシー</a>
+      <a href="privacy.html" id="privacyLink">プライバシーポリシー</a>
     </div>
 
     <div class="menu-section menu-version">
-      バージョン 1.0.8
+      バージョン 1.0.9
     </div>
 
   </nav>
+
+  <!-- プライバシーポリシー オーバーレイ -->
+  <div id="privacyOverlay" class="privacy-overlay">
+    <div class="privacy-overlay-header">
+      <button id="privacyBack" class="menu-close" aria-label="戻る">←</button>
+      <span>プライバシーポリシー</span>
+    </div>
+    <div id="privacyContent" class="privacy-overlay-content"></div>
+  </div>
 
   <main class="container">
 
@@ -190,6 +199,53 @@
     menuToggle.addEventListener("click", openMenu);
     menuClose.addEventListener("click", closeMenu);
     menuOverlay.addEventListener("click", closeMenu);
+
+    /*
+      プライバシーポリシー オーバーレイ
+      （別ページに遷移せず、アプリ内に表示することで
+      　Androidの戻る操作でもメニューに戻れるようにする）
+    */
+    const privacyOverlay = document.getElementById("privacyOverlay");
+    const privacyContent = document.getElementById("privacyContent");
+    const privacyBack    = document.getElementById("privacyBack");
+    const privacyLink    = document.getElementById("privacyLink");
+
+    let privacyLoaded = false;
+
+    function openPrivacy() {
+
+      closeMenu();
+      privacyOverlay.classList.add("open");
+
+      if (privacyLoaded) return;
+
+      fetch("privacy.html")
+        .then(res => res.text())
+        .then(html => {
+          const parsed = new DOMParser().parseFromString(html, "text/html");
+          const body = parsed.querySelector(".privacy-body");
+          if (body) {
+            privacyContent.innerHTML = body.innerHTML;
+            privacyLoaded = true;
+          }
+        })
+        .catch(() => {
+          privacyContent.innerHTML = "<p>読み込みに失敗しました。時間をおいて再度お試しください。</p>";
+        });
+
+    }
+
+    function closePrivacy() {
+      privacyOverlay.classList.remove("open");
+      openMenu();
+    }
+
+    privacyLink.addEventListener("click", e => {
+      e.preventDefault();
+      openPrivacy();
+    });
+
+    privacyBack.addEventListener("click", closePrivacy);
 
   </script>
 
