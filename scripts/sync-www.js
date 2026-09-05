@@ -12,6 +12,7 @@ const filesToCopy = [
   'style.css',
   'manifest.json',
   'service-worker.js',
+  'privacy.html',
 ];
 
 fs.rmSync(www, { recursive: true, force: true });
