@@ -132,7 +132,7 @@
         案内する無料アプリです。
       </p>
       <a href="https://koredeii-app.github.io/9110-00/" target="_blank" rel="noopener noreferrer">Webページで見る</a><br>
-      <a href="https://play.google.com/store/apps/details?id=com.koredeii.supportdial" target="_blank" rel="noopener noreferrer">Google Playでダウンロード</a>
+      <a href="https://play.google.com/store/apps/details?id=com.koredeii.supportdial" id="naviPlayLink" target="_blank" rel="noopener noreferrer">Google Playでダウンロード</a>
     </div>
 
     <div class="menu-section">
@@ -199,6 +199,22 @@
     menuToggle.addEventListener("click", openMenu);
     menuClose.addEventListener("click", closeMenu);
     menuOverlay.addEventListener("click", closeMenu);
+
+    /*
+      iPhone/iPadではGoogle PlayにアクセスしてもDLできないため、
+      「押すだけ相談ナビ」のWebページ（PWA）へ誘導する
+    */
+    function isIOS() {
+      return /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+        (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+    }
+
+    const naviPlayLink = document.getElementById("naviPlayLink");
+
+    if (naviPlayLink && isIOS()) {
+      naviPlayLink.href = "https://koredeii-app.github.io/9110-00/";
+      naviPlayLink.textContent = "Webページで開く（iPhoneの方はこちら）";
+    }
 
     /*
       プライバシーポリシー オーバーレイ
